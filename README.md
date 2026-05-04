@@ -72,7 +72,7 @@ Below is the list of all episodes, and the status of the subtitle file
 | S01E12 | Untamed Youth | | | | |
 | S01E13 | The Black Scorpion | |📀 | |Vol30 |
 | **Season 2** | | | | | |
-| S02E01 | Rocketship X-M | | | | |
+| S02E01 | Rocketship X-M | |⚙️ | | |
 | S02E02 | The Sidehackers | |📀 | |Vol03 |
 | S02E03 | Jungle Goddess | |📀 | |Vol31 |
 | S02E04 | Catalina Caper | | | | |
