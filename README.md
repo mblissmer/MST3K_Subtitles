@@ -94,9 +94,9 @@ Below is the list of all episodes, and the status of the subtitle file
 | S03E06 | Time of the Apes | |🌐 | | |
 | S03E07 | Daddy-O | |🌐 | | |
 | S03E08 | Gamera vs. Gaos | |🌐 | | |
-| S03E09 | The Amazing Colossal Man | |🤖 | | |
+| S03E09 | The Amazing Colossal Man |❌ |🤖 | | |
 | S03E10 | Fugitive Alien | |🌐 | | |
-| S03E11 | It Conquered the World | |🤖 | | |
+| S03E11 | It Conquered the World |❌ |🤖 | | |
 | S03E12 | Gamera vs. Guiron | |🌐 | | |
 | S03E13 | Earth vs. the Spider | |🌐 | | |
 | S03E14 | Mighty Jack | |🌐 | | |
@@ -126,9 +126,9 @@ Below is the list of all episodes, and the status of the subtitle file
 | S04E13 | Manhunt in Space | |🌐 | | |
 | S04E14 | Tormented | | 🌐| | |
 | S04E15 | The Beatniks | |🌐 | | |
-| S04E16 | Fire Maidens of Outer Space | |🤖 | | |
+| S04E16 | Fire Maidens of Outer Space |❌ |🤖 | | |
 | S04E17 | Crash of Moons | |🌐 | | |
-| S04E18 | Attack of the Eye Creatures | |🤖 | | |
+| S04E18 | Attack of the Eye Creatures |❌ |🤖 | | |
 | S04E19 | The Rebel Set | |🌐 | | |
 | S04E20 | The Human Duplicators | |📀 | | |
 | S04E21 | The Day the Earth Froze | |🌐 | | |
@@ -157,7 +157,7 @@ Below is the list of all episodes, and the status of the subtitle file
 | S05E19 | Outlaw | |🌐 | | |
 | S05E20 | Radar Secret Service | | 🌐| | |
 | S05E21 | Santa Claus | |🌐 | | |
-| S05E22 | Teen-Age Crime Wave | |🤖 | | |
+| S05E22 | Teen-Age Crime Wave |❌ |🤖 | | |
 | S05E23 | Village of the Giants | |🌐 | | |
 | S05E24 | 12 to the Moon | |🌐 | | |
 | **Season 6** | | | | | |
@@ -175,7 +175,7 @@ Below is the list of all episodes, and the status of the subtitle file
 | S06E12 | The Starfighters | | 🌐| | |
 | S06E13 | The Sinister Urge | |🌐 | | |
 | S06E14 | San Francisco International | | 📀| | |
-| S06E15 | Kitten with a Whip | |🤖 | | |
+| S06E15 | Kitten with a Whip |❌ |🤖 | | |
 | S06E16 | Racket Girls | |🌐 | | |
 | S06E17 | The Sword and the Dragon | |🌐 | | |
 | S06E18 | High School Big Shot | |📀 | | |
@@ -193,15 +193,15 @@ Below is the list of all episodes, and the status of the subtitle file
 | S07E05 | Escape 2000 | |📀 | |Vol37 |
 | S07E06 | Laserblast | |🌐 | | |
 | **Season 8** | | | | | |
-| S08E01 | Revenge of the Creature | |🤖 | | |
-| S08E02 | The Leech Woman | |🤖 | | |
-| S08E03 | The Mole People | |🤖 | | |
-| S08E04 | The Deadly Mantis | |🤖 | | |
-| S08E05 | The Thing That Couldn't Die | |🤖 | | |
+| S08E01 | Revenge of the Creature |❌ |🤖 | | |
+| S08E02 | The Leech Woman |❌ |🤖 | | |
+| S08E03 | The Mole People |❌ |🤖 | | |
+| S08E04 | The Deadly Mantis |❌ |🤖 | | |
+| S08E05 | The Thing That Couldn't Die |❌ |🤖 | | |
 | S08E06 | The Undead | |🌐 | | |
-| S08E07 | Terror from the Year 5000 | | 🤖| | |
+| S08E07 | Terror from the Year 5000 |❌ | 🤖| | |
 | S08E08 | The She-Creature | | 🌐| | |
-| S08E09 | I Was a Teenage Werewolf | |🤖 | | |
+| S08E09 | I Was a Teenage Werewolf |❌ |🤖 | | |
 | S08E10 | Giant Spider Invasion | |🌐 | | |
 | S08E11 | Parts: The Clonus Horror | | 🌐| | |
 | S08E12 | The Incredibly Strange Creatures (etc) | |🌐 | | |
@@ -220,8 +220,8 @@ Below is the list of all episodes, and the status of the subtitle file
 | S09E02 | The Phantom Planet ||🌐| | |
 | S09E03 | Pumaman ||🌐| | |
 | S09E04 | Werewolf ||🌐| | |
-| S09E05 | The Deadly Bees | |🤖 | | |
-| S09E06 | The Space Children | |🤖 | ||
+| S09E05 | The Deadly Bees |❌ |🤖 | | |
+| S09E06 | The Space Children |❌ |🤖 | ||
 | S09E07 | Hobgoblins ||🌐| | |
 | S09E08 | Touch of Satan ||🌐| | |
 | S09E09 | Gorgo ||🌐| | |
@@ -230,7 +230,7 @@ Below is the list of all episodes, and the status of the subtitle file
 | S09E12 | The Screaming Skull ||📀| |Vol31 |
 | S09E13 | Quest of the Delta Knights | | 🌐| | |
 | **Season 10** | | | | | |
-| S10E01 | Soultaker ||🤖| | |
+| S10E01 | Soultaker |❌|🤖| | |
 | S10E02 | Girl in Gold Boots ||🌐| | |
 | S10E03 | Merlin's Shop of Mystical Wonders ||🌐| | |
 | S10E04 | Future War ||🌐| | |
