@@ -45,12 +45,19 @@ They must have exactly the same filename as your video file (except for the file
 Below is the list of all episodes, and the status of the subtitle file
 
 ## Legend
-| Status | Source |
-| --- | --- |
-| ❌ - Subs are in bad shape | 🤖 - locally hosted LLM |
-| 🔵 - Decent but still pretty bad | 🌐 - The Internet |
-| ✅ - Good Enough (tm) | ⚙️ - Gizmoplex |
-| 👌 - IT STINKS | 📀 - DVD |
+| Status |
+| --- | 
+| ❌ - VERY bad shape | 
+| ✍ - Needs work |
+| ✅ - Good Enough (tm) | 
+| 👌 - IT STINKS | 
+
+| Source |
+| --- |
+| 🤖 - locally hosted LLM |
+| 🌐 - The Internet |
+| ⚙️ - Gizmoplex |
+| 📀 - DVD |
 
 (yes i feel gross about using an AI to generate subtitles, and they are terrible. But they also got the framework in place, and... at least it was running locally? I guess?)
 
