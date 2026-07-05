@@ -40,6 +40,11 @@ The upside, however, is near-universal compatibility with all video playback pro
 Download all files and place them beside your video files. 
 
 They must have exactly the same filename as your video file (except for the file extensions of course).
+If your episode is named "S01E01-TheCrawlingEye-LOL.mp4" then the subtitle file must be named "S01E01-TheCrawlingEye-LOL.srt"
+
+Also we are not responsible if your weird cut of the episode has commercials in it (that's neat, save that!) or other unexpected playback gaps.
+
+Also also, there  may be timing issues, where your version might be off from the subtitles by a couple seconds. That's up to you to figure out how to offset the timing for the subtitle. As long as it's consistently x seconds off, and isn't drifting futher and futher off as the episode goes on, that's outside the scope of this project.
 
 # Subtitle Status
 Below is the list of all episodes, and the status of the subtitle file
