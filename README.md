@@ -84,7 +84,7 @@ Below is the list of all episodes, and the status of the subtitle file
 | S02E10 | King Dinosaur | |🌐 | | |
 | S02E11 | First Spaceship on Venus | |🌐 | | |
 | S02E12 | Godzilla vs. Megalon |❌ |🤖 | | |
-| S02E13 | Godzilla vs. the Sea Monster | |🤖 | | |
+| S02E13 | Godzilla vs. the Sea Monster |❌ |🤖 | | |
 | **Season 3** | | | | | |
 | S03E01 | Cave Dwellers | |📀 | |Vol02 |
 | S03E02 | Gamera | |🌐 | | |
