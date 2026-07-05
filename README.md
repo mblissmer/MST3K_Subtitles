@@ -58,30 +58,30 @@ Below is the list of all episodes, and the status of the subtitle file
 | Episode Number | Episode Name | Status | Source | Last Updated | Notes |
 |---|---|:---:|---|---|---|
 | **Season 1** | | | | | |
-| S01E01 | The Crawling Eye ||| | |
-| S01E02 | The Robot vs. The Aztec Mummy | | | | |
-| S01E03 | The Mad Monster | | | | |
-| S01E04 | Women of the Prehistoric Planet | | | | |
-| S01E05 | The Corpse Vanishes | | | | |
-| S01E06 | The Crawling Hand | | | | |
-| S01E07 | Robot Monster | | | | |
-| S01E08 | The Slime People | | | | |
-| S01E09 | Project Moonbase | | | | |
-| S01E10 | Robot Holocaust | || | |
-| S01E11 | Moon Zero Two | | | | |
-| S01E12 | Untamed Youth | | | | |
+| S01E01 | The Crawling Eye ||🌐| | |
+| S01E02 | The Robot vs. The Aztec Mummy | |🌐 | | |
+| S01E03 | The Mad Monster | |🌐 | | |
+| S01E04 | Women of the Prehistoric Planet | |🌐 | | |
+| S01E05 | The Corpse Vanishes | |🌐 | | |
+| S01E06 | The Crawling Hand | |🌐 | | |
+| S01E07 | Robot Monster | |🌐 | | |
+| S01E08 | The Slime People | |🌐 | | |
+| S01E09 | Project Moonbase | |🌐 | | |
+| S01E10 | Robot Holocaust | |🌐| | |
+| S01E11 | Moon Zero Two | |🌐 | | |
+| S01E12 | Untamed Youth | |🌐 | | |
 | S01E13 | The Black Scorpion | |📀 | |Vol30 |
 | **Season 2** | | | | | |
 | S02E01 | Rocketship X-M | |⚙️ | | |
 | S02E02 | The Sidehackers | |📀 | |Vol03 |
 | S02E03 | Jungle Goddess | |📀 | |Vol31 |
-| S02E04 | Catalina Caper | | | | |
-| S02E05 | Rocket Attack U.S.A. | | | | |
-| S02E06 | Ring of Terror | | | | |
-| S02E07 | Wild Rebels | | | | |
-| S02E08 | Lost Continent | | | | |
-| S02E09 | The Hellcats | | | | |
-| S02E10 | King Dinosaur | | | | |
+| S02E04 | Catalina Caper | |🌐 | | |
+| S02E05 | Rocket Attack U.S.A. | |🌐 | | |
+| S02E06 | Ring of Terror | |🌐 | | |
+| S02E07 | Wild Rebels | |🌐 | | |
+| S02E08 | Lost Continent | |🌐 | | |
+| S02E09 | The Hellcats | |🌐 | | |
+| S02E10 | King Dinosaur | |🌐 | | |
 | S02E11 | First Spaceship on Venus | | | | |
 | S02E12 | Godzilla vs. Megalon | |🤖 | | |
 | S02E13 | Godzilla vs. the Sea Monster | |🤖 | | |
