@@ -1,0 +1,9041 @@
+1
+00:00:00,606 --> 00:00:03,559
+♫ In the not-too-distant future
+
+2
+00:00:03,559 --> 00:00:07,093
+♫ Next Sunday A.D.
+
+3
+00:00:07,093 --> 00:00:09,936
+♫ There was a guy named Joel
+
+4
+00:00:09,936 --> 00:00:13,230
+♫ Not too different from you or me
+
+5
+00:00:13,230 --> 00:00:15,816
+♫ He worked at Gizmonic Institute
+
+6
+00:00:15,816 --> 00:00:19,159
+♫ Just another face in a red jumpsuit
+
+7
+00:00:19,159 --> 00:00:22,235
+♫ He did a good job cleaning up the place
+
+8
+00:00:22,235 --> 00:00:26,402
+♫ But his bosses didn't like
+him so they shot him into space
+
+9
+00:00:28,594 --> 00:00:31,254
+♫ We'll send him cheesy movies
+
+10
+00:00:31,254 --> 00:00:34,795
+♫ The worst we can find, la la la
+
+11
+00:00:34,795 --> 00:00:37,274
+♫ He'll have to sit and watch them all
+
+12
+00:00:37,274 --> 00:00:40,896
+♫ We'll monitor his mind, la la la
+
+13
+00:00:40,896 --> 00:00:43,756
+♫ Now keep in mind Joel can't control
+
+14
+00:00:43,756 --> 00:00:46,900
+♫ Where the movies begin or end, la la la
+
+15
+00:00:46,900 --> 00:00:49,928
+♫ Because he used those special parts
+
+16
+00:00:49,928 --> 00:00:53,595
+♫ To make his robot friends
+
+17
+00:00:55,080 --> 00:00:56,341
+♫ Robot Roll Call
+
+18
+00:00:56,341 --> 00:00:58,100
+♫ Cambot, pan left
+
+19
+00:00:58,100 --> 00:00:59,192
+♫ Gypsy, hi girl
+
+20
+00:00:59,192 --> 00:01:01,061
+♫ Tom Servo, what a cool guy
+
+21
+00:01:01,061 --> 00:01:02,747
+♫ Crow, oh, wisecracker
+
+22
+00:01:02,747 --> 00:01:05,074
+♫ If you're wondering
+how he eats and breathes
+
+23
+00:01:05,074 --> 00:01:08,494
+♫ And other science facts, la la la
+
+24
+00:01:08,494 --> 00:01:11,268
+♫ Then repeat to
+yourself, it's just a show
+
+25
+00:01:11,268 --> 00:01:14,688
+♫ I should really just relax
+
+26
+00:01:14,688 --> 00:01:18,855
+♫ For Mystery Science Theater 3000 ♫
+
+27
+00:01:20,886 --> 00:01:22,969
+(thumps)
+
+28
+00:01:29,528 --> 00:01:30,611
+- [Voiceover] 30 seconds to.--
+
+29
+00:01:30,611 --> 00:01:32,544
+- Hi, everybody, welcome
+to the Satellite of Love.
+
+30
+00:01:32,544 --> 00:01:33,461
+My name's Joel.
+
+31
+00:01:33,461 --> 00:01:35,247
+I'm still marooned out in space,
+
+32
+00:01:35,247 --> 00:01:38,124
+and if you just tuned
+in, I guess so are you.
+
+33
+00:01:38,124 --> 00:01:40,273
+We're expecting a call from the nasties
+
+34
+00:01:40,273 --> 00:01:43,190
+who shot us up here any second now.
+
+35
+00:01:44,729 --> 00:01:47,207
+By the way, if you're going
+to go during the commercial
+
+36
+00:01:47,207 --> 00:01:50,578
+and make a snack, while you're
+digging in the refrigerator,
+
+37
+00:01:50,578 --> 00:01:51,770
+think of me.
+
+38
+00:01:51,770 --> 00:01:54,913
+Get something delicious and nutritious,
+
+39
+00:01:54,913 --> 00:01:57,128
+because I'll be eating
+vicariously through you.
+
+40
+00:01:57,128 --> 00:02:01,249
+- [Voiceover] Commercial sign
+in five, four, three, two,
+
+41
+00:02:01,249 --> 00:02:02,477
+commercial sign now.
+
+42
+00:02:02,477 --> 00:02:03,310
+(bangs)
+
+43
+00:02:03,310 --> 00:02:05,763
+- Be right back, okay.
+
+44
+00:02:05,763 --> 00:02:08,930
+("MST3K theme music")
+
+45
+00:02:12,939 --> 00:02:15,095
+- [Tom] Put it through the hoop, Joel.
+
+46
+00:02:15,095 --> 00:02:16,928
+- [Cambot] Yeah, cool.
+
+47
+00:02:19,323 --> 00:02:21,379
+- Oop, try not look so happy, you guys.
+
+48
+00:02:21,379 --> 00:02:23,641
+Here comes the Mad
+Scientists, they're calling.
+
+49
+00:02:23,641 --> 00:02:28,097
+- Come in, Joel, my little
+free-floating vacuum monkey.
+
+50
+00:02:28,097 --> 00:02:30,073
+- Hey sirs, what's up?
+
+51
+00:02:30,073 --> 00:02:31,148
+- Well, not my hair.
+
+52
+00:02:31,148 --> 00:02:32,526
+It's limp and lifeless.
+
+53
+00:02:32,526 --> 00:02:33,454
+I don't know what to do.
+
+54
+00:02:33,454 --> 00:02:35,265
+Just get on with the invention exchange.
+
+55
+00:02:35,265 --> 00:02:37,265
+Stop looking at me.
+
+56
+00:02:37,265 --> 00:02:39,773
+- Yes, what have you
+got for us, Joelarini?
+
+57
+00:02:39,773 --> 00:02:42,167
+- Well, sirs, the things
+that I've been working on
+
+58
+00:02:42,167 --> 00:02:44,855
+is this new way of teleporting food.
+
+59
+00:02:44,855 --> 00:02:46,793
+In the future, they're
+not gonna have drive-thru
+
+60
+00:02:46,793 --> 00:02:50,071
+windows anymore, they'll
+have drive-by windows.
+
+61
+00:02:50,071 --> 00:02:52,789
+You just drive your car by
+and they teleport the food
+
+62
+00:02:52,789 --> 00:02:55,847
+right in your stomach
+using something like this.
+
+63
+00:02:55,847 --> 00:02:59,135
+Okay, I put this on, look
+at an ordinary cookie, and
+
+64
+00:02:59,135 --> 00:03:00,151
+(crunching)
+
+65
+00:03:00,151 --> 00:03:01,901
+oh, delicious, mm mm.
+
+66
+00:03:04,359 --> 00:03:06,155
+Now, here we'll try it
+with a glass of milk.
+
+67
+00:03:06,155 --> 00:03:10,238
+This is the big Slurpee
+size, mm, mm, mm, mm, mm.
+
+68
+00:03:12,347 --> 00:03:13,725
+- [Crow] Hey.
+
+69
+00:03:13,725 --> 00:03:15,975
+(slurping)
+
+70
+00:03:20,765 --> 00:03:22,393
+- It went down.
+
+71
+00:03:22,393 --> 00:03:24,310
+- Mm mm, teleportation.
+
+72
+00:03:26,259 --> 00:03:27,551
+What do you think, sirs?
+
+73
+00:03:27,551 --> 00:03:30,087
+- Oh, very nice, Joely-cakes.
+
+74
+00:03:30,087 --> 00:03:32,159
+Larry, make a note to call James Doohan.
+
+75
+00:03:32,159 --> 00:03:33,651
+- Oh, here's our new development.
+
+76
+00:03:33,651 --> 00:03:36,083
+An entirely new concept in oral hygiene.
+
+77
+00:03:36,083 --> 00:03:38,606
+- Yes, we've employed some
+of Hollywood's top stars
+
+78
+00:03:38,606 --> 00:03:42,485
+to help us with our new
+mouth-to-mouth celebrity toothpaste.
+
+79
+00:03:42,485 --> 00:03:44,793
+- Feel the cleaning power of
+the stars' internal juices
+
+80
+00:03:44,793 --> 00:03:46,220
+as they go to work on plaque
+
+81
+00:03:46,220 --> 00:03:48,234
+and tartar buildup in your mouth.
+
+82
+00:03:48,234 --> 00:03:50,344
+Here's Jack Nicholson from
+"Witches of Eastwick."
+
+83
+00:03:50,344 --> 00:03:51,434
+Blaa.
+
+84
+00:03:51,434 --> 00:03:54,240
+- Mr. Creosote from Monty
+Python's "The Meaning of Life".
+
+85
+00:03:54,240 --> 00:03:56,356
+Somebody get a bucket, I'm gonna throw up.
+
+86
+00:03:56,356 --> 00:03:58,769
+- And Linda Blair with real
+real head-cranking action.
+
+87
+00:03:58,769 --> 00:04:01,640
+Your mother flosses in hell, aah.
+
+88
+00:04:01,640 --> 00:04:04,473
+- Well, what do you think Joelery.
+
+89
+00:04:05,832 --> 00:04:07,516
+- Well, I think four out of five dentists
+
+90
+00:04:07,516 --> 00:04:10,906
+are gonna recommend
+psychotherapy for you two.
+
+91
+00:04:10,906 --> 00:04:12,569
+- Thank you.
+- Thank you.
+
+92
+00:04:12,569 --> 00:04:16,445
+- Well, Joel, your film today
+is called "Moon Zero Two".
+
+93
+00:04:16,445 --> 00:04:19,772
+It's a late 60's romp
+through the then lunar-crazed
+
+94
+00:04:19,772 --> 00:04:21,396
+consciousness of America.
+
+95
+00:04:21,396 --> 00:04:24,121
+- And believe me, it doesn't
+stand up to the test of time.
+
+96
+00:04:24,121 --> 00:04:25,375
+(laughs)
+
+97
+00:04:25,375 --> 00:04:27,866
+- Stew on the broth of
+this one, lumpy boy.
+
+98
+00:04:27,866 --> 00:04:28,699
+- Enjoy.
+
+99
+00:04:28,699 --> 00:04:29,532
+(buzzing)
+
+100
+00:04:29,532 --> 00:04:31,699
+- Oh, we in movie set, ho.
+
+101
+00:04:34,305 --> 00:04:36,555
+(whirring)
+
+102
+00:04:40,785 --> 00:04:44,280
+("Moon Zero Two" by Julie Driscoll)
+
+103
+00:04:44,280 --> 00:04:45,295
+- [Joel] Hey, it's in color.
+
+104
+00:04:45,295 --> 00:04:46,314
+- [Tom] Yeah.
+
+105
+00:04:46,314 --> 00:04:47,731
+- [Joel] Really bad music, already.
+
+106
+00:04:47,731 --> 00:04:48,898
+This is great.
+
+107
+00:04:50,738 --> 00:04:53,449
+- [Crow] Hey hey, the cartoon has landed.
+
+108
+00:04:53,449 --> 00:04:55,408
+- [Tom] Is this a Pink Panther movie?
+
+109
+00:04:55,408 --> 00:04:59,316
+- [Joel] No, I think it's
+like NASA simulation,
+
+110
+00:04:59,316 --> 00:05:00,580
+kind of like.
+
+111
+00:05:00,580 --> 00:05:02,107
+- [Tom] Why would they use cartoons?
+
+112
+00:05:02,107 --> 00:05:03,899
+- [Joel] So, astronauts
+could understand them.
+
+113
+00:05:03,899 --> 00:05:05,834
+♫ Go find the world you're seekin'
+
+114
+00:05:05,834 --> 00:05:08,097
+♫ Where stars are new in the makin'
+
+115
+00:05:08,097 --> 00:05:10,697
+♫ It's time to fly, deep
+space is calling you ♫
+
+116
+00:05:10,697 --> 00:05:13,304
+- [Crow] Hey, I didn't know
+the Russians had cartoons.
+
+117
+00:05:13,304 --> 00:05:15,564
+♫ Go far, go wild, go lonely
+
+118
+00:05:15,564 --> 00:05:18,016
+♫ New worlds are there for the takin'
+
+119
+00:05:18,016 --> 00:05:18,940
+♫ I'm set to go, let's travel♫
+
+120
+00:05:18,940 --> 00:05:20,466
+- [Joel] Is this Petula Clark singing?
+
+121
+00:05:20,466 --> 00:05:21,618
+♫ Just we two ♫
+
+122
+00:05:21,618 --> 00:05:22,729
+- [Crow] Peculiar Clark?
+
+123
+00:05:22,729 --> 00:05:23,562
+- [Joel] Petula.
+
+124
+00:05:23,562 --> 00:05:25,421
+♫ This day will be all right ♫
+
+125
+00:05:25,421 --> 00:05:28,274
+- [Tom] Petals by Mrs.
+Reedy's third grade.
+
+126
+00:05:28,274 --> 00:05:30,230
+♫ I know we'll see our light
+
+127
+00:05:30,230 --> 00:05:32,980
+♫ To be where we
+
+128
+00:05:34,725 --> 00:05:38,892
+♫ can be free at last ♫
+
+129
+00:05:40,455 --> 00:05:42,863
+- [Joel] Watch this, you guys,I got moves.
+
+130
+00:05:42,863 --> 00:05:45,038
+♫ You can take me soon♫
+
+131
+00:05:45,038 --> 00:05:46,371
+- [Tom] Hey, he's on the other side.
+
+132
+00:05:46,371 --> 00:05:48,554
+- [Crow] He's where you were.
+
+133
+00:05:48,554 --> 00:05:49,612
+- [Tom] Circle the Moon.
+
+134
+00:05:49,612 --> 00:05:51,910
+- [Tom] Exactly, good.
+
+135
+00:05:51,910 --> 00:05:53,827
+- [Crow] Rock it, Joel.
+
+136
+00:05:55,687 --> 00:05:59,571
+- [Tom] You look like
+Goldie Hawn on "Laugh-In".
+
+137
+00:05:59,571 --> 00:06:01,207
+- [Crow] Except for the hair.
+
+138
+00:06:01,207 --> 00:06:02,273
+- [Tom] And the body.
+
+139
+00:06:02,273 --> 00:06:04,461
+♫ Every place looks 'bout the same ♫
+
+140
+00:06:04,461 --> 00:06:06,207
+- [Crow] Hey, it's 60's Glass Nose.
+
+141
+00:06:06,207 --> 00:06:07,111
+♫ Cold is breaking up
+
+142
+00:06:07,111 --> 00:06:09,543
+♫ I'm hard as stone again
+
+143
+00:06:09,543 --> 00:06:11,286
+♫ Emptiness is all I'm feeling ♫
+
+144
+00:06:11,286 --> 00:06:12,119
+- [Tom] Let's Old Glory this. (groans)
+
+145
+00:06:12,119 --> 00:06:13,048
+- [Crow] Aw.
+
+146
+00:06:13,048 --> 00:06:14,024
+♫ Clocks are slow
+
+147
+00:06:14,024 --> 00:06:16,504
+♫ On the Moon where I'm livin'
+
+148
+00:06:16,504 --> 00:06:20,468
+♫ Need some help to make me go ♫
+
+149
+00:06:20,468 --> 00:06:22,483
+- [Joel] What'd ya think, guys.
+
+150
+00:06:22,483 --> 00:06:24,187
+- [Crow] We'll let you know.
+
+151
+00:06:24,187 --> 00:06:26,419
+♫ I could use a kind of lovin'
+
+152
+00:06:26,419 --> 00:06:30,027
+♫ Could give someone loving room ♫
+
+153
+00:06:30,027 --> 00:06:30,860
+- [Tom] Oh, look at that.
+
+154
+00:06:30,860 --> 00:06:32,743
+He's beating the titles out of them.
+
+155
+00:06:32,743 --> 00:06:35,157
+♫ Stand aside of me
+
+156
+00:06:35,157 --> 00:06:38,995
+♫ In orbit, hold on
+tight and we shall ride
+
+157
+00:06:38,995 --> 00:06:41,085
+♫ Moon Zero Two
+
+158
+00:06:41,085 --> 00:06:45,252
+♫ Oh, take me soon ♫
+
+159
+00:06:46,737 --> 00:06:48,572
+- [Tom] You sat on your
+teleporter thing, Joel
+
+160
+00:06:48,572 --> 00:06:51,167
+- [Joel] Yeah, I'm gonna do
+a thing where I put this on
+
+161
+00:06:51,167 --> 00:06:54,250
+and eat popcorn that's in the galley.
+
+162
+00:06:58,101 --> 00:07:00,341
+♫ We'll love the world we land on
+
+163
+00:07:00,341 --> 00:07:01,745
+♫ And love is what we're makin' ♫
+
+164
+00:07:01,745 --> 00:07:03,090
+- [Crow] Hey, great cloud.
+
+165
+00:07:03,090 --> 00:07:04,106
+No atmosphere.
+
+166
+00:07:04,106 --> 00:07:07,629
+- [Tom] I don't believe there's
+a cover charge on the Moon.
+
+167
+00:07:07,629 --> 00:07:11,796
+♫ Love the dry life ♫
+
+168
+00:07:13,985 --> 00:07:16,970
+- [Joel] They're rioting the Moon.
+
+169
+00:07:16,970 --> 00:07:19,387
+No atmosphere, no atmosphere.
+
+170
+00:07:21,523 --> 00:07:23,395
+Is the whole movie like this, you guys?
+
+171
+00:07:23,395 --> 00:07:24,228
+- [Crow] Oh, I hope not.
+
+172
+00:07:24,228 --> 00:07:26,046
+I don't think I can take
+two hours of this song.
+
+173
+00:07:26,046 --> 00:07:27,175
+- [Tom] They're trashed.
+
+174
+00:07:27,175 --> 00:07:30,118
+- [Crow] Cartoon's cool, though.
+
+175
+00:07:30,118 --> 00:07:33,199
+- [Tom] Are those the Blue Beaties?
+
+176
+00:07:33,199 --> 00:07:35,366
+No, that'd be wrong, Paul.
+
+177
+00:07:36,400 --> 00:07:38,223
+A little hole in me pocket.
+
+178
+00:07:38,223 --> 00:07:39,802
+Hey, it's Donald Trump.
+
+179
+00:07:39,802 --> 00:07:41,598
+He's chasing the good guys away.
+
+180
+00:07:41,598 --> 00:07:42,551
+Doesn't make sense.
+
+181
+00:07:42,551 --> 00:07:45,218
+- [Crow] It makes perfect sense.
+
+182
+00:07:46,575 --> 00:07:50,742
+("Moon Zero Two" by Julie Driscoll)
+
+183
+00:07:52,640 --> 00:07:55,390
+- [Crow] Hey look, it's the film.
+
+184
+00:07:56,231 --> 00:07:58,898
+♫ Moon Zero Two
+
+185
+00:08:01,178 --> 00:08:05,345
+♫ Moon Zero Two ♫
+
+186
+00:08:06,205 --> 00:08:07,888
+- [Tom] Whoa.
+
+187
+00:08:07,888 --> 00:08:11,204
+- [Joel] Houston, I just
+spotted an animated cartoon
+
+188
+00:08:11,204 --> 00:08:14,204
+on the surface of the Moon, come in.
+
+189
+00:08:16,442 --> 00:08:19,859
+(eerie orchestral music)
+
+190
+00:08:26,126 --> 00:08:26,959
+- [Tom] Looks like
+they're shooting this out
+
+191
+00:08:26,959 --> 00:08:29,216
+of the back of a van.
+
+192
+00:08:29,216 --> 00:08:31,696
+- [Joel] That's a renegade
+air conditioning unit.
+
+193
+00:08:31,696 --> 00:08:35,029
+- [Crow] It's an orbiting garden weasel.
+
+194
+00:08:38,506 --> 00:08:42,546
+And an orbiting space ferret. (laughs)
+
+195
+00:08:42,546 --> 00:08:44,296
+Space ferret, get it?
+
+196
+00:08:47,420 --> 00:08:49,480
+- [Joel] He's going out
+to his space gazebo.
+
+197
+00:08:49,480 --> 00:08:52,207
+- [Tom] It must be cold.
+
+198
+00:08:52,207 --> 00:08:55,624
+(eerie orchestral music)
+
+199
+00:09:09,838 --> 00:09:11,017
+- [Joel] This thing is huge.
+
+200
+00:09:11,017 --> 00:09:12,100
+- [Crow] Huh?
+
+201
+00:09:13,489 --> 00:09:17,656
+- [Tom] It looks like a
+little orbiting ice machine.
+
+202
+00:09:19,704 --> 00:09:21,138
+- [Crow] Houston, our central air is here,
+
+203
+00:09:21,138 --> 00:09:24,555
+but they didn't send the duct work, over.
+
+204
+00:09:27,709 --> 00:09:29,932
+- [Joel] Boy, I hope it's under warranty.
+
+205
+00:09:29,932 --> 00:09:32,885
+There's a pretty big hole in that thing.
+
+206
+00:09:32,885 --> 00:09:36,885
+- [Tom] He's got the
+Nintendo power glove there.
+
+207
+00:09:38,965 --> 00:09:40,895
+- [Crow] Oh, they put
+the danger warning light
+
+208
+00:09:40,895 --> 00:09:43,562
+right on the middle of his back.
+
+209
+00:09:44,753 --> 00:09:46,920
+- [Tom] Space is a gamble.
+
+210
+00:09:49,569 --> 00:09:51,079
+- [Joel] Darn those space coons,
+
+211
+00:09:51,079 --> 00:09:54,336
+they got into the garbage again.
+
+212
+00:09:54,336 --> 00:09:57,069
+Honey, we're getting
+those Rubbermaid cans.
+
+213
+00:09:57,069 --> 00:09:58,361
+This isn't gonna happen again.
+
+214
+00:09:58,361 --> 00:10:00,528
+I'm not goin' in for this.
+
+215
+00:10:10,597 --> 00:10:13,141
+- [Joel] Boy, it's really
+quiet in space, isn't it?
+
+216
+00:10:13,141 --> 00:10:14,615
+- [Crow] Yeah.
+
+217
+00:10:14,615 --> 00:10:19,610
+- [Tom] Except for the
+distant sounds of trumpets.
+
+218
+00:10:19,610 --> 00:10:21,483
+- [Joel] Maynard Ferguson's
+out there somewhere.
+
+219
+00:10:21,483 --> 00:10:24,816
+- [Crow] So, was it the raccoons, honey?
+
+220
+00:10:26,558 --> 00:10:29,725
+(relaxed conga music)
+
+221
+00:10:30,598 --> 00:10:32,319
+- [Crow] Sorta seems like
+a waste of cargo space
+
+222
+00:10:32,319 --> 00:10:34,554
+to bring along a conga band.
+
+223
+00:10:34,554 --> 00:10:39,212
+- [Joel] Darn coons in my
+rickin' frackin'. (mumbles)
+
+224
+00:10:39,212 --> 00:10:42,379
+(relaxed conga music)
+
+225
+00:10:48,428 --> 00:10:51,595
+- [Tom] Oh, he's got VPL in a bad way.
+
+226
+00:10:52,905 --> 00:10:56,322
+- [Crow] Why don't we ever talk any more?
+
+227
+00:11:00,445 --> 00:11:01,747
+- [Joel] Hey, were you
+messin' with my stereo?
+
+228
+00:11:01,747 --> 00:11:05,119
+The treble's all thrown off here.
+
+229
+00:11:05,119 --> 00:11:08,286
+(relaxed conga music)
+
+230
+00:11:23,610 --> 00:11:25,033
+- [Tom] Silence.
+
+231
+00:11:25,033 --> 00:11:26,514
+- [Crow] Let's go back
+and look at the Moon.
+
+232
+00:11:26,514 --> 00:11:30,428
+Maybe they're showing the feature now.
+
+233
+00:11:30,428 --> 00:11:33,114
+- [Bill] Moon Zero Two
+calling Moon Control.
+
+234
+00:11:33,114 --> 00:11:36,623
+- [Voiceover] Moon Zero
+Two, this is Moon Control.
+
+235
+00:11:36,623 --> 00:11:38,343
+- [Bill] Zero Two to Moon Control.
+
+236
+00:11:38,343 --> 00:11:40,699
+- [Tom] Moon control to Major Tom.
+
+237
+00:11:40,699 --> 00:11:42,247
+- [Bill] Two minutes from outer approach,
+
+238
+00:11:42,247 --> 00:11:44,223
+request landing instructions.
+
+239
+00:11:44,223 --> 00:11:47,073
+- [Tom] He's got Playtex
+living elbows, look at that.
+
+240
+00:11:47,073 --> 00:11:49,282
+- [Voiceover] We are one, five, seven.
+
+241
+00:11:49,282 --> 00:11:50,865
+Decelerate at 1.8G.
+
+242
+00:11:52,647 --> 00:11:54,963
+- [Bill] Zero Two,
+understand one, five, seven
+
+243
+00:11:54,963 --> 00:11:56,213
+and 1.8G, over.
+
+244
+00:11:57,265 --> 00:11:59,030
+- [Voiceover] Snap it up, Zero Two.
+
+245
+00:11:59,030 --> 00:12:01,815
+This is PanAm Moon Express
+and we're just 10 minutes out.
+
+246
+00:12:01,815 --> 00:12:04,399
+- That is your hard luck, Moon Express.
+
+247
+00:12:04,399 --> 00:12:05,843
+First come, first down.
+
+248
+00:12:05,843 --> 00:12:08,843
+And you are an hour behind schedule.
+
+249
+00:12:11,086 --> 00:12:12,759
+- [Crow] Hey, he flipped him off.
+
+250
+00:12:12,759 --> 00:12:14,154
+- [Tom] We're gonna have
+to jettison your mustache,
+
+251
+00:12:14,154 --> 00:12:15,154
+you realize.
+
+252
+00:12:16,037 --> 00:12:17,187
+- He we go then.
+
+253
+00:12:17,187 --> 00:12:21,348
+("Moon Zero Two" theme music)
+
+254
+00:12:21,348 --> 00:12:23,912
+- [Tom] Hey look, there
+is a man in the Moon.
+
+255
+00:12:23,912 --> 00:12:27,745
+("Moon Zero Two" theme music)
+
+256
+00:12:37,470 --> 00:12:40,686
+- SpaceWay announces
+the arrival of flight.--
+
+257
+00:12:40,686 --> 00:12:42,168
+- [Crow] There's a
+space blue-light special
+
+258
+00:12:42,168 --> 00:12:43,773
+on quadrant B9.
+
+259
+00:12:43,773 --> 00:12:46,250
+- If you're Moon Zero Two,
+I wish you'd sell that thing
+
+260
+00:12:46,250 --> 00:12:48,676
+along with all the other
+space rubbish you collect.
+
+261
+00:12:48,676 --> 00:12:50,812
+- [Tom] Don't say hi.
+
+262
+00:12:50,812 --> 00:12:52,142
+- I don't think I caught the name.
+
+263
+00:12:52,142 --> 00:12:53,938
+- I'm the second officer
+of the Moon Express.
+
+264
+00:12:53,938 --> 00:12:56,180
+You delayed us for nearly two minutes.
+
+265
+00:12:56,180 --> 00:12:58,974
+- If you took off on time,
+you might land on time.
+
+266
+00:12:58,974 --> 00:12:59,807
+- I don't see that my.
+
+267
+00:12:59,807 --> 00:13:01,990
+- I though you were seeing our
+passengers through customs.
+
+268
+00:13:01,990 --> 00:13:03,073
+- I was just telling this man.
+
+269
+00:13:03,073 --> 00:13:05,440
+- You can't tell this man
+anything about anything.
+
+270
+00:13:05,440 --> 00:13:06,957
+- [Crow] But feel free
+to tell him something
+
+271
+00:13:06,957 --> 00:13:10,640
+about nothing or a little about a lot.
+
+272
+00:13:10,640 --> 00:13:12,174
+- [Joel] You'll have to excuse my friend.
+
+273
+00:13:12,174 --> 00:13:14,330
+He's kind of a weenie.
+
+274
+00:13:14,330 --> 00:13:17,159
+- Thank God not all of them make it.
+
+275
+00:13:17,159 --> 00:13:20,272
+Dan, get this over to the scrapyard.
+
+276
+00:13:20,272 --> 00:13:22,486
+Oh, with your permission.
+
+277
+00:13:22,486 --> 00:13:23,386
+And don't take anything less
+
+278
+00:13:23,386 --> 00:13:25,487
+than 12,000 Moon dollars for it.
+
+279
+00:13:25,487 --> 00:13:26,678
+- I'll try.
+
+280
+00:13:26,678 --> 00:13:28,718
+- I've just got time for a shower.
+
+281
+00:13:28,718 --> 00:13:30,282
+- I wanna talk to you, though.
+
+282
+00:13:30,282 --> 00:13:31,759
+- Go ahead.
+
+283
+00:13:31,759 --> 00:13:32,660
+- My name is Taplin.
+
+284
+00:13:32,660 --> 00:13:34,779
+- Please, turn and face
+immigration identification
+
+285
+00:13:34,779 --> 00:13:36,157
+computer, please.
+
+286
+00:13:36,157 --> 00:13:39,053
+- [Crow] I'm here for the Gumby wedding.
+
+287
+00:13:39,053 --> 00:13:39,886
+- [Tom] Test your love.
+
+288
+00:13:39,886 --> 00:13:41,136
+Flaming, great.
+
+289
+00:13:42,185 --> 00:13:43,018
+- Is there a message for me.
+
+290
+00:13:43,018 --> 00:13:44,843
+- Message desk's over there.
+
+291
+00:13:44,843 --> 00:13:45,843
+- Thank you.
+
+292
+00:13:47,146 --> 00:13:48,444
+- Good evening, Mr. Hubbard.
+
+293
+00:13:48,444 --> 00:13:50,611
+- [Crow] Wow, it's Castro.
+
+294
+00:13:52,026 --> 00:13:53,966
+- I'm sorry Mr. Hubbard.
+
+295
+00:13:53,966 --> 00:13:55,392
+I hope you enjoyed your trip, sir.
+
+296
+00:13:55,392 --> 00:13:57,984
+- No more or less than 100
+other trips I've taken.
+
+297
+00:13:57,984 --> 00:14:00,567
+- [Crow] Where's the Armor All?
+
+298
+00:14:02,744 --> 00:14:04,556
+- [Bill] That's a nifty little charmer.
+
+299
+00:14:04,556 --> 00:14:06,174
+- J.J. Hubbard?
+
+300
+00:14:06,174 --> 00:14:07,932
+- So, that's 100% Hubbard.
+
+301
+00:14:07,932 --> 00:14:09,148
+Is he always like that?
+
+302
+00:14:09,148 --> 00:14:10,744
+- Yes, sir, to the likes of us.
+
+303
+00:14:10,744 --> 00:14:12,072
+- [Tom] Sometimes he's 50%.
+
+304
+00:14:12,072 --> 00:14:13,202
+- What does he want up here?
+
+305
+00:14:13,202 --> 00:14:14,103
+- Oh, I don't know.
+
+306
+00:14:14,103 --> 00:14:16,168
+- [Tim] Are you getting shorter, Bill?
+
+307
+00:14:16,168 --> 00:14:19,014
+- If it was mine he could have it.
+
+308
+00:14:19,014 --> 00:14:19,847
+Cheap.
+
+309
+00:14:22,092 --> 00:14:25,793
+- Listen, I was talking to
+personnel back at Earth Base.
+
+310
+00:14:25,793 --> 00:14:28,111
+(whooshing)
+
+311
+00:14:28,111 --> 00:14:30,069
+And he'd like you back
+in the corporation, Bill.
+
+312
+00:14:30,069 --> 00:14:31,653
+- Are they starting
+exploration flights again?
+
+313
+00:14:31,653 --> 00:14:32,909
+- No.
+
+314
+00:14:32,909 --> 00:14:34,419
+- [Crow] No, sorting boxes.
+
+315
+00:14:34,419 --> 00:14:35,959
+- When they outfit the
+first flight to Mercury,
+
+316
+00:14:35,959 --> 00:14:38,038
+tell them to call me.
+
+317
+00:14:38,038 --> 00:14:40,820
+- Come on Bill, you know
+the answer to that one.
+
+318
+00:14:40,820 --> 00:14:42,008
+- [Tom] They don't have your number.
+
+319
+00:14:42,008 --> 00:14:43,062
+It's not listed.
+
+320
+00:14:43,062 --> 00:14:45,666
+- To line the rocket ships
+for journeys like that.
+
+321
+00:14:45,666 --> 00:14:48,876
+We've got regular flights
+to Mars and Venus.
+
+322
+00:14:48,876 --> 00:14:50,216
+What more do you want?
+
+323
+00:14:50,216 --> 00:14:52,126
+- I'm not going back into the corporation.
+
+324
+00:14:52,126 --> 00:14:54,911
+- [Joel] Did he get that shirt
+at a Molly Hatchet concert?
+
+325
+00:14:54,911 --> 00:14:58,387
+- Not a mechanically minded wet nurse.
+
+326
+00:14:58,387 --> 00:15:00,220
+- Thank you very much.
+
+327
+00:15:01,321 --> 00:15:03,059
+(coughing)
+
+328
+00:15:03,059 --> 00:15:06,109
+someone has to be a passenger pilot.
+
+329
+00:15:06,109 --> 00:15:07,665
+- What's that you say?
+
+330
+00:15:07,665 --> 00:15:12,113
+- I said, "Someone has
+to be a passenger pilot."
+
+331
+00:15:12,113 --> 00:15:13,446
+- Can't hear ya.
+
+332
+00:15:15,201 --> 00:15:16,663
+- Forget it.
+
+333
+00:15:16,663 --> 00:15:20,830
+- [Crow] I'll go get the
+rest of your shower door.
+
+334
+00:15:23,941 --> 00:15:25,481
+- [Tom] Hey, Thumblina.
+
+335
+00:15:25,481 --> 00:15:28,883
+- Sorry miss, this area's
+out-of-bounds to passengers.
+
+336
+00:15:28,883 --> 00:15:30,101
+- I'm looking for Mr.
+
+337
+00:15:30,101 --> 00:15:31,043
+- [Tom] Goodbar?
+
+338
+00:15:31,043 --> 00:15:32,293
+- Captain Kemp.
+
+339
+00:15:34,051 --> 00:15:36,218
+- Oh, well, he's in there.
+
+340
+00:15:37,313 --> 00:15:40,239
+He's doing something just at the moment.
+
+341
+00:15:40,239 --> 00:15:41,989
+But he won't be long.
+
+342
+00:15:44,047 --> 00:15:47,011
+- [Crow] Hey, your calculator's on.
+
+343
+00:15:47,011 --> 00:15:49,928
+- [Joel] Oh boy, is she ever gonna.
+
+344
+00:15:51,152 --> 00:15:52,609
+- [Tom] Hey, what are you looking at?
+
+345
+00:15:52,609 --> 00:15:53,442
+Whoops.
+
+346
+00:15:55,951 --> 00:15:58,385
+- What are you doing here?
+
+347
+00:15:58,385 --> 00:16:01,597
+- I was looking for Captain Kemp.
+
+348
+00:16:01,597 --> 00:16:05,349
+- This place is reserved
+for space personnel only.
+
+349
+00:16:05,349 --> 00:16:06,349
+- I'm sorry.
+
+350
+00:16:08,579 --> 00:16:09,681
+Are you Captain Kemp?
+
+351
+00:16:09,681 --> 00:16:11,048
+- Will you go away?
+
+352
+00:16:11,048 --> 00:16:11,947
+- [Crow] Look at my stripes.
+
+353
+00:16:11,947 --> 00:16:13,288
+Of course, I'm Captain Kemp.
+
+354
+00:16:13,288 --> 00:16:14,121
+- No!
+
+355
+00:16:15,502 --> 00:16:17,322
+- [Voiceover] Monorail
+to Moon City will depart
+
+356
+00:16:17,322 --> 00:16:18,956
+in seven minutes.
+
+357
+00:16:18,956 --> 00:16:21,150
+(whistling)
+
+358
+00:16:21,150 --> 00:16:22,900
+- [Tom] Oh, hi Gumby.
+
+359
+00:16:30,394 --> 00:16:32,394
+- Otto, Otto was killed?
+
+360
+00:16:33,310 --> 00:16:35,227
+- A couple of days ago.
+
+361
+00:16:36,854 --> 00:16:40,462
+- [Tom] Yeah, we're dedicating
+the locker room to him.
+
+362
+00:16:40,462 --> 00:16:42,920
+- Retro engines failed on
+landing, that's what I heard.
+
+363
+00:16:42,920 --> 00:16:45,003
+Went straight in, crunch.
+
+364
+00:16:47,236 --> 00:16:48,398
+- [Bill] They ought to
+put that thing outside
+
+365
+00:16:48,398 --> 00:16:49,944
+where people could read it.
+
+366
+00:16:49,944 --> 00:16:51,820
+- Passengers wouldn't like it.
+
+367
+00:16:51,820 --> 00:16:53,401
+It would worry them.
+
+368
+00:16:53,401 --> 00:16:58,362
+- [Crow] Yeah, but to make
+it splash guard for a urinal.
+
+369
+00:16:58,362 --> 00:17:00,445
+- Did you get the 12,000?
+
+370
+00:17:06,114 --> 00:17:06,947
+- [Joel] Here, I don't need it.
+
+371
+00:17:06,947 --> 00:17:07,986
+I already have Pete Rose.
+
+372
+00:17:07,986 --> 00:17:11,672
+- Hey, he flew the same sort
+of space ferry you've got,
+
+373
+00:17:11,672 --> 00:17:12,505
+didn't he?
+
+374
+00:17:12,505 --> 00:17:16,422
+- Mm hmm, his was a little
+bit older, that's all.
+
+375
+00:17:16,422 --> 00:17:20,514
+- [Tom] A little bit wiser,
+something to think about.
+
+376
+00:17:20,514 --> 00:17:22,847
+(gun fires)
+
+377
+00:17:24,934 --> 00:17:27,946
+- [Crow] They dressed their
+stewardesses like Nazis.
+
+378
+00:17:27,946 --> 00:17:29,542
+- We're leaving right away Mr. Hubbard.
+
+379
+00:17:29,542 --> 00:17:30,375
+Magazine?
+
+380
+00:17:30,375 --> 00:17:31,208
+- [Tom] Yes, it is.
+
+381
+00:17:31,208 --> 00:17:32,125
+- Cocktail?
+
+382
+00:17:32,962 --> 00:17:33,795
+Beer, sir?
+
+383
+00:17:33,795 --> 00:17:35,104
+- He doesn't drink and he can't read.
+
+384
+00:17:35,104 --> 00:17:38,148
+- [Joel] But he still has feelings, geez.
+
+385
+00:17:38,148 --> 00:17:39,395
+They're so rich, they go to movies
+
+386
+00:17:39,395 --> 00:17:42,442
+and they don't even watch 'em.
+
+387
+00:17:42,442 --> 00:17:43,275
+- Janie.
+
+388
+00:17:43,275 --> 00:17:44,342
+- Hello, Bill.
+
+389
+00:17:44,342 --> 00:17:45,862
+- You look great.
+
+390
+00:17:45,862 --> 00:17:47,154
+- [Crow] When'd you join the guard?
+
+391
+00:17:47,154 --> 00:17:49,211
+Right after I turned in
+the Von Trapp family.
+
+392
+00:17:49,211 --> 00:17:52,244
+- They know me on the inside though.
+
+393
+00:17:52,244 --> 00:17:54,127
+- Got a seat?
+
+394
+00:17:54,127 --> 00:17:56,710
+- One up front for the Captain.
+
+395
+00:18:00,511 --> 00:18:03,492
+This is Captain Kemp, Miss Taplin.
+
+396
+00:18:03,492 --> 00:18:04,415
+- [Clem] You said.
+
+397
+00:18:04,415 --> 00:18:05,499
+- I'm always at a disadvantage
+
+398
+00:18:05,499 --> 00:18:07,351
+when I haven't got any clothes on.
+
+399
+00:18:07,351 --> 00:18:09,013
+- I never noticed it.
+
+400
+00:18:09,013 --> 00:18:10,945
+- Well, why did you wanna see me?
+
+401
+00:18:10,945 --> 00:18:12,998
+- [Tom] You think I look like a zucchini?
+
+402
+00:18:12,998 --> 00:18:15,365
+- [Crow] She looks like Darth Vader.
+
+403
+00:18:15,365 --> 00:18:17,949
+- Told me you'd fly over
+to Far Side, occasionally.
+
+404
+00:18:17,949 --> 00:18:18,840
+- Mm hmm.
+
+405
+00:18:18,840 --> 00:18:21,338
+- I wondered if you know my brother.
+
+406
+00:18:21,338 --> 00:18:22,171
+- [Tom] Gary Larson.
+
+407
+00:18:22,171 --> 00:18:25,153
+- Wally Taplin, he's a miner.
+
+408
+00:18:25,153 --> 00:18:27,167
+- No, no I don't think I know him.
+
+409
+00:18:27,167 --> 00:18:29,217
+- He was supposed to meet
+me at the space port.
+
+410
+00:18:29,217 --> 00:18:31,177
+- He's probably waiting at Moon City.
+
+411
+00:18:31,177 --> 00:18:32,533
+- That's what the man said.
+
+412
+00:18:32,533 --> 00:18:35,129
+- [Joel] Don't you listen
+to what the man says.
+
+413
+00:18:35,129 --> 00:18:36,143
+- Your first time up here?
+
+414
+00:18:36,143 --> 00:18:36,976
+- Yes.
+
+415
+00:18:36,976 --> 00:18:38,409
+- [Tom] That would explain the stupid hat.
+
+416
+00:18:38,409 --> 00:18:40,391
+- I suggest you look up front.
+
+417
+00:18:40,391 --> 00:18:43,308
+- [Tom] While I check out the rear.
+
+418
+00:18:47,316 --> 00:18:50,225
+- [Clem] My God, it's so bleak.
+
+419
+00:18:50,225 --> 00:18:54,392
+- [Bill] No air, no
+vegetation, 1/6 gravity.
+
+420
+00:18:55,507 --> 00:18:56,340
+- [Crow] Yeah, but on the good side,
+
+421
+00:18:56,340 --> 00:18:57,767
+there's no Howie Mandell.
+
+422
+00:18:57,767 --> 00:18:59,517
+- 14 days and nights.
+
+423
+00:19:00,489 --> 00:19:04,717
+I suppose bleak is as good
+a way as any to describe it.
+
+424
+00:19:04,717 --> 00:19:09,035
+- [Joel] Yeah, and everybody
+gets their own movie.
+
+425
+00:19:09,035 --> 00:19:10,446
+- We always will be.
+
+426
+00:19:10,446 --> 00:19:12,466
+- [Crow] Some are more foreign
+than others, Velvet-head.
+
+427
+00:19:12,466 --> 00:19:15,549
+- Perhaps, we should never have come.
+
+428
+00:19:21,487 --> 00:19:23,892
+- [Tom] In the future,
+bras will grow on the Moon.
+
+429
+00:19:23,892 --> 00:19:25,142
+Cross my heart.
+
+430
+00:19:33,457 --> 00:19:35,385
+- [Crow] Hey, it's the
+original Space Mountain.
+
+431
+00:19:35,385 --> 00:19:36,369
+What'd ya know?
+
+432
+00:19:36,369 --> 00:19:39,036
+And look, the line's still long.
+
+433
+00:19:41,005 --> 00:19:42,867
+- The monument there is
+where Neil Armstrong landed
+
+434
+00:19:42,867 --> 00:19:43,784
+by in 1969.
+
+435
+00:19:44,729 --> 00:19:46,079
+- [Joel] Of course, that's just a model.
+
+436
+00:19:46,079 --> 00:19:48,579
+The real thing's a lot bigger.
+
+437
+00:19:49,433 --> 00:19:50,829
+- And the ice mines.
+
+438
+00:19:50,829 --> 00:19:51,896
+- The what?
+
+439
+00:19:51,896 --> 00:19:52,896
+- Ice mines.
+
+440
+00:19:55,088 --> 00:19:57,787
+There are layers of ice a mile down,
+
+441
+00:19:57,787 --> 00:19:59,963
+melt it into water and you drink it.
+
+442
+00:19:59,963 --> 00:20:02,748
+Break it into oxygen, we breathe it.
+
+443
+00:20:02,748 --> 00:20:06,039
+- [Crow] Crush it and flavor
+it, you got a Slurpee.
+
+444
+00:20:06,039 --> 00:20:09,611
+- [Tom] And D-cups as
+far as the eye can see.
+
+445
+00:20:09,611 --> 00:20:12,613
+- And when they die we eat them.
+
+446
+00:20:12,613 --> 00:20:16,471
+There is nothing like it anywhere else.
+
+447
+00:20:16,471 --> 00:20:19,366
+- It's funny to think that
+we've no air out there.
+
+448
+00:20:19,366 --> 00:20:21,912
+Nobody can just open up a window.
+
+449
+00:20:21,912 --> 00:20:22,745
+- [Joel] Oh, we've done that,
+
+450
+00:20:22,745 --> 00:20:24,945
+but you just have to be really fast.
+
+451
+00:20:24,945 --> 00:20:27,413
+- Captain Kemp, I'm afraid
+that we have no reservation
+
+452
+00:20:27,413 --> 00:20:30,131
+in the name of Mr. Wallace Taplin,
+
+453
+00:20:30,131 --> 00:20:33,903
+nor have we any messages for
+a Miss Clementine Taplin.
+
+454
+00:20:33,903 --> 00:20:35,385
+- [Crow] Oh, yeah, yeah, sure.
+
+455
+00:20:35,385 --> 00:20:37,475
+Don't you have to go
+make some Elfin cookies?
+
+456
+00:20:37,475 --> 00:20:39,269
+(laughs)
+
+457
+00:20:39,269 --> 00:20:40,763
+- [Tom] She looks like an Oompa Loompa.
+
+458
+00:20:40,763 --> 00:20:42,532
+- Oh, it could be he's just late.
+
+459
+00:20:42,532 --> 00:20:44,679
+The monorail doesn't go
+any farther than Moon City,
+
+460
+00:20:44,679 --> 00:20:46,940
+so he'd be coming by Bug.
+
+461
+00:20:46,940 --> 00:20:47,773
+- Bug.
+
+462
+00:20:49,011 --> 00:20:51,070
+- It's a way to get around up here.
+
+463
+00:20:51,070 --> 00:20:53,229
+They run convoys of them over to Far Side.
+
+464
+00:20:53,229 --> 00:20:56,048
+- [Tom] It's like a Moon base.
+
+465
+00:20:56,048 --> 00:20:57,463
+- [Crow] Vroom, vroom.
+
+466
+00:20:57,463 --> 00:20:58,766
+- Where's his claim.
+
+467
+00:20:58,766 --> 00:21:00,349
+- Spectacle Crater.
+
+468
+00:21:05,537 --> 00:21:07,068
+- [Crow] Well, the water's
+turned off on the fountain,
+
+469
+00:21:07,068 --> 00:21:10,876
+so I can show you where
+he is here, right there.
+
+470
+00:21:10,876 --> 00:21:14,050
+- The nearest base is Far Side 5.
+
+471
+00:21:14,050 --> 00:21:18,696
+Now, that's at least
+2,000 miles to Moon City.
+
+472
+00:21:18,696 --> 00:21:20,956
+Six days by convoy.
+
+473
+00:21:20,956 --> 00:21:21,789
+- That means it takes longer
+
+474
+00:21:21,789 --> 00:21:23,540
+to get from one side of
+the Moon to the other.
+
+475
+00:21:23,540 --> 00:21:25,579
+- [Joel] Ah no, but thanks for playing.
+
+476
+00:21:25,579 --> 00:21:26,703
+- That's right.
+
+477
+00:21:26,703 --> 00:21:28,327
+- What about your spaceship?
+
+478
+00:21:28,327 --> 00:21:30,741
+- Ferry, it's only a Moon ferry.
+
+479
+00:21:30,741 --> 00:21:32,001
+- [Tom] At least he's open about it.
+
+480
+00:21:32,001 --> 00:21:34,322
+- We'll have to do it in 20 minutes.
+
+481
+00:21:34,322 --> 00:21:37,210
+- [Crow] That's because
+this is the future.
+
+482
+00:21:37,210 --> 00:21:39,206
+- But I can send a radio message, can't I?
+
+483
+00:21:39,206 --> 00:21:40,039
+To see if he's left.
+
+484
+00:21:40,039 --> 00:21:40,914
+- Oh, and no.
+
+485
+00:21:40,914 --> 00:21:42,805
+Well, you could've last week.
+
+486
+00:21:42,805 --> 00:21:45,047
+You see, we use a ring of
+communication satellites
+
+487
+00:21:45,047 --> 00:21:46,892
+for relaying waves around the curve,
+
+488
+00:21:46,892 --> 00:21:48,832
+but one was hit by a meteorite.
+
+489
+00:21:48,832 --> 00:21:52,992
+So, we're out of touch
+with Far Side, right now.
+
+490
+00:21:52,992 --> 00:21:54,878
+- The 21st century.
+
+491
+00:21:54,878 --> 00:21:57,429
+- It'll still be the same in the 25th.
+
+492
+00:21:57,429 --> 00:21:58,981
+- I suppose so.
+
+493
+00:21:58,981 --> 00:22:00,577
+- [Joel] We're almost walking off the set.
+
+494
+00:22:00,577 --> 00:22:03,494
+Would you mind going the other way?
+
+495
+00:22:04,522 --> 00:22:06,468
+- Splurge out, buy yourself a new outfit.
+
+496
+00:22:06,468 --> 00:22:07,362
+You'll feel better.
+
+497
+00:22:07,362 --> 00:22:09,072
+- [Joel] Oh, we better
+get out of here, too.
+
+498
+00:22:09,072 --> 00:22:11,380
+We're walking off the set.
+
+499
+00:22:11,380 --> 00:22:12,797
+- Can I help you?
+
+500
+00:22:14,607 --> 00:22:16,690
+(thumps)
+
+501
+00:22:23,222 --> 00:22:26,852
+- On July 22, 1969, a man first set foot
+
+502
+00:22:26,852 --> 00:22:28,734
+on the surface of the Moon.
+
+503
+00:22:28,734 --> 00:22:31,901
+His name, Vince Lombardi. (laughs)
+
+504
+00:22:31,901 --> 00:22:34,270
+It's Neil Armstrong.
+
+505
+00:22:34,270 --> 00:22:35,925
+This is our tribute to
+astronaut Armstrong,
+
+506
+00:22:35,925 --> 00:22:38,260
+and the men who brought him to the Moon.
+
+507
+00:22:38,260 --> 00:22:40,892
+Crow will play the part of Neil Armstrong.
+
+508
+00:22:40,892 --> 00:22:42,780
+- That's one small step for man,
+
+509
+00:22:42,780 --> 00:22:43,613
+- Save it!
+
+510
+00:22:43,613 --> 00:22:44,503
+- What? Oh.
+
+511
+00:22:44,503 --> 00:22:45,787
+Sorry.
+
+512
+00:22:45,787 --> 00:22:48,371
+- Joel will play the part of
+the second man on the Moon,
+
+513
+00:22:48,371 --> 00:22:52,371
+Edwin Buzz Aldrin and
+President John F. Kennedy.
+
+514
+00:22:53,907 --> 00:22:55,401
+I'll play the part of Mission Control
+
+515
+00:22:55,401 --> 00:22:59,751
+and astronaut, Michael
+Collins orbiting the Moon.
+
+516
+00:22:59,751 --> 00:23:00,880
+- [Joel] Okay.
+
+517
+00:23:00,880 --> 00:23:03,703
+- Ready? Okay, cue Joel.
+
+518
+00:23:03,703 --> 00:23:07,188
+- [Joel] Ask not what your
+country can do for you,
+
+519
+00:23:07,188 --> 00:23:10,960
+rather what you can do for your country.
+
+520
+00:23:10,960 --> 00:23:14,455
+- It was 1962, and a young
+President, John F. Kennedy
+
+521
+00:23:14,455 --> 00:23:16,205
+makes a bold promise.
+
+522
+00:23:17,413 --> 00:23:20,723
+- By the end of this decade,
+we will send a man safely
+
+523
+00:23:20,723 --> 00:23:23,973
+to the Moon and return him safely home.
+
+524
+00:23:26,472 --> 00:23:29,882
+- [Crow] Not bad, Joel, but
+you know you sound a little bit
+
+525
+00:23:29,882 --> 00:23:32,395
+like Cliff from Cheers.
+
+526
+00:23:32,395 --> 00:23:33,420
+This is my big scene.
+
+527
+00:23:33,420 --> 00:23:35,670
+- Not quite 10 years later.
+
+528
+00:23:38,407 --> 00:23:42,139
+- [Joel] 40 feet, down 2
+1/2, picking up some dust.
+
+529
+00:23:42,139 --> 00:23:46,056
+30 seconds, contact light
+okay, engine stopped.
+
+530
+00:23:47,414 --> 00:23:49,518
+- [Tom] We copy you down, Eagle.
+
+531
+00:23:49,518 --> 00:23:51,510
+- [Joel] Houston, Tranquility Base here.
+
+532
+00:23:51,510 --> 00:23:54,019
+The Eagle has landed.
+
+533
+00:23:54,019 --> 00:23:55,759
+- [Tom] Roger, Tranquility,
+we copy you on the ground.
+
+534
+00:23:55,759 --> 00:23:57,925
+You got a bunch of guys down
+here about to turn blue.
+
+535
+00:23:57,925 --> 00:24:00,349
+We're breathing again, thanks a lot.
+
+536
+00:24:00,349 --> 00:24:02,211
+- [Joel] Thank you.
+
+537
+00:24:02,211 --> 00:24:03,331
+- Now, now, okay.
+
+538
+00:24:03,331 --> 00:24:05,517
+I'm on the pad now.
+
+539
+00:24:05,517 --> 00:24:06,850
+I'm jumping off.
+
+540
+00:24:08,575 --> 00:24:12,742
+That's one small step for man,
+one giant leap for mankind.
+
+541
+00:24:16,597 --> 00:24:17,726
+- [Joel] Okay, here I come.
+
+542
+00:24:17,726 --> 00:24:21,327
+I'm coming down out of the Lunar Module.
+
+543
+00:24:21,327 --> 00:24:23,972
+- Hey Joel, how come your
+costume's not very good.
+
+544
+00:24:23,972 --> 00:24:26,357
+- Well, I had to be the
+President and Buzz Aldrin.
+
+545
+00:24:26,357 --> 00:24:27,357
+Okay.
+- Okay.
+
+546
+00:24:29,003 --> 00:24:29,911
+- Oh man, did it.
+
+547
+00:24:29,911 --> 00:24:30,744
+Do you have your keys?
+
+548
+00:24:30,744 --> 00:24:32,910
+I just locked ourselves out of the LEM.
+
+549
+00:24:32,910 --> 00:24:33,847
+- You what?
+
+550
+00:24:33,847 --> 00:24:36,976
+Oh wow, that's one small screw-up for you,
+
+551
+00:24:36,976 --> 00:24:39,347
+one giant screw-up for you.
+
+552
+00:24:39,347 --> 00:24:40,180
+- I'm gonna have to find,--
+
+553
+00:24:40,180 --> 00:24:41,013
+- Thus, ends our pageant.
+
+554
+00:24:41,013 --> 00:24:42,096
+- that thing.
+
+555
+00:24:43,102 --> 00:24:46,935
+("Moon Zero Two" theme music)
+
+556
+00:24:52,283 --> 00:24:53,257
+- [Tom] What's that?
+
+557
+00:24:53,257 --> 00:24:54,098
+- [Joel] I don't know.
+
+558
+00:24:54,098 --> 00:24:55,370
+- [Tom] Whoa.
+
+559
+00:24:55,370 --> 00:24:57,466
+(carefree dance music)
+
+560
+00:24:57,466 --> 00:24:58,502
+- [Joel] Yowsa.
+
+561
+00:24:58,502 --> 00:25:01,341
+- [Crow] There wearing Otello
+game pieces on their head.
+
+562
+00:25:01,341 --> 00:25:02,758
+- [Joel] Othello.
+
+563
+00:25:04,879 --> 00:25:08,258
+You know, I kinda miss the morning, guys.
+
+564
+00:25:08,258 --> 00:25:09,670
+- [Tom] I can see why.
+
+565
+00:25:09,670 --> 00:25:11,670
+- [Joel] Hey, Crow, you can't wear that.
+
+566
+00:25:11,670 --> 00:25:14,253
+- [Crow] Ow, ow, ow, thank you.
+
+567
+00:25:16,315 --> 00:25:17,466
+Hey, it looks like Liza Minnelli
+
+568
+00:25:17,466 --> 00:25:20,299
+and Lola Falana had a garage sale.
+
+569
+00:25:21,180 --> 00:25:22,603
+- I miss him, too.
+
+570
+00:25:22,603 --> 00:25:25,018
+He was a very good
+customer and a good man.
+
+571
+00:25:25,018 --> 00:25:26,601
+- And a good pilot.
+
+572
+00:25:27,563 --> 00:25:29,396
+As pilots go, he went.
+
+573
+00:25:31,410 --> 00:25:33,796
+- [Bill] Moon Flower, double.
+
+574
+00:25:33,796 --> 00:25:35,636
+- [Tom] Ah, the name's
+Bob if you don't mind.
+
+575
+00:25:35,636 --> 00:25:37,279
+- It's an old fashioned Pampas Punch.
+
+576
+00:25:37,279 --> 00:25:39,676
+- [Crow] Pamper's Punch? Ick.
+
+577
+00:25:39,676 --> 00:25:42,926
+(carefree dance music)
+
+578
+00:25:45,338 --> 00:25:47,106
+- First one's on the house.
+
+579
+00:25:47,106 --> 00:25:49,794
+- [Tom] He didn't buy me a drink.
+
+580
+00:25:49,794 --> 00:25:52,530
+- [Joel] Nice bar, really
+crummy atmosphere, though.
+
+581
+00:25:52,530 --> 00:25:53,774
+(laughs)
+
+582
+00:25:53,774 --> 00:25:55,018
+- [Tom] That one will live forever.
+
+583
+00:25:55,018 --> 00:25:57,518
+- [Crow] Lot of mileage there.
+
+584
+00:26:03,292 --> 00:26:05,779
+- It still tastes like
+distilled rocket fuel.
+
+585
+00:26:05,779 --> 00:26:08,279
+- It is distilled rocket fuel.
+
+586
+00:26:09,503 --> 00:26:10,747
+- [Crow] That's easy for you to say.
+
+587
+00:26:10,747 --> 00:26:12,326
+- How much is cost this week?
+
+588
+00:26:12,326 --> 00:26:13,987
+- $35 a shot.
+
+589
+00:26:13,987 --> 00:26:15,138
+You see, we're a long way.--
+
+590
+00:26:15,138 --> 00:26:18,238
+- A long way from Scotland, I know.
+
+591
+00:26:18,238 --> 00:26:19,269
+- [Joel] Hey pal, I've got a small part.
+
+592
+00:26:19,269 --> 00:26:22,737
+Let me finish my own
+lines, if you don't mind.
+
+593
+00:26:22,737 --> 00:26:25,417
+- But I haven't got 35 bucks a shot.
+
+594
+00:26:25,417 --> 00:26:27,999
+- Isn't it about time you got hungry.
+
+595
+00:26:27,999 --> 00:26:30,249
+- A good point, my Captain.
+
+596
+00:26:31,743 --> 00:26:35,445
+And so, the grand space engineer passes
+
+597
+00:26:35,445 --> 00:26:39,713
+into the great unknown
+of Joe's old time.--
+
+598
+00:26:39,713 --> 00:26:42,044
+- [Crow] Pizza Time Theater.
+
+599
+00:26:42,044 --> 00:26:44,294
+- Perhaps, never to return.
+
+600
+00:26:45,928 --> 00:26:48,378
+- He was Otto Von Beck's
+engineer for a couple of years
+
+601
+00:26:48,378 --> 00:26:50,279
+before he came to me.
+
+602
+00:26:50,279 --> 00:26:52,570
+- Maybe he's just glad to be alive.
+
+603
+00:26:52,570 --> 00:26:54,878
+- Sure, all engineers are crazy.
+
+604
+00:26:54,878 --> 00:26:57,766
+- [Joel] Hey, that's a
+pretty broad statement, pal.
+
+605
+00:26:57,766 --> 00:26:59,648
+- What did you call this, Pampas Punch?
+
+606
+00:26:59,648 --> 00:27:01,518
+- [Crow] No, it's bile. Why?
+
+607
+00:27:01,518 --> 00:27:04,178
+- It tastes more like
+Tijuana Brass Polish.
+
+608
+00:27:04,178 --> 00:27:06,522
+- [Crow] Good one, ha ha ha!
+
+609
+00:27:06,522 --> 00:27:09,772
+(carefree dance music)
+
+610
+00:27:15,360 --> 00:27:17,943
+- [Joel] It's Moon Zero Mostel.
+
+611
+00:27:18,948 --> 00:27:21,448
+You know what their answer is.
+
+612
+00:27:23,653 --> 00:27:25,629
+- [Crow] Hairpieces by Alexander Calder.
+
+613
+00:27:25,629 --> 00:27:28,360
+- [Joel] They're doin' the No Dance.
+
+614
+00:27:28,360 --> 00:27:29,943
+No, no, no, no, no.
+
+615
+00:27:31,244 --> 00:27:33,411
+(beeping)
+
+616
+00:27:37,151 --> 00:27:40,478
+- [Tom] Hey, he could've just said hello.
+
+617
+00:27:40,478 --> 00:27:43,478
+(fast-paced drum music)
+
+618
+00:27:47,070 --> 00:27:50,852
+- [Crow] Hey, how are they
+making that noise, Joel?
+
+619
+00:27:50,852 --> 00:27:53,845
+- That's no way to treat a phone, friend.
+
+620
+00:27:53,845 --> 00:27:54,696
+- I bought it a drink.
+
+621
+00:27:54,696 --> 00:27:56,025
+What more can a man do?
+
+622
+00:27:56,025 --> 00:27:56,859
+- [Joel] Well, maybe get it some dinner.
+
+623
+00:27:56,859 --> 00:27:59,152
+- A gentleman wants a word with you.
+
+624
+00:27:59,152 --> 00:28:01,414
+- You can tell him to go to hell instead.
+
+625
+00:28:01,414 --> 00:28:04,120
+- Mr. Hubbard wants to see you.
+
+626
+00:28:04,120 --> 00:28:06,248
+- Old 100% Hubbard?
+
+627
+00:28:06,248 --> 00:28:09,078
+- [Crow] L. Ron Hubbard,
+old Mother Hubbard?
+
+628
+00:28:09,078 --> 00:28:11,150
+- He can go 100% to hell.
+
+629
+00:28:11,150 --> 00:28:13,154
+- Let's just go and see Mr. Hubbard.
+
+630
+00:28:13,154 --> 00:28:14,992
+- Convince me.
+
+631
+00:28:14,992 --> 00:28:16,117
+- [Crow] I'm convinced.
+
+632
+00:28:16,117 --> 00:28:17,367
+Oh, it's a gun.
+
+633
+00:28:19,428 --> 00:28:20,761
+- I'm convinced.
+
+634
+00:28:22,095 --> 00:28:25,345
+(carefree dance music)
+
+635
+00:28:33,389 --> 00:28:34,556
+- Well, throw.
+
+636
+00:28:38,615 --> 00:28:40,543
+- [Joel] Ooh, stupid.
+
+637
+00:28:40,543 --> 00:28:43,210
+- [Tom] Let's Moon 'em, come on.
+
+638
+00:28:44,191 --> 00:28:45,645
+- [Joel] Honey, fix your dress.
+
+639
+00:28:45,645 --> 00:28:47,145
+- Community chest.
+
+640
+00:28:48,370 --> 00:28:49,367
+- [Crow] Yeah.
+
+641
+00:28:49,367 --> 00:28:51,012
+- Go to jail.
+
+642
+00:28:51,012 --> 00:28:52,845
+Move directly to jail.
+
+643
+00:28:54,812 --> 00:28:57,812
+Do not pass Go, do not collect $500.
+
+644
+00:29:02,240 --> 00:29:04,407
+(sucking)
+
+645
+00:29:05,576 --> 00:29:07,043
+- Will you stop sucking your thumb.
+
+646
+00:29:07,043 --> 00:29:08,210
+- [Crow] Oops.
+
+647
+00:29:10,286 --> 00:29:12,266
+- What are you going to do?
+
+648
+00:29:12,266 --> 00:29:13,722
+- I'll go to jail.
+
+649
+00:29:13,722 --> 00:29:14,899
+- Now, while you are in jail,
+
+650
+00:29:14,899 --> 00:29:18,814
+I foreclose on the mortgage
+and I bankrupt you.
+
+651
+00:29:18,814 --> 00:29:20,391
+- [Joel] Neat, well, then I'm not going
+
+652
+00:29:20,391 --> 00:29:22,974
+to be Community Chest any more.
+
+653
+00:29:24,843 --> 00:29:28,073
+- It leaves you 19,000 short.
+
+654
+00:29:28,073 --> 00:29:29,001
+You owe me 17 cents.
+
+655
+00:29:29,001 --> 00:29:30,821
+- [Joel] Nice pocket calculator.
+
+656
+00:29:30,821 --> 00:29:32,645
+- [Crow] Yeah, if you're a kangaroo.
+
+657
+00:29:32,645 --> 00:29:34,330
+- And don't forget the interest.
+
+658
+00:29:34,330 --> 00:29:35,505
+- [Tom] I'm not interested in interest.
+
+659
+00:29:35,505 --> 00:29:37,590
+(ringing)
+
+660
+00:29:37,590 --> 00:29:40,590
+- That will be Harry with our guest.
+
+661
+00:29:43,558 --> 00:29:44,860
+- [Joel] Do you bathe?
+
+662
+00:29:44,860 --> 00:29:49,027
+- [Tom] Fourth floor,
+tyrannical tycoons, loose women.
+
+663
+00:29:51,136 --> 00:29:52,553
+Works every time.
+
+664
+00:29:57,196 --> 00:29:58,696
+Don't anyone talk.
+
+665
+00:30:05,225 --> 00:30:07,455
+- Ah, it's Scotch.
+
+666
+00:30:07,455 --> 00:30:09,477
+Now, why didn't you say so?
+
+667
+00:30:09,477 --> 00:30:11,468
+- [Joel] Oh, I was
+concentrating on my lines.
+
+668
+00:30:11,468 --> 00:30:13,281
+- [Bill] Play with guns
+on the surface floor.
+
+669
+00:30:13,281 --> 00:30:16,121
+One shot and we'd all been
+breathing empty space.
+
+670
+00:30:16,121 --> 00:30:18,560
+- So, that's why you didn't
+try to take it off me up there.
+
+671
+00:30:18,560 --> 00:30:20,100
+- Well, there had to be
+a reason, didn't there?
+
+672
+00:30:20,100 --> 00:30:20,985
+- [Crow] Not necessarily.
+
+673
+00:30:20,985 --> 00:30:22,664
+Sometimes, people take it for no reason.
+
+674
+00:30:22,664 --> 00:30:26,257
+- Your reputation didn't
+exaggerate Mr Kemp.
+
+675
+00:30:26,257 --> 00:30:28,286
+Perhaps I should apologize
+for sending a man
+
+676
+00:30:28,286 --> 00:30:30,019
+like Harry to fetch the pilot.
+
+677
+00:30:30,019 --> 00:30:31,655
+- [Joel] No, I'm just wild about Harry.
+
+678
+00:30:31,655 --> 00:30:33,995
+- [Hubbard] Of the first man on Mars.
+
+679
+00:30:33,995 --> 00:30:36,162
+- [Joel] Is that who I am?
+
+680
+00:30:37,181 --> 00:30:39,763
+- Say when.
+
+681
+00:30:39,763 --> 00:30:41,456
+- A long time ago.
+
+682
+00:30:41,456 --> 00:30:43,400
+- [Hubbard] And now,
+you're flying a 10-year-old
+
+683
+00:30:43,400 --> 00:30:45,823
+space ferry and salvaging dead satellites
+
+684
+00:30:45,823 --> 00:30:47,696
+to sell to the junkyards.
+
+685
+00:30:47,696 --> 00:30:51,013
+- [Joel] Don't talk about Sarah that way.
+
+686
+00:30:51,013 --> 00:30:52,151
+(mooing)
+
+687
+00:30:52,151 --> 00:30:53,951
+- Will you stop fiddling with that thing?
+
+688
+00:30:53,951 --> 00:30:56,111
+- But I've never been to Switzerland.
+
+689
+00:30:56,111 --> 00:30:59,203
+- The only thing worth
+seein' are the banks.
+
+690
+00:30:59,203 --> 00:31:00,286
+- [Crow] Grr.
+
+691
+00:31:01,445 --> 00:31:03,835
+- I think you knew Otto Von Beck.
+
+692
+00:31:03,835 --> 00:31:05,187
+- [Crow] An auto on the
+surface of the Moon.
+
+693
+00:31:05,187 --> 00:31:06,267
+It'll never work.
+
+694
+00:31:06,267 --> 00:31:07,587
+- And I believe you are
+the only other pilot
+
+695
+00:31:07,587 --> 00:31:11,053
+on the Moon with a ship for charter.
+
+696
+00:31:11,053 --> 00:31:15,073
+Otto was going to do a little job for me.
+
+697
+00:31:15,073 --> 00:31:16,363
+Now.
+
+698
+00:31:16,363 --> 00:31:17,196
+- Now?
+
+699
+00:31:18,147 --> 00:31:19,039
+- [Tom] Now?
+
+700
+00:31:19,039 --> 00:31:20,498
+- Do you know asteroids, Mr. Kemp?
+
+701
+00:31:20,498 --> 00:31:21,532
+- [Tom] Sure, I have Atari.
+
+702
+00:31:21,532 --> 00:31:23,480
+- The remains of a planet which exploded
+
+703
+00:31:23,480 --> 00:31:25,072
+but was never formed.
+
+704
+00:31:25,072 --> 00:31:26,986
+Some of them, grains of dust.
+
+705
+00:31:26,986 --> 00:31:31,153
+Some the size of small Moons
+and everything in between.
+
+706
+00:31:32,266 --> 00:31:33,900
+- [Tom] You're making a
+spectacle out of yourself.
+
+707
+00:31:33,900 --> 00:31:36,060
+(laughs)
+
+708
+00:31:36,060 --> 00:31:38,100
+- [Joel] Doesn't he look
+like the head of KAOS?
+
+709
+00:31:38,100 --> 00:31:41,086
+- [Crow] Yeah, I was just thinking that.
+
+710
+00:31:41,086 --> 00:31:42,622
+- [Joel] Bernie Kopell?
+
+711
+00:31:42,622 --> 00:31:45,292
+- The orphans of the
+solar system, Mr. Kemp.
+
+712
+00:31:45,292 --> 00:31:46,393
+- [Joel] The guy from That Girl.
+
+713
+00:31:46,393 --> 00:31:48,889
+- And you wanna become a father.
+
+714
+00:31:48,889 --> 00:31:50,473
+- [Tom] Is that how it works?
+
+715
+00:31:50,473 --> 00:31:53,031
+- [Bill] You can't set
+up a mine on an asteroid.
+
+716
+00:31:53,031 --> 00:31:55,467
+The cost of flying the
+equipment up, the supplies,
+
+717
+00:31:55,467 --> 00:31:58,760
+bringing the ore back, it never pays.
+
+718
+00:31:58,760 --> 00:32:00,927
+- Not mine it, Mr. Kemp.
+
+719
+00:32:00,927 --> 00:32:03,027
+Land it, on the Moon.
+
+720
+00:32:03,027 --> 00:32:03,860
+- Land it?
+
+721
+00:32:04,887 --> 00:32:08,179
+You mean crash it, and that's
+against the law in a big way.
+
+722
+00:32:08,179 --> 00:32:10,132
+- [Crow] He's right, just ask John Landis.
+
+723
+00:32:10,132 --> 00:32:13,715
+- A young pilot might
+drop it on Moon City.
+
+724
+00:32:15,559 --> 00:32:18,221
+Well, we don't do things that way.
+
+725
+00:32:18,221 --> 00:32:19,503
+You would have the results
+
+726
+00:32:19,503 --> 00:32:22,336
+of two years research to help you.
+
+727
+00:32:23,171 --> 00:32:25,671
+- [Joel] Good Lord, he's ugly.
+
+728
+00:32:26,973 --> 00:32:28,757
+He's so immense.
+
+729
+00:32:28,757 --> 00:32:32,125
+- So, what's so special
+about one asteroid?
+
+730
+00:32:32,125 --> 00:32:33,289
+- [Joel] It's worth bonus points.
+
+731
+00:32:33,289 --> 00:32:34,318
+You go into the next screen.
+
+732
+00:32:34,318 --> 00:32:35,151
+- You'll find out yourself
+when you get there,
+
+733
+00:32:35,151 --> 00:32:37,651
+so I may as well tell you now.
+
+734
+00:32:39,455 --> 00:32:40,288
+Whitsun.
+
+735
+00:32:44,721 --> 00:32:47,907
+- [Crow] I don't even know my name.
+
+736
+00:32:47,907 --> 00:32:50,172
+- Too small to have
+either a name or a number,
+
+737
+00:32:50,172 --> 00:32:52,821
+the asteroid was first
+photographed in 1998,
+
+738
+00:32:52,821 --> 00:32:54,921
+when it happened to
+pass close to the Earth.
+
+739
+00:32:54,921 --> 00:32:57,853
+But it was never investigated or plotted.
+
+740
+00:32:57,853 --> 00:32:59,686
+- Until two years ago.
+
+741
+00:33:00,935 --> 00:33:01,841
+- This film was taken
+
+742
+00:33:01,841 --> 00:33:04,061
+by Mr. Hubbard's astronomical division.
+
+743
+00:33:04,061 --> 00:33:05,447
+- [Joel] I'm sorry, that's my gallstone.
+
+744
+00:33:05,447 --> 00:33:07,768
+- Barely 60 feet by 30 by 30,
+
+745
+00:33:07,768 --> 00:33:10,956
+estimated mass approximately 6,000 tons.
+
+746
+00:33:10,956 --> 00:33:12,839
+- [Tom] Heavy.
+
+747
+00:33:12,839 --> 00:33:14,874
+- [Crow] This is me playing Breakout.
+
+748
+00:33:14,874 --> 00:33:17,588
+- Do you read spectral grams, Mr. Kemp?
+
+749
+00:33:17,588 --> 00:33:19,588
+- Some of the easy ones.
+
+750
+00:33:20,837 --> 00:33:23,744
+This part looks like aluminum.
+
+751
+00:33:23,744 --> 00:33:25,580
+- That's very good.
+
+752
+00:33:25,580 --> 00:33:28,827
+It's quite similar to aluminum.
+
+753
+00:33:28,827 --> 00:33:30,982
+- [Joel] Is that Richard
+Seals' stupider brother?
+
+754
+00:33:30,982 --> 00:33:32,409
+- In the heart of an exploding planet
+
+755
+00:33:32,409 --> 00:33:35,242
+hundreds of millions of years ago.
+
+756
+00:33:36,133 --> 00:33:37,784
+What is the name again, Whitsun?
+
+757
+00:33:37,784 --> 00:33:41,052
+- A ceramic crystalline form
+of corundum aluminum oxide.
+
+758
+00:33:41,052 --> 00:33:43,635
+- [Tom] Or something like that.
+
+759
+00:33:44,541 --> 00:33:46,291
+- Sapphire, Mr. Kemp.
+
+760
+00:33:47,885 --> 00:33:49,478
+- [Tom] I love Sapphire.
+
+761
+00:33:49,478 --> 00:33:50,697
+- Sapphire.
+
+762
+00:33:50,697 --> 00:33:51,559
+- [Tom] She's great.
+
+763
+00:33:51,559 --> 00:33:54,392
+- 6,000 tons of gemstone sapphire.
+
+764
+00:33:56,639 --> 00:33:57,655
+- [Crow] Okay.
+
+765
+00:33:57,655 --> 00:34:01,572
+- That's what's so special
+about this asteroid.
+
+766
+00:34:02,650 --> 00:34:07,210
+- [Crow] Well, that's my
+birthstone, I'll do it.
+
+767
+00:34:07,210 --> 00:34:08,806
+- Well?
+
+768
+00:34:08,806 --> 00:34:11,483
+- Sounds like a nice profitable idea,
+
+769
+00:34:11,483 --> 00:34:14,066
+but it's still against the law.
+
+770
+00:34:16,268 --> 00:34:18,043
+- [Joel] So's your forehead, though.
+
+771
+00:34:18,043 --> 00:34:19,155
+- [Whitsun] We understand
+that you're already
+
+772
+00:34:19,155 --> 00:34:22,045
+in trouble with the law,
+on safety regulations.
+
+773
+00:34:22,045 --> 00:34:22,928
+- [Tom] Hm?
+- [Crow] Hm?
+
+774
+00:34:22,928 --> 00:34:24,569
+- The bureau wants to ground you.
+
+775
+00:34:24,569 --> 00:34:27,145
+- [Hubbard] Oh, come now, Whitsun.
+
+776
+00:34:27,145 --> 00:34:29,129
+That's no way to treat our guest.
+
+777
+00:34:29,129 --> 00:34:30,680
+- [Crow] Yeah, he's too old for grounding.
+
+778
+00:34:30,680 --> 00:34:34,552
+- Mr. Kemp must be entirely
+free to make up his own mind.
+
+779
+00:34:34,552 --> 00:34:35,996
+- [Joel] Which is great for him.
+
+780
+00:34:35,996 --> 00:34:38,932
+- And just suppose I freely
+make up my mind to come in.
+
+781
+00:34:38,932 --> 00:34:40,384
+What do I get out of it?
+
+782
+00:34:40,384 --> 00:34:44,156
+- [Tom] Don Pardo, show 'em what they win.
+
+783
+00:34:44,156 --> 00:34:47,030
+- A brand new space ferry.
+
+784
+00:34:47,030 --> 00:34:47,863
+- [Joel] Hello?
+
+785
+00:34:47,863 --> 00:34:49,282
+- It could come in handy.
+
+786
+00:34:49,282 --> 00:34:51,782
+- We'll have you one tomorrow.
+
+787
+00:34:52,892 --> 00:34:54,399
+- But at that price, you
+could get your own ship,
+
+788
+00:34:54,399 --> 00:34:56,714
+get your own crew.
+
+789
+00:34:56,714 --> 00:34:58,297
+- But not secretly.
+
+790
+00:34:59,224 --> 00:35:03,062
+You see, someone like myself
+starts to outfit an expedition
+
+791
+00:35:03,062 --> 00:35:05,836
+into space, well, it
+attracts questions, snoopers.
+
+792
+00:35:05,836 --> 00:35:07,769
+- [Tom] Snoopers and blabbers.
+
+793
+00:35:07,769 --> 00:35:10,805
+- Investigations from the Bureau.
+
+794
+00:35:10,805 --> 00:35:14,305
+But you, well, you just pop off into space
+
+795
+00:35:15,396 --> 00:35:16,405
+on one of your scavenging--
+
+796
+00:35:16,405 --> 00:35:17,238
+- [Tom] Hey!
+
+797
+00:35:17,238 --> 00:35:19,667
+- Flights, no questions asked.
+
+798
+00:35:19,667 --> 00:35:23,990
+And a few days later,
+an asteroid just happens
+
+799
+00:35:23,990 --> 00:35:27,451
+to land on the Far Side of the Moon.
+
+800
+00:35:27,451 --> 00:35:30,328
+- [Whitsun] And since
+nobody's bothered to plot it,
+
+801
+00:35:30,328 --> 00:35:31,161
+nobody can say.--
+
+802
+00:35:31,161 --> 00:35:33,434
+- [Crow] Oh, thank you, Vidal Sassoon.
+
+803
+00:35:33,434 --> 00:35:37,272
+I don't look good and you don't look good.
+
+804
+00:35:37,272 --> 00:35:41,105
+("Moon Zero Two" theme music)
+
+805
+00:35:43,299 --> 00:35:47,308
+- [Voiceover] PanAm Spaceway,
+Bug Express flight 83
+
+806
+00:35:47,308 --> 00:35:48,276
+will lift off.--
+
+807
+00:35:48,276 --> 00:35:51,953
+- [Crow] Hey, her boots are eatin' her.
+
+808
+00:35:51,953 --> 00:35:54,361
+- [Tom] That's a tribute
+to Bronco Nagurski.
+
+809
+00:35:54,361 --> 00:35:56,927
+- [Joel] She was in
+Yards of Leather I think.
+
+810
+00:35:56,927 --> 00:35:59,805
+- Us unsalaried workers
+have to keep working.
+
+811
+00:35:59,805 --> 00:36:00,742
+- [Crow] Ouch!
+
+812
+00:36:00,742 --> 00:36:03,225
+- Looks like quite a
+heavy load you have there.
+
+813
+00:36:03,225 --> 00:36:04,544
+What is it?
+
+814
+00:36:04,544 --> 00:36:06,987
+- Oh, some experimental
+propulsion equipment
+
+815
+00:36:06,987 --> 00:36:09,570
+I wanna protest in space.
+
+816
+00:36:09,570 --> 00:36:11,936
+- [Tom] Sure, did you get
+it from a honeyMoon catalog?
+
+817
+00:36:11,936 --> 00:36:15,110
+- Section 47C, paragraph one.
+
+818
+00:36:15,110 --> 00:36:18,611
+No information about commercial
+or industrial secrets
+
+819
+00:36:18,611 --> 00:36:20,524
+need be disclosed without authority
+
+820
+00:36:20,524 --> 00:36:23,080
+of the Moon Code Warrant.
+
+821
+00:36:23,080 --> 00:36:24,952
+- [Joel] But I'm paraphrasing, of course.
+
+822
+00:36:24,952 --> 00:36:26,700
+- There's more than one way to skin a cat.
+
+823
+00:36:26,700 --> 00:36:27,564
+- [Tom] Everyone says that,
+
+824
+00:36:27,564 --> 00:36:28,833
+but no one ever tells me the other way.
+
+825
+00:36:28,833 --> 00:36:30,333
+- Good luck, Bill.
+
+826
+00:36:32,902 --> 00:36:34,711
+- You'll have to marry that girl, Bill
+
+827
+00:36:34,711 --> 00:36:35,775
+- What do you mean, have to?
+
+828
+00:36:35,775 --> 00:36:39,091
+- It might be better than
+have her throw you in jail.
+
+829
+00:36:39,091 --> 00:36:40,670
+- [Crow] Looks like
+these guys got suited up
+
+830
+00:36:40,670 --> 00:36:42,384
+for a Foosball game.
+
+831
+00:36:42,384 --> 00:36:44,177
+- You'd better marry her anyway.
+
+832
+00:36:44,177 --> 00:36:45,186
+- [Joel] You gotta marry her, Bill.
+
+833
+00:36:45,186 --> 00:36:47,389
+She's got the wedding bell blues.
+
+834
+00:36:47,389 --> 00:36:49,556
+- [Crow] Up, up, and away.
+
+835
+00:36:51,245 --> 00:36:54,578
+- [Joel] I'll just throw this back here.
+
+836
+00:36:55,529 --> 00:36:57,739
+- [Tom] Ah, I'm intrinsically evil,
+
+837
+00:36:57,739 --> 00:37:00,260
+and I've got a new jogging
+suit I'm showing off.
+
+838
+00:37:00,260 --> 00:37:03,339
+- Lift off of Earth Express.
+
+839
+00:37:03,339 --> 00:37:07,422
+We understand it's a side
+no tourist should miss.
+
+840
+00:37:08,612 --> 00:37:10,342
+When will you be ready to lift off?
+
+841
+00:37:10,342 --> 00:37:13,562
+- Yes, this time, we
+can pay the bill, okay?
+
+842
+00:37:13,562 --> 00:37:15,645
+- [All] Okay, Mr. Fawlty.
+
+843
+00:37:17,306 --> 00:37:18,988
+- The pump valve on number 2.
+
+844
+00:37:18,988 --> 00:37:20,405
+We are ready now.
+
+845
+00:37:22,368 --> 00:37:23,201
+Passengers?
+
+846
+00:37:23,201 --> 00:37:25,174
+- He's got a computer in that briefcase.
+
+847
+00:37:25,174 --> 00:37:26,199
+- [Joel] And he's not afraid to use it.
+
+848
+00:37:26,199 --> 00:37:27,032
+- [Crow] Duck!
+
+849
+00:37:27,032 --> 00:37:27,865
+- He can help with the heavy work.
+
+850
+00:37:27,865 --> 00:37:29,282
+- I'll get order.
+
+851
+00:37:31,695 --> 00:37:33,520
+- That's Mr. Karminski, isn't it?
+
+852
+00:37:33,520 --> 00:37:34,687
+Your engineer.
+
+853
+00:37:35,829 --> 00:37:37,719
+What nationality is he?
+
+854
+00:37:37,719 --> 00:37:40,182
+- [Crow] He's from Barcelona.
+
+855
+00:37:40,182 --> 00:37:42,109
+- It wasn't quite what I asked.
+
+856
+00:37:42,109 --> 00:37:44,171
+- We're all foreigners up here.
+
+857
+00:37:44,171 --> 00:37:46,907
+- [Joel] Some more than others.
+
+858
+00:37:46,907 --> 00:37:48,390
+- Ready to go?
+
+859
+00:37:48,390 --> 00:37:50,269
+Without the pistol, please.
+
+860
+00:37:50,269 --> 00:37:51,929
+- You don't take this off me twice.
+
+861
+00:37:51,929 --> 00:37:52,804
+- Then the trips off.
+
+862
+00:37:52,804 --> 00:37:53,899
+If that thing goes off in the ship,
+
+863
+00:37:53,899 --> 00:37:57,428
+we'd never get back to explain why.
+
+864
+00:37:57,428 --> 00:37:59,345
+- Give it to me, Harry.
+
+865
+00:38:01,037 --> 00:38:02,922
+- [Crow] But I feel
+totally naked without it.
+
+866
+00:38:02,922 --> 00:38:04,839
+It's my only accessory.
+
+867
+00:38:06,107 --> 00:38:09,061
+- [Joel] Give him the
+pearl earrings too, Harry.
+
+868
+00:38:09,061 --> 00:38:11,833
+- Let's hope we all
+have a profitable trip.
+
+869
+00:38:11,833 --> 00:38:14,608
+- Let you know in about four days.
+
+870
+00:38:14,608 --> 00:38:16,271
+- [Joel] Pow, Sluggo.
+
+871
+00:38:16,271 --> 00:38:18,599
+- [Voiceover] Please
+report to immigration.
+
+872
+00:38:18,599 --> 00:38:22,682
+Passenger flight 320 Mars,
+report to immigration.
+
+873
+00:38:24,641 --> 00:38:26,058
+- [Joel] Shut up.
+
+874
+00:38:27,452 --> 00:38:28,285
+- [Tom] That's the coffee.
+
+875
+00:38:28,285 --> 00:38:31,618
+That should be ready in a minute or two.
+
+876
+00:38:33,854 --> 00:38:34,755
+- Okay, we're pressurized.
+
+877
+00:38:34,755 --> 00:38:36,837
+You can take your helmets off.
+
+878
+00:38:36,837 --> 00:38:38,253
+- [Joel] Just kidding.
+
+879
+00:38:38,253 --> 00:38:40,217
+- Whitsun, I want the main course
+
+880
+00:38:40,217 --> 00:38:43,138
+exactly 90 seconds after blastoff.
+
+881
+00:38:43,138 --> 00:38:45,448
+- [Crow] You are a hungry little guy.
+
+882
+00:38:45,448 --> 00:38:47,480
+- Are we letting him navigate?
+
+883
+00:38:47,480 --> 00:38:50,320
+- He's got a better computer than we have.
+
+884
+00:38:50,320 --> 00:38:51,650
+- Can he use it?
+
+885
+00:38:51,650 --> 00:38:53,124
+- [Bill] He figures
+counting miles per hour
+
+886
+00:38:53,124 --> 00:38:57,076
+isn't so different from
+dollars per second.
+
+887
+00:38:57,076 --> 00:38:58,292
+- As long as he remembers he can't get
+
+888
+00:38:58,292 --> 00:39:00,162
+miles per hour on credit.
+
+889
+00:39:00,162 --> 00:39:02,337
+- [Joel] Ha ha, I love your wry naive wit,
+
+890
+00:39:02,337 --> 00:39:03,920
+my European friend.
+
+891
+00:39:05,013 --> 00:39:07,346
+- Request takeoff clearance.
+
+892
+00:39:08,415 --> 00:39:11,498
+Round trip, no landing away as usual.
+
+893
+00:39:13,084 --> 00:39:16,917
+- [Crow] First class or
+coach, smoking or non?
+
+894
+00:39:19,972 --> 00:39:22,052
+- [Voiceover] Zero Two, you're clear.
+
+895
+00:39:22,052 --> 00:39:24,433
+Mars Express due in 20 minutes.
+
+896
+00:39:24,433 --> 00:39:25,743
+- [Tom] But are we clear?
+
+897
+00:39:25,743 --> 00:39:28,910
+- Zero Two, I'll try to miss him, out.
+
+898
+00:39:30,201 --> 00:39:33,460
+- [Crow] They really did a great
+job of antiquing that ship.
+
+899
+00:39:33,460 --> 00:39:34,867
+- [Joel] Slap in the road tape, dude.
+
+900
+00:39:34,867 --> 00:39:38,026
+And get the JD from under the seat.
+
+901
+00:39:38,026 --> 00:39:40,969
+("Moon Zero Two" theme music)
+
+902
+00:39:40,969 --> 00:39:44,469
+- [Crow] Kate Melonhead, get off my foot.
+
+903
+00:39:49,121 --> 00:39:52,604
+- [Joel] He travels with Roller
+Derby queens, it's great.
+
+904
+00:39:52,604 --> 00:39:54,715
+- [Tom] Ah, it's Esther Williams.
+
+905
+00:39:54,715 --> 00:39:56,072
+She's in a fish bowl.
+
+906
+00:39:56,072 --> 00:39:58,285
+- [Voiceover] Got that
+course yet, Whitsun?
+
+907
+00:39:58,285 --> 00:40:00,121
+- Relative to the
+electric, I wanna a course
+
+908
+00:40:00,121 --> 00:40:03,017
+of alpha three, five, one,
+Peter one, seven, nine,
+
+909
+00:40:03,017 --> 00:40:04,100
+speed 17,500.
+
+910
+00:40:05,441 --> 00:40:06,788
+- [Crow] Then a sherry, medium dry.
+
+911
+00:40:06,788 --> 00:40:08,465
+- It sounds as if he knows.
+
+912
+00:40:08,465 --> 00:40:11,196
+- [Bill] It does, doesn't it?
+
+913
+00:40:11,196 --> 00:40:12,575
+- Do you think he means.--
+
+914
+00:40:12,575 --> 00:40:14,702
+- [Crow] Woop, woop, woop, woop.
+
+915
+00:40:14,702 --> 00:40:17,202
+- Oh, more or less, I suppose.
+
+916
+00:40:19,179 --> 00:40:21,687
+- I hope it's not too difficult for you.
+
+917
+00:40:21,687 --> 00:40:23,805
+- Not at all, Mr. Whitsun.
+
+918
+00:40:23,805 --> 00:40:25,153
+- Well, if you have it on bitograph,
+
+919
+00:40:25,153 --> 00:40:27,805
+I hope I can make the
+situation clear to you.
+
+920
+00:40:27,805 --> 00:40:29,305
+- It's over there.
+
+921
+00:40:31,053 --> 00:40:33,957
+Well, it's not new, but I think it works.
+
+922
+00:40:33,957 --> 00:40:38,124
+- [Joel] Are we talking
+about the same thing here?
+
+923
+00:40:40,365 --> 00:40:44,532
+- [Tom] Would you turn off
+Peter and the Wolf, please?
+
+924
+00:40:49,583 --> 00:40:52,962
+- The Earth, the Moon revolving around it.
+
+925
+00:40:52,962 --> 00:40:55,804
+Now this year, this week,
+the asteroid is making
+
+926
+00:40:55,804 --> 00:40:59,971
+it's closest approach to the
+Moon since 1998 on this course.
+
+927
+00:41:00,868 --> 00:41:01,701
+- [Crow] It's the closest approach
+
+928
+00:41:01,701 --> 00:41:04,868
+since I grew my bushy-wushy sideburns.
+
+929
+00:41:05,923 --> 00:41:08,411
+- Just here, 45 hours from now.
+
+930
+00:41:08,411 --> 00:41:10,165
+- [Joel] The Importance of Being Earnest,
+
+931
+00:41:10,165 --> 00:41:11,987
+that's where I saw him.
+
+932
+00:41:11,987 --> 00:41:13,346
+- [Crow] A Gentleman Caller, actually.
+
+933
+00:41:13,346 --> 00:41:15,061
+But these rockets, as I was saying.
+
+934
+00:41:15,061 --> 00:41:18,478
+- The asteroid will change to this orbit.
+
+935
+00:41:19,319 --> 00:41:21,370
+You will observe that its speed relative
+
+936
+00:41:21,370 --> 00:41:22,873
+to the Moon is quite slow
+
+937
+00:41:22,873 --> 00:41:25,588
+and that it is only visible from Far Side.
+
+938
+00:41:25,588 --> 00:41:28,497
+The radar stations on
+Near Side cannot see it.
+
+939
+00:41:28,497 --> 00:41:30,169
+You appreciate the importance of this?
+
+940
+00:41:30,169 --> 00:41:33,015
+- If they could, we'd be in
+jail the moment we got back.
+
+941
+00:41:33,015 --> 00:41:34,035
+- Exactly.
+
+942
+00:41:34,035 --> 00:41:35,185
+- [Joel] Have you ever been in jail?
+
+943
+00:41:35,185 --> 00:41:37,091
+You'd like it quite a lot.
+
+944
+00:41:37,091 --> 00:41:38,699
+- The asteroid will have
+come within 10,000 miles
+
+945
+00:41:38,699 --> 00:41:40,485
+of the Moon, we should return to it,
+
+946
+00:41:40,485 --> 00:41:42,498
+take new measurements, reset the engines,
+
+947
+00:41:42,498 --> 00:41:44,144
+and fire them again.
+
+948
+00:41:44,144 --> 00:41:45,089
+- [Joel] Am I boring you?
+
+949
+00:41:45,089 --> 00:41:47,578
+- The asteroid lands on the Moon.
+
+950
+00:41:47,578 --> 00:41:50,087
+- Crunch, I get the picture.
+
+951
+00:41:50,087 --> 00:41:52,462
+- The convoy's in from Fire Flight five.
+
+952
+00:41:52,462 --> 00:41:53,295
+- [Tom] Huh?
+
+953
+00:41:53,295 --> 00:41:57,295
+- [Crow] Well, I'm glad
+they know what she said.
+
+954
+00:41:58,690 --> 00:42:00,094
+- [Tom] Hey, there's a sale of panties.
+
+955
+00:42:00,094 --> 00:42:02,309
+- [Joel] Hide the garnishes, quick.
+
+956
+00:42:02,309 --> 00:42:06,013
+All the knickknacks gotta be moved.
+
+957
+00:42:06,013 --> 00:42:09,263
+(lively country music)
+
+958
+00:42:10,231 --> 00:42:11,657
+- [Crow] They sure are a shiny bunch.
+
+959
+00:42:11,657 --> 00:42:13,727
+- [Joel] Hey, it's Randolph Mantooth.
+
+960
+00:42:13,727 --> 00:42:14,612
+- I'm sorry, I thought you were my.
+
+961
+00:42:14,612 --> 00:42:15,862
+- Wrong number.
+
+962
+00:42:19,287 --> 00:42:20,846
+- [Joel] Is that rayon they're wearing?
+
+963
+00:42:20,846 --> 00:42:22,166
+- [Crow] Naugahyde.
+
+964
+00:42:22,166 --> 00:42:24,833
+- [Joel] Hey, it's Hee Haw 1999.
+
+965
+00:42:28,646 --> 00:42:30,010
+- [Crow] Pretty soon,
+they'll get those big,
+
+966
+00:42:30,010 --> 00:42:32,418
+foam weird number one hands.
+
+967
+00:42:32,418 --> 00:42:35,668
+(lively country music)
+
+968
+00:42:38,792 --> 00:42:40,055
+- [Crow] Hey, anybody know where a guy
+
+969
+00:42:40,055 --> 00:42:41,962
+can get some Armor All around here?
+
+970
+00:42:41,962 --> 00:42:43,918
+- [Joel] Hey, it's the same
+dance with different hats,
+
+971
+00:42:43,918 --> 00:42:47,501
+but it's a completely
+different experience.
+
+972
+00:42:50,056 --> 00:42:51,451
+- [Crow] Excuse me, ma'am.
+
+973
+00:42:51,451 --> 00:42:52,980
+Someone didn't finish your haircut.
+
+974
+00:42:52,980 --> 00:42:54,563
+Oh my, I'm in love.
+
+975
+00:42:55,967 --> 00:42:59,161
+- Excuse me again, but do
+you know Mr. Wallace Taplin?
+
+976
+00:42:59,161 --> 00:43:00,667
+- Wally, yes, I know Wally.
+
+977
+00:43:00,667 --> 00:43:01,758
+- [Tom] Sounds like the Benny Hill Show.
+
+978
+00:43:01,758 --> 00:43:03,500
+- Not well enough, apparently.
+
+979
+00:43:03,500 --> 00:43:05,065
+- You a friend of his?
+
+980
+00:43:05,065 --> 00:43:06,582
+- No, I'm his sister.
+
+981
+00:43:06,582 --> 00:43:07,808
+- [Man in Gray] That's a great relief.
+
+982
+00:43:07,808 --> 00:43:09,148
+- Was he on this convoy?
+
+983
+00:43:09,148 --> 00:43:10,518
+- Well, if he was, I didn't see him.
+
+984
+00:43:10,518 --> 00:43:11,945
+- [Crow] Well, what was his handle?
+
+985
+00:43:11,945 --> 00:43:13,938
+- [Man in Plaid] Would you
+like to sit down, take a drink?
+
+986
+00:43:13,938 --> 00:43:15,115
+- Yes, yes, join us.
+
+987
+00:43:15,115 --> 00:43:17,341
+- Three more rocket fuels, please.
+
+988
+00:43:17,341 --> 00:43:18,574
+- [Crow] And an air freshener.
+
+989
+00:43:18,574 --> 00:43:20,740
+You know their rocket
+fuel contains no ethanol.
+
+990
+00:43:20,740 --> 00:43:23,238
+- I haven't seen Wally
+in maybe four months.
+
+991
+00:43:23,238 --> 00:43:24,071
+- [Joel] Hand check.
+
+992
+00:43:24,071 --> 00:43:25,691
+- He sent me a cable to meet him here.
+
+993
+00:43:25,691 --> 00:43:26,565
+- [Man in Gray] You're just up from Earth?
+
+994
+00:43:26,565 --> 00:43:27,398
+- [Clem] Yeah.
+
+995
+00:43:27,398 --> 00:43:28,231
+- You try radioing him?
+
+996
+00:43:28,231 --> 00:43:30,901
+You can't, that satellite's out, isn't it?
+
+997
+00:43:30,901 --> 00:43:32,366
+You'd think they'd have
+decent communications
+
+998
+00:43:32,366 --> 00:43:33,713
+here on the Moon.
+
+999
+00:43:33,713 --> 00:43:35,689
+- No government ever spent one dollar
+
+1000
+00:43:35,689 --> 00:43:36,950
+until they've lost five.
+
+1001
+00:43:36,950 --> 00:43:38,194
+- Yeah, five for us.
+
+1002
+00:43:38,194 --> 00:43:39,531
+- [Joel] Hey, it's Buffalo Bob.
+
+1003
+00:43:39,531 --> 00:43:40,725
+- We're out of contact the way we are
+
+1004
+00:43:40,725 --> 00:43:42,056
+around the back there.
+
+1005
+00:43:42,056 --> 00:43:43,607
+- [Crow] Why are they all English?
+
+1006
+00:43:43,607 --> 00:43:45,051
+- [Tom] Geezit, it's a Gator Babe.
+
+1007
+00:43:45,051 --> 00:43:46,865
+- [Joel] 'Cause they're
+the only ones pale enough
+
+1008
+00:43:46,865 --> 00:43:50,615
+to simulate being out
+of the direct sunlight.
+
+1009
+00:43:52,416 --> 00:43:53,333
+- [Liz] Any news, Miss Taplin?
+
+1010
+00:43:53,333 --> 00:43:55,054
+- Something must have happened to him.
+
+1011
+00:43:55,054 --> 00:43:56,867
+Nobody's seen him in months.
+
+1012
+00:43:56,867 --> 00:43:58,816
+- Well, he may have
+just missed the convoy.
+
+1013
+00:43:58,816 --> 00:43:59,852
+- [Joel] I love that woman.
+
+1014
+00:43:59,852 --> 00:44:02,270
+- Is Pretty Rock compared
+to Far Side five.
+
+1015
+00:44:02,270 --> 00:44:03,103
+- [Joel] Oh, we better get out of here.
+
+1016
+00:44:03,103 --> 00:44:04,856
+- [Crow] I love that one.
+
+1017
+00:44:04,856 --> 00:44:05,908
+Come on, you guys, let's go.
+
+1018
+00:44:05,908 --> 00:44:07,266
+- [Crow] I wanna stay and watch my babe.
+
+1019
+00:44:07,266 --> 00:44:10,941
+- If you have any news or
+want any help, let me know.
+
+1020
+00:44:10,941 --> 00:44:14,774
+("Moon Zero Two" theme music)
+
+1021
+00:44:17,149 --> 00:44:18,682
+- You know, you guys, I was just thinking
+
+1022
+00:44:18,682 --> 00:44:22,103
+about that kinda dumb Moonopoly
+joke they've got in there.
+
+1023
+00:44:22,103 --> 00:44:23,831
+It's just a stupid pun, but you know,
+
+1024
+00:44:23,831 --> 00:44:26,567
+in the future the games
+we play now are going
+
+1025
+00:44:26,567 --> 00:44:29,646
+to be a lot different with
+the future element involved.
+
+1026
+00:44:29,646 --> 00:44:31,725
+You know, like Twister will probably
+
+1027
+00:44:31,725 --> 00:44:33,884
+be played on your tongue.
+
+1028
+00:44:33,884 --> 00:44:37,926
+- Yeah, and Nintendo would be Moontendo
+
+1029
+00:44:37,926 --> 00:44:40,103
+with the Super Lunar Mario Brothers.
+
+1030
+00:44:40,103 --> 00:44:41,841
+- Or Risk is Riskier.
+
+1031
+00:44:41,841 --> 00:44:45,316
+- Right, and Sorry will
+seem to be the hardest game.
+
+1032
+00:44:45,316 --> 00:44:47,745
+- And say you're playing
+Clue and that the answer
+
+1033
+00:44:47,745 --> 00:44:51,340
+might be Colonel Mustard
+in the Command Module
+
+1034
+00:44:51,340 --> 00:44:53,980
+with laser bolos, 'cause it's spacial.
+
+1035
+00:44:53,980 --> 00:44:56,045
+- Parchisi will be Greenchisi.
+
+1036
+00:44:56,045 --> 00:44:58,048
+- Right, Skittle Ball will be the same
+
+1037
+00:44:58,048 --> 00:44:59,844
+but it will take even longer to set up
+
+1038
+00:44:59,844 --> 00:45:01,184
+'cause of no gravity.
+
+1039
+00:45:01,184 --> 00:45:04,111
+- Shoots and Ladders is
+replaced by vacuum tubes.
+
+1040
+00:45:04,111 --> 00:45:05,217
+You know, like on the Jetson's,
+
+1041
+00:45:05,217 --> 00:45:06,584
+because that's the only
+way they can get around
+
+1042
+00:45:06,584 --> 00:45:07,476
+from place to place.
+
+1043
+00:45:07,476 --> 00:45:08,309
+- Candyland's the same,
+
+1044
+00:45:08,309 --> 00:45:10,147
+but you should see the
+new flavors they've got.
+
+1045
+00:45:10,147 --> 00:45:10,980
+- Right.
+
+1046
+00:45:10,980 --> 00:45:13,468
+- Kaboom is called
+Don't Smoke in the Ship,
+
+1047
+00:45:13,468 --> 00:45:15,114
+because it's an oxygen-rich atmosphere
+
+1048
+00:45:15,114 --> 00:45:18,767
+and you could blow up
+and that would be bad.
+
+1049
+00:45:18,767 --> 00:45:19,660
+- Right, and they won't have mice
+
+1050
+00:45:19,660 --> 00:45:22,339
+because they'll need to
+use them for research.
+
+1051
+00:45:22,339 --> 00:45:23,565
+- No Mouse Trap.
+- You can't play Mouse Trap.
+
+1052
+00:45:23,565 --> 00:45:24,472
+- Right, okay.
+
+1053
+00:45:24,472 --> 00:45:25,572
+Etch-A-Sketch will finally be able
+
+1054
+00:45:25,572 --> 00:45:27,830
+to draw curvy lines, I bet.
+
+1055
+00:45:27,830 --> 00:45:29,115
+- And Scruples aren't around anymore
+
+1056
+00:45:29,115 --> 00:45:30,511
+because people won't have any.
+
+1057
+00:45:30,511 --> 00:45:33,348
+- Trivial Pursuit will
+be Trivial Moonsuit.
+
+1058
+00:45:33,348 --> 00:45:35,020
+- Now, it's Win, Lose, or Draw is called
+
+1059
+00:45:35,020 --> 00:45:37,270
+Win, Lose, and Draw Oxygen.
+
+1060
+00:45:38,181 --> 00:45:41,412
+- Password has been replaced
+by games higher in fiber.
+
+1061
+00:45:41,412 --> 00:45:44,337
+- Well, I got a game from
+my past that's in my present
+
+1062
+00:45:44,337 --> 00:45:46,363
+and I think will keep
+going into the future.
+
+1063
+00:45:46,363 --> 00:45:47,388
+You know how it works, guys.
+
+1064
+00:45:47,388 --> 00:45:49,836
+It's Rock 'em Sock 'em Robots.
+
+1065
+00:45:49,836 --> 00:45:52,086
+(grunting)
+
+1066
+00:45:53,267 --> 00:45:56,626
+All right, I knocked his block off.
+
+1067
+00:45:56,626 --> 00:45:58,498
+(buzzing)
+
+1068
+00:45:58,498 --> 00:46:01,406
+- Whoa, movie's starting,
+get me outta here.
+
+1069
+00:46:01,406 --> 00:46:02,239
+Let's go.
+
+1070
+00:46:03,143 --> 00:46:05,393
+(whirring)
+
+1071
+00:46:09,788 --> 00:46:13,955
+- [Karminski] Three, two,
+give her the works, cut.
+
+1072
+00:46:15,433 --> 00:46:16,955
+- [Tom] Don't Rock 'em
+Sock 'em us anymore.
+
+1073
+00:46:16,955 --> 00:46:17,788
+Stop it.
+
+1074
+00:46:17,788 --> 00:46:18,756
+- [Crow] Hey, let me
+at him, let me at him.
+
+1075
+00:46:18,756 --> 00:46:19,589
+- [Joel] Come on, you guys.
+
+1076
+00:46:19,589 --> 00:46:20,422
+- [Crow] I'll murder him.
+
+1077
+00:46:20,422 --> 00:46:23,172
+- [Joel] You need to break it up.
+
+1078
+00:46:26,633 --> 00:46:29,472
+- [Bill] A 6,000 ton jewel.
+
+1079
+00:46:29,472 --> 00:46:30,795
+How would you like to meet the broad
+
+1080
+00:46:30,795 --> 00:46:32,549
+who could hang that around her neck?
+
+1081
+00:46:32,549 --> 00:46:36,577
+- [Crow] Aw, she's
+probably got a boyfriend.
+
+1082
+00:46:36,577 --> 00:46:39,994
+(eerie orchestral music)
+
+1083
+00:46:47,571 --> 00:46:51,321
+- [Joel] What do you
+think of being in space?
+
+1084
+00:46:52,513 --> 00:46:54,529
+- [Crow] Hey, it's Major Kong.
+
+1085
+00:46:54,529 --> 00:46:58,273
+- [Tom] Is that what they
+call a crotch rocket?
+
+1086
+00:46:58,273 --> 00:46:59,106
+- [Joel] Oh, I never knew
+outer space was so well lit.
+
+1087
+00:46:59,106 --> 00:47:02,523
+(eerie orchestral music)
+
+1088
+00:47:17,895 --> 00:47:19,659
+- [Crow] In space, no
+one can hear you yawn.
+
+1089
+00:47:19,659 --> 00:47:21,550
+- Where exactly do you want this attached?
+
+1090
+00:47:21,550 --> 00:47:22,539
+- On the cradle.
+
+1091
+00:47:22,539 --> 00:47:23,700
+Treat it gently.
+
+1092
+00:47:23,700 --> 00:47:24,888
+This is number three.
+
+1093
+00:47:24,888 --> 00:47:27,094
+This is likely to go off early as late.
+
+1094
+00:47:27,094 --> 00:47:29,677
+Fasten your safety line, Harry.
+
+1095
+00:47:36,310 --> 00:47:40,477
+- I'll go down and get the
+leads from the other engines.
+
+1096
+00:47:43,824 --> 00:47:45,396
+- [Crow] Hey, get some
+tape while you're at it
+
+1097
+00:47:45,396 --> 00:47:47,424
+and bring me back a soda.
+
+1098
+00:47:47,424 --> 00:47:49,918
+Anything but Mr. Pibb.
+
+1099
+00:47:49,918 --> 00:47:53,335
+(eerie orchestral music)
+
+1100
+00:47:55,793 --> 00:47:59,065
+- [Tom] Oh, isn't it the
+same shot done upside-down?
+
+1101
+00:47:59,065 --> 00:47:59,898
+- [Joel] Well, kinda.
+
+1102
+00:47:59,898 --> 00:48:02,009
+What they do is turn
+the camera over twice,
+
+1103
+00:48:02,009 --> 00:48:05,079
+and they shoot it backwards
+at high speed into a mirror.
+
+1104
+00:48:05,079 --> 00:48:06,509
+- [Tom] Oh, seems like it would be easier
+
+1105
+00:48:06,509 --> 00:48:07,964
+to just shoot it upside-down.
+
+1106
+00:48:07,964 --> 00:48:10,022
+- [Joel] Yeah, probably.
+
+1107
+00:48:10,022 --> 00:48:13,439
+(eerie orchestral music)
+
+1108
+00:48:22,884 --> 00:48:24,527
+- Now, if each end isn't set
+
+1109
+00:48:24,527 --> 00:48:27,860
+for exactly 100,000 pounds thrust, then.
+
+1110
+00:48:29,743 --> 00:48:32,512
+- [Joel] Hey, it's a meat scale.
+
+1111
+00:48:32,512 --> 00:48:34,247
+Maybe he's trying to price that boulder.
+
+1112
+00:48:34,247 --> 00:48:36,237
+Looks pretty well marbled.
+
+1113
+00:48:36,237 --> 00:48:37,893
+- [Tom] Quarter inch trimmed.
+
+1114
+00:48:37,893 --> 00:48:39,621
+- [Whitsun] One hour and 18 minutes.
+
+1115
+00:48:39,621 --> 00:48:41,939
+- If number three goes off right on time.
+
+1116
+00:48:41,939 --> 00:48:44,243
+- If it doesn't, it'll
+ruin the whole operation.
+
+1117
+00:48:44,243 --> 00:48:46,029
+- [Crow] Yeah, but if it does, it'll work.
+
+1118
+00:48:46,029 --> 00:48:48,024
+If it doesn't, just do it.
+
+1119
+00:48:48,024 --> 00:48:49,113
+- So do all the rest.
+
+1120
+00:48:49,113 --> 00:48:50,744
+- It must fire exactly on time.
+
+1121
+00:48:50,744 --> 00:48:51,577
+- [Tom] Shouldn't they
+have figured all this out
+
+1122
+00:48:51,577 --> 00:48:52,410
+on the ship?
+
+1123
+00:48:52,410 --> 00:48:53,342
+- I'll stay here and give it a thump,
+
+1124
+00:48:53,342 --> 00:48:55,003
+when you give me the countdown.
+
+1125
+00:48:55,003 --> 00:48:57,079
+- [Hubbard] When they
+do fire, she won't make
+
+1126
+00:48:57,079 --> 00:48:58,747
+like a space ship.
+
+1127
+00:48:58,747 --> 00:49:01,852
+As much as we're building
+up thrust, will you be okay?
+
+1128
+00:49:01,852 --> 00:49:04,965
+- Provided I get off in
+the first 10 seconds, yes.
+
+1129
+00:49:04,965 --> 00:49:06,721
+- All right.
+
+1130
+00:49:06,721 --> 00:49:08,683
+- Are you sure you'll
+be all right, Mr. Kemp?
+
+1131
+00:49:08,683 --> 00:49:10,231
+- You take care of your calculations,
+
+1132
+00:49:10,231 --> 00:49:12,787
+I'll take care of myself.
+
+1133
+00:49:12,787 --> 00:49:14,700
+- [Joel] But let's just
+try to work together, okay?
+
+1134
+00:49:14,700 --> 00:49:15,989
+- Thank you for asking anyway.
+
+1135
+00:49:15,989 --> 00:49:16,975
+- [Tom] Grr.
+
+1136
+00:49:16,975 --> 00:49:18,475
+- [Crow] My pleasure, glad to do it.
+
+1137
+00:49:18,475 --> 00:49:19,725
+Let's do lunch.
+
+1138
+00:49:24,019 --> 00:49:27,269
+- [Tom] Don't lose your happy thoughts.
+
+1139
+00:49:28,877 --> 00:49:29,851
+- [Joel] Can't tell if
+they're just dangling
+
+1140
+00:49:29,851 --> 00:49:31,399
+from wires there.
+
+1141
+00:49:31,399 --> 00:49:33,784
+They look like bait.
+
+1142
+00:49:33,784 --> 00:49:37,240
+- [Tom] It's not easy being green.
+
+1143
+00:49:37,240 --> 00:49:40,140
+- [Joel] I'm curious, but yellow.
+
+1144
+00:49:40,140 --> 00:49:42,902
+- [Tom] Ah, frog and a
+bird, together again.
+
+1145
+00:49:42,902 --> 00:49:44,569
+Wocka, wocka, wocka.
+
+1146
+00:49:45,648 --> 00:49:46,815
+- [Crow] What?
+
+1147
+00:49:47,726 --> 00:49:51,143
+(eerie orchestral music)
+
+1148
+00:49:54,249 --> 00:49:56,140
+- [Crow] Here's the
+meat scale you ordered.
+
+1149
+00:49:56,140 --> 00:49:58,065
+- [Joel] Yeah, where's my Mr. Pibb though?
+
+1150
+00:49:58,065 --> 00:49:59,232
+- [Crow] Oops.
+
+1151
+00:50:00,677 --> 00:50:04,094
+(eerie orchestral music)
+
+1152
+00:50:09,964 --> 00:50:10,797
+- [Tom] See that.
+
+1153
+00:50:10,797 --> 00:50:13,214
+It mean's absolutely nothing.
+
+1154
+00:50:15,538 --> 00:50:17,455
+- 15 seconds, Mr. Kemp.
+
+1155
+00:50:19,248 --> 00:50:21,331
+- [Crow] Not by my watch.
+
+1156
+00:50:23,272 --> 00:50:24,666
+10.--
+
+1157
+00:50:24,666 --> 00:50:25,499
+- [Joel] 13.
+
+1158
+00:50:25,499 --> 00:50:26,555
+- [Crow] Eight.
+
+1159
+00:50:26,555 --> 00:50:27,388
+- [Whitsun] Eight.
+
+1160
+00:50:27,388 --> 00:50:28,312
+- [Joel] 2,000,000.
+
+1161
+00:50:28,312 --> 00:50:29,464
+- [Crow] 49.
+
+1162
+00:50:29,464 --> 00:50:31,300
+- [Tom] One, three, five.
+
+1163
+00:50:31,300 --> 00:50:32,459
+- [Crow] Hut, hut, hut.
+
+1164
+00:50:32,459 --> 00:50:36,380
+- [Tom] Seven, eight, six,
+seven, five, three, o, nine.
+
+1165
+00:50:36,380 --> 00:50:37,253
+- [Whitsun] Two.
+
+1166
+00:50:37,253 --> 00:50:38,129
+- [Joel] One.
+
+1167
+00:50:38,129 --> 00:50:38,962
+- [Whitsun] One.
+
+1168
+00:50:38,962 --> 00:50:39,795
+- [Crow] Thump.
+
+1169
+00:50:39,795 --> 00:50:40,628
+- [Tom] Thump.
+
+1170
+00:50:40,628 --> 00:50:44,545
+(suspenseful orchestral music)
+
+1171
+00:50:50,214 --> 00:50:53,547
+- [Joel] Space sounds by Chuck Mangione.
+
+1172
+00:50:54,475 --> 00:50:55,725
+- [Crow] Yahoo.
+
+1173
+00:50:57,094 --> 00:50:58,177
+A real yahoo.
+
+1174
+00:51:02,758 --> 00:51:05,746
+- He has five seconds to get free.
+
+1175
+00:51:05,746 --> 00:51:08,413
+- [Tom] Five, four, three, shew.
+
+1176
+00:51:11,708 --> 00:51:14,131
+- [Crow] Hey, it looks
+like his stone passed him.
+
+1177
+00:51:14,131 --> 00:51:16,692
+- What would have happened if he'd failed?
+
+1178
+00:51:16,692 --> 00:51:19,054
+- He'd have ended up in his socks.
+
+1179
+00:51:19,054 --> 00:51:19,887
+- [Joel] At least he would have died
+
+1180
+00:51:19,887 --> 00:51:22,220
+with his birthstone, though.
+
+1181
+00:51:23,994 --> 00:51:25,247
+- Are you okay, Bill?
+
+1182
+00:51:25,247 --> 00:51:27,747
+- [Crow] No, I've been better.
+
+1183
+00:51:28,794 --> 00:51:31,282
+- Only it's a little lonely out here.
+
+1184
+00:51:31,282 --> 00:51:34,019
+- Are you walking home
+or would you like a lift?
+
+1185
+00:51:34,019 --> 00:51:35,852
+- I think I'll take a lift.
+
+1186
+00:51:35,852 --> 00:51:38,287
+- [Whitsun] And you'll make it
+out there before you know it.
+
+1187
+00:51:38,287 --> 00:51:42,037
+- [Bill] Try to make it
+before the bar shuts.
+
+1188
+00:51:43,640 --> 00:51:45,044
+- [Joel] Wow, they're so versatile.
+
+1189
+00:51:45,044 --> 00:51:47,877
+It's kinda like Swan Lake-a-Go-Go.
+
+1190
+00:51:49,426 --> 00:51:51,570
+- When does wonder boy reckon
+we should go out again?
+
+1191
+00:51:51,570 --> 00:51:55,598
+- Three days, according
+to his box of tricks.
+
+1192
+00:51:55,598 --> 00:51:56,598
+Wanna drink?
+
+1193
+00:51:57,467 --> 00:51:59,833
+- Later, I am going to eat.
+
+1194
+00:51:59,833 --> 00:52:00,666
+- [Crow] They made some extra cash
+
+1195
+00:52:00,666 --> 00:52:04,477
+by selling this set to Donny and Marie.
+
+1196
+00:52:04,477 --> 00:52:06,470
+- A double Moon Flower, please Glen.
+
+1197
+00:52:06,470 --> 00:52:08,498
+- [Joel] In a dirty space tumbler.
+
+1198
+00:52:08,498 --> 00:52:09,331
+- Buffalo Stampede.
+
+1199
+00:52:09,331 --> 00:52:12,331
+(jazzy dance music)
+
+1200
+00:52:14,625 --> 00:52:16,675
+- [Joel] That Norm Crosby?
+
+1201
+00:52:16,675 --> 00:52:17,800
+- [Crow] Or Corm Nosby.
+
+1202
+00:52:17,800 --> 00:52:18,951
+- There's a lady been asking for you
+
+1203
+00:52:18,951 --> 00:52:20,564
+for the past couple of days.
+
+1204
+00:52:20,564 --> 00:52:22,914
+- [Joel] Space getup works every time.
+
+1205
+00:52:22,914 --> 00:52:24,810
+- [Bill] What's she drinking?
+
+1206
+00:52:24,810 --> 00:52:25,890
+- Green Mary.
+
+1207
+00:52:25,890 --> 00:52:26,723
+- What?
+
+1208
+00:52:28,744 --> 00:52:30,758
+- Rocket fuel and cabbage juice.
+
+1209
+00:52:30,758 --> 00:52:33,091
+- [Crow] And a shot of bile.
+
+1210
+00:52:34,189 --> 00:52:36,690
+- Which takes the taste away from which?
+
+1211
+00:52:36,690 --> 00:52:39,523
+- I don't know, I only serve them.
+
+1212
+00:52:40,696 --> 00:52:43,113
+- [Joel] And take your money.
+
+1213
+00:52:44,956 --> 00:52:46,995
+- [Tom] You think he
+tips himself outta that?
+
+1214
+00:52:46,995 --> 00:52:47,893
+- [Joel] I don't know.
+
+1215
+00:52:47,893 --> 00:52:49,316
+He's gonna have to file a chapter 13
+
+1216
+00:52:49,316 --> 00:52:51,505
+with all those Moon drinks.
+
+1217
+00:52:51,505 --> 00:52:52,960
+- [Crow] Well, you're
+paying for the garnishes.
+
+1218
+00:52:52,960 --> 00:52:54,127
+- [Joel] Yeah.
+
+1219
+00:52:56,022 --> 00:52:58,835
+- [Tom] Hey, how's the egg coming?
+
+1220
+00:52:58,835 --> 00:53:00,031
+- Found your brother yet?
+
+1221
+00:53:00,031 --> 00:53:00,864
+- No.
+
+1222
+00:53:01,698 --> 00:53:03,072
+- Not on the convoy?
+
+1223
+00:53:03,072 --> 00:53:04,559
+- Not on two convoys.
+
+1224
+00:53:04,559 --> 00:53:06,846
+And nobody seems to have seen
+him in nearly four months.
+
+1225
+00:53:06,846 --> 00:53:08,410
+- Well, Far Side is a big place.
+
+1226
+00:53:08,410 --> 00:53:10,446
+You just don't go visiting someone
+
+1227
+00:53:10,446 --> 00:53:12,606
+when it's 100 miles of rough country,
+
+1228
+00:53:12,606 --> 00:53:14,954
+and in a Moon Bug which.
+
+1229
+00:53:14,954 --> 00:53:16,494
+- [Crow] Hey, Florence Henderson hairdo.
+
+1230
+00:53:16,494 --> 00:53:19,661
+Looks like she did it with Wesson oil.
+
+1231
+00:53:22,466 --> 00:53:25,912
+- Mr. Kemp, do you know
+anything about Moon mining laws?
+
+1232
+00:53:25,912 --> 00:53:27,052
+- A little.
+
+1233
+00:53:27,052 --> 00:53:29,086
+- Can you explain the two-year rule?
+
+1234
+00:53:29,086 --> 00:53:30,347
+- [Bill] Well, you gotta
+claim for two years
+
+1235
+00:53:30,347 --> 00:53:32,334
+and if you haven't found
+anything at the end of that time,
+
+1236
+00:53:32,334 --> 00:53:33,297
+you get thrown out.
+
+1237
+00:53:33,297 --> 00:53:34,611
+Somebody else gets it.
+
+1238
+00:53:34,611 --> 00:53:36,289
+There's quite a waiting list.
+
+1239
+00:53:36,289 --> 00:53:37,572
+- Seems a bit unfair.
+
+1240
+00:53:37,572 --> 00:53:41,003
+- Maybe, but the Moon costs a
+lot of money to get started.
+
+1241
+00:53:41,003 --> 00:53:43,196
+And they can't have
+people just digging holes
+
+1242
+00:53:43,196 --> 00:53:44,566
+and not finding anything.
+
+1243
+00:53:44,566 --> 00:53:45,682
+- [Tom] Well, unless
+they call them craters.
+
+1244
+00:53:45,682 --> 00:53:47,175
+- How long has your brother had his claim?
+
+1245
+00:53:47,175 --> 00:53:49,990
+- Two years and three days time.
+
+1246
+00:53:49,990 --> 00:53:51,512
+- [Joel] Who's got the
+deed on that forehead?
+
+1247
+00:53:51,512 --> 00:53:52,890
+That's what I'd like to know.
+
+1248
+00:53:52,890 --> 00:53:54,670
+- In his cable, that's why I'm up here.
+
+1249
+00:53:54,670 --> 00:53:55,928
+- Well, you better tell
+him to get over here
+
+1250
+00:53:55,928 --> 00:53:57,980
+and prove it before he loses his claim.
+
+1251
+00:53:57,980 --> 00:53:58,883
+- [Clem] By radio?
+
+1252
+00:53:58,883 --> 00:53:59,925
+- [Bill] Oh no.
+
+1253
+00:53:59,925 --> 00:54:01,125
+- [Crow] He's talking to a lady.
+
+1254
+00:54:01,125 --> 00:54:05,541
+- But the convoys, no they
+wouldn't be quick enough.
+
+1255
+00:54:05,541 --> 00:54:07,980
+- Mr. Kemp, will you fly me over there?
+
+1256
+00:54:07,980 --> 00:54:09,601
+- [Joel] I don't know, how fast do you go?
+
+1257
+00:54:09,601 --> 00:54:12,266
+- I know I haven't got $10,000 on me now,
+
+1258
+00:54:12,266 --> 00:54:13,889
+but if Wally's found something,
+
+1259
+00:54:13,889 --> 00:54:15,898
+we'll pay you back as
+soon as we're selling it.
+
+1260
+00:54:15,898 --> 00:54:17,298
+- I couldn't land on your brother's claim.
+
+1261
+00:54:17,298 --> 00:54:18,355
+- [Tom] That would hurt.
+
+1262
+00:54:18,355 --> 00:54:21,286
+It's much too rough country.
+
+1263
+00:54:21,286 --> 00:54:22,813
+But we could go to Far Side 5.
+
+1264
+00:54:22,813 --> 00:54:26,684
+It's a 24 hour ride in a Bug from there.
+
+1265
+00:54:26,684 --> 00:54:28,607
+You can owe it to me.
+
+1266
+00:54:28,607 --> 00:54:30,652
+Hey, what the hell,
+I'm nearly rich anyway.
+
+1267
+00:54:30,652 --> 00:54:32,190
+Let's have another drink.
+
+1268
+00:54:32,190 --> 00:54:35,096
+- [Joel] Well, can I
+finish the one I've got?
+
+1269
+00:54:35,096 --> 00:54:37,970
+- Glen, I'd like two more
+of whatever they are.
+
+1270
+00:54:37,970 --> 00:54:39,843
+- [Tom] Sewage bilge.
+
+1271
+00:54:39,843 --> 00:54:41,166
+- You weren't thinking
+of taking the young lady
+
+1272
+00:54:41,166 --> 00:54:43,666
+for a ride, were you Mr. Kemp?
+
+1273
+00:54:44,997 --> 00:54:46,870
+- I'm a pilot for hire.
+
+1274
+00:54:46,870 --> 00:54:50,147
+- You're already hired, drop her.
+
+1275
+00:54:50,147 --> 00:54:51,525
+- It'll only be a three day trip.
+
+1276
+00:54:51,525 --> 00:54:52,798
+I'll be back in time.
+
+1277
+00:54:52,798 --> 00:54:54,973
+- [Crow] That's what the skipper said.
+
+1278
+00:54:54,973 --> 00:54:56,403
+- Drop her.
+
+1279
+00:54:56,403 --> 00:54:57,386
+- [Joel] That would hurt her.
+
+1280
+00:54:57,386 --> 00:54:59,551
+- You seem to have your hand on me.
+
+1281
+00:54:59,551 --> 00:55:00,487
+- [Joel] I'm not a guy here,
+
+1282
+00:55:00,487 --> 00:55:04,404
+but I'm pretty sure you've
+got your hand on me.
+
+1283
+00:55:06,139 --> 00:55:06,972
+(grunts)
+
+1284
+00:55:06,972 --> 00:55:09,972
+(lively band music)
+
+1285
+00:55:16,176 --> 00:55:18,616
+- [Tom] Hey, watch the
+Slush Puppie machine.
+
+1286
+00:55:18,616 --> 00:55:22,783
+- If we're gonna play, we're
+gonna play by my rules.
+
+1287
+00:55:23,831 --> 00:55:27,998
+- [Crow] Yeah, but nobody
+knows what your rules are.
+
+1288
+00:55:29,708 --> 00:55:32,524
+- [Tom] Always have your
+hair cut by a machine.
+
+1289
+00:55:32,524 --> 00:55:34,621
+- [Joel] And always
+look like Dennis Hopper.
+
+1290
+00:55:34,621 --> 00:55:36,287
+- [Tom] Ooh, he gave him a snuggie.
+
+1291
+00:55:36,287 --> 00:55:38,807
+- [Crow] In space, no
+one can hear a wedgie.
+
+1292
+00:55:38,807 --> 00:55:40,807
+(discordant orchestral music)
+
+1293
+00:55:46,355 --> 00:55:47,855
+Look out Big Bird.
+
+1294
+00:55:49,076 --> 00:55:50,493
+Oh, magic screen.
+
+1295
+00:56:00,446 --> 00:56:04,029
+- [Joel] Oh, he should've
+seen that comin'.
+
+1296
+00:56:11,450 --> 00:56:13,783
+- [Tom] Picked up the spare.
+
+1297
+00:56:14,687 --> 00:56:16,687
+(discordant orchestral music)
+
+1298
+00:56:26,008 --> 00:56:28,258
+- Touch down in 17 minutes.
+
+1299
+00:56:31,770 --> 00:56:33,642
+- Be careful, we've just gone weightless.
+
+1300
+00:56:33,642 --> 00:56:37,307
+- I know, just like the Moon Express.
+
+1301
+00:56:37,307 --> 00:56:41,274
+Though, your ship is
+different in other ways.
+
+1302
+00:56:41,274 --> 00:56:42,326
+- [Joel] You mean, no toilet paper?
+
+1303
+00:56:42,326 --> 00:56:43,775
+Yeah, sorry about that.
+
+1304
+00:56:43,775 --> 00:56:47,589
+- You are in for a nice, slow
+night drive in a Moon Bug.
+
+1305
+00:56:47,589 --> 00:56:49,256
+Just beautiful, too.
+
+1306
+00:56:50,167 --> 00:56:52,327
+I'll stay with the ship
+and give her a sprinkling.
+
+1307
+00:56:52,327 --> 00:56:53,676
+- And get some sleep.
+
+1308
+00:56:53,676 --> 00:56:56,593
+- [Crow] And give her a sprinkling.
+
+1309
+00:56:59,141 --> 00:57:01,327
+- Approaching re-entry point.
+
+1310
+00:57:01,327 --> 00:57:04,160
+- [Tom] That's our cue, doll face.
+
+1311
+00:57:05,647 --> 00:57:07,903
+("Moon Zero Two" theme music)
+
+1312
+00:57:07,903 --> 00:57:09,070
+- [Crow] Cool.
+
+1313
+00:57:09,993 --> 00:57:14,385
+("Moon Zero Two" theme music)
+
+1314
+00:57:14,385 --> 00:57:18,546
+- [Tom] Hey, could you
+turn down that stereo?
+
+1315
+00:57:18,546 --> 00:57:21,661
+("Moon Zero Two" theme music)
+
+1316
+00:57:21,661 --> 00:57:23,451
+- [Crow] The old west.
+
+1317
+00:57:23,451 --> 00:57:25,621
+In space, no one can art direct.
+
+1318
+00:57:25,621 --> 00:57:27,457
+- [Voiceover] I haven't
+seen Wally here in oh,
+
+1319
+00:57:27,457 --> 00:57:30,480
+must be nearly four months by now.
+
+1320
+00:57:30,480 --> 00:57:32,288
+I've tried to radio him a couple of times,
+
+1321
+00:57:32,288 --> 00:57:35,862
+but it's always chancy
+in the mountain country.
+
+1322
+00:57:35,862 --> 00:57:37,950
+- How about relaying him?
+
+1323
+00:57:37,950 --> 00:57:42,181
+- Well, I could ask Nick
+Hunter to ask Louie Grenia
+
+1324
+00:57:42,181 --> 00:57:44,944
+to ask Tad Cottle to
+pass on a message, but.
+
+1325
+00:57:44,944 --> 00:57:47,145
+- [Joel] But they're
+all dead, it'd be silly.
+
+1326
+00:57:47,145 --> 00:57:48,693
+- Kidney trouble the last fortnight.
+
+1327
+00:57:48,693 --> 00:57:49,898
+And I know that Nick went over
+
+1328
+00:57:49,898 --> 00:57:52,577
+to Moon City on the last convoy.
+
+1329
+00:57:52,577 --> 00:57:53,410
+On the other hand.
+
+1330
+00:57:53,410 --> 00:57:54,419
+- [Tom] Do I need to know this?
+
+1331
+00:57:54,419 --> 00:57:57,903
+- Might be able to contact Bill Worther.
+
+1332
+00:57:57,903 --> 00:58:01,817
+Oh no, he's off radio for
+the next couple of days.
+
+1333
+00:58:01,817 --> 00:58:04,481
+Sorry, there doesn't seem to be any way.
+
+1334
+00:58:04,481 --> 00:58:05,435
+- Well, when you didn't hear from him,
+
+1335
+00:58:05,435 --> 00:58:07,451
+didn't you think of
+declaring an emergency?
+
+1336
+00:58:07,451 --> 00:58:08,756
+- [Joel] Do you think this permanent wave
+
+1337
+00:58:08,756 --> 00:58:10,781
+is a good idea for my hair?
+
+1338
+00:58:10,781 --> 00:58:12,498
+- [Crow] Looks like Big Boy.
+
+1339
+00:58:12,498 --> 00:58:14,895
+- The satellite's only
+been dead for 12 days.
+
+1340
+00:58:14,895 --> 00:58:19,445
+- I know that, but nobody
+dies slowly on the Moon.
+
+1341
+00:58:19,445 --> 00:58:20,612
+You know that.
+
+1342
+00:58:22,140 --> 00:58:23,940
+- Well, can I take a Bug, then?
+
+1343
+00:58:23,940 --> 00:58:25,569
+- One's out.
+
+1344
+00:58:25,569 --> 00:58:27,206
+- [Tom] I said bug light.
+
+1345
+00:58:27,206 --> 00:58:31,373
+- And the other, I'd need
+a thousand dollars deposit.
+
+1346
+00:58:34,020 --> 00:58:37,020
+- [Crow] Oh, I have that in my shoe.
+
+1347
+00:58:38,455 --> 00:58:42,205
+- [Tom] Your Odor Eater,
+thank you very much.
+
+1348
+00:58:43,728 --> 00:58:45,566
+- [Joel] I'm afraid you're
+over your credit limit.
+
+1349
+00:58:45,566 --> 00:58:48,733
+Do you have a Dr. Scholl's pad on you?
+
+1350
+00:58:51,182 --> 00:58:52,150
+- Is it ready?
+
+1351
+00:58:52,150 --> 00:58:53,894
+- Ready as she'll ever be.
+
+1352
+00:58:53,894 --> 00:58:56,213
+I guess she'll get you there.
+
+1353
+00:58:56,213 --> 00:58:57,433
+- And back?
+
+1354
+00:58:57,433 --> 00:58:58,933
+- Sure do hope so.
+
+1355
+00:59:00,502 --> 00:59:02,384
+- Climb aboard.
+
+1356
+00:59:02,384 --> 00:59:04,184
+- [Joel] Oh man, she's cherry, man.
+
+1357
+00:59:04,184 --> 00:59:07,172
+Sam put on some thrush glass packs, man.
+
+1358
+00:59:07,172 --> 00:59:11,339
+He's got some twin headers
+with a 44 barrel, it screams.
+
+1359
+00:59:13,103 --> 00:59:14,768
+- [Crow] The van's pretty nice, too.
+
+1360
+00:59:14,768 --> 00:59:17,684
+- Move over, unless you wanna drive.
+
+1361
+00:59:17,684 --> 00:59:21,851
+- [Crow] Hey, how many girls
+have you had in your Moon Bug?
+
+1362
+00:59:23,886 --> 00:59:28,053
+- [Tom] Well, if you've gotta
+go, you'd better do it now.
+
+1363
+00:59:29,996 --> 00:59:31,859
+- [Joel] How do you like
+my new Moon sounds tape.
+
+1364
+00:59:31,859 --> 00:59:33,192
+I feel a blast.
+
+1365
+00:59:40,590 --> 00:59:41,423
+- [Crow] Hey, I know.
+
+1366
+00:59:41,423 --> 00:59:42,886
+Let's sing car songs.
+
+1367
+00:59:42,886 --> 00:59:44,699
+You know, like the Wiener Man song, yeah.
+
+1368
+00:59:44,699 --> 00:59:48,213
+♫ I know a weiner man,
+he owns a hot dog stand ♫
+
+1369
+00:59:48,213 --> 00:59:50,630
+sorry, how about another one?
+
+1370
+00:59:59,375 --> 01:00:01,894
+- [Joel] And so, they
+set out in the wiener car
+
+1371
+01:00:01,894 --> 01:00:04,561
+in search of the giant kielbasa.
+
+1372
+01:00:07,813 --> 01:00:11,980
+- [Tom] Oops, we're outta gas. (laughs)
+
+1373
+01:00:18,174 --> 01:00:21,424
+- [Crow] Hey, there's Jacques Cousteau.
+
+1374
+01:00:24,768 --> 01:00:26,208
+- Sorry, but this is a part of the Moon
+
+1375
+01:00:26,208 --> 01:00:27,675
+that tourists don't usually see.
+
+1376
+01:00:27,675 --> 01:00:29,331
+If we pull the wrong lever out here,
+
+1377
+01:00:29,331 --> 01:00:31,307
+there's no guarantee we'll even be found.
+
+1378
+01:00:31,307 --> 01:00:32,307
+- I'm sorry.
+
+1379
+01:00:33,368 --> 01:00:35,195
+But I'm not a tourist, Mr. Kemp.
+
+1380
+01:00:35,195 --> 01:00:37,283
+I'm here to stay and work with my brother.
+
+1381
+01:00:37,283 --> 01:00:38,562
+- [Joel] I know it's a
+little bit rough now,
+
+1382
+01:00:38,562 --> 01:00:40,089
+but it'll be better when we fall in love
+
+1383
+01:00:40,089 --> 01:00:42,198
+later in the picture.
+
+1384
+01:00:42,198 --> 01:00:43,448
+- I understand.
+
+1385
+01:00:45,417 --> 01:00:46,828
+How long does it stay dark?
+
+1386
+01:00:46,828 --> 01:00:48,539
+- [Joel] All night.
+
+1387
+01:00:48,539 --> 01:00:50,206
+- Sunup in 40 hours.
+
+1388
+01:00:52,670 --> 01:00:55,569
+- [Crow] So, that's like 100 hours.
+
+1389
+01:00:55,569 --> 01:00:58,253
+- [Bill] 200 degrees below zero,
+
+1390
+01:00:58,253 --> 01:01:01,569
+and up above boiling
+point when the suns out.
+
+1391
+01:01:01,569 --> 01:01:03,162
+Don't worry, these Bugs
+have efficient heating
+
+1392
+01:01:03,162 --> 01:01:04,953
+and cooling systems.
+
+1393
+01:01:04,953 --> 01:01:06,742
+We've always got the Moon suits.
+
+1394
+01:01:06,742 --> 01:01:08,076
+- [Joel] Yeah, I guess
+if I had to do it over,
+
+1395
+01:01:08,076 --> 01:01:10,497
+I'd probably buy a foreign.
+
+1396
+01:01:10,497 --> 01:01:12,330
+- I see what you mean about
+
+1397
+01:01:12,330 --> 01:01:14,096
+we'll always be foreigners.
+
+1398
+01:01:14,096 --> 01:01:17,096
+- [Joel] No, I said I'd buy foreign.
+
+1399
+01:01:18,581 --> 01:01:20,576
+- Why'd your brother pick
+this end of the Moon.
+
+1400
+01:01:20,576 --> 01:01:21,838
+- He didn't, it was the only claim left
+
+1401
+01:01:21,838 --> 01:01:23,170
+when he got here.
+
+1402
+01:01:23,170 --> 01:01:24,511
+- [Bill] That figures.
+
+1403
+01:01:24,511 --> 01:01:26,295
+What was he mining on Earth?
+
+1404
+01:01:26,295 --> 01:01:28,066
+- Gold, some silver.
+
+1405
+01:01:28,066 --> 01:01:31,033
+Last thing he found was
+copper up in Montana.
+
+1406
+01:01:31,033 --> 01:01:34,216
+Sold out cheap to a big company.
+
+1407
+01:01:34,216 --> 01:01:35,531
+He always thinks there'll be a bigger
+
+1408
+01:01:35,531 --> 01:01:37,953
+and better strike over the next hill.
+
+1409
+01:01:37,953 --> 01:01:40,047
+- He came over a big hill this time.
+
+1410
+01:01:40,047 --> 01:01:40,880
+- [Joel] Funny.
+
+1411
+01:01:40,880 --> 01:01:41,713
+- Your father?
+
+1412
+01:01:41,713 --> 01:01:43,852
+- He blew himself up five years ago,
+
+1413
+01:01:43,852 --> 01:01:45,868
+dynamiting for emeralds in the Andes.
+
+1414
+01:01:45,868 --> 01:01:46,965
+- [Tom] And your mom?
+
+1415
+01:01:46,965 --> 01:01:48,532
+- I hardly knew him.
+
+1416
+01:01:48,532 --> 01:01:50,087
+He was always off somewhere,
+
+1417
+01:01:50,087 --> 01:01:53,356
+digging a new hole over a new hill.
+
+1418
+01:01:53,356 --> 01:01:55,937
+You're the Bill Kemp who
+was the first man on Mars.
+
+1419
+01:01:55,937 --> 01:01:57,190
+- That's right.
+
+1420
+01:01:57,190 --> 01:01:59,861
+- It's funny, meeting you like this.
+
+1421
+01:01:59,861 --> 01:02:01,930
+- Driving a hired Moon Bug?
+
+1422
+01:02:01,930 --> 01:02:04,461
+- No, I can remember when we got the news
+
+1423
+01:02:04,461 --> 01:02:06,215
+that you'd landed on Mars.
+
+1424
+01:02:06,215 --> 01:02:08,004
+I was just a school girl then,
+
+1425
+01:02:08,004 --> 01:02:10,114
+and I wasn't very
+interested in space travel.
+
+1426
+01:02:10,114 --> 01:02:13,744
+- [Crow] Okay, okay, rub it in, I'm old.
+
+1427
+01:02:13,744 --> 01:02:16,546
+- Then the astronomy teacher
+showed us Mars one night,
+
+1428
+01:02:16,546 --> 01:02:18,058
+and told us how far it was.
+
+1429
+01:02:18,058 --> 01:02:19,225
+- It still is.
+
+1430
+01:02:20,876 --> 01:02:23,036
+- I remember your name from then.
+
+1431
+01:02:23,036 --> 01:02:26,526
+The man who'd flown his
+spaceship for 40,000,000 miles.
+
+1432
+01:02:26,526 --> 01:02:28,193
+- [Crow] Okay, you're 12, I'm 100.
+
+1433
+01:02:28,193 --> 01:02:29,633
+I get it already.
+
+1434
+01:02:29,633 --> 01:02:32,772
+- Oh, I can still recite
+you the names of the crew.
+
+1435
+01:02:32,772 --> 01:02:34,709
+- That's more than I could.
+
+1436
+01:02:34,709 --> 01:02:35,542
+- [Joel] Do you ever think about renting
+
+1437
+01:02:35,542 --> 01:02:37,524
+out your forehead for advertising.
+
+1438
+01:02:37,524 --> 01:02:39,983
+- Why'd you give it up, exploring?
+
+1439
+01:02:39,983 --> 01:02:41,595
+- [Bill] It gave me up.
+
+1440
+01:02:41,595 --> 01:02:44,707
+After Mars, and Jack Harvey
+got on Venus, the corporation
+
+1441
+01:02:44,707 --> 01:02:48,911
+decided that passengers
+was where the money was.
+
+1442
+01:02:48,911 --> 01:02:50,155
+Sure, it would've taken some money
+
+1443
+01:02:50,155 --> 01:02:53,689
+and some new inventions
+too, to get to Mercury,
+
+1444
+01:02:53,689 --> 01:02:55,356
+and Jupiter's Moons,
+
+1445
+01:02:57,481 --> 01:02:58,332
+but somebody's gotta do it.
+
+1446
+01:02:58,332 --> 01:03:00,931
+- [Joel] Jupiter, that's
+a planet, isn't it?
+
+1447
+01:03:00,931 --> 01:03:04,810
+- Anyway, I wasn't a
+passenger pilot, so I quit.
+
+1448
+01:03:04,810 --> 01:03:05,690
+- [Crow] Okay, I lied.
+
+1449
+01:03:05,690 --> 01:03:07,689
+They got me on a morals charge.
+
+1450
+01:03:07,689 --> 01:03:08,914
+- I understand.
+
+1451
+01:03:08,914 --> 01:03:09,917
+- You do?
+
+1452
+01:03:09,917 --> 01:03:11,951
+- [Tom] Chinese good for you?
+
+1453
+01:03:11,951 --> 01:03:13,698
+- [Crow] Hey, it's a souvenir bank.
+
+1454
+01:03:13,698 --> 01:03:16,472
+- There's always something
+over the next hill.
+
+1455
+01:03:16,472 --> 01:03:17,551
+I know.
+
+1456
+01:03:17,551 --> 01:03:20,775
+- And always on borrowed money.
+
+1457
+01:03:20,775 --> 01:03:24,032
+But there is something over the hill.
+
+1458
+01:03:24,032 --> 01:03:25,916
+- That's the trouble for women.
+
+1459
+01:03:25,916 --> 01:03:27,841
+All space travel is just a big way
+
+1460
+01:03:27,841 --> 01:03:30,063
+of getting out of the house
+on a Saturday evening.
+
+1461
+01:03:30,063 --> 01:03:31,899
+- Well, if you don't have
+anything better to do.
+
+1462
+01:03:31,899 --> 01:03:34,149
+- [Joel] And we sure don't.
+
+1463
+01:03:35,931 --> 01:03:39,764
+("Moon Zero Two" theme music)
+
+1464
+01:03:44,951 --> 01:03:46,534
+♫ I wanna be his wiener wife
+
+1465
+01:03:46,534 --> 01:03:48,721
+♫ I wanna join his wiener life ♫
+
+1466
+01:03:48,721 --> 01:03:50,297
+- [Crow] Hey, nice steps.
+
+1467
+01:03:50,297 --> 01:03:54,084
+Looks like they should have
+boxing gloves at the end of 'em.
+
+1468
+01:03:54,084 --> 01:03:55,114
+- [Tom] Looks like they're kinda crawling
+
+1469
+01:03:55,114 --> 01:03:57,531
+out of the Tupperware orange.
+
+1470
+01:04:02,303 --> 01:04:04,455
+- [Joel] Now, those suits
+are different colors,
+
+1471
+01:04:04,455 --> 01:04:06,622
+so you can tell who's who.
+
+1472
+01:04:08,369 --> 01:04:09,620
+If she gets confused,
+
+1473
+01:04:09,620 --> 01:04:13,290
+she should just remember that she's her.
+
+1474
+01:04:13,290 --> 01:04:14,373
+- [Crow] Huh?
+
+1475
+01:04:20,790 --> 01:04:22,499
+- [Tom] Well, they left
+their dome light on,
+
+1476
+01:04:22,499 --> 01:04:26,166
+so someone's gonna have
+to get a jump start.
+
+1477
+01:04:27,215 --> 01:04:29,349
+AAA's even gonna charge them for that run.
+
+1478
+01:04:29,349 --> 01:04:31,420
+- [Joel] Oh, brother.
+
+1479
+01:04:31,420 --> 01:04:34,420
+Her brother lived in a port-a-potty.
+
+1480
+01:04:39,724 --> 01:04:40,715
+- [Crow] Wow, look at it in there.
+
+1481
+01:04:40,715 --> 01:04:43,415
+Your brother was really a slob.
+
+1482
+01:04:43,415 --> 01:04:44,719
+Hey, is there air coming out of your suit,
+
+1483
+01:04:44,719 --> 01:04:47,136
+or are you playing a trumpet?
+
+1484
+01:04:49,732 --> 01:04:51,734
+- [Joel] Skin sample.
+
+1485
+01:04:51,734 --> 01:04:52,984
+Looks valuable.
+
+1486
+01:04:55,499 --> 01:04:56,905
+- [Tom] Wish I had me one of them plows.
+
+1487
+01:04:56,905 --> 01:04:59,538
+- [Clem] I found something.
+
+1488
+01:04:59,538 --> 01:05:00,980
+- [Tom] Their driveways.
+
+1489
+01:05:00,980 --> 01:05:01,813
+- Where are you?
+
+1490
+01:05:01,813 --> 01:05:03,480
+- Around the corner.
+
+1491
+01:05:04,994 --> 01:05:06,254
+- Don't wander off.
+
+1492
+01:05:06,254 --> 01:05:08,594
+You've gotta stay in sight.
+
+1493
+01:05:08,594 --> 01:05:10,095
+- I'm sorry.
+
+1494
+01:05:10,095 --> 01:05:10,928
+- [Tom] A setup like that is bound
+
+1495
+01:05:10,928 --> 01:05:12,472
+to scare off trick-or-treaters.
+
+1496
+01:05:12,472 --> 01:05:14,125
+- [Clem] Do you know what this is?
+
+1497
+01:05:14,125 --> 01:05:15,038
+- A piece of rock.
+
+1498
+01:05:15,038 --> 01:05:16,233
+- [Crow] Looks like
+your brother's kneecap.
+
+1499
+01:05:16,233 --> 01:05:19,768
+- There's a vein of nickel
+in it, and a very rich one.
+
+1500
+01:05:19,768 --> 01:05:21,803
+Wally did find something.
+
+1501
+01:05:21,803 --> 01:05:23,027
+- Are you sure?
+
+1502
+01:05:23,027 --> 01:05:24,647
+- I know a little about geology.
+
+1503
+01:05:24,647 --> 01:05:26,195
+- [Tom] Oh, we all know a little bit.
+
+1504
+01:05:26,195 --> 01:05:27,680
+- Where could he have gone?
+
+1505
+01:05:27,680 --> 01:05:32,124
+- Not far, or he would
+have taken his Bug Dozer.
+
+1506
+01:05:32,124 --> 01:05:33,926
+- [Joel] Now, just how
+disappointed would you be
+
+1507
+01:05:33,926 --> 01:05:37,426
+if you never saw your brother alive again?
+
+1508
+01:05:40,121 --> 01:05:42,621
+- Look, there's someone there.
+
+1509
+01:05:43,513 --> 01:05:45,564
+- [Crow] Oh him, he's always there.
+
+1510
+01:05:45,564 --> 01:05:47,956
+It's a space lawn jockey.
+
+1511
+01:05:47,956 --> 01:05:49,990
+Everyone's got 'em at the
+end of their driveway.
+
+1512
+01:05:49,990 --> 01:05:52,086
+- [Joel] Now remember,
+there'll be three of us now
+
+1513
+01:05:52,086 --> 01:05:56,086
+and you're the one that's
+you in the blue, okay.
+
+1514
+01:05:59,675 --> 01:06:00,508
+(screeching)
+
+1515
+01:06:00,508 --> 01:06:01,421
+- [Tom] Oh, he's lost weight.
+
+1516
+01:06:01,421 --> 01:06:02,883
+He looked much better heavy.
+
+1517
+01:06:02,883 --> 01:06:05,050
+(screams)
+
+1518
+01:06:10,418 --> 01:06:12,820
+- [Clem] I thought he just made a mistake.
+
+1519
+01:06:12,820 --> 01:06:15,160
+- [Bill] He managed for two
+years without making one,
+
+1520
+01:06:15,160 --> 01:06:16,934
+and he didn't puncture his suit.
+
+1521
+01:06:16,934 --> 01:06:21,594
+He had to have oxygen to
+look like, to go as he did.
+
+1522
+01:06:21,594 --> 01:06:23,261
+One full, one empty.
+
+1523
+01:06:24,563 --> 01:06:27,352
+- [Crow] Which one do you think he used?
+
+1524
+01:06:27,352 --> 01:06:30,045
+- Just a stupid mistake.
+
+1525
+01:06:30,045 --> 01:06:32,447
+- [Tom] Well, I bet
+he'll never do it again.
+
+1526
+01:06:32,447 --> 01:06:36,614
+- [Joel] Let's use our
+precious oxygen and bury him.
+
+1527
+01:06:39,297 --> 01:06:41,366
+- [Crow] See this, it's his Nintendo.
+
+1528
+01:06:41,366 --> 01:06:42,878
+He would've wanted me to have it.
+
+1529
+01:06:42,878 --> 01:06:45,211
+Well, if he'd have known me.
+
+1530
+01:06:47,486 --> 01:06:48,736
+I'm keeping it.
+
+1531
+01:06:53,866 --> 01:06:56,533
+- [Tom] Honey, cookies are done.
+
+1532
+01:06:58,932 --> 01:06:59,765
+- Hold it.
+
+1533
+01:07:01,056 --> 01:07:03,584
+- [Joel] Oops, looks like we got company.
+
+1534
+01:07:03,584 --> 01:07:05,667
+It's the unwelcome wagon.
+
+1535
+01:07:09,322 --> 01:07:12,595
+- You out there, identify yourselves.
+
+1536
+01:07:12,595 --> 01:07:13,953
+- [Crow] Okay, will this help?
+
+1537
+01:07:13,953 --> 01:07:15,017
+They call me Shooter.
+
+1538
+01:07:15,017 --> 01:07:17,100
+(laughs)
+
+1539
+01:07:23,816 --> 01:07:25,790
+- [Tom] Damn Moon goons.
+
+1540
+01:07:25,790 --> 01:07:27,790
+(suspenseful orchestral music)
+
+1541
+01:07:38,570 --> 01:07:41,535
+- [Crow] Hey, they come
+in great flavors, too.
+
+1542
+01:07:41,535 --> 01:07:43,813
+There's raspberry red, burnt umber,
+
+1543
+01:07:43,813 --> 01:07:45,980
+and of course, chartreuse.
+
+1544
+01:07:46,935 --> 01:07:48,889
+- [Joel] Oh man, and I
+bet that Moon Buggy was
+
+1545
+01:07:48,889 --> 01:07:50,222
+on his car, too.
+
+1546
+01:07:51,750 --> 01:07:53,750
+(suspenseful orchestral music)
+
+1547
+01:08:01,864 --> 01:08:04,839
+- [Tom] Excuse me, I'm nervous.
+
+1548
+01:08:04,839 --> 01:08:07,839
+I'm sorry, you'll have to excuse me.
+
+1549
+01:08:09,341 --> 01:08:11,341
+(suspenseful orchestral music)
+
+1550
+01:08:16,748 --> 01:08:17,801
+- We're on telephone now.
+
+1551
+01:08:17,801 --> 01:08:19,086
+They can't hear us.
+
+1552
+01:08:19,086 --> 01:08:20,482
+But don't say anything on radio.
+
+1553
+01:08:20,482 --> 01:08:21,747
+They're picking it all up.
+
+1554
+01:08:21,747 --> 01:08:23,125
+- [Crow] Is there a seven second delay?
+
+1555
+01:08:23,125 --> 01:08:24,125
+Can I swear?
+
+1556
+01:08:26,940 --> 01:08:28,377
+- Come on out, both of you.
+
+1557
+01:08:28,377 --> 01:08:30,108
+Or we'll drill you like a sieve.
+
+1558
+01:08:30,108 --> 01:08:30,941
+- [Joel] What kinda sieve?
+
+1559
+01:08:30,941 --> 01:08:32,412
+That oughta keep them busy.
+
+1560
+01:08:32,412 --> 01:08:33,562
+- Don't shoot.
+
+1561
+01:08:33,562 --> 01:08:36,910
+The girl's hurt, you've gotta help me.
+
+1562
+01:08:36,910 --> 01:08:39,293
+- [Crow] Does this help?
+
+1563
+01:08:39,293 --> 01:08:41,710
+(explosions)
+
+1564
+01:08:42,938 --> 01:08:44,056
+- [Tom] Timpani guns.
+
+1565
+01:08:44,056 --> 01:08:46,441
+(suspenseful orchestral music)
+
+1566
+01:08:46,441 --> 01:08:48,608
+- [Joel] Works every time.
+
+1567
+01:08:50,026 --> 01:08:51,817
+- [Crow] Well, you got lime
+green, just raspberry red
+
+1568
+01:08:51,817 --> 01:08:53,734
+and lemon yellow to go.
+
+1569
+01:08:54,634 --> 01:08:55,467
+But remember, Trix are for kids.
+
+1570
+01:08:55,467 --> 01:08:57,467
+(suspenseful guitar music)
+
+1571
+01:09:03,094 --> 01:09:05,577
+- [Joel] Now, just remember,
+they're the guys in color.
+
+1572
+01:09:05,577 --> 01:09:07,577
+(suspenseful guitar music)
+
+1573
+01:09:15,214 --> 01:09:17,381
+- There's another way out.
+
+1574
+01:09:19,509 --> 01:09:21,893
+- [Crow] Hey, there's a barracuda in here.
+
+1575
+01:09:21,893 --> 01:09:22,784
+- [Joel] If we don't die,
+
+1576
+01:09:22,784 --> 01:09:24,228
+you wanna catch a movie or something?
+
+1577
+01:09:24,228 --> 01:09:26,244
+I mean, if you're not
+alive, I totally understand.
+
+1578
+01:09:26,244 --> 01:09:29,411
+It won't hurt my feelings or anything.
+
+1579
+01:09:37,912 --> 01:09:38,745
+- Back in the cave.
+
+1580
+01:09:38,745 --> 01:09:40,745
+(suspenseful guitar music)
+
+1581
+01:09:45,394 --> 01:09:46,788
+- [Crow] Hey, plow your driveway, mister?
+
+1582
+01:09:46,788 --> 01:09:47,621
+Geez.
+
+1583
+01:09:50,094 --> 01:09:51,749
+(screeching)
+
+1584
+01:09:51,749 --> 01:09:53,854
+- [Tom] Aw, he killed a blow-up doll.
+
+1585
+01:09:53,854 --> 01:09:55,937
+Soups on, he said flatly.
+
+1586
+01:09:57,279 --> 01:09:59,279
+(suspenseful guitar music)
+
+1587
+01:10:05,099 --> 01:10:09,099
+- [Joel] I think he's
+going after a crack house.
+
+1588
+01:10:10,387 --> 01:10:12,367
+- [Crow] Wow, lawn and garden attachments,
+
+1589
+01:10:12,367 --> 01:10:14,784
+that guy's got all the candy.
+
+1590
+01:10:17,054 --> 01:10:21,461
+- [Joel] Ah, just take a
+little off the torso, please.
+
+1591
+01:10:21,461 --> 01:10:23,461
+(suspenseful guitar music)
+
+1592
+01:10:39,901 --> 01:10:43,318
+- [Joel] Seems like a bad music festival.
+
+1593
+01:10:46,390 --> 01:10:47,317
+- [Crow] Hey, shut the door.
+
+1594
+01:10:47,317 --> 01:10:49,246
+What are you born in a vacuum?
+
+1595
+01:10:49,246 --> 01:10:53,163
+- [Tom] Hey, slippery
+guy, he's playing possum.
+
+1596
+01:10:56,156 --> 01:10:57,060
+(gun fires)
+
+1597
+01:10:57,060 --> 01:10:57,893
+Told ya.
+
+1598
+01:10:58,734 --> 01:10:59,842
+(gasping)
+
+1599
+01:10:59,842 --> 01:11:01,009
+- [Crow] Oops.
+
+1600
+01:11:02,739 --> 01:11:05,322
+- [Tom] Hey, hurt little fella?
+
+1601
+01:11:06,896 --> 01:11:08,696
+- Quickly, give me your brother's pack.
+
+1602
+01:11:08,696 --> 01:11:10,128
+- [Joel] How do I know it's you?
+
+1603
+01:11:10,128 --> 01:11:13,295
+- [Crow] I'm wearing white, you idiot.
+
+1604
+01:11:16,591 --> 01:11:18,038
+- [Joel] What good is it
+if they're on the Moon,
+
+1605
+01:11:18,038 --> 01:11:22,502
+if they just re-enact the
+atrocities from Earth.
+
+1606
+01:11:22,502 --> 01:11:24,669
+(gasping)
+
+1607
+01:11:25,879 --> 01:11:29,046
+- [Tom] That's a good seal impression.
+
+1608
+01:11:30,347 --> 01:11:33,764
+(eerie orchestral music)
+
+1609
+01:11:44,298 --> 01:11:46,998
+- [Joel] This one's
+going back to the store.
+
+1610
+01:11:46,998 --> 01:11:50,263
+- [Tom] I think I may have just
+put on the waste container.
+
+1611
+01:11:50,263 --> 01:11:53,283
+- Whatever's in here, it isn't air.
+
+1612
+01:11:53,283 --> 01:11:54,171
+- How do we get out of here?
+
+1613
+01:11:54,171 --> 01:11:56,004
+Our Bug's written off.
+
+1614
+01:11:58,132 --> 01:12:00,057
+- Let's try this one.
+
+1615
+01:12:00,057 --> 01:12:02,145
+- [Crow] Yeah, it's got lawn attachments
+
+1616
+01:12:02,145 --> 01:12:06,062
+and a Blaupunkt stereo,
+factory air, the works.
+
+1617
+01:12:14,215 --> 01:12:16,636
+- [Joel] Oh man, it smells like
+a mushroom factory in here.
+
+1618
+01:12:16,636 --> 01:12:18,969
+Those guys were really evil.
+
+1619
+01:12:20,227 --> 01:12:21,621
+- Leave your suit on.
+
+1620
+01:12:21,621 --> 01:12:23,737
+It's 200 degrees below zero in here.
+
+1621
+01:12:23,737 --> 01:12:25,087
+- [Tom] What's the wind chill, though?
+
+1622
+01:12:25,087 --> 01:12:27,670
+- Can't we turn the heating on?
+
+1623
+01:12:32,685 --> 01:12:34,384
+- Oh, it's all shot to hell.
+
+1624
+01:12:34,384 --> 01:12:35,751
+- [Crow] What, the plot?
+
+1625
+01:12:35,751 --> 01:12:37,624
+- And we've only got
+power for about 150 miles,
+
+1626
+01:12:37,624 --> 01:12:40,432
+but not for heating and cooling, as well.
+
+1627
+01:12:40,432 --> 01:12:42,537
+- We'll have to stay in
+our suits all the way.
+
+1628
+01:12:42,537 --> 01:12:44,193
+- We can't do that, either.
+
+1629
+01:12:44,193 --> 01:12:46,857
+The charges won't last
+more than a few hours.
+
+1630
+01:12:46,857 --> 01:12:48,736
+- [Clem] 150 miles.
+
+1631
+01:12:48,736 --> 01:12:49,639
+- [Crow] Let's beat it.
+
+1632
+01:12:49,639 --> 01:12:51,042
+- But it's over 200
+miles back to Far Side 5.
+
+1633
+01:12:51,042 --> 01:12:51,875
+- [Crow] My charge is wearing out, too.
+
+1634
+01:12:51,875 --> 01:12:54,257
+- By track, but this thing's
+build to go over mountains.
+
+1635
+01:12:54,257 --> 01:12:55,248
+- [Joel] Oh, he always
+says that when he gets
+
+1636
+01:12:55,248 --> 01:12:57,331
+in trouble and gets lost.
+
+1637
+01:13:02,677 --> 01:13:04,927
+(thumping)
+
+1638
+01:13:10,102 --> 01:13:11,857
+- Boy Servo, what a great movie.
+
+1639
+01:13:11,857 --> 01:13:13,028
+Great actresses, too.
+
+1640
+01:13:13,028 --> 01:13:15,411
+I like the babe with the great haircut.
+
+1641
+01:13:15,411 --> 01:13:17,905
+- The one with Eddie Munster pageboy look?
+
+1642
+01:13:17,905 --> 01:13:19,849
+Nah, I like the gator-headed chick.
+
+1643
+01:13:19,849 --> 01:13:21,299
+- The one with the eel skin skull cap?
+
+1644
+01:13:21,299 --> 01:13:22,719
+No way, ugh.
+
+1645
+01:13:22,719 --> 01:13:23,552
+- Hey, watch it!
+
+1646
+01:13:23,552 --> 01:13:25,131
+You're talking about
+the woman I love here.
+
+1647
+01:13:25,131 --> 01:13:27,102
+She's got style, she's got looks,
+
+1648
+01:13:27,102 --> 01:13:29,118
+she's got a 45 strapped to each thigh
+
+1649
+01:13:29,118 --> 01:13:30,891
+and she knows how to use them.
+
+1650
+01:13:30,891 --> 01:13:31,765
+She's a darn sight better
+
+1651
+01:13:31,765 --> 01:13:34,669
+than that twiggy little stick
+woman you have your eyes on.
+
+1652
+01:13:34,669 --> 01:13:36,066
+- Hey, what are ya sayin'?
+
+1653
+01:13:36,066 --> 01:13:38,595
+- All I'm saying is that
+you little thin-limbed,
+
+1654
+01:13:38,595 --> 01:13:42,510
+scrawny, empty-headed types
+seem to stick together so well.
+
+1655
+01:13:42,510 --> 01:13:43,839
+- Oh, you want a piece of me?
+
+1656
+01:13:43,839 --> 01:13:45,021
+I'm standing right here.
+
+1657
+01:13:45,021 --> 01:13:48,505
+When this is over, you and
+me going round and round,
+
+1658
+01:13:48,505 --> 01:13:50,027
+botto-a-botto.
+
+1659
+01:13:50,027 --> 01:13:51,097
+- Hey, come on you guys.
+
+1660
+01:13:51,097 --> 01:13:51,930
+What's goin' on?
+
+1661
+01:13:51,930 --> 01:13:53,087
+Break it up here.
+
+1662
+01:13:53,087 --> 01:13:54,330
+What's the problem?
+
+1663
+01:13:54,330 --> 01:13:55,409
+- Stay out of this, Joel.
+
+1664
+01:13:55,409 --> 01:13:58,019
+This is between me and the fire plug.
+
+1665
+01:13:58,019 --> 01:13:58,965
+- That's it, that's it.
+
+1666
+01:13:58,965 --> 01:14:01,036
+Stand back, Joel, you're using my oxygen.
+
+1667
+01:14:01,036 --> 01:14:02,214
+Come on, let's go.
+
+1668
+01:14:02,214 --> 01:14:03,870
+- Listen you guys, if
+there's gonna be a fight,
+
+1669
+01:14:03,870 --> 01:14:06,688
+we're gonna do it my way.
+
+1670
+01:14:06,688 --> 01:14:07,696
+- Not the.
+
+1671
+01:14:07,696 --> 01:14:09,696
+(discordant orchestral music)
+
+1672
+01:14:15,616 --> 01:14:16,699
+I'll get you.
+
+1673
+01:14:19,432 --> 01:14:21,765
+I want your head on a plate.
+
+1674
+01:14:25,325 --> 01:14:27,325
+(discordant orchestral music)
+
+1675
+01:14:38,391 --> 01:14:40,308
+Stay out of this, Joel.
+
+1676
+01:14:44,189 --> 01:14:45,189
+Turn it off.
+
+1677
+01:14:48,022 --> 01:14:50,022
+(discordant orchestral music)
+
+1678
+01:14:52,001 --> 01:14:53,965
+(shouts)
+
+1679
+01:14:53,965 --> 01:14:56,709
+- Kids, when you got a
+beef, don't take the law
+
+1680
+01:14:56,709 --> 01:14:59,959
+into your own hands, take it to zero G.
+
+1681
+01:15:00,903 --> 01:15:05,070
+Anti-gravity, it's not
+just for breakfast anymore.
+
+1682
+01:15:06,978 --> 01:15:10,811
+("Moon Zero Two" theme music)
+
+1683
+01:15:14,351 --> 01:15:17,169
+- We're gonna make it.
+
+1684
+01:15:17,169 --> 01:15:21,336
+- [Tom] What, are the
+driving through snack canyon?
+
+1685
+01:15:26,025 --> 01:15:27,775
+- [Crow] Hah, on you.
+
+1686
+01:15:29,445 --> 01:15:31,445
+(jazz music)
+
+1687
+01:15:36,579 --> 01:15:39,083
+- This is where it starts.
+
+1688
+01:15:39,083 --> 01:15:41,500
+It'll take a little time yet.
+
+1689
+01:15:43,020 --> 01:15:45,103
+- [Crow] Automatic pilot.
+
+1690
+01:15:52,472 --> 01:15:53,657
+- [Tom] Boy, I must have the zactlies,
+
+1691
+01:15:53,657 --> 01:15:55,657
+my suit's pretty steamy.
+
+1692
+01:15:56,877 --> 01:15:58,235
+- Well, you better turn
+your insulation off
+
+1693
+01:15:58,235 --> 01:15:59,869
+to save the last of the charge.
+
+1694
+01:15:59,869 --> 01:16:02,036
+We might need it later on.
+
+1695
+01:16:05,946 --> 01:16:08,350
+- [Joel] Ow, there's hair back there.
+
+1696
+01:16:08,350 --> 01:16:09,517
+- How far now.
+
+1697
+01:16:13,632 --> 01:16:15,172
+- About 80 miles.
+
+1698
+01:16:15,172 --> 01:16:16,814
+It looks as though the worst is over.
+
+1699
+01:16:16,814 --> 01:16:18,957
+It seems pretty flat from here.
+
+1700
+01:16:18,957 --> 01:16:21,457
+- Just when we need the shade.
+
+1701
+01:16:25,683 --> 01:16:27,051
+Take off your Moon suit.
+
+1702
+01:16:27,051 --> 01:16:28,620
+- [Crow] He asked her, he asked her.
+
+1703
+01:16:28,620 --> 01:16:30,453
+Boy, I wish I was him.
+
+1704
+01:16:31,999 --> 01:16:34,264
+- What are you gonna do now?
+
+1705
+01:16:34,264 --> 01:16:35,882
+Now, that your not gonna
+work with your brother.
+
+1706
+01:16:35,882 --> 01:16:37,979
+- [Tom] I'm goin' to Disney World.
+
+1707
+01:16:37,979 --> 01:16:42,948
+- [Crow] Who said she's not
+working with her brother?
+
+1708
+01:16:42,948 --> 01:16:46,081
+- Any jobs going for a good
+space shipping clerk up here?
+
+1709
+01:16:46,081 --> 01:16:46,914
+- Could be.
+
+1710
+01:16:46,914 --> 01:16:49,581
+- [Crow] Oh, that's a bad thing.
+
+1711
+01:16:53,727 --> 01:16:55,142
+- Thanks.
+
+1712
+01:16:55,142 --> 01:16:57,214
+- [Joel] Oh, that feels good, thanks.
+
+1713
+01:16:57,214 --> 01:17:00,547
+- I'm sorry I dragged you into all this.
+
+1714
+01:17:01,491 --> 01:17:02,324
+- I'm not.
+
+1715
+01:17:03,477 --> 01:17:04,814
+- It'd be a bit silly for Bill Kemp
+
+1716
+01:17:04,814 --> 01:17:07,314
+to die just here, on the Moon.
+
+1717
+01:17:08,227 --> 01:17:11,026
+After all the places you've been, I mean.
+
+1718
+01:17:11,026 --> 01:17:12,891
+- It would be a bit silly
+for Bill Kemp to die
+
+1719
+01:17:12,891 --> 01:17:15,035
+any place, as far as I'm concerned.
+
+1720
+01:17:15,035 --> 01:17:17,374
+So, sit down and start telling me
+
+1721
+01:17:17,374 --> 01:17:19,957
+how much farther we have to go.
+
+1722
+01:17:23,986 --> 01:17:26,874
+- [Crow] Gotta get past
+his attitude first.
+
+1723
+01:17:26,874 --> 01:17:27,966
+- [Tom] Well Joel, give me a hand.
+
+1724
+01:17:27,966 --> 01:17:28,982
+I'm shorting out here.
+
+1725
+01:17:28,982 --> 01:17:29,815
+What is this?
+
+1726
+01:17:29,815 --> 01:17:30,722
+- [Joel] Oh, it's just the film.
+
+1727
+01:17:30,722 --> 01:17:31,663
+Don't worry Servo.
+
+1728
+01:17:31,663 --> 01:17:32,913
+- [Crow] Focus.
+
+1729
+01:17:34,636 --> 01:17:35,977
+- [Joel] Oh honey, could
+you put some more water
+
+1730
+01:17:35,977 --> 01:17:37,227
+on those rocks?
+
+1731
+01:17:39,576 --> 01:17:42,664
+- [Tom] Whoo, nothin' better than this.
+
+1732
+01:17:42,664 --> 01:17:43,793
+This is the life.
+
+1733
+01:17:43,793 --> 01:17:45,328
+- Is there any water left?
+
+1734
+01:17:45,328 --> 01:17:49,078
+- [Crow] Just the gallons
+you're putting out.
+
+1735
+01:17:55,608 --> 01:17:56,775
+Chinese again.
+
+1736
+01:18:03,027 --> 01:18:04,370
+- [Tom] That's my specimen.
+
+1737
+01:18:04,370 --> 01:18:06,453
+- It's damn near boiling.
+
+1738
+01:18:12,519 --> 01:18:13,938
+- Well, what's the matter?
+
+1739
+01:18:13,938 --> 01:18:14,771
+- [Joel] Yowsa.
+
+1740
+01:18:14,771 --> 01:18:16,299
+- [Crow] Nothin' from where I'm standing.
+
+1741
+01:18:16,299 --> 01:18:18,883
+(whistles)
+
+1742
+01:18:18,883 --> 01:18:20,050
+- Not a thing.
+
+1743
+01:18:21,179 --> 01:18:22,726
+- [Tom] I knew there had to
+be a good part of this movie.
+
+1744
+01:18:22,726 --> 01:18:23,662
+- If it gets any hotter,
+
+1745
+01:18:23,662 --> 01:18:26,265
+I'll very likely take the rest of it off.
+
+1746
+01:18:26,265 --> 01:18:27,681
+- [Joel] Yeah, pray for heat, huh?
+
+1747
+01:18:27,681 --> 01:18:28,514
+- [Crow] Yeah.
+- [Tom] Yeah.
+
+1748
+01:18:28,514 --> 01:18:30,681
+(buzzing)
+
+1749
+01:18:35,159 --> 01:18:36,628
+- How much farther?
+
+1750
+01:18:36,628 --> 01:18:40,628
+- [Joel] Well, the script
+says a few more miles.
+
+1751
+01:18:42,188 --> 01:18:43,764
+- Only a few miles.
+
+1752
+01:18:43,764 --> 01:18:45,264
+- [Bill] How many?
+
+1753
+01:18:46,432 --> 01:18:48,312
+- I don't know, seven, ten.
+
+1754
+01:18:48,312 --> 01:18:49,185
+- Which is it, seven or ten?
+
+1755
+01:18:49,185 --> 01:18:50,485
+(trumpet blares)
+
+1756
+01:18:50,485 --> 01:18:52,043
+I'm sorry, but seven
+means we might make it
+
+1757
+01:18:52,043 --> 01:18:53,304
+but ten means we won't.
+
+1758
+01:18:53,304 --> 01:18:54,367
+- [Crow] What's the trumpet mean?
+
+1759
+01:18:54,367 --> 01:18:55,200
+- [Bill] Look, we've got power
+
+1760
+01:18:55,200 --> 01:18:56,617
+for another couple of miles, then we walk.
+
+1761
+01:18:56,617 --> 01:18:59,830
+We've only got an hours insulation
+charge left in the suits.
+
+1762
+01:18:59,830 --> 01:19:02,580
+(trumpet blares)
+
+1763
+01:19:05,045 --> 01:19:07,295
+(clicking)
+
+1764
+01:19:08,350 --> 01:19:09,839
+- [Joel] Shut up that jazz combo,
+
+1765
+01:19:09,839 --> 01:19:11,338
+I'm nervous enough as it is.
+
+1766
+01:19:11,338 --> 01:19:14,280
+- The overheating has
+melted the pressure button.
+
+1767
+01:19:14,280 --> 01:19:15,280
+I only hope.
+
+1768
+01:19:17,205 --> 01:19:18,945
+(beeping)
+
+1769
+01:19:18,945 --> 01:19:20,379
+Quick, get into your suit!
+
+1770
+01:19:20,379 --> 01:19:24,546
+- [Tom] Oh damn, I thought we
+were taking those suits off.
+
+1771
+01:19:25,613 --> 01:19:27,613
+(suspenseful orchestral music)
+
+1772
+01:19:30,981 --> 01:19:32,814
+- [Joel] Suicide door.
+
+1773
+01:19:35,237 --> 01:19:37,680
+- [Tom] Those exploder
+bolts come in handy.
+
+1774
+01:19:37,680 --> 01:19:38,865
+- [Joel] Of course it's gonna explode.
+
+1775
+01:19:38,865 --> 01:19:41,198
+They parked over a campfire.
+
+1776
+01:19:42,076 --> 01:19:44,076
+(suspenseful orchestral music)
+
+1777
+01:19:45,432 --> 01:19:48,409
+- [Crow] Quick, in the crack.
+
+1778
+01:19:48,409 --> 01:19:49,242
+(explosions)
+
+1779
+01:19:49,242 --> 01:19:51,702
+Wait, oh, the jazz
+combo is still in there.
+
+1780
+01:19:51,702 --> 01:19:54,285
+- [Tom] The day the music died.
+
+1781
+01:19:55,787 --> 01:19:59,204
+- [Crow] Guess they won't try that again.
+
+1782
+01:20:01,051 --> 01:20:03,235
+- [Joel] Who decided free
+form jazz was the right thing
+
+1783
+01:20:03,235 --> 01:20:04,818
+for the soundtrack?
+
+1784
+01:20:08,374 --> 01:20:09,207
+- Look.
+
+1785
+01:20:12,447 --> 01:20:15,712
+- [Bill] It's Far Side 5, come on.
+
+1786
+01:20:15,712 --> 01:20:18,438
+- [Tom] They make a great
+burger, let's beat cheeks.
+
+1787
+01:20:18,438 --> 01:20:20,006
+- [Liz] All right, Bill,
+you're under arrest.
+
+1788
+01:20:20,006 --> 01:20:21,839
+- [Tom] Beat the rush.
+
+1789
+01:20:23,050 --> 01:20:26,967
+- Fine, now has anybody
+got a nice, cool drink?
+
+1790
+01:20:27,879 --> 01:20:29,632
+- [Tom] Don't say hi.
+
+1791
+01:20:29,632 --> 01:20:32,549
+- [Crow] Hope he likes rocket fuel.
+
+1792
+01:20:38,460 --> 01:20:41,265
+- [Joel] She just flopped
+down on that Formica.
+
+1793
+01:20:41,265 --> 01:20:43,678
+- Just suddenly appeared.
+
+1794
+01:20:43,678 --> 01:20:46,095
+She's always gets her man, B.
+
+1795
+01:20:48,258 --> 01:20:51,792
+- Well, you've really been
+running up an account, this time.
+
+1796
+01:20:51,792 --> 01:20:53,470
+- [Crow] And you're the
+one with the funny skull.
+
+1797
+01:20:53,470 --> 01:20:55,744
+- [Liz] Liable to breach the
+pressure of an outside room.
+
+1798
+01:20:55,744 --> 01:20:57,975
+Malicious damage to hotel property.
+
+1799
+01:20:57,975 --> 01:21:01,815
+- Miss Taplin's brother has
+been murdered out there.
+
+1800
+01:21:01,815 --> 01:21:05,065
+- Come on, you can do better than that.
+
+1801
+01:21:06,889 --> 01:21:08,351
+- Yes, well, three other
+characters got killed.
+
+1802
+01:21:08,351 --> 01:21:10,309
+But I did that myself.
+
+1803
+01:21:10,309 --> 01:21:11,736
+- [Liz] When you get into trouble,
+
+1804
+01:21:11,736 --> 01:21:14,809
+you really jump off the
+top board, don't you?
+
+1805
+01:21:14,809 --> 01:21:16,174
+- [Tom] She's really got
+sort of a Julie Andrews
+
+1806
+01:21:16,174 --> 01:21:17,512
+quality, doesn't she?
+
+1807
+01:21:17,512 --> 01:21:19,099
+- [Joel] Yeah, I think
+she got that skull cap
+
+1808
+01:21:19,099 --> 01:21:21,599
+from Thoroughly Modern Millie.
+
+1809
+01:21:23,411 --> 01:21:26,225
+- One thing we can check right now.
+
+1810
+01:21:26,225 --> 01:21:29,725
+Wally Taplin was killed with one of these.
+
+1811
+01:21:31,313 --> 01:21:33,832
+Tell me what you think it smells like?
+
+1812
+01:21:33,832 --> 01:21:34,840
+- [Crow] Cheese balls.
+
+1813
+01:21:34,840 --> 01:21:35,789
+- [Tom] Pine forest.
+
+1814
+01:21:35,789 --> 01:21:36,622
+- [Joel] Watermelon?
+
+1815
+01:21:36,622 --> 01:21:37,802
+- [Crow] Wet canvas.
+
+1816
+01:21:37,802 --> 01:21:39,219
+- Just one sniff.
+
+1817
+01:21:40,727 --> 01:21:42,237
+- It could be cyanide.
+
+1818
+01:21:42,237 --> 01:21:45,999
+- [Tom] Cyanide, that's my favorite.
+
+1819
+01:21:45,999 --> 01:21:48,251
+- Funny, I just took it off my own suit.
+
+1820
+01:21:48,251 --> 01:21:50,501
+- [Joel] Smells like me, and I didn't like
+
+1821
+01:21:50,501 --> 01:21:52,918
+that wet canvas crack either.
+
+1822
+01:21:55,227 --> 01:21:57,998
+- [Bill] But you thought it was cyanide.
+
+1823
+01:21:57,998 --> 01:21:59,339
+Now, you sold him this air bottle.
+
+1824
+01:21:59,339 --> 01:22:01,705
+You sell all the air bottles around here.
+
+1825
+01:22:01,705 --> 01:22:03,253
+- [Crow] Yeah, but I distinctly remember
+
+1826
+01:22:03,253 --> 01:22:05,258
+not selling that air bottle.
+
+1827
+01:22:05,258 --> 01:22:07,921
+- You'd better answer him.
+
+1828
+01:22:07,921 --> 01:22:09,381
+- They made me.
+
+1829
+01:22:09,381 --> 01:22:11,169
+They wanted Taplin's claim.
+
+1830
+01:22:11,169 --> 01:22:13,152
+It was due to expire.
+
+1831
+01:22:13,152 --> 01:22:16,565
+It seems they'd found something,
+and they had to have it.
+
+1832
+01:22:16,565 --> 01:22:17,482
+- What for?
+
+1833
+01:22:21,542 --> 01:22:22,375
+- [Tom] Tell 'em.
+
+1834
+01:22:22,375 --> 01:22:24,708
+- To land an asteroid on it.
+
+1835
+01:22:26,871 --> 01:22:29,315
+- [Joel] Pizza's ready.
+
+1836
+01:22:29,315 --> 01:22:31,732
+- [Tom] It's a brand new car.
+
+1837
+01:22:36,836 --> 01:22:39,098
+- Mr. Hubbard, they found out about it.
+
+1838
+01:22:39,098 --> 01:22:40,827
+You've got to get me off the Moon.
+
+1839
+01:22:40,827 --> 01:22:42,976
+- [Crow] Hogan, I wouldn't
+say anymore about that
+
+1840
+01:22:42,976 --> 01:22:44,213
+if I were you.
+
+1841
+01:22:44,213 --> 01:22:48,061
+- So, you've reached the confession stage.
+
+1842
+01:22:48,061 --> 01:22:51,952
+And in front of the
+Bureau of Investigation.
+
+1843
+01:22:51,952 --> 01:22:54,039
+- [Tom] Is that wrong,
+should I have not done that?
+
+1844
+01:22:54,039 --> 01:22:55,889
+- I'm glad we got here on time, Mr. Kemp.
+
+1845
+01:22:55,889 --> 01:22:57,724
+I was afraid some of my associates might.
+
+1846
+01:22:57,724 --> 01:22:58,988
+- [Joel] Never trust a man with a collar
+
+1847
+01:22:58,988 --> 01:23:01,078
+made of shinyl vinyl.
+
+1848
+01:23:01,078 --> 01:23:03,697
+- [Hubbard] To this project,
+and would have disposed of you.
+
+1849
+01:23:03,697 --> 01:23:05,277
+- [Bill] They tried.
+
+1850
+01:23:05,277 --> 01:23:07,849
+- [Hubbard] Really, all three of them?
+
+1851
+01:23:07,849 --> 01:23:09,125
+- All three.
+
+1852
+01:23:09,125 --> 01:23:10,389
+- [Crow] Even raspberry red?
+
+1853
+01:23:10,389 --> 01:23:11,737
+(laughs)
+
+1854
+01:23:11,737 --> 01:23:15,917
+- I really did
+underestimate you, Mr. Kemp.
+
+1855
+01:23:15,917 --> 01:23:18,500
+So, we're three men short then.
+
+1856
+01:23:19,851 --> 01:23:21,340
+Whitsun, make a note to engage.
+
+1857
+01:23:21,340 --> 01:23:24,757
+- [Liz] Mr. Hubbard, you're under arrest.
+
+1858
+01:23:25,919 --> 01:23:27,745
+- I don't think so.
+
+1859
+01:23:27,745 --> 01:23:29,738
+Do you, Harry?
+
+1860
+01:23:29,738 --> 01:23:33,905
+- [Crow] Uh, I'm sorry, I
+was dreaming about rabbits.
+
+1861
+01:23:35,625 --> 01:23:37,015
+- Let me get this straight.
+
+1862
+01:23:37,015 --> 01:23:39,021
+You got that louse to murder my brother,
+
+1863
+01:23:39,021 --> 01:23:41,284
+just so that you could have
+a place to land an asteroid.
+
+1864
+01:23:41,284 --> 01:23:42,700
+- [Joel] Or in a nutshell, yeah.
+
+1865
+01:23:42,700 --> 01:23:44,496
+- Oh, stuff it.
+
+1866
+01:23:44,496 --> 01:23:47,079
+- [Joel] Speaking of nutshells.
+
+1867
+01:23:48,000 --> 01:23:50,333
+(gun fires)
+
+1868
+01:23:52,456 --> 01:23:53,531
+(gun fires)
+
+1869
+01:23:53,531 --> 01:23:55,109
+- [Tom] Oop, well I'll get that.
+
+1870
+01:23:55,109 --> 01:23:56,113
+That's okay, no problem.
+
+1871
+01:23:56,113 --> 01:23:57,698
+- [Hubbard] Mr. Kemp, please,
+
+1872
+01:23:57,698 --> 01:24:00,522
+don't get yourself killed unnecessarily.
+
+1873
+01:24:00,522 --> 01:24:01,555
+- [Crow] Oh, okay.
+
+1874
+01:24:01,555 --> 01:24:03,888
+Hey, are those French cuffs?
+
+1875
+01:24:07,161 --> 01:24:10,381
+- [Joel] I suppose I look
+rather silly to you, Bill.
+
+1876
+01:24:10,381 --> 01:24:13,324
+- I don't think I'm gonna be able
+
+1877
+01:24:13,324 --> 01:24:16,292
+to get you out of this
+one this time, Bill.
+
+1878
+01:24:16,292 --> 01:24:17,792
+- Don't talk, Liz.
+
+1879
+01:24:19,398 --> 01:24:22,148
+- [Liz] I'm gonna miss you, Bill.
+
+1880
+01:24:23,760 --> 01:24:25,760
+Even the rows were good.
+
+1881
+01:24:29,049 --> 01:24:32,799
+- [Joel] Bury my turtle
+head at Wounded Knee.
+
+1882
+01:24:35,730 --> 01:24:36,563
+- We're quite safe, sir.
+
+1883
+01:24:36,563 --> 01:24:38,896
+None of the shots pierced the Devin.
+
+1884
+01:24:38,896 --> 01:24:40,464
+- Yes, well, I believe we need to take off
+
+1885
+01:24:40,464 --> 01:24:43,797
+for the asteroid in just under one hour.
+
+1886
+01:24:44,766 --> 01:24:46,783
+- If you think I'm gonna land that thing
+
+1887
+01:24:46,783 --> 01:24:47,727
+for you now.
+
+1888
+01:24:47,727 --> 01:24:48,644
+- But I do.
+
+1889
+01:24:50,369 --> 01:24:53,817
+Whitsun, when was the last
+time we abandoned a project
+
+1890
+01:24:53,817 --> 01:24:54,920
+without any profit?
+
+1891
+01:24:54,920 --> 01:24:55,753
+- Antarctica, sir.
+
+1892
+01:24:55,753 --> 01:24:56,586
+- [Tom] Stonehenge.
+
+1893
+01:24:56,586 --> 01:24:57,419
+- Oh yes, I remember.
+
+1894
+01:24:57,419 --> 01:24:58,578
+There was no oil there, was there?
+
+1895
+01:24:58,578 --> 01:25:02,546
+No, but there is sapphire in
+this asteroid, Mr. Kemp, so.
+
+1896
+01:25:02,546 --> 01:25:04,429
+- [Crow] If she's dead,
+I could scoop her out
+
+1897
+01:25:04,429 --> 01:25:07,096
+and make a terrarium out of her.
+
+1898
+01:25:09,959 --> 01:25:13,445
+- [Joel] Somebody say something.
+
+1899
+01:25:13,445 --> 01:25:15,945
+- Harry, shoot the young lady.
+
+1900
+01:25:17,445 --> 01:25:19,231
+- [Crow] Uh, which one?
+
+1901
+01:25:19,231 --> 01:25:21,377
+- [Joel] Ah, the one
+that's not dead, you idiot.
+
+1902
+01:25:21,377 --> 01:25:25,369
+- [Crow] Oh, yeah, yeah,
+yeah, right, right.
+
+1903
+01:25:25,369 --> 01:25:28,119
+Huh? All right, okay, don't move.
+
+1904
+01:25:40,149 --> 01:25:41,726
+- That's better.
+
+1905
+01:25:41,726 --> 01:25:42,809
+- [Tom] Much.
+
+1906
+01:25:46,698 --> 01:25:50,531
+("Moon Zero Two" theme music)
+
+1907
+01:25:53,755 --> 01:25:56,172
+- $200,000 in the gem market.
+
+1908
+01:25:58,951 --> 01:26:02,284
+- [Joel] You kids be careful down there.
+
+1909
+01:26:03,152 --> 01:26:05,338
+- We can arrange that by
+firing two engines early.
+
+1910
+01:26:05,338 --> 01:26:07,287
+- One of them will have
+to be number three.
+
+1911
+01:26:07,287 --> 01:26:08,465
+Just remember that.
+
+1912
+01:26:08,465 --> 01:26:09,641
+- [Crow] Yeah, yeah, yeah, I knew that.
+
+1913
+01:26:09,641 --> 01:26:11,898
+- I anticipated that.
+
+1914
+01:26:11,898 --> 01:26:12,873
+- [Tom] Got my gum back.
+
+1915
+01:26:12,873 --> 01:26:16,094
+- [Whitsun] Number three controls
+the firing of the others.
+
+1916
+01:26:16,094 --> 01:26:19,702
+- Come out here where the
+boyfriend can see you, love.
+
+1917
+01:26:19,702 --> 01:26:22,535
+Sort of encourage him in his work.
+
+1918
+01:26:25,015 --> 01:26:25,848
+- [Joel] That's it, Bill.
+
+1919
+01:26:25,848 --> 01:26:26,681
+Keep it up, buddy.
+
+1920
+01:26:26,681 --> 01:26:28,431
+You're looking great.
+
+1921
+01:26:29,921 --> 01:26:33,444
+- At four and seven minutes,
+it'll still land on the claim.
+
+1922
+01:26:33,444 --> 01:26:36,360
+- [Crow] Now, could someone
+get me a medium sherry.
+
+1923
+01:26:36,360 --> 01:26:38,384
+A very nice one, thank you.
+
+1924
+01:26:38,384 --> 01:26:41,059
+- If I'm gonna stay down here
+and thump number three again,
+
+1925
+01:26:41,059 --> 01:26:42,603
+- [Crow] I'll need a magazine.
+
+1926
+01:26:42,603 --> 01:26:44,708
+I'll need a long line.
+
+1927
+01:26:44,708 --> 01:26:46,049
+- [Tom] Like a soliloquy or a monologue?
+
+1928
+01:26:46,049 --> 01:26:47,216
+- Miss Taplin.
+
+1929
+01:26:49,278 --> 01:26:52,222
+- [Bill] There up in the passenger deck.
+
+1930
+01:26:52,222 --> 01:26:55,972
+- [Tom] Should I make
+coffee too, Mr. Hefner?
+
+1931
+01:26:58,654 --> 01:27:00,310
+- [Crow] This is one of my
+best escape tricks ever.
+
+1932
+01:27:00,310 --> 01:27:04,227
+I chain myself to this
+ladder, see, and oh, hi.
+
+1933
+01:27:14,464 --> 01:27:16,375
+- What can I do?
+
+1934
+01:27:16,375 --> 01:27:19,715
+- Enter the control deck, use chair.
+
+1935
+01:27:19,715 --> 01:27:22,083
+- [Joel] Deck, you mean.
+
+1936
+01:27:22,083 --> 01:27:24,671
+- I think that's everything, sir.
+
+1937
+01:27:24,671 --> 01:27:27,875
+It will land 16 minutes after firing.
+
+1938
+01:27:27,875 --> 01:27:29,108
+- [Crow] Give or take a
+millionth of a second.
+
+1939
+01:27:29,108 --> 01:27:31,428
+- Excellent timing, Whitsun.
+
+1940
+01:27:31,428 --> 01:27:35,447
+Mr. Taplin's claim
+expired half an hour ago.
+
+1941
+01:27:35,447 --> 01:27:36,947
+No legal problems.
+
+1942
+01:27:39,800 --> 01:27:41,477
+- [Karminski] Are you there?
+
+1943
+01:27:41,477 --> 01:27:42,360
+- Yes.
+
+1944
+01:27:42,360 --> 01:27:46,301
+- [Karminski] On your
+right, two rows of switches.
+
+1945
+01:27:46,301 --> 01:27:47,218
+Bottom row.
+
+1946
+01:27:49,829 --> 01:27:52,872
+- [Crow] Has that guy ever
+spoken a complete sentence?
+
+1947
+01:27:52,872 --> 01:27:54,528
+- [Karminski] All right?
+
+1948
+01:27:54,528 --> 01:27:55,716
+- What now?
+
+1949
+01:27:55,716 --> 01:28:00,189
+- [Karminski] On your
+left, the big front level,
+
+1950
+01:28:00,189 --> 01:28:02,429
+pull it all the way back.
+
+1951
+01:28:02,429 --> 01:28:05,904
+- [Joel] But before you do that,
+
+1952
+01:28:05,904 --> 01:28:07,112
+- Now.
+
+1953
+01:28:07,112 --> 01:28:09,112
+(suspenseful orchestral music)
+
+1954
+01:28:12,611 --> 01:28:14,528
+- [Tom] Oh, no smoking
+in your pressure suit.
+
+1955
+01:28:14,528 --> 01:28:16,445
+First rule in the book.
+
+1956
+01:28:18,334 --> 01:28:20,224
+- [Crow] Hot head.
+
+1957
+01:28:20,224 --> 01:28:22,574
+- [Joel] I bet he won't try that again.
+
+1958
+01:28:22,574 --> 01:28:25,073
+- Cut the thrust.
+
+1959
+01:28:25,073 --> 01:28:27,290
+- the engineer must have got free.
+
+1960
+01:28:27,290 --> 01:28:28,426
+- [Tom] Yes. (snorts)
+
+1961
+01:28:28,426 --> 01:28:29,305
+- But he can't have.
+
+1962
+01:28:29,305 --> 01:28:31,697
+- Of course, you think the
+girl is flying that thing.
+
+1963
+01:28:31,697 --> 01:28:35,016
+- In the maintenance locker
+there, there is a buzz saw.
+
+1964
+01:28:35,016 --> 01:28:39,760
+- Mr. Kemp, can your engineer
+land that thing on his own?
+
+1965
+01:28:39,760 --> 01:28:41,349
+- [Joel] Well, he's not
+good at parallel parking,
+
+1966
+01:28:41,349 --> 01:28:44,409
+but if it's a diagonal spot, he can do it.
+
+1967
+01:28:44,409 --> 01:28:45,769
+- No, I don't think so.
+
+1968
+01:28:45,769 --> 01:28:50,674
+- Then, he needs you as
+much as we need the ship.
+
+1969
+01:28:50,674 --> 01:28:51,923
+- [Crow] And vice versa.
+
+1970
+01:28:51,923 --> 01:28:55,340
+- [Hubbard] Mr. Kaminski, if you hear me,
+
+1971
+01:28:56,581 --> 01:28:57,623
+we are ready to go home now.
+
+1972
+01:28:57,623 --> 01:29:00,956
+- [Tom] He could have just grabbed that.
+
+1973
+01:29:01,808 --> 01:29:03,066
+- Go get him, Harry.
+
+1974
+01:29:03,066 --> 01:29:06,396
+- That's right, Harry, come and get me.
+
+1975
+01:29:06,396 --> 01:29:07,910
+- He's got a gun, Mr. Hubbard.
+
+1976
+01:29:07,910 --> 01:29:10,327
+- I know that, it's your gun.
+
+1977
+01:29:11,506 --> 01:29:14,008
+Just start earning your pay, for once.
+
+1978
+01:29:14,008 --> 01:29:18,175
+- [Crow] Uh, I can't spend it
+if I got a hole through me.
+
+1979
+01:29:24,353 --> 01:29:25,960
+- [Harry] Be reasonable, Mr. Kemp.
+
+1980
+01:29:25,960 --> 01:29:28,918
+We just wanna get back to
+the Moon, the same as you do.
+
+1981
+01:29:28,918 --> 01:29:31,008
+So, let's have no more trouble, please.
+
+1982
+01:29:31,008 --> 01:29:32,121
+- Watch your head, Harry.
+
+1983
+01:29:32,121 --> 01:29:35,471
+- [Crow] How can a person
+watch their own head?
+
+1984
+01:29:35,471 --> 01:29:36,357
+(gun fires)
+
+1985
+01:29:36,357 --> 01:29:37,690
+- [Crow] Arghhh.
+
+1986
+01:29:39,139 --> 01:29:41,306
+She must have hit my head.
+
+1987
+01:29:42,224 --> 01:29:45,207
+- [Tom] Music to shoot thugs by.
+
+1988
+01:29:45,207 --> 01:29:48,290
+- Now, let's be reasonable, Mr. Kemp.
+
+1989
+01:29:49,407 --> 01:29:50,240
+Come here.
+
+1990
+01:29:51,243 --> 01:29:53,243
+(suspenseful orchestral music)
+
+1991
+01:30:09,170 --> 01:30:11,587
+(explosions)
+
+1992
+01:30:15,747 --> 01:30:17,497
+- [Crow] Light bulbs.
+
+1993
+01:30:19,495 --> 01:30:21,052
+- [Joel] They're surfin'.
+
+1994
+01:30:21,052 --> 01:30:23,611
+- [Tom] I can fly, I can fly.
+
+1995
+01:30:23,611 --> 01:30:26,602
+I'm the luckiest boy in the world.
+
+1996
+01:30:26,602 --> 01:30:28,769
+- [Hubbard] Well, stop it.
+
+1997
+01:30:33,151 --> 01:30:35,634
+- [Tom] Clink, you idiot.
+
+1998
+01:30:35,634 --> 01:30:39,801
+- [Crow] I won, I won, I'm
+the best, I'm the best.
+
+1999
+01:30:41,159 --> 01:30:43,242
+- [Tom] Works every time.
+
+2000
+01:30:46,166 --> 01:30:46,999
+High five?
+
+2001
+01:30:46,999 --> 01:30:50,252
+No just a hand is fine, thanks.
+
+2002
+01:30:50,252 --> 01:30:52,252
+(jazz music)
+
+2003
+01:31:05,551 --> 01:31:07,889
+- [Karminski] Well, they'll
+be on the Moon before we are.
+
+2004
+01:31:07,889 --> 01:31:09,590
+- Seal her up.
+
+2005
+01:31:09,590 --> 01:31:11,340
+We'll follow as far as we can.
+
+2006
+01:31:11,340 --> 01:31:14,078
+- [Joel] And take lots of pictures.
+
+2007
+01:31:14,078 --> 01:31:16,078
+(jazz music)
+
+2008
+01:31:20,928 --> 01:31:23,095
+- [Crow] So long, suckers.
+
+2009
+01:31:29,463 --> 01:31:32,023
+- Pressure normal, no leaks.
+
+2010
+01:31:32,023 --> 01:31:34,563
+- [Crow] A few lentils, though. (laughs)
+
+2011
+01:31:34,563 --> 01:31:36,295
+- [Joel] Bad line.
+
+2012
+01:31:36,295 --> 01:31:39,045
+- [Crow] Soup lovers will get it.
+
+2013
+01:31:44,554 --> 01:31:45,937
+- [Karminsi] United
+Nations Spacer Charter.
+
+2014
+01:31:45,937 --> 01:31:46,770
+- [Joel] She missed his forehead.
+
+2015
+01:31:46,770 --> 01:31:48,118
+That's pretty tough to do.
+
+2016
+01:31:48,118 --> 01:31:51,480
+- Section 99B, no sex
+is permitted in space.
+
+2017
+01:31:51,480 --> 01:31:54,538
+- [Tom] Probably because
+of the fiberglass suit.
+
+2018
+01:31:54,538 --> 01:31:57,039
+- Nobody else is ready, either.
+
+2019
+01:31:57,039 --> 01:31:59,172
+(beeping)
+
+2020
+01:31:59,172 --> 01:32:01,357
+- [Crow] Wow, apparently, I'm dead.
+
+2021
+01:32:01,357 --> 01:32:04,136
+- They'll reach the Moon
+in exactly one minute.
+
+2022
+01:32:04,136 --> 01:32:04,977
+- On target?
+
+2023
+01:32:04,977 --> 01:32:06,260
+- [Karminski] On target.
+
+2024
+01:32:06,260 --> 01:32:07,697
+- And whoever takes over from Hubbard
+
+2025
+01:32:07,697 --> 01:32:10,859
+gets 6,000 tons of sapphire.
+
+2026
+01:32:10,859 --> 01:32:13,782
+- That makes you a very attractive woman.
+
+2027
+01:32:13,782 --> 01:32:15,081
+- [Crow] I'm already attractive.
+
+2028
+01:32:15,081 --> 01:32:16,109
+- When we prove that your
+brother was murdered,
+
+2029
+01:32:16,109 --> 01:32:18,056
+and that he'd found nickel.
+
+2030
+01:32:18,056 --> 01:32:18,974
+- [Tom] Yeah, go on.
+
+2031
+01:32:18,974 --> 01:32:21,981
+- The law doesn't allow profit by murder.
+
+2032
+01:32:21,981 --> 01:32:23,231
+- Five seconds,
+
+2033
+01:32:24,568 --> 01:32:25,401
+four,
+
+2034
+01:32:26,565 --> 01:32:28,063
+three.
+
+2035
+01:32:28,063 --> 01:32:30,366
+- [Joel] Yeah! Yehaw, yehaw.
+
+2036
+01:32:30,366 --> 01:32:32,116
+- [Crow] Woo hoo hoo.
+
+2037
+01:32:34,906 --> 01:32:36,166
+- [Tom] Moon Zero Two.
+
+2038
+01:32:36,166 --> 01:32:39,828
+- Well, he made his mark
+on the Moon, all right.
+
+2039
+01:32:39,828 --> 01:32:41,078
+- [Crow] Funny.
+
+2040
+01:32:43,271 --> 01:32:45,188
+- Course for Moon City.
+
+2041
+01:32:48,151 --> 01:32:53,127
+Oh, by the way, what's your
+room at the hotel like?
+
+2042
+01:32:53,127 --> 01:32:55,210
+- Why don't you find out?
+
+2043
+01:32:57,020 --> 01:32:58,525
+- [Crow] I don't get it, what'd ya mean?
+
+2044
+01:32:58,525 --> 01:33:00,166
+- [Joel] Right.
+
+2045
+01:33:00,166 --> 01:33:01,534
+- [Crow] She want him
+to paint or something?
+
+2046
+01:33:01,534 --> 01:33:03,214
+- [Tom] Yeah.
+
+2047
+01:33:03,214 --> 01:33:06,887
+- [Joel] They also have a
+paint contracting outfit.
+
+2048
+01:33:06,887 --> 01:33:08,798
+I hope this turns back into a cartoon.
+
+2049
+01:33:08,798 --> 01:33:10,808
+Kinda to seal the whole thing up.
+
+2050
+01:33:10,808 --> 01:33:11,641
+- [Crow] Yeah.
+
+2051
+01:33:11,641 --> 01:33:12,474
+- [Tom] Bookend it.
+
+2052
+01:33:12,474 --> 01:33:13,307
+- [Joel] What?
+
+2053
+01:33:13,307 --> 01:33:14,253
+- [Tom] Kinda bookend it.
+
+2054
+01:33:14,253 --> 01:33:16,699
+- [Joel] Yeah, yeah.
+
+2055
+01:33:16,699 --> 01:33:19,565
+- [Joel] What was that one song?
+
+2056
+01:33:19,565 --> 01:33:21,196
+- [Crow] Oh, the Wiener Man song?
+
+2057
+01:33:21,196 --> 01:33:22,523
+- [Joel] Yeah, how does that go?
+
+2058
+01:33:22,523 --> 01:33:24,648
+We have to get outta here.
+
+2059
+01:33:24,648 --> 01:33:25,996
+♫ I wanna be a wiener man
+
+2060
+01:33:25,996 --> 01:33:30,163
+♫ I will be a wiener fan ♫
+
+2061
+01:33:33,484 --> 01:33:35,567
+(thumps)
+
+2062
+01:33:42,138 --> 01:33:43,838
+- All right, it's the end of the movie.
+
+2063
+01:33:43,838 --> 01:33:45,454
+Hey Gypsy, how ya doin'?
+
+2064
+01:33:45,454 --> 01:33:46,354
+- Oh, I'm fine.
+
+2065
+01:33:46,354 --> 01:33:48,599
+Okay, it's good to have
+you back and it's time.
+
+2066
+01:33:48,599 --> 01:33:50,740
+Thank you, Gypsy, you're good, okay.
+
+2067
+01:33:50,740 --> 01:33:52,355
+Now, you know what we're gonna do next.
+
+2068
+01:33:52,355 --> 01:33:55,328
+It's the movie review
+game, and that means,
+
+2069
+01:33:55,328 --> 01:33:58,283
+tell me a good thing and a
+bad thing about the movie
+
+2070
+01:33:58,283 --> 01:34:00,580
+and you get RAM chips.
+
+2071
+01:34:00,580 --> 01:34:02,630
+(cheering)
+
+2072
+01:34:02,630 --> 01:34:05,518
+- okay, Tom Servo, you go first.
+
+2073
+01:34:05,518 --> 01:34:08,040
+- Well, this movie made my gorge rise.
+
+2074
+01:34:08,040 --> 01:34:09,462
+- Okay, and a bad thing.
+
+2075
+01:34:09,462 --> 01:34:10,962
+- Okay, seriously.
+
+2076
+01:34:11,848 --> 01:34:14,009
+I thought the movie
+provided an opportunity
+
+2077
+01:34:14,009 --> 01:34:16,006
+for us to examine the various inaccuracies
+
+2078
+01:34:16,006 --> 01:34:19,965
+often portrayed in air sot
+space movies such as this one.
+
+2079
+01:34:19,965 --> 01:34:21,930
+- I see, you're really
+bucking for that RAM chip,
+
+2080
+01:34:21,930 --> 01:34:23,079
+aren't you pal?
+
+2081
+01:34:23,079 --> 01:34:24,096
+- Yep.
+
+2082
+01:34:24,096 --> 01:34:25,916
+- Well, I like that you're
+a good self-starter,
+
+2083
+01:34:25,916 --> 01:34:27,278
+and I like the cut of your jib.
+
+2084
+01:34:27,278 --> 01:34:30,151
+Here's your RAM chip, pallie, all right.
+
+2085
+01:34:30,151 --> 01:34:31,798
+All right, Crow, how you doin'?
+
+2086
+01:34:31,798 --> 01:34:32,830
+- Ah, fine.
+
+2087
+01:34:32,830 --> 01:34:34,146
+- Do you wanna tell me one good
+
+2088
+01:34:34,146 --> 01:34:36,246
+and a bad thing about the movie?
+
+2089
+01:34:36,246 --> 01:34:39,982
+- Ah, it was groovy, and
+I mean that in a good way.
+
+2090
+01:34:39,982 --> 01:34:42,192
+- Okay, and the bad thing.
+
+2091
+01:34:42,192 --> 01:34:43,712
+- It was groovy.
+
+2092
+01:34:43,712 --> 01:34:45,354
+- Right, and you mean
+that in a bad way, right.
+
+2093
+01:34:45,354 --> 01:34:46,321
+- Yeah, exactly.
+
+2094
+01:34:46,321 --> 01:34:48,083
+- All right, exactly okay.
+
+2095
+01:34:48,083 --> 01:34:49,599
+Ready, you ready, girl?
+
+2096
+01:34:49,599 --> 01:34:53,766
+Okay, tell me a good thing and
+a bad thing about the movie.
+
+2097
+01:34:54,965 --> 01:34:56,494
+- Richard Basehart.
+
+2098
+01:34:56,494 --> 01:35:00,661
+- Richard Basehart, okay
+well, you get a RAM chip.
+
+2099
+01:35:01,595 --> 01:35:03,055
+Okay, good.
+
+2100
+01:35:03,055 --> 01:35:06,819
+All right, okay, well, we
+got another letter to read
+
+2101
+01:35:06,819 --> 01:35:10,054
+and thanks for everybody
+who's written in so far.
+
+2102
+01:35:10,054 --> 01:35:12,584
+You really help us keep
+goin' up here in space.
+
+2103
+01:35:12,584 --> 01:35:14,995
+Cambot, could we have
+that up on the screen?
+
+2104
+01:35:14,995 --> 01:35:18,701
+This one comes from a
+guy named Ryan Ricebrock
+
+2105
+01:35:18,701 --> 01:35:20,435
+from Illinois.
+
+2106
+01:35:20,435 --> 01:35:22,910
+Dear Joel, Tom Sirbol, and Crow.
+
+2107
+01:35:22,910 --> 01:35:23,767
+- [Tom] Huh?
+
+2108
+01:35:23,767 --> 01:35:25,018
+Tom Sirbol.
+
+2109
+01:35:25,018 --> 01:35:26,913
+I'm 14 years old, I love your show.
+
+2110
+01:35:26,913 --> 01:35:29,297
+I start laughing so hard
+when you make comments
+
+2111
+01:35:29,297 --> 01:35:32,063
+during the movie, tears come to my eyes.
+
+2112
+01:35:32,063 --> 01:35:35,272
+Tom Sirbol is the best,
+because his voice is so deep.--
+
+2113
+01:35:35,272 --> 01:35:36,105
+- [Tom] Thank you.
+
+2114
+01:35:36,105 --> 01:35:38,006
+- When he makes a joke, it sounds funny.
+
+2115
+01:35:38,006 --> 01:35:41,638
+Like when he said, "oh, I hate
+to shoot a butt like that."
+
+2116
+01:35:41,638 --> 01:35:44,304
+- Oh, I hate to shoot a butt like that.
+
+2117
+01:35:44,304 --> 01:35:47,108
+- All right, anyway, he later
+asks about being Sirbol,
+
+2118
+01:35:47,108 --> 01:35:50,186
+it's Tom Servo, but
+it's an honest mistake.
+
+2119
+01:35:50,186 --> 01:35:52,387
+Anyway, there's a picture here, too.
+
+2120
+01:35:52,387 --> 01:35:54,028
+Show that Cambot.
+
+2121
+01:35:54,028 --> 01:35:55,880
+He's really a good artist, actually.
+
+2122
+01:35:55,880 --> 01:35:58,652
+So anyway, that ends the
+experiment for today.
+
+2123
+01:35:58,652 --> 01:36:00,309
+What do you think, sirs?
+
+2124
+01:36:00,309 --> 01:36:02,612
+- What about the address?
+
+2125
+01:36:02,612 --> 01:36:05,238
+- I got it, I got it, okay.
+
+2126
+01:36:05,238 --> 01:36:08,392
+Send it to the Mystery
+Science Theater 3000 Fan Club,
+
+2127
+01:36:08,392 --> 01:36:11,809
+P. O. Box 5325, Hopkins, Minnesota 55343.
+
+2128
+01:36:15,234 --> 01:36:16,713
+Send 'em quick.
+
+2129
+01:36:16,713 --> 01:36:18,567
+- Not bad, not bad.
+
+2130
+01:36:18,567 --> 01:36:20,564
+- Hey, how's my hair now?
+
+2131
+01:36:20,564 --> 01:36:21,814
+- Go like this.
+
+2132
+01:36:23,646 --> 01:36:25,162
+You look like Big Boy.
+
+2133
+01:36:25,162 --> 01:36:25,995
+File that.
+
+2134
+01:36:27,152 --> 01:36:29,652
+Until next time, Flabby Cakes.
+
+2135
+01:36:32,022 --> 01:36:35,855
+("Moon Zero Two" theme music)
+

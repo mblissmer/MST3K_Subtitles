@@ -1,0 +1,9781 @@
+﻿1
+00:00:01,101 --> 00:00:04,338
+[theme song playing]
+<i>♪ In the not-too-distant future ♪</i>
+
+2
+00:00:04,404 --> 00:00:06,206
+<i>♪ Next Sunday AD ♪</i>
+
+3
+00:00:07,508 --> 00:00:10,377
+<i>♪ There was a guy named Joel ♪</i>
+
+4
+00:00:10,444 --> 00:00:12,880
+<i>♪ Not too different from you or me ♪</i>
+
+5
+00:00:13,714 --> 00:00:16,617
+<i>♪ He worked at Gizmonic Institute ♪</i>
+
+6
+00:00:16,717 --> 00:00:19,620
+<i>♪ Just another face in a red jumpsuit ♪</i>
+
+7
+00:00:19,686 --> 00:00:22,623
+<i>♪ He did a good job</i>
+<i>Cleaning up the place ♪</i>
+
+8
+00:00:22,723 --> 00:00:24,458
+<i>♪ But his bosses didn't like him ♪</i>
+
+9
+00:00:24,525 --> 00:00:26,493
+<i>♪ So they shot him into space! ♪</i>
+
+10
+00:00:29,229 --> 00:00:32,366
+<i>♪ We'll send him cheesy movies! ♪</i>
+
+11
+00:00:32,432 --> 00:00:34,601
+<i>♪ The worst we can find! </i>♪
+
+12
+00:00:34,668 --> 00:00:35,502
+<i>♪ La la la ♪</i>
+
+13
+00:00:35,569 --> 00:00:38,372
+<i>♪ He'll have to sit and watch them all ♪</i>
+
+14
+00:00:38,472 --> 00:00:40,774
+<i>♪ And we'll monitor his mind! </i>♪
+
+15
+00:00:40,841 --> 00:00:41,675
+♪<i> La la la ♪</i>
+
+16
+00:00:41,742 --> 00:00:44,778
+<i>♪ Now keep in mind Joel can't control ♪</i>
+
+17
+00:00:44,845 --> 00:00:47,014
+<i>♪ Where the movies begin or end </i>♪
+
+18
+00:00:47,080 --> 00:00:47,915
+<i>♪ La la la ♪</i>
+
+19
+00:00:48,015 --> 00:00:50,984
+<i>♪ Because he used those special parts ♪</i>
+
+20
+00:00:51,084 --> 00:00:54,154
+<i>♪ To make his robot friends ♪</i>
+
+21
+00:00:55,989 --> 00:00:58,058
+<i>-♪ Robot roll call </i>♪
+-[man on radio]<i> Let's go. Cambot!</i>
+
+22
+00:00:58,125 --> 00:00:59,593
+{\an8}-[man] Pan left.
+-♪ Gypsy! ♪
+
+23
+00:00:59,660 --> 00:01:01,028
+{\an8}<i>-Hi, girl!</i>
+-♪ Tom Servo! ♪
+
+24
+00:01:01,094 --> 00:01:02,029
+{\an8}<i>What a cool guy.</i>
+
+25
+00:01:02,095 --> 00:01:03,597
+{\an8}<i>-♪ Croooow! ♪</i>
+-Wisecracker.
+
+26
+00:01:03,697 --> 00:01:06,633
+<i>♪ If you're wondering</i>
+<i>How he eats and breathes ♪</i>
+
+27
+00:01:06,700 --> 00:01:08,669
+<i>♪ And other science facts ♪</i>
+
+28
+00:01:08,735 --> 00:01:09,570
+♪<i> La la la ♪</i>
+
+29
+00:01:09,636 --> 00:01:12,940
+<i>♪ Then repeat to yourself</i>
+<i>It's just a show ♪</i>
+
+30
+00:01:13,040 --> 00:01:15,842
+<i>♪ I should really just relax ♪</i>
+
+31
+00:01:15,943 --> 00:01:21,048
+<i>♪ For Mystery Science Theater 3000! ♪</i>
+
+32
+00:01:31,758 --> 00:01:33,927
+OK, Gypsy, it's your turn, roll.
+
+33
+00:01:33,994 --> 00:01:35,996
+Come on, boxcars!
+
+34
+00:01:36,964 --> 00:01:39,099
+OK, looks like...
+
+35
+00:01:39,166 --> 00:01:41,068
+Oh, got a six, OK.
+
+36
+00:01:41,134 --> 00:01:46,039
+-One, two, three, four, five, six.
+-[Servo moaning]
+
+37
+00:01:46,106 --> 00:01:48,909
+Well, with each pop,
+my mind expands at an alarming rate.
+
+38
+00:01:48,976 --> 00:01:49,977
+And I don't mind telling you
+
+39
+00:01:50,043 --> 00:01:52,379
+it's a harsh jarring
+comfortless experience.
+
+40
+00:01:52,446 --> 00:01:53,947
+Oh, come on, quit your bellyaching.
+
+41
+00:01:54,014 --> 00:01:55,816
+Hi, everybody,
+welcome to the Satellite of Love.
+
+42
+00:01:55,882 --> 00:01:57,351
+I'm Joel Robinson in the box
+
+43
+00:01:57,417 --> 00:01:59,653
+and I have decided to turn old Tom Servo
+
+44
+00:01:59,720 --> 00:02:02,155
+in that Milton Bradley game Kaboom.
+
+45
+00:02:02,222 --> 00:02:03,557
+OK, come on.
+
+46
+00:02:04,591 --> 00:02:05,726
+Oh, got an 8.
+
+47
+00:02:06,727 --> 00:02:07,794
+Oh, that stings.
+
+48
+00:02:07,861 --> 00:02:08,695
+And that's another thing.
+
+49
+00:02:08,762 --> 00:02:09,663
+Why Kaboom?
+
+50
+00:02:09,730 --> 00:02:12,232
+Guys, I feel more suited
+to go to the head of the class
+
+51
+00:02:12,299 --> 00:02:14,368
+or Stadium Checkers or even Kerplunk.
+
+52
+00:02:14,434 --> 00:02:15,969
+Anything would be better than this.
+
+53
+00:02:16,036 --> 00:02:17,838
+If it would make you feel any better,
+
+54
+00:02:17,904 --> 00:02:19,940
+we could play hands down with you.
+
+55
+00:02:20,073 --> 00:02:23,310
+Why, that's it!
+Oh, great day, hands down.
+
+56
+00:02:23,377 --> 00:02:26,346
+That's the slap happiest game ever
+I would be playing.
+
+57
+00:02:26,413 --> 00:02:27,581
+I thought we just get in a circle
+
+58
+00:02:27,648 --> 00:02:28,882
+and hit you and snag on you
+and crush you--
+
+59
+00:02:29,016 --> 00:02:30,784
+He, guys, I could, uh, surv--
+
+60
+00:02:30,851 --> 00:02:32,452
+I got to go survey
+the electronics on the ship.
+
+61
+00:02:32,519 --> 00:02:35,989
+Could we just forget about the game
+and pop up Servo's head until it pops?
+
+62
+00:02:36,056 --> 00:02:38,358
+-Yeah. That's it.
+-[Servo] No, no, no...
+
+63
+00:02:38,425 --> 00:02:42,562
+-Pop him, pop him, pop, pop, pop.
+-No, no. Please, please, please...
+
+64
+00:02:42,863 --> 00:02:46,433
+[all except Servo]
+Pop him, pop him, pop, pop, pop.
+
+65
+00:02:46,500 --> 00:02:49,302
+-Pop him, pop him, pop, pop, pop.
+-[Servo whimpering]
+
+66
+00:02:49,369 --> 00:02:51,872
+-Pop him, pop him, pop, pop, pop.
+-No...
+
+67
+00:02:51,938 --> 00:02:54,107
+-Pop him, pop him, pop, pop, pop.
+-No...
+
+68
+00:02:56,543 --> 00:02:59,546
+My Lord, this is incredible.
+My head is so huge.
+
+69
+00:02:59,613 --> 00:03:01,148
+I've accumulated all the knowledge
+
+70
+00:03:01,214 --> 00:03:03,417
+of all humanity throughout the ages.
+
+71
+00:03:03,483 --> 00:03:05,786
+Yet all I can think about is why,
+
+72
+00:03:05,852 --> 00:03:09,289
+why did they cancel<i> Manimal, </i>why?
+
+73
+00:03:09,356 --> 00:03:13,393
+Oh, uh, Pearl and Hayes
+and Mary Healey are calling you guys.
+
+74
+00:03:14,728 --> 00:03:15,962
+Oh, hello, Booby.
+
+75
+00:03:16,029 --> 00:03:18,532
+Say, if you want to make
+people's heads explode?
+
+76
+00:03:18,598 --> 00:03:19,966
+Sure we all do.
+
+77
+00:03:20,267 --> 00:03:22,469
+Well, my invention exchange this week
+
+78
+00:03:22,536 --> 00:03:25,939
+is a study guide I've put together
+called "The Scanner Planner."
+
+79
+00:03:26,239 --> 00:03:29,109
+It's filled with lots
+of life's little instructions
+
+80
+00:03:29,176 --> 00:03:32,879
+on how you can scan people's brains
+and make their heads explode.
+
+81
+00:03:33,213 --> 00:03:35,582
+Now, the first thing
+you'll need for your scanning
+
+82
+00:03:35,649 --> 00:03:36,883
+is a good subject,
+
+83
+00:03:36,950 --> 00:03:40,554
+someone who's your moral
+and intellectual inferior.
+
+84
+00:03:40,854 --> 00:03:42,522
+I wonder who that could be.
+
+85
+00:03:42,589 --> 00:03:44,791
+Hi, Dr. Forrester, what you doing?
+
+86
+00:03:51,131 --> 00:03:53,533
+Hey, you were scanning me, weren't you?
+
+87
+00:03:53,600 --> 00:03:57,003
+You tried to make my head explode,
+you freaked out maniac.
+
+88
+00:03:57,070 --> 00:03:59,406
+[Forrester groans in pain]
+
+89
+00:03:59,473 --> 00:04:01,808
+This could take a while, Joel.
+Back up to you.
+
+90
+00:04:03,477 --> 00:04:05,212
+Sirs, when are you going to realize
+
+91
+00:04:05,278 --> 00:04:08,615
+that when you kill each other,
+you're only hurting yourselves.
+
+92
+00:04:08,682 --> 00:04:12,586
+Anyway, our invention exchange
+is based on one of the century's safest,
+
+93
+00:04:12,652 --> 00:04:15,756
+softest and funniest concept:
+the wiffle ball.
+
+94
+00:04:15,822 --> 00:04:17,457
+Ha ha, It's fun.
+
+95
+00:04:17,524 --> 00:04:19,359
+And we've taken the whole wiffle concept
+
+96
+00:04:19,426 --> 00:04:22,763
+and siphoned it through our own
+madcap irreverent viewpoint.
+
+97
+00:04:22,829 --> 00:04:25,899
+For instance, there's the wiffle hat.
+
+98
+00:04:25,966 --> 00:04:29,603
+It's lighter, cooler and more comfortable
+than any ordinary hat.
+
+99
+00:04:29,669 --> 00:04:32,139
+-And there's the wiffle glass.
+-Oh, yeah.
+
+100
+00:04:32,205 --> 00:04:35,342
+-Makes any soft drink wifflacious.
+-Whoo...
+
+101
+00:04:35,408 --> 00:04:37,744
+Well, we haven't quite
+worked out all the kinks yet
+
+102
+00:04:37,811 --> 00:04:39,880
+but I've come up
+with something even cooler:
+
+103
+00:04:39,946 --> 00:04:41,448
+wiffle cheese.
+
+104
+00:04:41,548 --> 00:04:43,950
+Hey, wait a minute,
+this is just Swiss cheese.
+
+105
+00:04:44,050 --> 00:04:46,219
+That's right. It's nature's own wiffle.
+
+106
+00:04:46,286 --> 00:04:47,621
+That's right. And think
+of the possibilities,
+
+107
+00:04:47,687 --> 00:04:48,688
+they're endless.
+
+108
+00:04:48,755 --> 00:04:52,025
+Wiffle cat, wiffle dog,
+wiffle roach motel.
+
+109
+00:04:52,092 --> 00:04:54,828
+Wiffle sports jacket,
+wiffle replacement hip,
+
+110
+00:04:54,895 --> 00:04:55,896
+wiffle underpants.
+
+111
+00:04:55,962 --> 00:04:58,131
+Wiffle shoehorn,
+wiffle apartment building,
+
+112
+00:04:58,198 --> 00:04:59,599
+wiffle Claude Akins.
+
+113
+00:04:59,666 --> 00:05:00,734
+[together] Wiffle.
+
+114
+00:05:00,801 --> 00:05:02,035
+What do you think, sirs?
+
+115
+00:05:06,239 --> 00:05:09,776
+Oh, Joel, your movie this week
+is your first western.
+
+116
+00:05:09,843 --> 00:05:11,111
+It's called<i> Gunslinger</i>
+
+117
+00:05:11,178 --> 00:05:14,514
+and it stars Beverly Garland
+in her pre-Doddy period.
+
+118
+00:05:14,581 --> 00:05:16,483
+Beverly Garland?
+[rolls tongue]
+
+119
+00:05:18,051 --> 00:05:19,920
+It's also directed by Roger Corman.
+
+120
+00:05:19,986 --> 00:05:22,889
+So your heads may explode
+before Frank's does.
+
+121
+00:05:22,956 --> 00:05:25,091
+Yippiekiyay, mama jama.
+
+122
+00:05:30,297 --> 00:05:32,899
+He made my head explode.
+Thank you, Dr. Forrester.
+
+123
+00:05:32,966 --> 00:05:34,835
+-[buzzer sounding]
+-[all clamoring]
+
+124
+00:05:34,901 --> 00:05:36,069
+[Servo] Thank you.
+
+125
+00:05:44,778 --> 00:05:46,580
+[Crow] Ah, that feels good.
+
+126
+00:05:47,047 --> 00:05:50,317
+[rooster crowing]
+
+127
+00:05:50,383 --> 00:05:52,419
+[Crow] It's morning in America.
+
+128
+00:05:52,485 --> 00:05:53,787
+[Servo] Let's see. Doctor? No.
+
+129
+00:05:53,854 --> 00:05:55,856
+No barber? No, that's no good.
+
+130
+00:05:56,923 --> 00:05:59,693
+Oh, law enforcement!
+That's what I need.
+
+131
+00:06:00,560 --> 00:06:01,828
+[Joel] Now, to the horses.
+
+132
+00:06:01,895 --> 00:06:03,430
+[Crow laughs] Corman.
+
+133
+00:06:04,264 --> 00:06:06,566
+[Servo] She is slick.
+How'd she slip by us?
+
+134
+00:06:10,370 --> 00:06:11,805
+-Hi.
+-Hi.
+
+135
+00:06:11,872 --> 00:06:13,540
+-[Servo] You didn't hear her?
+Some sheriff.
+
+136
+00:06:13,607 --> 00:06:14,975
+Long night.
+
+137
+00:06:15,041 --> 00:06:16,176
+Quiet one, for a change.
+
+138
+00:06:16,243 --> 00:06:17,711
+[Crow] Any trouble with Patty, Marshall?
+
+139
+00:06:17,777 --> 00:06:18,945
+Oh, you shouldn't get up so early
+
+140
+00:06:19,012 --> 00:06:20,881
+just to fetch my breakfast.
+
+141
+00:06:20,947 --> 00:06:22,849
+What else is a marshal's wife good for?
+
+142
+00:06:22,916 --> 00:06:25,719
+[Servo] Formfitting Western dress,
+nice bustier.
+
+143
+00:06:25,785 --> 00:06:27,187
+So, what have you been doing all night?
+
+144
+00:06:27,254 --> 00:06:29,623
+-[Joel] Cleaning my gun, yeah.
+-...Nate Signo.
+
+145
+00:06:29,689 --> 00:06:31,725
+You still think he shot Uriah Baker?
+
+146
+00:06:31,791 --> 00:06:32,859
+I'm sure of it.
+
+147
+00:06:32,959 --> 00:06:34,327
+[dog barking]
+
+148
+00:06:34,394 --> 00:06:36,029
+[Crow] They're not that good
+at sneaking up.
+
+149
+00:06:36,096 --> 00:06:37,297
+[Servo] Well, sneaking up
+had just been invented, so...
+
+150
+00:06:37,364 --> 00:06:39,599
+I went over to Erica Page's yesterday.
+
+151
+00:06:39,666 --> 00:06:41,801
+Time I got there, he was gone.
+
+152
+00:06:42,302 --> 00:06:44,838
+I don't know.
+Maybe she warned him I was coming.
+
+153
+00:06:44,905 --> 00:06:47,607
+Anyway, I tracked him out
+as far as Nine Mile Canyon,
+
+154
+00:06:47,674 --> 00:06:48,942
+-then I lost him.
+-[Crow] Copper tubing!
+
+155
+00:06:49,709 --> 00:06:51,645
+Probably holed in there
+somewhere now.
+
+156
+00:06:51,745 --> 00:06:54,814
+You figure out what you're going to do
+about Erica's tramps at the Red Dog?
+
+157
+00:06:54,915 --> 00:06:57,617
+Now, who in the world
+could stand up to that woman?
+
+158
+00:06:57,684 --> 00:06:59,719
+-Try me.
+-[Servo] You like me.
+
+159
+00:07:00,553 --> 00:07:03,023
+Aw, you stick to making coffee, Rose.
+
+160
+00:07:03,089 --> 00:07:04,557
+I'll take care of the criminal element.
+
+161
+00:07:04,624 --> 00:07:05,458
+[gunshot]
+
+162
+00:07:05,525 --> 00:07:06,393
+[Servo] Guess I won't.
+
+163
+00:07:08,228 --> 00:07:09,729
+[Crow] More, more, more.
+
+164
+00:07:09,930 --> 00:07:10,864
+[horse whinnies]
+
+165
+00:07:10,964 --> 00:07:13,066
+[Joel] Oop, see you, Dave.
+Gotta go get a haircut.
+
+166
+00:07:14,868 --> 00:07:16,803
+[Servo] You see, this is before
+barber poles moved.
+
+167
+00:07:16,870 --> 00:07:18,471
+They just sat outside
+and cranked 'em.
+
+168
+00:07:22,542 --> 00:07:23,476
+[Crow] What a day!
+
+169
+00:07:23,543 --> 00:07:25,979
+Well, better check the scones.
+
+170
+00:07:26,046 --> 00:07:28,348
+[Joel] Oh, how am I going
+to explain this to--
+
+171
+00:07:28,415 --> 00:07:30,083
+Oh, that's right.
+
+172
+00:07:36,623 --> 00:07:39,359
+[Servo] Hon, morning.
+What'd you dream about last night?
+
+173
+00:07:39,426 --> 00:07:40,994
+Let me think, let me think.
+
+174
+00:07:41,861 --> 00:07:43,463
+[Crow] Well, at least, check his pulse.
+
+175
+00:07:43,530 --> 00:07:44,397
+[Joel] Yeah.
+
+176
+00:07:45,098 --> 00:07:46,633
+[Servo] Oh, poop.
+
+177
+00:07:49,102 --> 00:07:50,704
+[Joel] The man with a golden arm.
+
+178
+00:07:50,770 --> 00:07:51,905
+-[♪♪♪]
+-[Joel] Walking this.
+
+179
+00:07:51,972 --> 00:07:53,807
+[Crow] So, Corman did Swamp
+Diamonds on Monday
+
+180
+00:07:53,873 --> 00:07:54,908
+and this one on Wednesday.
+
+181
+00:07:54,975 --> 00:07:55,842
+[Joel] Yep.
+
+182
+00:07:57,811 --> 00:07:59,312
+[Joel] Origami in your live type.
+
+183
+00:07:59,379 --> 00:08:00,580
+[Servo imitating trumpet]
+
+184
+00:08:01,348 --> 00:08:02,449
+[all scream]
+
+185
+00:08:02,749 --> 00:08:04,384
+[Servo cries] Hold me!
+
+186
+00:08:07,187 --> 00:08:09,522
+[Joel] Looks like Bella Abzug.
+
+187
+00:08:09,823 --> 00:08:13,226
+[Crow] My set is melting, melting.
+
+188
+00:08:14,761 --> 00:08:15,895
+[Servo] Oh,<i> Spy vs. Spy </i>.
+
+189
+00:08:15,962 --> 00:08:18,431
+[Joel] Uh, Zorro kind of, sort of...
+
+190
+00:08:26,406 --> 00:08:27,474
+[Crow] You got me.
+
+191
+00:08:30,210 --> 00:08:31,978
+[Servo] They got a choreographer,
+that's a good sign.
+
+192
+00:08:34,914 --> 00:08:36,616
+[Crow in old voice]
+The old Fred West.
+
+193
+00:08:41,054 --> 00:08:44,391
+[Joel] Ah, kids, don't change
+a light bulb without supervision.
+
+194
+00:08:45,425 --> 00:08:46,559
+[Servo] Oh, it's like<i> High Plains Drifter,</i>
+
+195
+00:08:46,626 --> 00:08:47,727
+what with the red buildings and such.
+
+196
+00:08:47,794 --> 00:08:50,130
+[Joel] No, it's<i> The Funny Company,</i>
+as you can plainly see.
+
+197
+00:08:50,196 --> 00:08:51,364
+[Servo makes buzzer sound]
+
+198
+00:08:54,501 --> 00:08:55,468
+[Servo] Hey, garden.
+
+199
+00:08:57,537 --> 00:08:58,905
+What's the news from the East?
+
+200
+00:08:58,972 --> 00:09:00,507
+Well, the railroad's still in Waco.
+
+201
+00:09:00,573 --> 00:09:02,475
+[Crow] The Harkawis are mad.
+They want their money.
+
+202
+00:09:02,542 --> 00:09:03,843
+...that new track for two weeks yet.
+
+203
+00:09:03,910 --> 00:09:05,545
+We're all waitin' for that big letter.
+
+204
+00:09:05,612 --> 00:09:07,213
+Yeah, and I'm waitin' to carry it.
+
+205
+00:09:07,280 --> 00:09:10,216
+[Joel] Small talk of the Old West.
+
+206
+00:09:10,283 --> 00:09:11,317
+[Servo] The Pony Express,
+
+207
+00:09:11,384 --> 00:09:13,119
+when it absolutely positively
+has to be there
+
+208
+00:09:13,186 --> 00:09:14,954
+in three or four months or so.
+
+209
+00:09:15,021 --> 00:09:17,190
+[Joel] Oh, yeah, sure,
+I'll deliver your plans
+
+210
+00:09:17,257 --> 00:09:18,324
+through the telegraph.
+
+211
+00:09:18,391 --> 00:09:19,859
+You bet.
+
+212
+00:09:25,131 --> 00:09:27,067
+[Crow] I think he moved. Kidding.
+
+213
+00:09:27,167 --> 00:09:28,535
+Good folks of Oracle...
+
+214
+00:09:28,601 --> 00:09:30,570
+-[Joel] Yeah.
+-[Crow] Yes, that's me.
+
+215
+00:09:30,637 --> 00:09:34,274
+...we are gathered here
+to plant the last remains of Scott Hood...
+
+216
+00:09:34,340 --> 00:09:35,642
+[Servo] Brother of boys in need.
+
+217
+00:09:35,708 --> 00:09:38,478
+...gallant marshal of our fair community.
+
+218
+00:09:38,545 --> 00:09:40,313
+[Joel] Goodness, he eulogizes well.
+
+219
+00:09:40,380 --> 00:09:42,782
+Not since the Battle of Shiloh,
+
+220
+00:09:42,849 --> 00:09:46,186
+when we showed them Yankees
+what Confederate currency really meant...
+
+221
+00:09:46,252 --> 00:09:48,088
+[Crow] He's got something there,
+food for thought.
+
+222
+00:09:48,154 --> 00:09:50,056
+...have I seen such bravery in one man.
+
+223
+00:09:51,224 --> 00:09:53,359
+[Servo] Sorry, I'm late,
+horse threw a tire.
+
+224
+00:09:53,426 --> 00:09:55,562
+Oh! What are you doing here?
+
+225
+00:09:55,628 --> 00:09:57,297
+Maybe he wanted to see
+the results of his handiwork.
+
+226
+00:09:57,363 --> 00:09:58,364
+[Joel] Ah, jeez, Jake.
+
+227
+00:09:58,431 --> 00:10:03,369
+Well, the good work of Marshal Hood
+has been terminated...
+
+228
+00:10:03,436 --> 00:10:05,405
+near the hour of his triumph.
+
+229
+00:10:05,972 --> 00:10:07,073
+[Servo snoring loudly]
+
+230
+00:10:07,140 --> 00:10:08,608
+I'm sure you'll all be relieved to know
+
+231
+00:10:08,675 --> 00:10:12,345
+-that I, acting in my capacity as mayor...
+-[Servo whispers] Hey. Psst.
+
+232
+00:10:12,412 --> 00:10:15,482
+have sent to San Antonio
+for the celebrated Sam Bass.
+
+233
+00:10:15,548 --> 00:10:18,084
+-[Joel] Big fish face guy.
+-He's gonna be our new marshal.
+
+234
+00:10:19,786 --> 00:10:21,554
+Well, so much for secular doings.
+
+235
+00:10:21,621 --> 00:10:23,256
+[Servo] Let's party.
+
+236
+00:10:23,323 --> 00:10:24,657
+Now, after I get through
+sayin' the prayer,
+
+237
+00:10:24,724 --> 00:10:27,660
+the good widow Hood will toss the first
+
+238
+00:10:27,727 --> 00:10:30,063
+spade full of dirt
+onto that old pine box there.
+
+239
+00:10:30,130 --> 00:10:32,065
+[Joel] And then, she'll be singing
+"Sunrise, Sunset."
+
+240
+00:10:32,132 --> 00:10:33,333
+If you'll all kindly bend your necks.
+
+241
+00:10:33,399 --> 00:10:35,201
+[Crow] And no goofing around
+this time.
+
+242
+00:10:35,301 --> 00:10:36,402
+[Servo] Can't bend my neck.
+
+243
+00:10:36,503 --> 00:10:37,804
+Oh, Lord of man and beast...
+
+244
+00:10:37,871 --> 00:10:39,572
+[Joel] Oh, now what?
+
+245
+00:10:39,639 --> 00:10:41,574
+-...we poor sinners here...
+-[Servo] Hey.
+
+246
+00:10:41,641 --> 00:10:43,276
+...commit the lowly clay
+
+247
+00:10:43,343 --> 00:10:45,378
+of your poor servant, Scott Hood...
+
+248
+00:10:45,445 --> 00:10:46,746
+[Crow] Oh, knock it off, Herald.
+
+249
+00:10:46,813 --> 00:10:48,815
+...to his last resting place
+
+250
+00:10:48,915 --> 00:10:52,986
+here on Oracle's aspiring Boot Hill,
+
+251
+00:10:53,052 --> 00:10:56,256
+until that mighty blast of Gabriel's horn
+
+252
+00:10:56,322 --> 00:10:58,191
+on the final day of judgment.
+
+253
+00:10:58,258 --> 00:10:59,592
+[Crow] I'm just winging it here, Lord.
+
+254
+00:10:59,659 --> 00:11:02,028
+-Scott Hood...
+-[Crow] What? I'm dead.
+
+255
+00:11:02,095 --> 00:11:03,296
+...rest in peace.
+
+256
+00:11:04,564 --> 00:11:05,465
+Amen.
+
+257
+00:11:05,565 --> 00:11:06,666
+[Joel] Amen.
+
+258
+00:11:07,967 --> 00:11:09,068
+[Servo] Hey, mine.
+
+259
+00:11:11,604 --> 00:11:13,406
+[Joel] All right, I'm not doing
+this one for free.
+
+260
+00:11:13,473 --> 00:11:14,440
+Who was it, dear?
+
+261
+00:11:15,341 --> 00:11:17,310
+One of the killers who went
+after Scott last night.
+
+262
+00:11:17,377 --> 00:11:19,946
+-[Crow] I'll just put this back.
+-Then I guess that's all of them, huh?
+
+263
+00:11:20,013 --> 00:11:21,114
+Not quite.
+
+264
+00:11:21,848 --> 00:11:23,783
+I still have to settle
+with whoever hired them.
+
+265
+00:11:24,217 --> 00:11:25,451
+[Joel] Hey, I might not be dead
+down here.
+
+266
+00:11:25,518 --> 00:11:27,320
+You think it might be
+somebody unknown behind this killin'?
+
+267
+00:11:27,720 --> 00:11:29,055
+There has to be, Mayor.
+
+268
+00:11:29,122 --> 00:11:31,591
+Those men would have
+no personal reason to do Scott in.
+
+269
+00:11:31,658 --> 00:11:33,393
+Well, like I say,
+Sam Bass'll be getting' here
+
+270
+00:11:33,459 --> 00:11:34,360
+in a couple of weeks
+
+271
+00:11:34,427 --> 00:11:36,629
+and he can take care of anything
+that has to be taken care of.
+
+272
+00:11:36,729 --> 00:11:38,965
+-He can be too late.
+-Well...
+
+273
+00:11:39,032 --> 00:11:40,400
+[Servo] Hey, I said, "I'm not dead."
+
+274
+00:11:40,466 --> 00:11:42,802
+...Joshua's Deputy.
+Want me to make him Marshal?
+
+275
+00:11:43,736 --> 00:11:45,271
+[Joel] Well, it's so sudden.
+
+276
+00:11:45,338 --> 00:11:46,306
+Not me, Mayor Polk.
+
+277
+00:11:46,372 --> 00:11:48,141
+That kind of job takes book learnin'.
+
+278
+00:11:48,208 --> 00:11:49,442
+[Crow] And some
+basic intelligence.
+
+279
+00:11:49,509 --> 00:11:51,611
+Is there a man here who thinks
+he can handle the job?
+
+280
+00:11:51,978 --> 00:11:54,147
+How 'bout me? I'd like to be marshal.
+
+281
+00:11:54,214 --> 00:11:55,481
+Oh, shut up, little man.
+
+282
+00:11:55,548 --> 00:11:56,749
+[Servo] You've got mending to do.
+
+283
+00:11:56,816 --> 00:11:58,484
+Jake Hayes doesn't count.
+
+284
+00:11:58,551 --> 00:12:00,119
+[Joel] But Sam Bass
+is coming to town.
+
+285
+00:12:04,123 --> 00:12:06,693
+[Joel] Would you want to go
+have coffee sometime?
+
+286
+00:12:08,027 --> 00:12:08,962
+Pin it on.
+
+287
+00:12:09,028 --> 00:12:10,296
+[Servo] ♪ Pin it on
+In the morning now ♪
+
+288
+00:12:10,363 --> 00:12:11,397
+Pin it on who?
+
+289
+00:12:12,398 --> 00:12:13,666
+On me.
+
+290
+00:12:13,733 --> 00:12:16,502
+Oh, come on, Rose.
+You must be pullin' my leg.
+
+291
+00:12:17,003 --> 00:12:18,771
+I think it's a wonderful idea.
+
+292
+00:12:18,838 --> 00:12:20,640
+-[Crow] What the...? Hey!
+-With a woman marshal,
+
+293
+00:12:20,707 --> 00:12:23,509
+Oracle'll be the hit
+of the Western dime novels,
+
+294
+00:12:23,576 --> 00:12:25,979
+and what bad man would
+dream of shooting a woman?
+
+295
+00:12:26,045 --> 00:12:27,380
+[Servo] Heh, I would.
+
+296
+00:12:27,981 --> 00:12:29,382
+Pin it on.
+
+297
+00:12:29,449 --> 00:12:30,950
+I can't do that.
+
+298
+00:12:31,050 --> 00:12:32,752
+Oh, pin it on and get it over with.
+
+299
+00:12:32,819 --> 00:12:34,454
+I've got a beef roast in the oven.
+
+300
+00:12:34,520 --> 00:12:37,156
+[Crow] You know,
+beef roast in the oven.
+
+301
+00:12:38,658 --> 00:12:40,893
+-All right.
+-[Joel] Well, I'm not very good at this,
+
+302
+00:12:40,960 --> 00:12:43,529
+usually I can't even put
+a corsage on but...
+
+303
+00:12:45,031 --> 00:12:46,299
+[Servo] Dink... ouch!
+
+304
+00:12:48,935 --> 00:12:51,437
+[Crow] Now, to slip into
+something sheriffy and sexy.
+
+305
+00:12:51,504 --> 00:12:54,207
+[Joel] Well, back to the fellowship
+hall for bars and punch.
+
+306
+00:12:54,274 --> 00:12:56,175
+[Crow] Shouldn't they have
+their headlights on?
+
+307
+00:12:58,678 --> 00:13:00,513
+It's been a sad day, Mrs. Hood.
+
+308
+00:13:00,580 --> 00:13:03,883
+This is the first chance I've had
+to offer my personal condolences.
+
+309
+00:13:03,950 --> 00:13:05,451
+Thank you, Erica.
+
+310
+00:13:05,518 --> 00:13:08,288
+You've taken on a man's
+responsibility, my dear.
+
+311
+00:13:08,388 --> 00:13:10,790
+-I have Joshua here to help me.
+-[Servo] The friend.
+
+312
+00:13:10,857 --> 00:13:13,393
+Well, if there's anything
+I can do, just let me know.
+
+313
+00:13:13,760 --> 00:13:15,261
+As a matter of fact, there is.
+
+314
+00:13:15,328 --> 00:13:17,297
+[Crow] Can I borrow
+that pink taffeta dress?
+
+315
+00:13:17,363 --> 00:13:19,065
+There's a little matter
+my husband kept putting off.
+
+316
+00:13:19,132 --> 00:13:20,233
+[Servo] Me.
+
+317
+00:13:20,300 --> 00:13:21,934
+I hate to mention it now, but I...
+
+318
+00:13:22,001 --> 00:13:24,070
+I noticed you were open
+past three this morning.
+
+319
+00:13:24,170 --> 00:13:27,040
+The Red Dog Saloon is open 24 hours.
+
+320
+00:13:27,106 --> 00:13:28,641
+-[Joel] Breakfast anytime.
+-It has been.
+
+321
+00:13:29,208 --> 00:13:31,144
+There's--there's
+a curfew law, you know.
+
+322
+00:13:31,911 --> 00:13:34,213
+I think you're taking
+that star a bit too seriously.
+
+323
+00:13:34,781 --> 00:13:35,948
+[Erica] Quite seriously.
+
+324
+00:13:36,015 --> 00:13:37,016
+[Servo imitating gunshots]
+
+325
+00:13:37,083 --> 00:13:38,184
+You're priceless.
+
+326
+00:13:39,285 --> 00:13:41,187
+Drop in at my place tonight
+for a free drink.
+
+327
+00:13:41,254 --> 00:13:42,455
+[Servo] And keep the glass.
+
+328
+00:13:42,522 --> 00:13:43,723
+Make it after three.
+
+329
+00:13:44,190 --> 00:13:46,826
+-I'll be there.
+-[Joel] Well, I have my men's group.
+
+330
+00:13:47,727 --> 00:13:49,562
+I don't know,
+I reckon some people
+
+331
+00:13:49,629 --> 00:13:51,130
+won't think it's proper for a new widow
+
+332
+00:13:51,197 --> 00:13:53,933
+to go around in pants
+even though they are black.
+
+333
+00:13:54,000 --> 00:13:55,802
+Did you ever see
+a peace officer in a corset?
+
+334
+00:13:55,868 --> 00:13:56,803
+[Crow] Yeah, your husband.
+
+335
+00:13:56,869 --> 00:13:59,505
+Lady, are you going
+to wear that cannon?
+
+336
+00:13:59,572 --> 00:14:03,176
+I don't imagine a bank robber
+will change the rules just for me.
+
+337
+00:14:03,242 --> 00:14:05,511
+Come on, Joshua,
+let's start enforcing the law.
+
+338
+00:14:05,578 --> 00:14:07,313
+[Servo] Close up for us, grumpy.
+
+339
+00:14:07,380 --> 00:14:08,781
+[Joel] Oh, leather toilet seat cover.
+
+340
+00:14:10,450 --> 00:14:12,652
+[lively piano music playing]
+
+341
+00:14:13,953 --> 00:14:16,422
+-[Joel] Kind of looks like a ground round.
+-[Servo] It does.
+
+342
+00:14:17,724 --> 00:14:20,226
+-[Joel] Whee...
+-[Servo] And there's my hinder.
+
+343
+00:14:23,596 --> 00:14:25,398
+[Joel] You know, it's just possible
+that's Rachmaninoff
+
+344
+00:14:25,465 --> 00:14:26,532
+on the piano.
+
+345
+00:14:28,968 --> 00:14:30,870
+[Crow] Hey, get off my ravioli.
+
+346
+00:14:33,973 --> 00:14:34,974
+[Joel] Too good tonight.
+
+347
+00:14:35,041 --> 00:14:36,175
+[Joel burps]
+
+348
+00:14:37,510 --> 00:14:40,646
+[Servo] Oh, it's so hot in here,
+we're so sassy.
+
+349
+00:14:43,282 --> 00:14:46,185
+[Servo] Oh, we did not mean
+to do that but we did it.
+
+350
+00:14:50,056 --> 00:14:51,591
+Well, sir, there we was
+
+351
+00:14:51,657 --> 00:14:53,559
+in the swamps below Fort Donaldson.
+
+352
+00:14:53,626 --> 00:14:55,027
+[Servo] Wearing skirts like them.
+
+353
+00:14:56,329 --> 00:14:58,297
+Buckney said we had to surrender.
+
+354
+00:14:58,364 --> 00:15:00,400
+[Crow] Oh, don't start.
+
+355
+00:15:00,466 --> 00:15:03,002
+Never. I went with Bedford Forrest.
+
+356
+00:15:03,069 --> 00:15:04,704
+[Joel] You never knew
+Bedford Forrest.
+
+357
+00:15:04,771 --> 00:15:05,805
+...did at night,
+
+358
+00:15:05,872 --> 00:15:08,641
+us ridin' piggyback with Forrest troopers.
+
+359
+00:15:09,475 --> 00:15:12,278
+Next day, 10,000 surrendered,
+
+360
+00:15:12,345 --> 00:15:14,514
+but me and Bedford
+went out to fight another day.
+
+361
+00:15:14,580 --> 00:15:15,948
+[Servo] Well, go fish.
+
+362
+00:15:16,015 --> 00:15:17,250
+[♪♪♪]
+
+363
+00:15:17,316 --> 00:15:19,285
+[Crow] They kind of
+look like bodybuilders.
+
+364
+00:15:19,986 --> 00:15:21,554
+[Servo] Their underwear
+has Raiders logos.
+
+365
+00:15:23,389 --> 00:15:25,691
+[Joel] OK, go wash up, girls.
+
+366
+00:15:25,758 --> 00:15:28,694
+[applause]
+
+367
+00:15:28,761 --> 00:15:31,030
+[Crow] Excuse me,
+I've got to go fire them.
+
+368
+00:15:32,465 --> 00:15:33,966
+Is it three yet?
+
+369
+00:15:34,033 --> 00:15:35,501
+-[Servo] Where's the headliner?
+-Yes.
+
+370
+00:15:36,335 --> 00:15:37,770
+She won't show her face.
+
+371
+00:15:37,837 --> 00:15:40,139
+[Crow] Doodly, doodly, doodly,
+dooie, her face.
+
+372
+00:15:42,241 --> 00:15:43,576
+Good evening, Rose.
+
+373
+00:15:43,676 --> 00:15:44,777
+Good morning, Erica.
+
+374
+00:15:45,244 --> 00:15:46,546
+Did you come for that drink?
+
+375
+00:15:46,612 --> 00:15:47,713
+I'll have a Sex on the Beach.
+
+376
+00:15:47,780 --> 00:15:50,917
+I'm afraid I don't have time for one.
+It's after three, you know.
+
+377
+00:15:50,983 --> 00:15:52,618
+Oh, now, Mrs. Hood...
+
+378
+00:15:53,119 --> 00:15:55,588
+The Red Dog is open 24 hours.
+
+379
+00:15:55,655 --> 00:15:56,856
+-Mm-hmm.
+-[Crow] Breakfast anytime.
+
+380
+00:15:56,923 --> 00:15:58,825
+Well, you well, you empty
+your house and put out the lights.
+
+381
+00:15:59,759 --> 00:16:01,160
+Put 'em out yourself.
+
+382
+00:16:04,330 --> 00:16:06,499
+[Joel] Whoa, it's like
+a lady<i> Road House.</i>
+
+383
+00:16:07,266 --> 00:16:08,468
+[Servo] Samuel Beckett there.
+
+384
+00:16:10,236 --> 00:16:12,472
+[Crow] At the second show,
+dry mud wrestling.
+
+385
+00:16:13,406 --> 00:16:15,408
+[Servo] Ooh, Beverly's wearing jackboots.
+
+386
+00:16:17,910 --> 00:16:19,679
+[Crow] I'm a grim, old warrior.
+
+387
+00:16:19,779 --> 00:16:22,281
+[clattering]
+
+388
+00:16:26,853 --> 00:16:28,020
+[Servo] No, Joel, say what you will,
+
+389
+00:16:28,087 --> 00:16:29,956
+but Roger Corman pushes my buttons.
+
+390
+00:16:31,424 --> 00:16:32,492
+[grunting]
+
+391
+00:16:34,093 --> 00:16:36,162
+[Servo] Well, that thing's not
+helping any. Come here.
+
+392
+00:16:42,535 --> 00:16:44,403
+[Crow] You want a fresh lime, Wormy?
+
+393
+00:16:44,470 --> 00:16:47,840
+[Joel] You know, he should have slid
+him across the bars probably.
+
+394
+00:16:47,907 --> 00:16:48,908
+[Servo] Well, they hadn't
+invented that yet.
+
+395
+00:16:48,975 --> 00:16:52,478
+All right, everybody
+who can walk, up and out.
+
+396
+00:16:52,545 --> 00:16:53,880
+This place is closed for the night.
+
+397
+00:16:53,946 --> 00:16:55,882
+[Joel] Hey, it's Jesse White
+and Bob Crane,
+
+398
+00:16:55,982 --> 00:16:57,483
+-I don't believe it.
+-[Servo] Oh.
+
+399
+00:16:57,550 --> 00:17:00,086
+[Crow] Hey, but this place
+is open 24 hours.
+
+400
+00:17:01,153 --> 00:17:03,022
+[Servo] They're taking
+the elevator up apparently.
+
+401
+00:17:06,292 --> 00:17:08,494
+You sure made a sick chicken
+out of Erica Page.
+
+402
+00:17:08,561 --> 00:17:09,462
+[Servo clucking]
+
+403
+00:17:09,529 --> 00:17:10,463
+She's gonna be a sicker chicken
+
+404
+00:17:10,530 --> 00:17:12,231
+when I find out what she has
+to do with Nate Signo.
+
+405
+00:17:12,298 --> 00:17:13,900
+[Crow] Hey, can I get
+a new bucket in here?
+
+406
+00:17:13,966 --> 00:17:16,035
+Well, you better get
+some sleep, Miss Rose.
+
+407
+00:17:16,736 --> 00:17:18,504
+Yeah, I guess I'd better.
+
+408
+00:17:19,305 --> 00:17:20,673
+I'll--I'll curl up in there
+
+409
+00:17:20,740 --> 00:17:22,942
+and then I'll spell ya'
+in a couple of hours.
+
+410
+00:17:24,277 --> 00:17:27,013
+[Joel] And you don't mind
+if I watch you sleep, do you?
+
+411
+00:17:29,482 --> 00:17:31,751
+[Crow] Yeah, stew's really good here.
+
+412
+00:17:31,817 --> 00:17:34,253
+Now look, you turn around
+or I'll book you for rustling.
+
+413
+00:17:34,320 --> 00:17:36,556
+[Servo with drunk voice] I'm already
+serving consecutive life sentences,
+
+414
+00:17:36,622 --> 00:17:38,691
+but OK, see you.
+
+415
+00:17:39,425 --> 00:17:41,727
+[Joel] Oh, it's been a good day.
+
+416
+00:17:44,830 --> 00:17:46,499
+[Joel] You're a miracle worker, Wormy.
+
+417
+00:17:46,566 --> 00:17:49,468
+-Feel better?
+-That'll take a good night's sleep.
+
+418
+00:17:49,535 --> 00:17:51,003
+Yeah.
+
+419
+00:17:51,070 --> 00:17:52,872
+They're gonna be sorry
+for this, ain't they?
+
+420
+00:17:53,606 --> 00:17:55,808
+Yes, little man, they'll be sorry.
+
+421
+00:17:55,875 --> 00:17:56,776
+Want me to do it?
+
+422
+00:17:57,343 --> 00:17:58,411
+Do what?
+
+423
+00:17:58,578 --> 00:17:59,545
+Kill 'em.
+
+424
+00:18:00,146 --> 00:18:01,814
+Not you, Jake. You're too stupid.
+
+425
+00:18:01,881 --> 00:18:02,815
+[Crow] Well, I'm off the hook then.
+
+426
+00:18:02,882 --> 00:18:05,084
+You'd be sure to get caught
+and that would lead straight to me.
+
+427
+00:18:05,151 --> 00:18:07,086
+Just as Nate Signo
+was leading Scott Hood to me.
+
+428
+00:18:07,153 --> 00:18:08,220
+No, no. I wouldn't get caught.
+
+429
+00:18:08,287 --> 00:18:09,722
+I'm smarter than you think.
+I'm real smart.
+
+430
+00:18:09,789 --> 00:18:11,324
+Jake! You're hurting me.
+
+431
+00:18:11,390 --> 00:18:14,060
+I didn't mean it, Erica.
+I didn't mean it.
+
+432
+00:18:14,126 --> 00:18:15,895
+All right, I forgive you.
+
+433
+00:18:15,962 --> 00:18:17,863
+[Servo] So they really use their
+Helen Gallagher catalog, huh?
+
+434
+00:18:17,930 --> 00:18:18,931
+I want you to do me a favor.
+
+435
+00:18:18,998 --> 00:18:20,499
+Sure, what kind of favor?
+
+436
+00:18:20,566 --> 00:18:21,601
+[Joel] Get a restraining order
+on yourself.
+
+437
+00:18:21,667 --> 00:18:22,835
+I want you to ride to Tombstone
+
+438
+00:18:22,902 --> 00:18:24,236
+and pick me a new assistant.
+
+439
+00:18:24,303 --> 00:18:26,939
+I'll pick you one. I'll pick the best.
+
+440
+00:18:27,239 --> 00:18:28,975
+Maybe I can find Billy the Kid.
+
+441
+00:18:29,041 --> 00:18:30,710
+I don't care who you get,
+
+442
+00:18:30,776 --> 00:18:32,678
+just as long as he knows his business.
+
+443
+00:18:33,512 --> 00:18:35,147
+I want him here within the week.
+
+444
+00:18:35,214 --> 00:18:37,083
+[Crow] What kind of
+salary are we offering?
+
+445
+00:18:37,149 --> 00:18:38,851
+And benefits? Benefit--
+I better write this down,
+
+446
+00:18:38,918 --> 00:18:40,720
+that's going to be a lot of stuff.
+
+447
+00:18:41,787 --> 00:18:44,690
+[Servo] ♪ It must be him
+<i>It must be him ♪</i>
+
+448
+00:18:47,760 --> 00:18:49,328
+[Joel as horse] Oh, no, not, Wormy.
+Come on please.
+
+449
+00:18:49,395 --> 00:18:51,530
+Don't get on me, Wormy, I can't...
+
+450
+00:18:51,597 --> 00:18:53,599
+[Crow] The riveting
+horse mounting scene.
+
+451
+00:18:55,101 --> 00:18:57,436
+[Joel] Hey, nobody told me... Owie! Ow!
+
+452
+00:18:57,503 --> 00:18:59,238
+[gunshots]
+
+453
+00:18:59,305 --> 00:19:00,172
+[♪♪♪]
+
+454
+00:19:00,239 --> 00:19:02,875
+[Servo]<i> ♪ Goldfinger ♪</i>
+
+455
+00:19:03,309 --> 00:19:05,578
+<i>♪ Goldfinger ♪</i>
+
+456
+00:19:05,811 --> 00:19:08,214
+<i>♪ Goldfinger ♪</i>
+
+457
+00:19:09,382 --> 00:19:11,150
+[Joel] Tuesday, the rabbi got robbed.
+
+458
+00:19:12,752 --> 00:19:14,120
+[gunshots]
+
+459
+00:19:14,186 --> 00:19:16,756
+{\an8}[Crow] Well, I'm pretty sure
+he was a bad guy, yeah.
+
+460
+00:19:17,890 --> 00:19:20,393
+[Joel] He's a really fortunate lawman,
+
+461
+00:19:20,459 --> 00:19:22,561
+he just walks right into crimes.
+
+462
+00:19:23,029 --> 00:19:24,830
+[Servo] Yeah, I'll just take your lunch.
+
+463
+00:19:26,265 --> 00:19:28,167
+[Crow] Boy, it's really blue out today.
+
+464
+00:19:30,136 --> 00:19:33,305
+[Servo] ♪ Walk along the city streets
+<i>We used to walk. ♪</i>
+
+465
+00:19:37,743 --> 00:19:40,413
+[Crow] You know, shed a few pounds,
+he's Mr. Drysdale.
+
+466
+00:19:42,048 --> 00:19:44,050
+[Servo] Yeah, LaCroix please.
+
+467
+00:19:45,384 --> 00:19:47,787
+Sorry, Mayor, it's after closing.
+
+468
+00:19:47,853 --> 00:19:49,088
+I'm not here for a drink.
+
+469
+00:19:50,056 --> 00:19:51,257
+What's the matter?
+
+470
+00:19:51,323 --> 00:19:52,658
+Well, frankly, Erica, I'm worried.
+
+471
+00:19:52,725 --> 00:19:53,893
+[Crow] Guess who wants
+to be a rock star.
+
+472
+00:19:53,959 --> 00:19:55,461
+Because I've been running around
+with strange men?
+
+473
+00:19:55,528 --> 00:19:58,064
+-Come on, now. I'm serious.
+-[Joel] Where there's no one left alive.
+
+474
+00:19:58,130 --> 00:19:59,632
+Do you realize how far
+you've extended your nose
+
+475
+00:19:59,699 --> 00:20:00,866
+in town property?
+
+476
+00:20:01,634 --> 00:20:03,602
+I'm familiar with my business affairs.
+
+477
+00:20:04,103 --> 00:20:05,071
+I've been down at the Land Office
+
+478
+00:20:05,137 --> 00:20:06,305
+checking through the deed files.
+
+479
+00:20:06,372 --> 00:20:07,573
+[Crow] I'm a research nut.
+
+480
+00:20:07,640 --> 00:20:10,076
+Suddenly I notice the name
+"Erica Page" everywhere.
+
+481
+00:20:10,509 --> 00:20:12,178
+[Joel] Her face kind of
+comes to a point.
+
+482
+00:20:12,244 --> 00:20:15,514
+All right, Mayor,
+I'll let you in on the big secret.
+
+483
+00:20:15,581 --> 00:20:17,083
+[Servo] I'm Lonesome George Gobel...
+
+484
+00:20:17,149 --> 00:20:19,051
+-[plate clatters; object thumps]
+-[Servo] See?
+
+485
+00:20:19,118 --> 00:20:20,619
+Let's have a drink.
+
+486
+00:20:20,686 --> 00:20:23,022
+[Crow] All right,
+DJ Swan Mellow Nights.
+
+487
+00:20:23,689 --> 00:20:26,792
+[Servo] And that's when I became
+known as Mr. Wiggly. You?
+
+488
+00:20:26,859 --> 00:20:28,160
+Let me see if I got this straight.
+
+489
+00:20:28,227 --> 00:20:30,196
+[Crow] You're a man playing
+a woman playing a man.
+
+490
+00:20:30,262 --> 00:20:33,833
+...out of business
+and liquidate the inventory
+
+491
+00:20:33,899 --> 00:20:34,767
+and the other assets
+
+492
+00:20:34,834 --> 00:20:37,002
+and then use that money
+to buy the next place.
+
+493
+00:20:37,503 --> 00:20:38,771
+You're brilliant.
+
+494
+00:20:38,838 --> 00:20:40,639
+Oh, it's just not possible.
+
+495
+00:20:40,706 --> 00:20:41,941
+[Servo] Tell that to Dave Del Dotto.
+
+496
+00:20:42,041 --> 00:20:44,076
+Have you noticed
+how that line of property lies?
+
+497
+00:20:44,143 --> 00:20:45,344
+[Joel] Don't you hate that?
+
+498
+00:20:45,411 --> 00:20:47,713
+You said it looked
+like a geometric pattern.
+
+499
+00:20:47,780 --> 00:20:49,915
+Well, picture it in your mind's eye.
+
+500
+00:20:50,416 --> 00:20:52,852
+[Crow] Oh, I get it, it's funny.
+
+501
+00:20:52,918 --> 00:20:54,186
+Yeah. Oh, yeah. I see it now.
+
+502
+00:20:54,253 --> 00:20:55,554
+[Servo] Yeah, baby, that's the way.
+
+503
+00:20:55,621 --> 00:20:57,556
+It lies on the ground
+that the Land Commission
+
+504
+00:20:57,623 --> 00:20:59,425
+has picked out as a suggested right of way
+
+505
+00:20:59,492 --> 00:21:01,026
+for the railroad and depot.
+
+506
+00:21:01,560 --> 00:21:02,695
+[Erica] Exactly.
+
+507
+00:21:02,762 --> 00:21:03,696
+[Joel] You mean, I am right?
+
+508
+00:21:03,763 --> 00:21:05,064
+Oh, but Erica, this scheme of yours
+
+509
+00:21:05,131 --> 00:21:08,367
+is the height of speculative gambling.
+
+510
+00:21:08,467 --> 00:21:10,603
+The railroad decides
+not to build through Oracle,
+
+511
+00:21:10,669 --> 00:21:11,670
+you'll be wiped out.
+
+512
+00:21:11,737 --> 00:21:14,173
+-[Servo] Phooey on youey. [spits]
+-It's a chance.
+
+513
+00:21:14,240 --> 00:21:15,841
+An extremely long one.
+
+514
+00:21:16,442 --> 00:21:19,211
+[Crow] Well, I got to hit my shift
+at the Roy Rogers.
+
+515
+00:21:19,278 --> 00:21:21,781
+Well, I want those trains
+to come through, too,
+
+516
+00:21:22,047 --> 00:21:25,584
+and I guess we'll get the decision
+in Saturday's postal express.
+
+517
+00:21:27,286 --> 00:21:29,722
+'Course you realize
+how the town'll feel if...
+
+518
+00:21:29,822 --> 00:21:32,324
+Some nights I lie awake
+two or three seconds
+
+519
+00:21:32,391 --> 00:21:34,360
+-worrying about it.
+-[Servo] Oops, sorry.
+
+520
+00:21:34,426 --> 00:21:35,661
+Goodnight, Mayor.
+
+521
+00:21:36,662 --> 00:21:40,966
+Goodnight, Erica, and, uh, good luck.
+
+522
+00:21:41,033 --> 00:21:42,501
+[Crow] Thanks for the drinks and stuff.
+
+523
+00:21:42,568 --> 00:21:44,837
+Sorry, I was such the pig with a Chex Mix.
+
+524
+00:21:46,338 --> 00:21:48,974
+[Joel] Looks like he's been
+in the little man's room there.
+
+525
+00:21:49,041 --> 00:21:51,744
+...Tombstone. Got the man you wanted.
+
+526
+00:21:52,945 --> 00:21:54,713
+<i>I got the best.</i>
+
+527
+00:21:54,780 --> 00:21:56,816
+-What's his name?
+-Cane Miro.
+
+528
+00:22:05,591 --> 00:22:07,827
+♪<i> Rum, dum, da-dum </i>♪
+
+529
+00:22:07,893 --> 00:22:10,095
+♪<i> Dum, dum, dum, dum... </i>♪
+
+530
+00:22:10,162 --> 00:22:12,164
+So, this is what it's like to be dead.
+
+531
+00:22:12,231 --> 00:22:15,201
+Well, roughly this is what
+it's like to be in a casket.
+
+532
+00:22:15,267 --> 00:22:17,236
+So, why are we doing this?
+
+533
+00:22:17,303 --> 00:22:18,470
+Aren't you curious?
+
+534
+00:22:18,537 --> 00:22:19,772
+About being dead?
+
+535
+00:22:19,839 --> 00:22:21,006
+We're robots, Joel.
+
+536
+00:22:21,073 --> 00:22:22,508
+We're not the ones
+who have to worry about it.
+
+537
+00:22:22,575 --> 00:22:23,976
+Uh, you understand my point?
+
+538
+00:22:24,043 --> 00:22:25,744
+Oh, yeah, well, at least
+I have a soul, OK.
+
+539
+00:22:25,811 --> 00:22:26,879
+Yeah, sure you do.
+
+540
+00:22:26,946 --> 00:22:30,783
+Anyway, even though I'm not going to die,
+I sure could see having a snappy funeral.
+
+541
+00:22:30,850 --> 00:22:32,451
+Not like the one in the movie though.
+
+542
+00:22:32,518 --> 00:22:33,552
+What a drag!
+
+543
+00:22:33,619 --> 00:22:34,620
+Oh, at my funeral,
+
+544
+00:22:34,687 --> 00:22:36,255
+I'd hope my friends
+would toss me up and down
+
+545
+00:22:36,322 --> 00:22:38,324
+in a blanket like the Eskimos do,
+you know?
+
+546
+00:22:38,390 --> 00:22:39,391
+Really go for some height.
+
+547
+00:22:39,458 --> 00:22:40,659
+Ooh. Well, how about a beach funeral?
+
+548
+00:22:40,726 --> 00:22:42,494
+You know, pony keg, bonfire,
+
+549
+00:22:42,561 --> 00:22:45,164
+couple slipping off
+into the woods to neck.
+
+550
+00:22:45,231 --> 00:22:46,866
+Prop me up so I can surf.
+
+551
+00:22:46,932 --> 00:22:48,868
+Hey, I'd go the dignity route.
+
+552
+00:22:48,934 --> 00:22:50,603
+You know, variety of ethnic foods
+
+553
+00:22:50,669 --> 00:22:52,872
+or maybe a saxophone quartet.
+
+554
+00:22:52,938 --> 00:22:54,206
+Dignity, smignity, Joel.
+
+555
+00:22:54,273 --> 00:22:55,641
+I want elephants, lots of them,
+
+556
+00:22:55,708 --> 00:22:57,943
+and circus ladies as my pallbearers.
+
+557
+00:22:58,010 --> 00:22:59,211
+I want them enthusiastic
+
+558
+00:22:59,278 --> 00:23:02,181
+and wearing those little frilly skirts
+as little tutus.
+
+559
+00:23:02,248 --> 00:23:04,850
+You know, Tom,
+cost could be a consideration.
+
+560
+00:23:04,917 --> 00:23:06,485
+Oh, nonsense, Joel.
+
+561
+00:23:06,552 --> 00:23:07,853
+I'll lie in state for several days
+
+562
+00:23:07,920 --> 00:23:09,822
+at the Corn Palace
+while "Hooked On a Feeling"
+
+563
+00:23:09,889 --> 00:23:11,824
+is sung by a choir of castrati.
+
+564
+00:23:11,891 --> 00:23:13,959
+You know, there's always
+the educational route,
+
+565
+00:23:14,026 --> 00:23:15,694
+so a real hands-on kind of funeral,
+
+566
+00:23:15,761 --> 00:23:18,797
+details of my embalming
+written up and distributed.
+
+567
+00:23:18,864 --> 00:23:22,401
+-It is fun to think about it.
+-It sure is.
+
+568
+00:23:22,935 --> 00:23:26,505
+So, uh, when you humans die,
+that's it, right, uh...
+
+569
+00:23:26,572 --> 00:23:27,640
+you're dead forever?
+
+570
+00:23:27,706 --> 00:23:28,574
+Yeah.
+
+571
+00:23:28,641 --> 00:23:29,909
+Well, isn't that like
+throwing the baby out
+
+572
+00:23:29,975 --> 00:23:31,243
+with the bath water, Joel?
+
+573
+00:23:31,310 --> 00:23:33,612
+Why don't you just not die, Joel?
+
+574
+00:23:33,679 --> 00:23:34,847
+Well, everybody dies.
+
+575
+00:23:34,914 --> 00:23:37,917
+Oh, and if everybody ran
+off a cliff, you'd do that too?
+
+576
+00:23:37,983 --> 00:23:39,685
+Well, that's not the way it works,
+
+577
+00:23:39,752 --> 00:23:41,520
+besides we got commercials sign.
+
+578
+00:23:41,587 --> 00:23:43,222
+Well, it's just weird, that's all.
+
+579
+00:23:43,289 --> 00:23:44,590
+Maybe it's us.
+
+580
+00:23:44,657 --> 00:23:46,358
+Joel, is there any way
+I could be mummified
+
+581
+00:23:46,425 --> 00:23:48,027
+and placed next to Stalin?
+
+582
+00:23:48,093 --> 00:23:49,194
+Sure, honey.
+
+583
+00:23:49,261 --> 00:23:50,429
+Well, that's what I want,
+
+584
+00:23:50,496 --> 00:23:52,531
+mummified and placed next to Stalin.
+
+585
+00:23:53,565 --> 00:23:55,367
+<i>[humming] ♪ Dum dum ba dum ♪</i>
+
+586
+00:23:55,434 --> 00:23:57,303
+<i>♪ Bum ba dum dum dum dum ♪</i>
+
+587
+00:23:57,369 --> 00:23:59,071
+<i>♪ Da da da</i>
+<i>Dum da dum da dum ♪</i>
+
+588
+00:23:59,138 --> 00:24:00,172
+<i>♪ Dum da da ♪</i>
+
+589
+00:24:03,008 --> 00:24:04,843
+[Joel] Yeah, death sucks.
+
+590
+00:24:06,545 --> 00:24:08,180
+[Crow] Yeah, I don't even want
+to know what I stepped in.
+
+591
+00:24:08,247 --> 00:24:09,682
+[gunshots]
+
+592
+00:24:11,250 --> 00:24:13,352
+[Joel] Jeepers, it's hard
+to get into this town.
+
+593
+00:24:13,419 --> 00:24:15,120
+[Rose] Stop it, mister.
+I've got you cold.
+
+594
+00:24:15,187 --> 00:24:16,689
+[Crow] Yep, she does.
+
+595
+00:24:21,927 --> 00:24:22,895
+[Servo] Say...
+
+596
+00:24:22,962 --> 00:24:23,896
+Whaddya know?
+
+597
+00:24:24,930 --> 00:24:26,131
+A lady with a star.
+
+598
+00:24:26,198 --> 00:24:28,734
+[Servo] ♪ You can dust your car
+<i>To the lady with the star ♪</i>
+
+599
+00:24:28,801 --> 00:24:30,669
+You're not the man I'm after.
+
+600
+00:24:30,736 --> 00:24:32,504
+-I'm sorry.
+-[Joel] I'm really sorry.
+
+601
+00:24:32,571 --> 00:24:34,173
+I'm sorry I took a shot at you.
+
+602
+00:24:34,239 --> 00:24:36,275
+-[Crow] That's one on me.
+-My name's Rose Hood.
+
+603
+00:24:36,342 --> 00:24:37,309
+Cane Miro.
+
+604
+00:24:37,376 --> 00:24:39,979
+-Any relation to John Miro?
+-Cane Miro?
+
+605
+00:24:40,045 --> 00:24:41,280
+Well, that sounds familiar.
+
+606
+00:24:41,780 --> 00:24:43,549
+I don't think we've met.
+
+607
+00:24:43,615 --> 00:24:45,884
+If we had, I'd have remembered.
+
+608
+00:24:45,951 --> 00:24:47,853
+I'm the marshal here.
+I'm glad I missed you.
+
+609
+00:24:47,920 --> 00:24:50,022
+I was aiming at a killer
+I meaned to catch.
+
+610
+00:24:50,089 --> 00:24:51,090
+[Joel] There he goes now.
+
+611
+00:24:51,156 --> 00:24:52,624
+I'd like to help you, ma'am.
+
+612
+00:24:52,691 --> 00:24:54,560
+Well, he's supposed to be
+hiding out in Nine Mile Canyon.
+
+613
+00:24:54,626 --> 00:24:56,328
+[Crow] How long is that canyon?
+
+614
+00:24:56,395 --> 00:24:57,796
+As a matter of fact, I did see some smoke
+
+615
+00:24:57,863 --> 00:25:00,399
+coming up from the deep canyon brush.
+
+616
+00:25:00,466 --> 00:25:03,035
+Can't imagine
+an honest man living down there.
+
+617
+00:25:03,102 --> 00:25:04,236
+No, neither can I.
+
+618
+00:25:04,803 --> 00:25:05,838
+-Let's go.
+-Go?
+
+619
+00:25:05,904 --> 00:25:07,206
+[Joel] Yeah, go.
+
+620
+00:25:07,272 --> 00:25:08,741
+We have to get him, don't we?
+
+621
+00:25:08,807 --> 00:25:10,175
+[Servo] Oh, oh. "Go."
+
+622
+00:25:10,909 --> 00:25:13,445
+I guess we do. I'll just get my horse.
+
+623
+00:25:13,512 --> 00:25:15,047
+[Servo] Well, since we're going...
+
+624
+00:25:17,149 --> 00:25:19,385
+[Crow] Hey, Cane, who is the girl?
+
+625
+00:25:22,154 --> 00:25:24,556
+[Joel as horse] Hey, watch it,
+your hands are cold.
+
+626
+00:25:24,623 --> 00:25:25,891
+[horse snorts]
+
+627
+00:25:28,260 --> 00:25:30,863
+[Servo] Hey, I love what
+you're driving. A Pinto, right?
+
+628
+00:25:33,499 --> 00:25:35,868
+[Crow] Let's ride separately,
+I just feel more comfortable
+
+629
+00:25:35,934 --> 00:25:37,770
+if we rode separately.
+
+630
+00:25:37,836 --> 00:25:39,004
+I'm winning.
+
+631
+00:25:40,639 --> 00:25:42,574
+[Servo] No, no, I'm winning.
+
+632
+00:25:42,641 --> 00:25:43,876
+[Joel] Yeah, I let you though.
+
+633
+00:25:48,447 --> 00:25:50,616
+[Cane] You wait here.
+I'll look around.
+
+634
+00:25:53,452 --> 00:25:54,686
+[Crow] Now, where's he going?
+
+635
+00:25:54,753 --> 00:25:56,155
+I'm as nervous as a long tail cat
+
+636
+00:25:56,221 --> 00:25:57,956
+in a room full of rocking chairs.
+
+637
+00:25:59,124 --> 00:26:01,060
+[Servo] Sir, you got a permit?
+
+638
+00:26:01,126 --> 00:26:03,128
+I notice you don't have
+a ticket on your post.
+
+639
+00:26:03,195 --> 00:26:05,631
+Hello? sir?
+
+640
+00:26:07,733 --> 00:26:11,003
+[Joel] Oh, come on, everyone knows
+that there are no hot plates
+
+641
+00:26:11,070 --> 00:26:13,539
+allowed in Nine Mile Canyon.
+
+642
+00:26:16,175 --> 00:26:17,776
+[Crow] Now, where are you going?
+
+643
+00:26:17,843 --> 00:26:19,344
+[Crow crying]
+
+644
+00:26:19,411 --> 00:26:20,813
+Stay with me.
+
+645
+00:26:20,879 --> 00:26:22,247
+[Servo] Well, there's three bowls
+of porridge here,
+
+646
+00:26:22,314 --> 00:26:23,782
+don't quite know what that means.
+
+647
+00:26:25,717 --> 00:26:29,154
+[Joel] You know, I like it, honey,
+I think we should make an offer.
+
+648
+00:26:29,221 --> 00:26:30,089
+He's around.
+
+649
+00:26:31,023 --> 00:26:31,957
+Where?
+
+650
+00:26:32,024 --> 00:26:33,859
+[Servo] I'm in the outhouse,
+I'll be right back out.
+
+651
+00:26:33,926 --> 00:26:36,195
+...getting more water for these potatoes.
+
+652
+00:26:36,261 --> 00:26:39,331
+-[Crow] So, he's Irish, huh?
+-Uh-huh. So what do we do?
+
+653
+00:26:39,398 --> 00:26:40,933
+[Joel] We could start the salad.
+
+654
+00:26:40,999 --> 00:26:42,101
+Wait in there.
+
+655
+00:26:42,167 --> 00:26:43,735
+[Joel] Cover me, I'll set the table.
+
+656
+00:26:46,405 --> 00:26:49,475
+[Servo] We'll hide behind this tree.
+Are you sure you're the best?
+
+657
+00:26:51,009 --> 00:26:52,311
+Alright now, how do you want him?
+
+658
+00:26:52,377 --> 00:26:53,579
+[Joel] Lady's choice.
+
+659
+00:26:53,645 --> 00:26:56,448
+-Alive.
+-[Crow] Why? How do you want him?
+
+660
+00:26:56,515 --> 00:26:58,417
+Where do you come from, Mr. Miro?
+
+661
+00:26:58,917 --> 00:27:00,819
+Lately, mostly from around Tombstone.
+
+662
+00:27:00,886 --> 00:27:02,354
+[Servo] Before that,
+Medford, Wisconsin.
+
+663
+00:27:02,421 --> 00:27:03,455
+[Rose] Pretty rough place.
+
+664
+00:27:04,223 --> 00:27:05,791
+That's what they tell me.
+
+665
+00:27:06,525 --> 00:27:08,894
+Still trying to figure out
+where I've heard of you.
+
+666
+00:27:09,194 --> 00:27:10,629
+It'll come.
+
+667
+00:27:10,696 --> 00:27:11,697
+Were you in the war?
+
+668
+00:27:12,865 --> 00:27:14,266
+-Bragg's Army.
+-[Crow] Pastry chef.
+
+669
+00:27:14,333 --> 00:27:15,534
+That was a long time ago.
+
+670
+00:27:16,068 --> 00:27:17,436
+Not according to our good mayor.
+
+671
+00:27:17,503 --> 00:27:19,438
+For him, the South is still winning.
+
+672
+00:27:19,505 --> 00:27:21,306
+Gideon Polk?
+
+673
+00:27:21,373 --> 00:27:22,407
+You know him?
+
+674
+00:27:23,175 --> 00:27:25,310
+Captain Polk and I are old Army friends.
+
+675
+00:27:25,377 --> 00:27:27,112
+[Servo] Look, let's just focus on
+our stakeout right now.
+
+676
+00:27:27,179 --> 00:27:29,148
+He's my main reason for coming to Oracle.
+
+677
+00:27:30,048 --> 00:27:31,750
+Except maybe now,
+I've found a better one.
+
+678
+00:27:31,817 --> 00:27:34,386
+-[horse whinnies]
+-[Joel] Hey, it's Bigfoot with a bucket.
+
+679
+00:27:36,121 --> 00:27:38,257
+[Servo] Hi, folks, welcome
+to my lien too. [spits]
+
+680
+00:27:39,758 --> 00:27:41,527
+-Nice day.
+-[Crow] Nice day.
+
+681
+00:27:41,593 --> 00:27:43,962
+I'm arresting you
+for the murder of Uriah Baker.
+
+682
+00:27:44,029 --> 00:27:45,130
+Drop your gun belt.
+
+683
+00:27:46,198 --> 00:27:47,399
+[Joel] I said your gun belt.
+
+684
+00:27:47,466 --> 00:27:48,700
+I'd also like to have
+a little talk with you
+
+685
+00:27:48,767 --> 00:27:50,669
+about your connection with Erica Page.
+
+686
+00:27:52,004 --> 00:27:53,572
+I'm gonna talk, I'm gonna ride.
+
+687
+00:27:53,639 --> 00:27:54,840
+Keep your mouth shut.
+
+688
+00:27:55,774 --> 00:27:57,042
+I'll keep him covered, Marshal.
+
+689
+00:27:57,109 --> 00:27:58,911
+How 'bout you dousing the fire.
+
+690
+00:27:58,977 --> 00:28:01,680
+[Servo] You know, the way you do?
+I'd like that.
+
+691
+00:28:05,684 --> 00:28:07,853
+[Crow] I was just going
+to get your potato.
+
+692
+00:28:07,920 --> 00:28:09,254
+That happened faster than it could have.
+
+693
+00:28:09,321 --> 00:28:10,722
+[Joel] Over the speed of light.
+
+694
+00:28:10,789 --> 00:28:11,757
+Yes, ma'am.
+
+695
+00:28:13,192 --> 00:28:14,626
+Come on.
+
+696
+00:28:14,693 --> 00:28:17,129
+I'll help you get your worm bait
+back to beyond.
+
+697
+00:28:17,196 --> 00:28:18,197
+[piano music playing]
+
+698
+00:28:18,263 --> 00:28:21,233
+[Servo] Oh, stop.
+Quick, charley horse! Oh, ow...
+
+699
+00:28:23,135 --> 00:28:25,871
+[Crow] Yes,
+<i>Buns of Steel of the Old West.</i>
+
+700
+00:28:25,938 --> 00:28:28,373
+[Servo] And naughty spank
+and naughty spink,
+
+701
+00:28:28,440 --> 00:28:30,442
+and you've been bad in the tushie.
+
+702
+00:28:30,509 --> 00:28:32,578
+Now, naughty, naughty, naughty
+
+703
+00:28:32,644 --> 00:28:35,414
+and naughty, naughty, naughty this way,
+
+704
+00:28:35,480 --> 00:28:37,182
+naughty, naughty, naughty,
+
+705
+00:28:37,249 --> 00:28:39,885
+and naughty, naughty, naughty, that way.
+
+706
+00:28:39,952 --> 00:28:41,286
+Higher, girls.
+
+707
+00:28:42,087 --> 00:28:44,556
+[Crow] Say what you want, Reverend,
+this brings in the parishioners.
+
+708
+00:28:46,158 --> 00:28:47,392
+[Servo] Whee...
+
+709
+00:28:47,459 --> 00:28:49,828
+Oh, look at them poor girls there.
+
+710
+00:28:50,095 --> 00:28:53,332
+Do you know that Mrs. Marshal Hood's
+ordered them out of town?
+
+711
+00:28:53,398 --> 00:28:55,467
+She says they constitute
+an "immoral influence"
+
+712
+00:28:55,534 --> 00:28:57,069
+-on our young men.
+-[laughing]
+
+713
+00:28:57,169 --> 00:28:58,804
+[Servo] That's pretty much
+the idea, isn't it?
+
+714
+00:28:59,338 --> 00:29:01,673
+[♪♪♪]
+
+715
+00:29:01,740 --> 00:29:04,977
+[Crow] Joel, you know, it's so good
+you almost forget it's erotic.
+
+716
+00:29:05,043 --> 00:29:07,212
+[Joel] ♪ Shuffle Off the Buffalo
+<i>Shuffle Off the Buffalo ♪</i>
+
+717
+00:29:07,279 --> 00:29:08,380
+<i>♪ And stick the butt up... ♪</i>
+
+718
+00:29:08,447 --> 00:29:10,415
+[Joel] Yeah, remember,
+when we were part of the act, Jed?
+
+719
+00:29:10,482 --> 00:29:12,985
+They said I didn't glide quite right.
+
+720
+00:29:14,253 --> 00:29:15,187
+[applause]
+
+721
+00:29:15,254 --> 00:29:17,122
+Hear they gotta be out by Friday.
+
+722
+00:29:17,189 --> 00:29:19,191
+-Friday noon.
+-[Servo] Whatever.
+
+723
+00:29:19,992 --> 00:29:22,828
+Somebody's always tryin'
+to push somebody else out.
+
+724
+00:29:22,894 --> 00:29:24,696
+Like the Yankees trying
+to push us out of Georgia.
+
+725
+00:29:24,763 --> 00:29:25,831
+[all three] Shut up.
+
+726
+00:29:25,897 --> 00:29:27,432
+Looks to me they accomplished that.
+
+727
+00:29:27,499 --> 00:29:29,101
+Not at first, they didn't.
+
+728
+00:29:29,835 --> 00:29:30,769
+You should've been with me at...
+
+729
+00:29:30,836 --> 00:29:32,170
+[Crow] Excuse me, who is talking?
+
+730
+00:29:32,237 --> 00:29:35,040
+...smash Grant and Rose
+plans at the Googleberg.
+
+731
+00:29:35,107 --> 00:29:36,041
+[Joel] Googleberg?
+
+732
+00:29:36,108 --> 00:29:37,976
+Let's see, uh, you were in the artillery
+
+733
+00:29:38,043 --> 00:29:39,144
+by then, weren't you?
+
+734
+00:29:39,211 --> 00:29:40,646
+Yes, sir.
+
+735
+00:29:40,712 --> 00:29:41,847
+[Servo] You were a bootblack.
+
+736
+00:29:41,913 --> 00:29:44,683
+...shot rounds and canisters
+as fast as we could load.
+
+737
+00:29:44,750 --> 00:29:47,853
+Why, he handled them guns
+like they was red-hot stovepipes.
+
+738
+00:29:47,919 --> 00:29:50,656
+How well did you handle them
+at Lookout Mountain, Captain Polk?
+
+739
+00:29:50,722 --> 00:29:52,791
+[Servo imitating Ronald Reagan]
+Hell, I don't recall,
+
+740
+00:29:52,858 --> 00:29:54,259
+I don't recall.
+
+741
+00:29:54,326 --> 00:29:56,695
+[Joel] Mr. Mooneys
+of the Old West.
+
+742
+00:29:56,762 --> 00:29:57,996
+Private Cane Miro.
+
+743
+00:29:59,197 --> 00:30:00,465
+It is you.
+
+744
+00:30:01,633 --> 00:30:03,468
+You've got a good memory.
+
+745
+00:30:03,535 --> 00:30:05,304
+But then, that was something
+no one could forget,
+
+746
+00:30:05,370 --> 00:30:06,405
+wasn't it, Captain?
+
+747
+00:30:06,471 --> 00:30:07,639
+[Crow] That he's got a good memory?
+
+748
+00:30:07,706 --> 00:30:08,840
+I thought you were dead.
+
+749
+00:30:09,274 --> 00:30:10,609
+The good die first.
+
+750
+00:30:10,676 --> 00:30:12,311
+[Servo] Most people
+are morally ambiguous,
+
+751
+00:30:12,377 --> 00:30:14,546
+which explains our random dying patterns.
+
+752
+00:30:14,613 --> 00:30:17,049
+I understand you're a good citizen.
+
+753
+00:30:17,115 --> 00:30:18,483
+[Joel] Now that's
+a complex death threat.
+
+754
+00:30:18,550 --> 00:30:19,851
+Why'd you come here?
+
+755
+00:30:19,918 --> 00:30:21,386
+Well, goodnight, Mayor.
+
+756
+00:30:21,453 --> 00:30:22,387
+Goodnight, Erica.
+
+757
+00:30:22,454 --> 00:30:23,488
+We'll wind up our business tomorrow.
+
+758
+00:30:23,588 --> 00:30:25,991
+-[Crow] Let me call you a cab.
+-Don't leave.
+
+759
+00:30:26,058 --> 00:30:27,259
+Are you afraid, Captain?
+
+760
+00:30:28,427 --> 00:30:31,096
+How can one man help you
+when 30,000 couldn't?
+
+761
+00:30:31,163 --> 00:30:32,331
+[Servo] He makes a good point.
+
+762
+00:30:32,397 --> 00:30:33,365
+Hello, Cane.
+
+763
+00:30:34,232 --> 00:30:35,434
+Hello, Erica.
+
+764
+00:30:36,668 --> 00:30:37,736
+It's been a long time.
+
+765
+00:30:37,803 --> 00:30:39,738
+[Servo] It's been a long, long,
+long, long lonely time.
+
+766
+00:30:39,805 --> 00:30:40,906
+I wouldn't touch 'em.
+
+767
+00:30:40,972 --> 00:30:42,974
+-[Crow] With all that makeup.
+-Come on with me, Gideon.
+
+768
+00:30:44,009 --> 00:30:45,544
+You better retreat, Mayor.
+
+769
+00:30:46,411 --> 00:30:48,013
+I'll see you another day.
+
+770
+00:30:48,980 --> 00:30:50,382
+Goodnight, Cane.
+
+771
+00:30:50,449 --> 00:30:52,384
+-Goodnight, Erica.
+-[Joel] Boy, the Mayor's approval rating
+
+772
+00:30:52,451 --> 00:30:54,119
+just plunged like 20 points.
+
+773
+00:30:54,186 --> 00:30:55,320
+-[Servo] Yeah.
+-[Crow] Whoa.
+
+774
+00:30:55,387 --> 00:30:56,455
+What was that all about?
+
+775
+00:30:56,521 --> 00:30:58,090
+[Servo] You know, it's tough,
+we used to be roommates.
+
+776
+00:30:58,156 --> 00:30:59,157
+It's a long story.
+
+777
+00:30:59,257 --> 00:31:01,793
+Well, leave him alone. I need him.
+
+778
+00:31:01,860 --> 00:31:03,028
+So do I.
+
+779
+00:31:03,729 --> 00:31:05,564
+Now tell me why you sent for me.
+
+780
+00:31:05,897 --> 00:31:08,266
+Your friend here said something
+about a killing.
+
+781
+00:31:08,333 --> 00:31:09,401
+[Crow] Who needs me?
+
+782
+00:31:09,468 --> 00:31:10,535
+Who needs Wormy?
+
+783
+00:31:11,269 --> 00:31:12,337
+We have to talk shop here?
+
+784
+00:31:12,404 --> 00:31:14,606
+[Joel] Old Western art of the Old West.
+
+785
+00:31:14,673 --> 00:31:16,141
+Come on into my dressing room.
+
+786
+00:31:19,311 --> 00:31:21,947
+[Joel] And I don't like him.
+
+787
+00:31:25,150 --> 00:31:28,019
+[Crow] That's a line that Miss Kitty
+and Matthew never crossed.
+
+788
+00:31:28,086 --> 00:31:29,054
+Jake was right.
+
+789
+00:31:29,721 --> 00:31:30,789
+A killing.
+
+790
+00:31:32,858 --> 00:31:33,792
+Now, kiss me, Cane.
+
+791
+00:31:33,859 --> 00:31:34,926
+[Servo] By Cole Porter.
+
+792
+00:31:34,993 --> 00:31:36,194
+Make it like old times.
+
+793
+00:31:36,261 --> 00:31:37,629
+[Servo] Well, you mean,
+like after the football game
+
+794
+00:31:37,696 --> 00:31:38,897
+out by the dumpster...?
+
+795
+00:31:38,964 --> 00:31:39,965
+[Servo muffled speech]
+
+796
+00:31:40,599 --> 00:31:42,134
+[Crow] You got a wood tick there,
+let me get a match.
+
+797
+00:31:42,200 --> 00:31:44,269
+Who do I kill? The brave captain?
+
+798
+00:31:44,336 --> 00:31:45,337
+[Servo] Is he getting shorter?
+
+799
+00:31:45,404 --> 00:31:47,739
+Jake, this man has
+no romance in his soul.
+
+800
+00:31:48,807 --> 00:31:50,342
+Maybe you kill nobody.
+
+801
+00:31:50,409 --> 00:31:52,377
+I didn't come up here
+just to make it like old times.
+
+802
+00:31:52,444 --> 00:31:54,880
+-[Joel] Whoa.
+-And I get paid in advance.
+
+803
+00:31:56,248 --> 00:31:58,650
+Jake, get 3,000 out of the office safe.
+
+804
+00:31:58,717 --> 00:31:59,951
+Take your time doing that.
+
+805
+00:32:00,018 --> 00:32:02,487
+[Crow] If looks could kill you,
+you'd be so almost dead.
+
+806
+00:32:03,021 --> 00:32:04,189
+[door slams]
+
+807
+00:32:04,256 --> 00:32:05,123
+That's better.
+
+808
+00:32:05,590 --> 00:32:06,892
+No point in my having to trust you
+
+809
+00:32:06,958 --> 00:32:09,027
+when I can worry about nicer things.
+
+810
+00:32:09,694 --> 00:32:10,796
+What things, Cane?
+
+811
+00:32:10,862 --> 00:32:13,598
+[Servo] Raindrops on roses,
+whiskers on kittens.
+
+812
+00:32:13,965 --> 00:32:15,967
+...who do I kill and when?
+
+813
+00:32:17,335 --> 00:32:18,503
+The local law.
+
+814
+00:32:18,570 --> 00:32:20,672
+[Joel] Oh, get a room... Oh, they did.
+
+815
+00:32:20,739 --> 00:32:22,541
+[Crow] Hmm, chocolaty.
+
+816
+00:32:24,976 --> 00:32:26,511
+Why wait 'til Saturday?
+
+817
+00:32:28,046 --> 00:32:31,683
+On Saturday, the mayor gets a letter
+from the railroad board of directors,
+
+818
+00:32:31,750 --> 00:32:34,152
+letting the town know
+if the new tracks come through here.
+
+819
+00:32:34,219 --> 00:32:35,287
+[Servo] Is that a euphemism?
+
+820
+00:32:35,353 --> 00:32:36,321
+If they do, I clean up.
+
+821
+00:32:36,388 --> 00:32:39,224
+-[Servo] I think that's a euphemism.
+-Maybe you won't have to kill Mrs. Hood.
+
+822
+00:32:40,158 --> 00:32:43,328
+If they don't, I'll have to grab
+all the money I can and clear out fast.
+
+823
+00:32:43,728 --> 00:32:44,763
+There'll be killings.
+
+824
+00:32:44,830 --> 00:32:46,331
+[Crow] This is more
+than I want to know.
+
+825
+00:32:46,398 --> 00:32:48,467
+I want the marshal
+to be the first to die.
+
+826
+00:32:48,533 --> 00:32:50,936
+[Joel] Oh, yeah, give me
+more exposition.
+
+827
+00:32:51,002 --> 00:32:51,937
+...if you like.
+
+828
+00:32:52,571 --> 00:32:53,705
+Thanks for the bonus.
+
+829
+00:32:54,673 --> 00:32:56,241
+So much for business.
+
+830
+00:32:56,308 --> 00:32:57,609
+Let's get down to pleasure.
+
+831
+00:32:57,676 --> 00:32:59,077
+[Crow] Some bonus.
+
+832
+00:33:01,379 --> 00:33:04,115
+[Servo] Well, got down to pleasure.
+Quite pleasurable.
+
+833
+00:33:04,182 --> 00:33:05,116
+Remember me?
+
+834
+00:33:05,183 --> 00:33:08,186
+[Joel] You were
+on<i> Carter Country </i>, weren't you?
+
+835
+00:33:09,521 --> 00:33:10,622
+Cane Miro.
+
+836
+00:33:10,689 --> 00:33:12,724
+Wanted in three states
+and five territories
+
+837
+00:33:12,791 --> 00:33:14,526
+for murder, bank robbery, stage robbery,
+
+838
+00:33:14,593 --> 00:33:16,661
+train robbery and sundry assault.
+
+839
+00:33:16,728 --> 00:33:17,662
+[Servo] Neat.
+
+840
+00:33:17,729 --> 00:33:19,865
+Take a look at your ledger.
+See if I'm wanted in this state.
+
+841
+00:33:19,931 --> 00:33:21,032
+I haven't checked lately.
+
+842
+00:33:21,099 --> 00:33:22,200
+[Crow] My computer is down.
+
+843
+00:33:22,267 --> 00:33:23,134
+[clacking]
+
+844
+00:33:23,201 --> 00:33:24,503
+You ought to keep these clean.
+
+845
+00:33:26,238 --> 00:33:27,606
+No, you're not wanted here.
+
+846
+00:33:28,340 --> 00:33:29,641
+If you were, I'd find a place for you
+
+847
+00:33:29,708 --> 00:33:31,042
+with the other characters I met this week.
+
+848
+00:33:31,109 --> 00:33:33,245
+-[Joel] Here, wipe your nose.
+-...my husband on Boot Hill.
+
+849
+00:33:33,311 --> 00:33:34,746
+-Boot Hill?
+-[Crow] So, you're single?
+
+850
+00:33:34,813 --> 00:33:36,615
+Where everyone
+sleeps together like kinfolk.
+
+851
+00:33:36,681 --> 00:33:37,983
+[Joel] Not my kinfolk.
+
+852
+00:33:38,049 --> 00:33:39,150
+...difference between 'em.
+
+853
+00:33:39,784 --> 00:33:42,120
+Well, the bandits
+usually get there first.
+
+854
+00:33:42,187 --> 00:33:44,155
+Everyone gets there sooner or later.
+
+855
+00:33:44,222 --> 00:33:45,323
+I'm not worried.
+
+856
+00:33:45,423 --> 00:33:46,958
+[Servo] Anyway, the good
+die first, you know.
+
+857
+00:33:47,025 --> 00:33:48,426
+I'm going to get there
+in the next five minutes.
+
+858
+00:33:50,161 --> 00:33:51,696
+What's your business in Oracle?
+
+859
+00:33:51,796 --> 00:33:52,664
+[Joel] Herbal Life.
+
+860
+00:33:52,731 --> 00:33:54,833
+It's honest. It's also private.
+
+861
+00:33:54,900 --> 00:33:57,135
+Heh. Well, that's no answer.
+
+862
+00:33:57,669 --> 00:33:59,137
+I intend to keep it that way.
+
+863
+00:33:59,237 --> 00:34:00,839
+[Crow] Not exactly
+a Howard Hawks film, is it?
+
+864
+00:34:00,906 --> 00:34:02,307
+How long's it going to
+take you to finish it up?
+
+865
+00:34:02,908 --> 00:34:04,609
+Oh, about five weeks.
+
+866
+00:34:05,810 --> 00:34:06,711
+Make it five days?
+
+867
+00:34:06,778 --> 00:34:09,147
+[Joel] What are they negotiating,
+when he's going to kill her?
+
+868
+00:34:09,915 --> 00:34:12,183
+I might be able to finish in five days,
+
+869
+00:34:12,250 --> 00:34:14,419
+but that also gives me five nights.
+
+870
+00:34:14,486 --> 00:34:16,087
+What do you do nights, Miss Marshal?
+
+871
+00:34:16,154 --> 00:34:17,889
+[Crow] Oh, I run
+like a crazed weasel. You?
+
+872
+00:34:17,956 --> 00:34:21,026
+Oh, I keep an eye
+on suspicious characters.
+
+873
+00:34:21,793 --> 00:34:24,095
+-I'm a suspicious character.
+-[Joel mockingly laughs]
+
+874
+00:34:24,162 --> 00:34:26,831
+I think I'll assign Joshua to you.
+He takes care of drunks,
+
+875
+00:34:26,898 --> 00:34:28,600
+mad dogs, and smart saddle tramps.
+
+876
+00:34:28,667 --> 00:34:30,568
+-[Crow] And Englishmen.
+-[But] I'm a celebrity.
+
+877
+00:34:31,236 --> 00:34:33,038
+You ought to give me
+your personal attention.
+
+878
+00:34:33,138 --> 00:34:34,806
+[Servo] I was up
+for a CableACE Award.
+
+879
+00:34:35,407 --> 00:34:37,342
+I just hope I don't have to, Mr. Miro.
+
+880
+00:34:37,876 --> 00:34:39,945
+[Joel] Well, I'm going to shut down
+the sexual bantering
+
+881
+00:34:40,011 --> 00:34:40,946
+for the night.
+
+882
+00:34:42,914 --> 00:34:43,848
+[Servo] Oh, boy!
+
+883
+00:34:44,616 --> 00:34:45,951
+[Joel] Oh, Beverly!
+
+884
+00:34:49,321 --> 00:34:50,689
+[Crow] Is this is a video diary?
+
+885
+00:34:50,755 --> 00:34:51,823
+[Servo] Looks like a Kubrick film.
+
+886
+00:34:51,890 --> 00:34:54,826
+{\an8}[Joel] I don't know, it doesn't
+seem like a Tuesday.
+
+887
+00:34:56,828 --> 00:34:58,930
+[Servo] Oh, back to Monday, May 31st.
+
+888
+00:34:58,997 --> 00:35:03,034
+...ninety, ninety-five, fifteen thousand.
+
+889
+00:35:03,535 --> 00:35:06,271
+Well, it's all there.
+
+890
+00:35:06,338 --> 00:35:07,339
+[Crow] Enjoy your timeshare.
+
+891
+00:35:07,405 --> 00:35:08,640
+I'll mail you your first monthly payment
+
+892
+00:35:08,707 --> 00:35:10,075
+after you get to Santa Fe.
+
+893
+00:35:10,141 --> 00:35:11,509
+[Joel] You know, back then,
+money was a lot of money.
+
+894
+00:35:11,576 --> 00:35:13,511
+Huh, now that the deal is closed,
+
+895
+00:35:13,578 --> 00:35:16,281
+I don't mind telling you
+that I got the best of the bargain.
+
+896
+00:35:16,881 --> 00:35:18,583
+A widened freight line
+won't do you much good
+
+897
+00:35:18,650 --> 00:35:21,519
+when the railroad comes,
+and if it doesn't,
+
+898
+00:35:21,586 --> 00:35:25,323
+this town will have the business
+of a steamboat in Death Valley.
+
+899
+00:35:25,390 --> 00:35:26,391
+[Joel] Ha, I'm funny.
+
+900
+00:35:26,458 --> 00:35:28,126
+Have you ever met a woman
+with a head for business?
+
+901
+00:35:28,193 --> 00:35:29,527
+[chuckling] Afraid not.
+
+902
+00:35:29,594 --> 00:35:31,029
+Well, neither have I, Mister Taft.
+
+903
+00:35:31,963 --> 00:35:32,998
+Have a nice trip.
+
+904
+00:35:33,064 --> 00:35:34,833
+I'll be riding the high road.
+
+905
+00:35:34,899 --> 00:35:36,301
+[Servo] William Howard Taft,
+ladies and gentlemen.
+
+906
+00:35:36,368 --> 00:35:37,636
+[Crow whistles]
+
+907
+00:35:38,637 --> 00:35:40,572
+Nice of him to tell us
+he's takin' the high road, huh?
+
+908
+00:35:40,639 --> 00:35:42,507
+[Servo with feminine voice]
+It's a figure of speech, Wormy.
+
+909
+00:35:42,574 --> 00:35:44,309
+I wish I could send Cane on this.
+
+910
+00:35:44,376 --> 00:35:46,177
+He won't take any of these puny jobs.
+
+911
+00:35:46,778 --> 00:35:49,681
+Besides, why pay for something
+I'll do for free?
+
+912
+00:35:49,748 --> 00:35:50,815
+[Crow] Wormy, that's an old cedar.
+
+913
+00:35:50,882 --> 00:35:52,283
+If you ever get caught,
+they'll come after me.
+
+914
+00:35:52,917 --> 00:35:54,653
+That's why I try to keep you
+from sin, little man.
+
+915
+00:35:54,719 --> 00:35:56,721
+-Did you marry the ketchup bottles?
+-[slams wooden post]
+
+916
+00:35:57,455 --> 00:36:00,191
+Cane Miro's mighty handy
+with the women, isn't he?
+
+917
+00:36:00,258 --> 00:36:01,760
+[Servo in feminine voice] Mighty.
+
+918
+00:36:01,826 --> 00:36:04,095
+You don't love him.
+You still love me, don't you, Erica?
+
+919
+00:36:04,696 --> 00:36:06,297
+I still love you, Jake.
+
+920
+00:36:06,364 --> 00:36:07,766
+Now you'd better hurry
+if you want to catch Tab
+
+921
+00:36:07,832 --> 00:36:08,900
+on the high road.
+
+922
+00:36:09,467 --> 00:36:12,570
+I need that 15,000
+to buy the Canby Judd place.
+
+923
+00:36:12,637 --> 00:36:14,239
+I'll hurry. I'll fly!
+
+924
+00:36:14,305 --> 00:36:15,974
+[Servo with nasally voice]
+She thinks I'm cute!
+
+925
+00:36:18,043 --> 00:36:20,145
+[Joel] Oh, man,
+that American hotel
+
+926
+00:36:20,211 --> 00:36:22,347
+puts on a great buffet on roadies.
+
+927
+00:36:23,048 --> 00:36:25,750
+Back in, Herman.
+You're becoming a real habit.
+
+928
+00:36:25,817 --> 00:36:27,585
+[Crow with old man voice]
+Yeah, don't fool with me, I'm a wizard.
+
+929
+00:36:27,652 --> 00:36:29,587
+There goes that outlander, Cane Miro.
+
+930
+00:36:29,654 --> 00:36:31,556
+I don't like him.
+He's bound to be trouble.
+
+931
+00:36:31,623 --> 00:36:32,857
+[Servo] He pushed me down.
+
+932
+00:36:34,759 --> 00:36:37,662
+[Joel] Yeah, yeah, I got to pick up
+a thing of wax worms.
+
+933
+00:36:37,762 --> 00:36:39,364
+I don't think he'll give us
+any trouble, Josh.
+
+934
+00:36:39,431 --> 00:36:40,632
+[Crow mumbling] Josh.
+
+935
+00:36:40,699 --> 00:36:43,068
+That's what Fremont said
+about Stonewall Jackson.
+
+936
+00:36:43,668 --> 00:36:45,370
+-[Servo] Walked right into that.
+-I think you're right.
+
+937
+00:36:45,437 --> 00:36:46,771
+I know I'm right.
+
+938
+00:36:47,005 --> 00:36:51,176
+Maybe I'd better find out
+what his business is right now.
+
+939
+00:36:51,242 --> 00:36:52,944
+You be careful, Miss Rose.
+
+940
+00:36:53,011 --> 00:36:54,646
+He won't even know I'm following him.
+
+941
+00:36:56,147 --> 00:36:57,849
+[Joel] Hey, she's following me.
+
+942
+00:36:57,916 --> 00:36:58,783
+[Crow with feminine voice] Oh, shoot.
+
+943
+00:37:00,985 --> 00:37:03,555
+[Servo] It's going to be a bad day.
+We're even out of TP.
+
+944
+00:37:08,026 --> 00:37:09,060
+[Joel] A strange feller.
+
+945
+00:37:10,261 --> 00:37:12,564
+[Servo] Well, one more trip
+to the buffet.
+
+946
+00:37:16,201 --> 00:37:17,836
+[Crow] Cute outdoor cafe.
+
+947
+00:37:19,971 --> 00:37:22,006
+[Joel] Yeah, she needs
+operatives, all right.
+
+948
+00:37:23,241 --> 00:37:25,110
+[Crow] What the--?
+How'd he get there?
+
+949
+00:37:25,176 --> 00:37:26,177
+[Servo] Wait a minute.
+
+950
+00:37:30,582 --> 00:37:31,649
+[Servo scoffs]
+
+951
+00:37:35,019 --> 00:37:37,756
+[Crow] Do I order
+from you, ma'am? Uh, ma-- Oh.
+
+952
+00:37:40,625 --> 00:37:42,794
+[Joel] That's two guys
+in a horse costume.
+
+953
+00:37:42,861 --> 00:37:44,496
+[bots laugh]
+
+954
+00:37:45,997 --> 00:37:47,732
+[Crow] Doesn't 'marshal'
+have two Ls in it?
+
+955
+00:37:47,799 --> 00:37:49,134
+-[Servo] Well, it's either.
+-[Crow] Oh.
+
+956
+00:37:49,200 --> 00:37:50,401
+[Crow] Well, it should have
+two Ls, it looks better.
+
+957
+00:37:50,468 --> 00:37:51,603
+[Servo whispers] It's either.
+
+958
+00:37:52,003 --> 00:37:54,939
+[Servo] ♪ Dennis Moore, Dennis Moore
+Riding through the night ♪
+
+959
+00:37:55,006 --> 00:37:56,775
+<i>♪ Dum, dum dum, dum, dum, dum ♪</i>
+
+960
+00:37:56,841 --> 00:37:58,843
+[Joel] Hey, cameraman,
+crank a little faster.
+
+961
+00:37:58,910 --> 00:37:59,944
+[Crow giggles]
+
+962
+00:38:00,578 --> 00:38:02,647
+[Servo] She does like me. Heh.
+
+963
+00:38:02,714 --> 00:38:04,682
+[Crow makes siren noise]
+
+964
+00:38:04,749 --> 00:38:07,652
+[Joel] Oh boy, I hope there's
+no black ice on their route.
+
+965
+00:38:09,654 --> 00:38:11,089
+[Crow] Well, I think I'll stop
+by the tennis court
+
+966
+00:38:11,156 --> 00:38:12,190
+on the way home.
+
+967
+00:38:16,194 --> 00:38:19,931
+[Joel] ♪ Marvel the Mustang
+<i>She's almost for real ♪</i>
+
+968
+00:38:26,371 --> 00:38:29,107
+[Crow] He likes to get
+way out of town to pee.
+
+969
+00:38:30,942 --> 00:38:33,344
+[Servo] What do you--
+It's Jack Nicholson's place.
+
+970
+00:38:39,384 --> 00:38:41,619
+[Joel] Hey, you forgot
+your Snack Pack.
+
+971
+00:38:44,155 --> 00:38:46,491
+You knew I was
+following you all the time.
+
+972
+00:38:46,558 --> 00:38:47,592
+[Crow] So did everyone else
+in the county.
+
+973
+00:38:47,659 --> 00:38:49,327
+Now that you caught me,
+what do you want?
+
+974
+00:38:49,394 --> 00:38:50,628
+[Joel] You're it.
+
+975
+00:38:50,695 --> 00:38:52,530
+Well, that's a very good question.
+
+976
+00:38:53,832 --> 00:38:55,567
+Why don't you get down,
+take a load off your horse?
+
+977
+00:38:56,167 --> 00:38:57,936
+[Crow] Oh, and what's
+that supposed to mean?
+
+978
+00:38:58,002 --> 00:38:59,904
+How's your business coming along?
+
+979
+00:38:59,971 --> 00:39:02,307
+[Joel] Recession hit me
+like everyone else.
+
+980
+00:39:02,373 --> 00:39:04,475
+What were you seeing
+Canby Judd about?
+
+981
+00:39:04,542 --> 00:39:06,477
+Something that's still private.
+
+982
+00:39:07,812 --> 00:39:10,415
+You don't have many answers
+to my questions, do you?
+
+983
+00:39:11,082 --> 00:39:12,851
+You don't ask the right questions.
+
+984
+00:39:13,251 --> 00:39:15,420
+[Servo] Oh, boy,
+they're bantering again.
+
+985
+00:39:18,556 --> 00:39:19,424
+[Joel] Excuse me.
+
+986
+00:39:19,490 --> 00:39:22,627
+When... When you were
+in Tombstone, did you...
+
+987
+00:39:22,694 --> 00:39:23,628
+[Crow] Eat much pizza?
+
+988
+00:39:23,695 --> 00:39:25,196
+...did you ever run across Sam Bass?
+
+989
+00:39:25,930 --> 00:39:27,498
+Sure. Sam and me are old friends.
+
+990
+00:39:27,565 --> 00:39:29,234
+We used to work together.
+
+991
+00:39:30,101 --> 00:39:31,336
+Well, he's a lawman now.
+
+992
+00:39:31,736 --> 00:39:32,604
+As a matter of fact,
+
+993
+00:39:32,670 --> 00:39:34,839
+he'll be here Saturday
+to take over my job.
+
+994
+00:39:35,974 --> 00:39:37,675
+Morning, noon, or night?
+
+995
+00:39:37,742 --> 00:39:40,612
+[chuckling]
+What difference does that make?
+
+996
+00:39:40,678 --> 00:39:42,213
+[Joel] Hey, this is moving
+too fast for me.
+
+997
+00:39:42,280 --> 00:39:43,314
+Some, I guess.
+
+998
+00:39:43,715 --> 00:39:45,884
+-[Servo with high-pitched voice] Hi.
+-So, ol' Sam's crossed over, huh?
+
+999
+00:39:45,950 --> 00:39:47,018
+[Crow] Wearin' dresses and stuff.
+
+1000
+00:39:47,085 --> 00:39:48,953
+Well, he'll come back. We all do.
+
+1001
+00:39:49,621 --> 00:39:52,056
+I spent a couple of months
+playing sheriff myself.
+
+1002
+00:39:52,590 --> 00:39:53,691
+How'd you make out?
+
+1003
+00:39:54,325 --> 00:39:56,494
+Plenty of action but the pay was lousy.
+
+1004
+00:39:56,561 --> 00:39:57,595
+[chuckling]
+
+1005
+00:39:57,762 --> 00:39:59,530
+Then why is it all the worst gunslingers
+
+1006
+00:39:59,597 --> 00:40:00,932
+take up law work?
+
+1007
+00:40:00,999 --> 00:40:03,301
+Look at Wyatt Earp,
+Bat Masterson, King Fisher.
+
+1008
+00:40:03,368 --> 00:40:04,369
+[Joel] Yeah, good shows.
+
+1009
+00:40:04,435 --> 00:40:06,604
+Each one of them
+is a coldblooded killer.
+
+1010
+00:40:06,671 --> 00:40:08,273
+You answered that yourself.
+
+1011
+00:40:08,940 --> 00:40:11,342
+For me, crime is just a way to get rich.
+
+1012
+00:40:11,709 --> 00:40:12,844
+Those other fellows like to kill,
+
+1013
+00:40:12,911 --> 00:40:15,246
+and there's more chance when it's legal,
+
+1014
+00:40:15,313 --> 00:40:17,448
+like a license for murder.
+
+1015
+00:40:17,515 --> 00:40:19,150
+[Servo] That is so true!
+
+1016
+00:40:19,350 --> 00:40:20,718
+Why don't you apply for one?
+
+1017
+00:40:20,785 --> 00:40:22,320
+[Joel] No, I don't have
+very good references.
+
+1018
+00:40:22,387 --> 00:40:23,554
+I'll make you a deal.
+
+1019
+00:40:24,389 --> 00:40:26,791
+I won't try to make you a bad woman
+
+1020
+00:40:26,858 --> 00:40:28,726
+if you stop trying
+to make me a good man.
+
+1021
+00:40:28,793 --> 00:40:30,128
+[Servo] It's a country song, isn't it?
+
+1022
+00:40:31,429 --> 00:40:32,397
+You're not bad...
+
+1023
+00:40:32,463 --> 00:40:33,598
+[Crow] You're just drawn that way.
+
+1024
+00:40:33,665 --> 00:40:34,899
+...you're just no good.
+
+1025
+00:40:34,966 --> 00:40:36,134
+[Joel] Is that bad?
+
+1026
+00:40:36,200 --> 00:40:39,070
+If I'm no good, I might as well
+take advantage of it.
+
+1027
+00:40:39,137 --> 00:40:41,005
+[Servo] Sorry, my wooden hip.
+
+1028
+00:40:43,474 --> 00:40:45,944
+-No thanks.
+-[Joel] I don't think out, soul brother.
+
+1029
+00:40:47,412 --> 00:40:48,780
+[Servo] Maybe just a little.
+
+1030
+00:40:48,846 --> 00:40:49,914
+-[Joel] Does this mean that they--?
+-[Servo moaning]
+
+1031
+00:40:49,981 --> 00:40:52,350
+[Joel] Because they were going to--?
+And then they--?
+
+1032
+00:40:56,921 --> 00:40:59,123
+[Servo as horse] Oh, pull my back.
+Oh, pull my back.
+
+1033
+00:41:00,458 --> 00:41:01,960
+[Crow] Hi, Wormy.
+
+1034
+00:41:02,026 --> 00:41:04,128
+Didn't I leave you back
+at the Red Dog?
+
+1035
+00:41:04,195 --> 00:41:05,897
+Erica sent me after you.
+
+1036
+00:41:05,964 --> 00:41:07,765
+She thinks she shortchanged you.
+
+1037
+00:41:07,832 --> 00:41:10,034
+Shortchanged? By how much?
+
+1038
+00:41:10,101 --> 00:41:10,969
+Just this.
+
+1039
+00:41:11,970 --> 00:41:13,705
+-[Servo] Oh, thanks.
+-[Crow] Ooh.
+
+1040
+00:41:13,771 --> 00:41:16,174
+[Servo] Come on, honey, you're not
+the Sheriff of the world.
+
+1041
+00:41:16,240 --> 00:41:17,642
+Instead of doing my job, I'm out here
+
+1042
+00:41:17,709 --> 00:41:19,844
+disgracing Scott's memory
+and it's all your fault.
+
+1043
+00:41:19,911 --> 00:41:21,713
+Nothing we both do is all my fault.
+
+1044
+00:41:21,779 --> 00:41:23,815
+[Joel] Tracy and Hepburn
+riding the range.
+
+1045
+00:41:26,484 --> 00:41:29,921
+Wow, this is great,
+kind of got a Pony Express,
+
+1046
+00:41:29,988 --> 00:41:32,623
+kind of Gypsy Express thing.
+
+1047
+00:41:32,690 --> 00:41:35,760
+Whoa! Stand back, the bullion,
+
+1048
+00:41:35,827 --> 00:41:38,296
+you may be interfering
+with this daring horseback rider
+
+1049
+00:41:38,363 --> 00:41:39,864
+of the Pony Express,
+
+1050
+00:41:39,931 --> 00:41:42,467
+carrying mail from
+the Satellite of Love to the...
+
+1051
+00:41:42,533 --> 00:41:44,569
+-Whoa, girl. Satellite of Love.
+
+1052
+00:41:44,635 --> 00:41:47,972
+-Whoa, girl.
+-Make haste, man! Be gone, off with you!
+
+1053
+00:41:48,106 --> 00:41:50,274
+-[Servo] Godspeed!
+-[Crow] Oh, Concord!
+
+1054
+00:41:50,341 --> 00:41:51,843
+[Crow] Owie, owie.
+Owie, owie. Owie, owie.
+
+1055
+00:41:51,909 --> 00:41:55,046
+There goes a brave seller
+and his brave horse.
+
+1056
+00:41:55,113 --> 00:41:56,047
+Oh, by the way, Joel,
+
+1057
+00:41:56,114 --> 00:41:57,315
+I am sending you
+a very important message.
+
+1058
+00:41:57,382 --> 00:41:58,649
+-OK.
+-[Crow] Owie, owie. Owie, owie...
+
+1059
+00:41:58,816 --> 00:42:01,552
+I just hope to God
+it gets to you in time.
+
+1060
+00:42:01,619 --> 00:42:05,423
+Servo, I'm standing
+right here, what is the point?
+
+1061
+00:42:05,490 --> 00:42:07,358
+-That is, Joel. Just play along!
+-[Crow] Owie, owie. Owie, owie...
+
+1062
+00:42:07,425 --> 00:42:09,894
+[Crow] Whoa, Gypsy,
+watch out for that--
+
+1063
+00:42:09,961 --> 00:42:11,662
+[crash]
+
+1064
+00:42:11,729 --> 00:42:12,697
+Ow.
+
+1065
+00:42:12,897 --> 00:42:16,100
+So, what did you write to me
+in that letter?
+
+1066
+00:42:16,167 --> 00:42:17,835
+Oh, that I wanted a peanut
+butter and dijonaisse sandwich
+
+1067
+00:42:17,902 --> 00:42:19,504
+and a Snapple for lunch.
+
+1068
+00:42:19,570 --> 00:42:23,007
+-[Gypsy neighing]
+-[Crow] Whoa. Whoa. Whoa, girl.
+
+1069
+00:42:23,074 --> 00:42:25,476
+Oh, Crow, you are a lot heavier
+than you appear to be.
+
+1070
+00:42:26,644 --> 00:42:28,880
+You are Joel Robinstone?
+
+1071
+00:42:28,946 --> 00:42:32,583
+That's Joel Robinson, yes.
+And this is for me, I am mad.
+
+1072
+00:42:32,650 --> 00:42:34,886
+-OK, let's see here.
+-[Servo] Give me a little kiss here.
+
+1073
+00:42:34,952 --> 00:42:37,288
+-Uh, "Dear Joel..."
+-[Crow] Easy, girl.
+
+1074
+00:42:37,355 --> 00:42:41,659
+"Dear Joel, how are you?
+I'm fine, I want a something something
+
+1075
+00:42:41,726 --> 00:42:43,528
+and a Snapple for lunch.
+
+1076
+00:42:43,594 --> 00:42:45,129
+Yours very truly, Servo."
+
+1077
+00:42:45,196 --> 00:42:46,531
+OK, I'm going to have
+to respond to this.
+
+1078
+00:42:46,597 --> 00:42:48,433
+Peanut butter and dijonaisse sandwich,
+Joel, it's very simple.
+
+1079
+00:42:48,499 --> 00:42:50,134
+Yeah, could you turn around?
+Let me just write this down.
+
+1080
+00:42:50,201 --> 00:42:53,738
+"OK, Dear Servo, I'm in receipt
+
+1081
+00:42:53,805 --> 00:42:55,640
+"of your correspondence
+regarding lunch
+
+1082
+00:42:55,706 --> 00:42:57,909
+"and I regret to inform you
+that I cannot read
+
+1083
+00:42:57,975 --> 00:43:02,713
+"the two words you wrote between
+'I want a' and 'a Snapple.'
+
+1084
+00:43:02,780 --> 00:43:05,416
+"Please respond at your convenience
+or before lunch.
+
+1085
+00:43:05,483 --> 00:43:07,018
+Regards, Joel."
+
+1086
+00:43:07,085 --> 00:43:08,419
+Peanut butter
+and dijonaisse sandwich.
+
+1087
+00:43:08,486 --> 00:43:10,421
+-It's not that difficult.
+-Oh, for Christ's sake.
+
+1088
+00:43:10,488 --> 00:43:12,423
+This is going to take forever.
+I'm so hungry.
+
+1089
+00:43:12,490 --> 00:43:14,192
+-[Gypsy neighing]
+-[Crow] Whoa! Whoa!
+
+1090
+00:43:16,828 --> 00:43:18,663
+Well, you know,
+those kids don't even know
+
+1091
+00:43:18,729 --> 00:43:20,932
+that the shortest distance
+between two points
+
+1092
+00:43:20,998 --> 00:43:22,633
+-is a straight line.
+-[Crow] Owie, owie. Owie, owie...
+
+1093
+00:43:22,700 --> 00:43:24,735
+What could be taking them so long?
+
+1094
+00:43:24,802 --> 00:43:26,904
+-[Gypsy neighing]
+-[Crow] Whoa! Whoa!
+
+1095
+00:43:28,940 --> 00:43:31,909
+-[alarm buzzing]
+-[Servo] Whoa, we got movie time!
+
+1096
+00:43:40,585 --> 00:43:41,752
+[Joel] That's a lot of sandwich.
+
+1097
+00:43:43,754 --> 00:43:45,523
+[Servo] Sir, you can't park here.
+
+1098
+00:43:47,525 --> 00:43:48,626
+Zebelon Tabb.
+
+1099
+00:43:50,027 --> 00:43:51,796
+Third businessman
+to leave Oracle this week.
+
+1100
+00:43:51,863 --> 00:43:52,897
+[Joel] Huh.
+
+1101
+00:43:56,534 --> 00:43:59,070
+[Servo] Hey, how did I end up
+back at--? Oh, Poopy.
+
+1102
+00:44:02,874 --> 00:44:05,776
+[Crow] Oh, now we're back
+to June 1st.
+
+1103
+00:44:07,845 --> 00:44:10,348
+[Servo] Pa, Pa, I'm seeing
+some trouble in town.
+
+1104
+00:44:10,414 --> 00:44:13,484
+[piano music playing within]
+
+1105
+00:44:14,619 --> 00:44:16,354
+[Crow] Jack Ruby on piano.
+
+1106
+00:44:16,420 --> 00:44:18,055
+Hold it. That was lousy.
+
+1107
+00:44:18,122 --> 00:44:19,590
+You've gotta get more leg into it.
+
+1108
+00:44:19,657 --> 00:44:22,226
+Oh, why bother? We've gotta be
+out of town by tomorrow night.
+
+1109
+00:44:22,293 --> 00:44:24,128
+Forget it. Go take a bath.
+
+1110
+00:44:24,195 --> 00:44:25,730
+You too. Work up a quick head.
+
+1111
+00:44:25,796 --> 00:44:28,499
+[Joel] All right, I'll go change
+into my leotard.
+
+1112
+00:44:30,334 --> 00:44:31,569
+Gotta talk to you.
+
+1113
+00:44:31,636 --> 00:44:33,804
+-Did you get the money?
+-Yeah, yeah. Every penny.
+
+1114
+00:44:33,871 --> 00:44:34,839
+Hand it over.
+
+1115
+00:44:38,109 --> 00:44:40,578
+-What's the matter?
+-[Crow] I killed a guy and I wet him.
+
+1116
+00:44:40,645 --> 00:44:41,646
+Something went wrong.
+
+1117
+00:44:41,746 --> 00:44:44,448
+No, no. I didn't have time
+<i>to get rid of the body.</i>
+
+1118
+00:44:44,549 --> 00:44:45,616
+<i>Where is it?</i>
+
+1119
+00:44:46,350 --> 00:44:48,052
+Cane Miro and the lady marshal have it.
+
+1120
+00:44:48,119 --> 00:44:49,120
+[Erica] What?
+
+1121
+00:44:49,187 --> 00:44:50,788
+<i>They're bringin' it into town.</i>
+
+1122
+00:44:52,356 --> 00:44:53,824
+<i>Cane and Rose?</i>
+
+1123
+00:44:53,891 --> 00:44:54,759
+[Jake] That's right.
+
+1124
+00:44:54,825 --> 00:44:57,228
+[Servo in feminine voice]
+So crazy, it just might work.
+
+1125
+00:44:57,295 --> 00:44:58,829
+<i>Cane and Rose.</i>
+
+1126
+00:44:58,896 --> 00:45:00,965
+[Joel] This fall on NBC,
+<i>Cane and Rose...</i>
+
+1127
+00:45:02,900 --> 00:45:05,102
+[Servo] Oh, neat!
+Dark specter in basic black.
+
+1128
+00:45:09,340 --> 00:45:11,075
+<i>[woman] Rose,</i>
+<i>I've got to talk to you.</i>
+
+1129
+00:45:11,142 --> 00:45:14,378
+[Joel] It's about your yard,
+the junk cars, the garbage... Oh.
+
+1130
+00:45:16,447 --> 00:45:17,915
+[knocking on door]
+
+1131
+00:45:17,982 --> 00:45:20,985
+[Joel] Ah. Just about to give
+myself a sponge bath.
+
+1132
+00:45:25,389 --> 00:45:27,658
+[Crow] But-- Doors don't open
+like that, there's an--
+
+1133
+00:45:27,725 --> 00:45:29,360
+-He's in the hall.
+-[Servo laughs]
+
+1134
+00:45:29,427 --> 00:45:30,695
+<i>You crazy, coming up here?</i>
+
+1135
+00:45:30,761 --> 00:45:31,896
+[Joel] In my hallway.
+
+1136
+00:45:34,699 --> 00:45:35,533
+[Servo] Well, I'll just talk to you
+about it later then.
+
+1137
+00:45:35,600 --> 00:45:37,368
+<i>Miro aims to kill Gideon.</i>
+
+1138
+00:45:37,435 --> 00:45:38,903
+<i>I know that, honey.</i>
+
+1139
+00:45:38,970 --> 00:45:41,372
+-Where is your husband?
+-Erica Page hid him out in the woods.
+
+1140
+00:45:41,639 --> 00:45:42,740
+[Crow] He might
+get ticks or something.
+
+1141
+00:45:42,807 --> 00:45:43,941
+<i>Erica's a busy girl.</i>
+
+1142
+00:45:44,008 --> 00:45:45,910
+[Joel] What, with her volunteer
+work and everything.
+
+1143
+00:45:45,977 --> 00:45:48,879
+Just what is it that Cane
+<i>has got against the mayor?</i>
+
+1144
+00:45:49,046 --> 00:45:50,047
+<i>I don't know.</i>
+
+1145
+00:45:50,114 --> 00:45:51,882
+<i>The one story he's never told me.</i>
+
+1146
+00:45:52,083 --> 00:45:53,517
+<i>Now I wish he had.</i>
+
+1147
+00:45:53,584 --> 00:45:54,619
+<i>Well, one thing's sure.</i>
+
+1148
+00:45:54,685 --> 00:45:57,321
+<i>He's got to be back in town</i>
+<i>by Saturday to read that letter.</i>
+
+1149
+00:45:57,388 --> 00:45:59,123
+<i>Yeah, he's afraid of that, too.</i>
+
+1150
+00:45:59,190 --> 00:46:01,726
+Afraid the town'll dry up
+<i>and blow out from under him.</i>
+
+1151
+00:46:01,792 --> 00:46:03,294
+[Servo] Like me.
+
+1152
+00:46:03,361 --> 00:46:05,529
+<i>Erica Page is no welfare worker.</i>
+
+1153
+00:46:06,063 --> 00:46:07,632
+<i>Why's she taking such an interest?</i>
+
+1154
+00:46:08,132 --> 00:46:10,368
+[Crow] Hey, she's the first woman
+with her own eyebrows.
+
+1155
+00:46:10,434 --> 00:46:14,338
+Land scheme. Legal, of course.
+Gideon does everything legal.
+
+1156
+00:46:15,573 --> 00:46:17,608
+<i>Have they been involved</i>
+<i>with Canby Judd?</i>
+
+1157
+00:46:17,708 --> 00:46:19,076
+I believe so.
+
+1158
+00:46:19,243 --> 00:46:21,545
+I know Mr. Judd is thinking
+of leaving Oracle.
+
+1159
+00:46:22,380 --> 00:46:24,081
+<i>Where has Erica hidden your husband?</i>
+
+1160
+00:46:24,315 --> 00:46:26,484
+He's at the old Wilson place
+<i>in Greasewood Canyon.</i>
+
+1161
+00:46:26,550 --> 00:46:27,551
+[all three] Ew!
+
+1162
+00:46:27,618 --> 00:46:28,886
+<i>Could you go out and see him?</i>
+
+1163
+00:46:29,887 --> 00:46:31,155
+<i>I'll go first thing in the morning.</i>
+
+1164
+00:46:31,222 --> 00:46:32,990
+<i>Oh, I'd appreciate that.</i>
+
+1165
+00:46:33,057 --> 00:46:35,493
+The sooner he knows
+<i>you're looking after him, the better.</i>
+
+1166
+00:46:35,559 --> 00:46:36,861
+[Joel] Hey, chocolate gorilla foot.
+
+1167
+00:46:36,927 --> 00:46:38,029
+[Crow] Huh, what do you know.
+
+1168
+00:46:40,031 --> 00:46:43,200
+I'd go tonight, but there's something
+I've got to attend to first.
+
+1169
+00:46:43,367 --> 00:46:44,702
+Thanks very much, Rose. I...
+
+1170
+00:46:44,769 --> 00:46:47,104
+I can't tell you
+<i>how much this means to me.</i>
+
+1171
+00:46:47,171 --> 00:46:50,041
+And to think we laughed
+at the notion of you wearin' Scott's star.
+
+1172
+00:46:50,107 --> 00:46:51,208
+[Joel laughs]
+
+1173
+00:46:51,275 --> 00:46:53,611
+[Crow] Hey, a simple
+handshake will do.
+
+1174
+00:46:54,278 --> 00:46:55,813
+[Joel] I think she touched
+my handles.
+
+1175
+00:46:57,815 --> 00:47:00,518
+[Servo] Meanwhile,
+back at the love shack.
+
+1176
+00:47:01,752 --> 00:47:03,788
+[Crow] What time is it?
+
+1177
+00:47:04,388 --> 00:47:05,823
+You're getting careless.
+
+1178
+00:47:06,123 --> 00:47:07,825
+[Joel] Yeah, sorry, I've been
+on the trail a long time.
+
+1179
+00:47:07,892 --> 00:47:10,961
+Not as careless as your
+little halfwit killer, Jake.
+
+1180
+00:47:11,128 --> 00:47:13,030
+I recognize your subtle touch.
+
+1181
+00:47:13,664 --> 00:47:15,132
+You don't miss much, do you?
+
+1182
+00:47:16,067 --> 00:47:17,668
+You wanna watch yourself, though.
+
+1183
+00:47:18,269 --> 00:47:20,938
+Rose says there's been other
+similar incidents around here.
+
+1184
+00:47:22,306 --> 00:47:23,908
+[Servo] I hate it when
+there are similar incidents.
+
+1185
+00:47:23,974 --> 00:47:25,109
+What was that for?
+
+1186
+00:47:25,176 --> 00:47:27,278
+So, you admit being with her
+this afternoon?
+
+1187
+00:47:28,979 --> 00:47:31,716
+-Sure, why not?
+-[Joel with dopey voice] Oh, it's fun.
+
+1188
+00:47:32,016 --> 00:47:34,318
+-I've made up my mind.
+-[Crow] I'm going to be an upholsterer.
+
+1189
+00:47:34,385 --> 00:47:35,986
+I want her dead tomorrow.
+
+1190
+00:47:36,454 --> 00:47:37,755
+I told you, no changes.
+
+1191
+00:47:37,822 --> 00:47:39,023
+[Servo] Now, get out of my hall.
+
+1192
+00:47:43,694 --> 00:47:45,529
+Maybe I won't need you at all.
+
+1193
+00:47:48,399 --> 00:47:50,701
+[Joel] Wait a minute, she's in
+my room now. Where do I go?
+
+1194
+00:47:55,306 --> 00:47:56,340
+Waiting in ambush?
+
+1195
+00:47:56,407 --> 00:47:57,708
+[Crow] No, I'm wearing ambush.
+
+1196
+00:47:57,775 --> 00:47:59,210
+I don't think I have to do that.
+
+1197
+00:48:00,644 --> 00:48:02,113
+Are the girls ready to leave?
+
+1198
+00:48:02,380 --> 00:48:04,515
+You said Friday.
+This is only Tuesday night.
+
+1199
+00:48:05,383 --> 00:48:06,550
+Just a reminder.
+
+1200
+00:48:07,118 --> 00:48:08,552
+Well, thank you.
+
+1201
+00:48:09,086 --> 00:48:11,389
+Now that I've been reminded,
+may I go on to the Red Dog?
+
+1202
+00:48:12,823 --> 00:48:14,692
+You may go to the red devil,
+as far as I'm concerned.
+
+1203
+00:48:14,759 --> 00:48:17,328
+With Red Buttons to watch<i> Red Dwarf.</i>
+
+1204
+00:48:18,496 --> 00:48:20,331
+[Crow] Oh, and this town
+ain't big enough for the...
+
+1205
+00:48:20,398 --> 00:48:21,732
+Oh, you know the rest.
+
+1206
+00:48:23,300 --> 00:48:25,536
+[Servo] Well, I feel good
+after damning someone to hell.
+
+1207
+00:48:25,603 --> 00:48:27,505
+I'm going to rustle me up
+some Hormel Chili.
+
+1208
+00:48:29,240 --> 00:48:32,042
+Say, Deputy, you shoulda seen
+what I said to that Erica girl.
+
+1209
+00:48:32,109 --> 00:48:33,077
+[knocking on door]
+
+1210
+00:48:34,111 --> 00:48:35,946
+-Come in.
+-[Joel] Or out.
+
+1211
+00:48:36,414 --> 00:48:37,348
+[door opens]
+
+1212
+00:48:38,482 --> 00:48:39,717
+[Crow] Why is all your stuff
+in the hallway?
+
+1213
+00:48:39,784 --> 00:48:42,286
+-Are you alone?
+-Almost never, it looks like.
+
+1214
+00:48:42,353 --> 00:48:44,321
+-[Servo] And this is hallway here.
+-Come on in.
+
+1215
+00:48:44,388 --> 00:48:46,023
+People'll think you're
+collecting for the poor.
+
+1216
+00:48:47,425 --> 00:48:48,526
+In a way I guess I am.
+
+1217
+00:48:48,592 --> 00:48:50,795
+[Joel] It's a walkathon.
+You want to sponsor me?
+
+1218
+00:48:50,861 --> 00:48:51,729
+Sit down.
+
+1219
+00:48:53,864 --> 00:48:55,032
+Picture of yourself?
+
+1220
+00:48:56,000 --> 00:48:57,201
+Yeah, an old one.
+
+1221
+00:48:57,268 --> 00:48:58,836
+[Servo] Reason I have
+my pants off is...
+
+1222
+00:48:58,903 --> 00:49:00,771
+This Rebel officer, isn't it...?
+
+1223
+00:49:00,971 --> 00:49:02,373
+Captain Gideon Polk.
+
+1224
+00:49:02,440 --> 00:49:03,607
+[Joel] Oh, the Bible guy?
+
+1225
+00:49:05,709 --> 00:49:08,479
+-His wife says you want to kill him.
+-[Servo] No, no, kiss him.
+
+1226
+00:49:08,546 --> 00:49:10,681
+I've been looking for him
+since 1865 to kill him.
+
+1227
+00:49:10,748 --> 00:49:12,750
+-[Joel] A hundred years?
+-Why?
+
+1228
+00:49:12,817 --> 00:49:14,084
+Because he lost us the war.
+
+1229
+00:49:14,151 --> 00:49:15,386
+Oh, Cane, don't be ridiculous.
+
+1230
+00:49:15,453 --> 00:49:17,288
+As far as I'm concerned, he did.
+
+1231
+00:49:18,422 --> 00:49:19,490
+He killed my four brothers.
+
+1232
+00:49:19,557 --> 00:49:21,392
+-[Crow] And my forefathers.
+-What?
+
+1233
+00:49:21,892 --> 00:49:23,394
+Oh, he didn't murder them outright.
+
+1234
+00:49:23,461 --> 00:49:25,329
+He just fed them to the Yankees.
+
+1235
+00:49:25,396 --> 00:49:27,298
+[Joel] With a choice
+of salad, soup, or juice.
+
+1236
+00:49:27,364 --> 00:49:28,232
+What happened?
+
+1237
+00:49:29,400 --> 00:49:31,702
+Like the man says, it's a long story.
+
+1238
+00:49:31,769 --> 00:49:32,970
+[Crow] Do you have any sisters?
+
+1239
+00:49:33,604 --> 00:49:34,738
+I've got nothing to do.
+
+1240
+00:49:37,541 --> 00:49:39,443
+Are you familiar with
+the Battle of Lookout Mountain?
+
+1241
+00:49:39,510 --> 00:49:40,711
+[Servo] That's one
+of my favorite battles.
+
+1242
+00:49:40,778 --> 00:49:41,846
+Only what I learned in school.
+
+1243
+00:49:44,648 --> 00:49:46,083
+-[Joel] Oh, boy.
+-[Crow] Here we go.
+
+1244
+00:49:46,150 --> 00:49:47,885
+{\an8}My brothers and I
+were in an artillery battery
+
+1245
+00:49:47,952 --> 00:49:49,587
+{\an8}commanded by Captain Polk.
+
+1246
+00:49:50,621 --> 00:49:52,857
+{\an8}Lookout Mountain was where
+we had the Yankees under siege.
+
+1247
+00:49:52,923 --> 00:49:54,225
+{\an8}[Joel] With Steven Seagal.
+
+1248
+00:49:54,291 --> 00:49:55,659
+{\an8}They had to get us off those ridges
+
+1249
+00:49:55,726 --> 00:49:56,760
+{\an8}but they couldn't.
+
+1250
+00:49:56,861 --> 00:49:57,995
+{\an8}-But they did.
+-[Servo] But they couldn't.
+
+1251
+00:49:58,062 --> 00:49:59,763
+Our position was impregnable.
+
+1252
+00:49:59,830 --> 00:50:00,898
+[Crow] You can't say that.
+
+1253
+00:50:01,031 --> 00:50:03,167
+The only weak line
+was at the foot of the ridge.
+
+1254
+00:50:03,234 --> 00:50:04,401
+[Joel] Sing out, brother.
+
+1255
+00:50:04,468 --> 00:50:06,670
+Polk's battery was
+in a beautiful position halfway down.
+
+1256
+00:50:06,737 --> 00:50:08,038
+[Joel] Righteous.
+
+1257
+00:50:08,105 --> 00:50:09,640
+The Yankees charged.
+
+1258
+00:50:09,707 --> 00:50:11,175
+Grant ordered them to take
+only the trench
+
+1259
+00:50:11,242 --> 00:50:12,943
+-at the edge of the ridge.
+-[Joel] Testify.
+
+1260
+00:50:13,077 --> 00:50:15,379
+We had 'em cold and we cut 'em down,
+
+1261
+00:50:15,446 --> 00:50:16,380
+but they massed again
+
+1262
+00:50:16,447 --> 00:50:17,781
+and came out again over their own dead.
+
+1263
+00:50:17,848 --> 00:50:18,682
+[Joel] Take it home.
+
+1264
+00:50:18,749 --> 00:50:20,918
+A shell exploded inside
+the body of a Yankee officer
+
+1265
+00:50:20,985 --> 00:50:21,819
+right in front of us.
+
+1266
+00:50:21,886 --> 00:50:23,020
+[Servo with feminine voice]
+I had to ask.
+
+1267
+00:50:23,087 --> 00:50:24,822
+Polk saw it and ran.
+
+1268
+00:50:25,155 --> 00:50:27,057
+At the height of our victory, he ran.
+
+1269
+00:50:28,192 --> 00:50:30,060
+My brothers and a few of us
+stuck with our guns
+
+1270
+00:50:30,127 --> 00:50:33,130
+but the fever caught,
+and the whole center broke.
+
+1271
+00:50:33,197 --> 00:50:34,031
+It was the end of the battle
+
+1272
+00:50:34,098 --> 00:50:37,601
+and it meant...the end of the war.
+
+1273
+00:50:37,668 --> 00:50:39,336
+[Servo] I'm just hitting
+the highlights here.
+
+1274
+00:50:39,870 --> 00:50:43,040
+My brothers were killed
+and I was captured.
+
+1275
+00:50:43,107 --> 00:50:44,642
+-[Servo] Bummer.
+-[Crow] Live and learn.
+
+1276
+00:50:44,708 --> 00:50:45,943
+I don't quite understand.
+
+1277
+00:50:46,010 --> 00:50:47,811
+-[Joel] Who won?
+-It's very simple.
+
+1278
+00:50:48,245 --> 00:50:49,346
+If we hadn't lost Lookout Mountain,
+
+1279
+00:50:49,413 --> 00:50:50,881
+there would've been an armistice.
+
+1280
+00:50:51,549 --> 00:50:53,050
+The Confederacy would still be alive.
+
+1281
+00:50:53,117 --> 00:50:54,418
+And the Vikings would have
+finally captured
+
+1282
+00:50:54,485 --> 00:50:55,953
+a Super Bowl title.
+
+1283
+00:50:56,754 --> 00:50:59,156
+One man, one stinking coward.
+
+1284
+00:50:59,857 --> 00:51:01,191
+[Servo] You're not
+buying this, are you?
+
+1285
+00:51:02,560 --> 00:51:03,727
+I'm sorry.
+
+1286
+00:51:03,794 --> 00:51:05,296
+[Joel] Well, at least
+you had brothers.
+
+1287
+00:51:05,362 --> 00:51:07,431
+Guess I was beginning
+to live it all over again.
+
+1288
+00:51:10,134 --> 00:51:12,169
+-Don't apologize.
+-[Joel] I'm sorry.
+
+1289
+00:51:12,436 --> 00:51:14,004
+I know how you feel about it.
+
+1290
+00:51:14,071 --> 00:51:15,606
+[Crow] Do you have
+any snacks or anything?
+
+1291
+00:51:15,673 --> 00:51:18,542
+But you're wrong. You're dead wrong.
+
+1292
+00:51:19,109 --> 00:51:20,711
+You can't blame the loss of a war
+
+1293
+00:51:20,778 --> 00:51:22,413
+on one low-ranking officer.
+
+1294
+00:51:22,479 --> 00:51:23,714
+[Joel] I can't?
+
+1295
+00:51:23,781 --> 00:51:24,915
+You weren't there.
+
+1296
+00:51:25,449 --> 00:51:26,750
+That doesn't make any difference.
+
+1297
+00:51:27,685 --> 00:51:28,986
+Don't you think the remembrance of this
+
+1298
+00:51:29,053 --> 00:51:31,488
+has made him pay for it
+over and over again?
+
+1299
+00:51:31,956 --> 00:51:33,691
+A million men died for nothing.
+
+1300
+00:51:33,757 --> 00:51:35,759
+Only one bore a green beret.
+
+1301
+00:51:35,826 --> 00:51:38,228
+But as I said before,
+they all die sooner or later.
+
+1302
+00:51:38,295 --> 00:51:39,263
+[Crow] When did he say that?
+
+1303
+00:51:39,330 --> 00:51:40,965
+And sooner or later, everyone runs...
+
+1304
+00:51:41,031 --> 00:51:42,266
+[Joel] Especially Wilma Rudolph.
+
+1305
+00:51:42,333 --> 00:51:43,534
+-[Servo] Mmm.
+-...at least once.
+
+1306
+00:51:44,301 --> 00:51:45,736
+Forget it.
+
+1307
+00:51:45,803 --> 00:51:47,438
+[Servo] Well, our hour's almost up here.
+
+1308
+00:51:47,504 --> 00:51:49,273
+Did you want to schedule next week?
+
+1309
+00:51:51,909 --> 00:51:53,177
+You'll leave him alone?
+
+1310
+00:51:53,844 --> 00:51:55,579
+-Sure.
+-[Joel] I'm not that mad.
+
+1311
+00:51:55,646 --> 00:51:57,948
+[Servo] Easiest vendetta in the West.
+
+1312
+00:51:58,983 --> 00:52:00,851
+[Joel] Now, she's in my room again.
+
+1313
+00:52:00,918 --> 00:52:02,286
+What am I gonna do?
+
+1314
+00:52:03,921 --> 00:52:05,756
+Hold it. Who is it?
+
+1315
+00:52:06,757 --> 00:52:08,092
+Beauregard and Sapp.
+
+1316
+00:52:08,158 --> 00:52:09,226
+[Servo] They're cops.
+
+1317
+00:52:10,127 --> 00:52:11,061
+Sorry, Rose.
+
+1318
+00:52:12,096 --> 00:52:13,564
+I'm gettin' a little jumpy.
+
+1319
+00:52:13,631 --> 00:52:15,165
+-[Servo] Which one's Beauregard?
+-Felicity send you?
+
+1320
+00:52:15,232 --> 00:52:17,301
+How about some Crystal Light,
+just made a batch.
+
+1321
+00:52:17,368 --> 00:52:20,204
+She told me you were here.
+I just came to tell you you were safe.
+
+1322
+00:52:20,904 --> 00:52:22,139
+You mean, Cane Miro's gone?
+
+1323
+00:52:22,206 --> 00:52:24,241
+Well, no, he's not gone,
+but I gave him until Saturday
+
+1324
+00:52:24,308 --> 00:52:26,243
+to finish his business and ride.
+
+1325
+00:52:26,310 --> 00:52:29,079
+Oh, so that's what Erica meant.
+
+1326
+00:52:29,146 --> 00:52:31,415
+-[Crow] They're stuck in a subplot.
+-Erica?
+
+1327
+00:52:31,482 --> 00:52:32,549
+Yeah, she said he'd be gone
+
+1328
+00:52:32,616 --> 00:52:34,218
+after that railroad letter arrived.
+
+1329
+00:52:35,119 --> 00:52:37,021
+What's Erica got to do with Cane?
+
+1330
+00:52:37,087 --> 00:52:38,389
+She didn't say,
+
+1331
+00:52:38,455 --> 00:52:40,891
+but it can't be for a date
+for Sunday school.
+
+1332
+00:52:41,892 --> 00:52:44,695
+[Servo] Mmm, I have to go over here
+and think about this.
+
+1333
+00:52:44,762 --> 00:52:45,863
+This one is deep.
+
+1334
+00:52:46,964 --> 00:52:48,766
+Everything seems to add up to Saturday...
+
+1335
+00:52:49,867 --> 00:52:53,303
+Railroad letter, Sam Bass,
+my ultimatum to Cane...
+
+1336
+00:52:53,370 --> 00:52:55,439
+-[Joel] The fishing opener.
+-And now Erica.
+
+1337
+00:52:57,408 --> 00:52:58,275
+Well, if she's not careful,
+
+1338
+00:52:58,342 --> 00:53:00,344
+she's gonna connive herself
+right into one of my cells.
+
+1339
+00:53:00,411 --> 00:53:01,912
+[Servo] Careful, that's
+the main beam there.
+
+1340
+00:53:01,979 --> 00:53:03,414
+Well, I just want to be sure
+you're comfortable.
+
+1341
+00:53:03,480 --> 00:53:04,415
+Have you got everything you need?
+
+1342
+00:53:04,481 --> 00:53:06,850
+Eh, I could use a few troops of cavalry.
+
+1343
+00:53:06,917 --> 00:53:09,253
+-[Crow] Ha, I don't get it.
+-For now, Josh and I will have to do.
+
+1344
+00:53:09,319 --> 00:53:11,155
+I'll tell Felicity that you're here.
+
+1345
+00:53:11,221 --> 00:53:13,057
+Are you sure he can't find me here?
+
+1346
+00:53:13,791 --> 00:53:15,693
+[Rose] He'd never find you
+in a million years.
+
+1347
+00:53:15,759 --> 00:53:18,195
+[Joel] Apparently they haven't
+invented peripheral vision.
+
+1348
+00:53:18,262 --> 00:53:19,830
+Well, goodbye, Rose.
+
+1349
+00:53:19,897 --> 00:53:20,764
+I'll see you on Saturday.
+
+1350
+00:53:21,699 --> 00:53:22,599
+Come on, boy.
+
+1351
+00:53:22,666 --> 00:53:26,637
+[Servo] Guests of Beverly Garland
+stay as the Beverly Garland Hotel.
+
+1352
+00:53:27,905 --> 00:53:29,807
+[Joel] I like that sheriff, I do.
+
+1353
+00:53:31,375 --> 00:53:32,943
+[Servo]<i> ♪ Don't sleep in the subway </i>♪
+
+1354
+00:53:33,010 --> 00:53:33,977
+Oh, hi.
+
+1355
+00:53:35,179 --> 00:53:36,714
+Where did you just come from?
+
+1356
+00:53:37,214 --> 00:53:38,348
+If I wanted to kill Polk,
+
+1357
+00:53:38,415 --> 00:53:40,350
+I wouldn't be out here
+waiting to talk to you about it.
+
+1358
+00:53:40,451 --> 00:53:42,019
+Don't try and paint yourself white.
+
+1359
+00:53:42,419 --> 00:53:43,721
+I'm not.
+
+1360
+00:53:43,787 --> 00:53:45,456
+I'm the same man
+that's wanted in three states
+
+1361
+00:53:45,522 --> 00:53:47,091
+and five territories, remember?
+
+1362
+00:53:47,157 --> 00:53:48,659
+[Crow] And I'm not allowed
+in the Sizzler.
+
+1363
+00:53:48,726 --> 00:53:50,627
+Tell me, am I wanted around here?
+
+1364
+00:53:50,694 --> 00:53:51,729
+[Joel] Don't start.
+
+1365
+00:53:52,529 --> 00:53:53,397
+Not yet.
+
+1366
+00:53:54,465 --> 00:53:56,166
+I've only got three more days, huh?
+
+1367
+00:53:56,233 --> 00:53:57,668
+So have I.
+
+1368
+00:53:57,735 --> 00:53:59,336
+What do you mean by that?
+
+1369
+00:53:59,403 --> 00:54:01,138
+Until Sam Bass comes to take over.
+
+1370
+00:54:01,939 --> 00:54:03,307
+Ah.
+
+1371
+00:54:03,373 --> 00:54:05,275
+[Joel] Man, look what's coming
+out of your horse.
+
+1372
+00:54:05,342 --> 00:54:07,111
+Look, let's go back to town together.
+
+1373
+00:54:11,381 --> 00:54:14,151
+Welcome, Rice Lake Key Club.
+Music by Tangent.
+
+1374
+00:54:14,218 --> 00:54:15,152
+See you around.
+
+1375
+00:54:15,219 --> 00:54:17,321
+Later. I have some special business.
+
+1376
+00:54:17,387 --> 00:54:18,655
+What kind of business?
+
+1377
+00:54:18,722 --> 00:54:20,758
+I told you before, it's private.
+
+1378
+00:54:20,824 --> 00:54:21,925
+But I tell you what,
+
+1379
+00:54:21,992 --> 00:54:23,827
+meet me just outside of town
+where the road forks
+
+1380
+00:54:23,894 --> 00:54:25,462
+and I'll tell you all about it.
+
+1381
+00:54:25,529 --> 00:54:26,530
+That a promise?
+
+1382
+00:54:26,597 --> 00:54:28,866
+Make it tomorrow night at eight o'clock.
+
+1383
+00:54:28,932 --> 00:54:29,900
+[Crow] Hi. Can I hear this?
+
+1384
+00:54:29,967 --> 00:54:30,934
+Why not today?
+
+1385
+00:54:31,001 --> 00:54:33,337
+I'm busy. Tomorrow at eight.
+
+1386
+00:54:33,403 --> 00:54:35,773
+[Servo] Are you picking me up?
+What should I wear?
+
+1387
+00:54:35,839 --> 00:54:37,040
+Joshua, climb to your horse.
+
+1388
+00:54:37,107 --> 00:54:38,041
+Hurry up.
+
+1389
+00:54:38,108 --> 00:54:40,444
+-What's goin' on?
+-Quick! We haven't a minute to lose.
+
+1390
+00:54:40,511 --> 00:54:42,913
+[Joel] OK, give me a minute.
+I just woke up.
+
+1391
+00:54:43,180 --> 00:54:46,083
+[♪♪♪]
+
+1392
+00:54:46,150 --> 00:54:49,119
+[Crow] So she followed him
+and he followed her,
+
+1393
+00:54:49,186 --> 00:54:50,988
+and now she's following him following her?
+
+1394
+00:54:51,054 --> 00:54:52,856
+-[Joel] Uh, yeah.
+-[Crow shudders]
+
+1395
+00:54:54,191 --> 00:54:56,860
+[Joel] Looks like the terror
+of tiny town got bigger.
+
+1396
+00:54:59,096 --> 00:55:00,297
+[Servo] Call the office and tell them
+
+1397
+00:55:00,364 --> 00:55:02,232
+to fax a pair of handcuffs to us.
+
+1398
+00:55:08,705 --> 00:55:10,841
+[Servo mocking
+the film's dramatic music theme]
+
+1399
+00:55:12,643 --> 00:55:15,145
+[Crow] Careful, traffic
+from left does not stop.
+
+1400
+00:55:18,048 --> 00:55:19,283
+[Joel] What you thinking about?
+
+1401
+00:55:21,218 --> 00:55:23,187
+[Servo] Easy Snap Ranch,
+ready to assemble.
+
+1402
+00:55:23,253 --> 00:55:24,721
+On your horse, Mayor!
+
+1403
+00:55:24,788 --> 00:55:25,656
+What is it?
+
+1404
+00:55:26,690 --> 00:55:27,724
+Cane Miro.
+
+1405
+00:55:27,791 --> 00:55:29,126
+-[Joel] Oh, Poopy.
+-Hurry up.
+
+1406
+00:55:31,328 --> 00:55:32,362
+-[Crow groans]
+-Faster!
+
+1407
+00:55:32,429 --> 00:55:34,231
+[Crow] Don't watch.
+I can't do it when you're watching.
+
+1408
+00:55:36,500 --> 00:55:38,001
+Come on, come on! Let's go.
+
+1409
+00:55:38,068 --> 00:55:39,536
+[Joel] I'm doing it!
+
+1410
+00:55:39,603 --> 00:55:40,470
+Come on, boy.
+
+1411
+00:55:41,505 --> 00:55:42,539
+[Servo] What was that thing there?
+
+1412
+00:55:42,606 --> 00:55:44,107
+[Crow] Whatever it is,
+it wasn't invented yet.
+
+1413
+00:55:44,174 --> 00:55:45,209
+[Servo] Mm-hmm.
+
+1414
+00:55:45,275 --> 00:55:47,778
+[♪♪♪]
+
+1415
+00:55:47,845 --> 00:55:50,581
+[Joel] Ah, this Greasewood Canyon's
+real pretty.
+
+1416
+00:55:50,647 --> 00:55:52,316
+I was picturing a lot of grease and stuff.
+
+1417
+00:55:52,382 --> 00:55:53,417
+No grease at all...
+
+1418
+00:55:53,483 --> 00:55:55,052
+-...just like anywhere else.
+-[Servo] Clean.
+
+1419
+00:55:57,588 --> 00:55:59,356
+[Crow] He was hiding out
+at Wall Drug.
+
+1420
+00:56:01,191 --> 00:56:02,559
+[Joel] Pretty nice. Like the cedar.
+
+1421
+00:56:02,626 --> 00:56:05,462
+Oh! Done a lot of work here,
+added a sunroom back here.
+
+1422
+00:56:08,699 --> 00:56:09,800
+[Crow] I can't wear black.
+
+1423
+00:56:14,271 --> 00:56:17,241
+[Joel] Oh, what a mess,
+there's garbage everywhere.
+
+1424
+00:56:17,307 --> 00:56:19,142
+[Servo as horse]
+Need any help, boss?
+
+1425
+00:56:21,211 --> 00:56:23,213
+[Crow] "Dear Steve,
+stopped by, you weren't here,
+
+1426
+00:56:23,280 --> 00:56:24,781
+"borrowed some pants and a blouse,
+
+1427
+00:56:24,848 --> 00:56:26,116
+"hope you don't mind.
+
+1428
+00:56:27,050 --> 00:56:27,918
+Keith."
+
+1429
+00:56:28,352 --> 00:56:30,454
+All right, Herman, back to sleep.
+
+1430
+00:56:30,520 --> 00:56:31,955
+[Servo] Sheriff took me walking today.
+
+1431
+00:56:32,022 --> 00:56:33,724
+[Crow] Attica. Attica.
+
+1432
+00:56:33,790 --> 00:56:35,292
+-[Crow] Oh, forget it.
+-What'd he do?
+
+1433
+00:56:36,693 --> 00:56:38,595
+-How's it going?
+-[Joel] Calling it "Leaves of Grass".
+
+1434
+00:56:38,662 --> 00:56:42,866
+Well, it's not Windsor Castle,
+but if it'll keep a killer in,
+
+1435
+00:56:42,933 --> 00:56:44,902
+it can keep a killer out.
+
+1436
+00:56:44,968 --> 00:56:46,169
+[Servo] Well, he could shoot you.
+
+1437
+00:56:48,605 --> 00:56:49,773
+[Crow] Well, I hope
+this isn't a conjugal visit.
+
+1438
+00:56:49,840 --> 00:56:50,807
+-Hello, Felicity.
+-Gideon!
+
+1439
+00:56:50,874 --> 00:56:52,776
+[Joel] Ooh, this is better
+than FantaSuites.
+
+1440
+00:56:52,843 --> 00:56:54,578
+I'm gonna take the cure.
+
+1441
+00:56:54,645 --> 00:56:55,846
+[Crow] What, Rogaine?
+
+1442
+00:56:57,381 --> 00:56:59,349
+[♪♪♪]
+
+1443
+00:56:59,416 --> 00:57:02,185
+{\an8}[Joel] Man, this week
+has really dragged on.
+
+1444
+00:57:04,955 --> 00:57:07,658
+[Servo] Oh, I just couldn't.
+With the drunk looking right at us.
+
+1445
+00:57:07,724 --> 00:57:09,493
+-[Servo] Honey...
+-I wish Rose would get back.
+
+1446
+00:57:10,160 --> 00:57:11,795
+I don't like it when she's away.
+
+1447
+00:57:11,862 --> 00:57:14,264
+Don't worry, Mayor Polk.
+I'll talk care of you.
+
+1448
+00:57:14,331 --> 00:57:16,199
+Where are your cannons, Captain?
+
+1449
+00:57:16,266 --> 00:57:17,434
+That's far enough, mister.
+You get out of here.
+
+1450
+00:57:17,501 --> 00:57:19,102
+I'll get out of here when I'm ready.
+
+1451
+00:57:19,169 --> 00:57:20,971
+Look out, Captain. Yankees comin'.
+
+1452
+00:57:21,038 --> 00:57:22,005
+I said out.
+
+1453
+00:57:24,141 --> 00:57:25,575
+[Crow] All right, I was just leaving.
+
+1454
+00:57:28,946 --> 00:57:30,080
+[Servo] Ow.
+
+1455
+00:57:31,448 --> 00:57:33,483
+[Servo] I like Wade,
+he's just not of dancer.
+
+1456
+00:57:37,821 --> 00:57:39,823
+[Joel] Man, this movie
+is just sitting on my head
+
+1457
+00:57:39,890 --> 00:57:41,024
+and crushing it.
+
+1458
+00:57:42,926 --> 00:57:45,662
+[Crow] Ooh, right in
+my vast doughy midsection.
+
+1459
+00:57:46,129 --> 00:57:48,532
+[all whooping like monkeys]
+
+1460
+00:57:51,234 --> 00:57:53,670
+[Servo] Not exactly the riot at Alcatraz.
+
+1461
+00:57:53,737 --> 00:57:56,273
+[men grunting]
+
+1462
+00:57:56,340 --> 00:57:58,575
+[Joel] Whoa, watch
+the bumper pool table! Oh...
+
+1463
+00:57:58,642 --> 00:57:59,710
+[Crow] Well...
+
+1464
+00:58:04,448 --> 00:58:05,415
+[Servo] Well...?
+
+1465
+00:58:06,183 --> 00:58:08,352
+[Crow] Whoa, there goes
+the facade. Almost.
+
+1466
+00:58:08,418 --> 00:58:09,820
+[Joel] Close.
+
+1467
+00:58:16,960 --> 00:58:18,528
+[Joel] And now it's a hat
+made out of an udder.
+
+1468
+00:58:21,164 --> 00:58:23,300
+-[Servo] Wilton Palmeter.
+-What happened here?
+
+1469
+00:58:23,367 --> 00:58:24,568
+He tried to kill me.
+
+1470
+00:58:25,302 --> 00:58:26,770
+I wouldn't spit on him.
+
+1471
+00:58:26,837 --> 00:58:28,171
+Joshua saved my life.
+
+1472
+00:58:28,238 --> 00:58:29,840
+[Servo] We will return
+to Non-Sequitur Theater.
+
+1473
+00:58:29,906 --> 00:58:31,742
+Alright, clear out.
+We'll worry about this later.
+
+1474
+00:58:33,210 --> 00:58:34,144
+I'll see you later.
+
+1475
+00:58:34,211 --> 00:58:35,078
+I'll think about it.
+
+1476
+00:58:35,746 --> 00:58:37,647
+[Crow] We're still on
+for 8:00 though, aren't we?
+
+1477
+00:58:39,916 --> 00:58:41,418
+[Joel] Good one, Brad.
+
+1478
+00:58:42,119 --> 00:58:43,353
+I'm all right, Miss Rose.
+
+1479
+00:58:43,420 --> 00:58:45,922
+Next time, Joshua,
+if you have to, use a gun.
+
+1480
+00:58:45,989 --> 00:58:47,357
+I didn't give him a chance
+to try anything.
+
+1481
+00:58:47,424 --> 00:58:48,859
+[Servo] I'm not that kind of girl.
+
+1482
+00:58:49,426 --> 00:58:50,861
+I'm going over to Red Dog.
+
+1483
+00:58:50,927 --> 00:58:52,529
+[Joel] They're hiring dancers.
+
+1484
+00:58:52,596 --> 00:58:53,897
+[Servo] You big galoot.
+
+1485
+00:58:55,866 --> 00:58:57,234
+Sally upstairs?
+
+1486
+00:58:57,300 --> 00:58:59,269
+-She's tripping.
+-That's a switch.
+
+1487
+00:58:59,870 --> 00:59:01,004
+Well, I'm going to pay
+you girls off today
+
+1488
+00:59:01,071 --> 00:59:02,906
+so you can get an early start tomorrow.
+
+1489
+00:59:03,774 --> 00:59:05,142
+I sure hate to go.
+
+1490
+00:59:05,909 --> 00:59:06,877
+I hate to lose you.
+
+1491
+00:59:06,943 --> 00:59:08,645
+[Crow] It's been so fun
+with you and everybody.
+
+1492
+00:59:08,712 --> 00:59:10,347
+...rough time finding three more girls.
+
+1493
+00:59:10,847 --> 00:59:11,982
+Poor Erica.
+
+1494
+00:59:12,449 --> 00:59:13,450
+Why don't you get out of those pants
+
+1495
+00:59:13,517 --> 00:59:15,252
+-and find yourself a man?
+-[Servo] Woof.
+
+1496
+00:59:15,318 --> 00:59:16,920
+I'm wearing these pants
+because I lost a man,
+
+1497
+00:59:16,987 --> 00:59:18,488
+a better man than ever
+slipped you a dollar.
+
+1498
+00:59:18,555 --> 00:59:19,489
+[Joel] Ouch.
+
+1499
+00:59:19,556 --> 00:59:20,824
+There's no law against tipping.
+
+1500
+00:59:21,525 --> 00:59:22,592
+Sundown tomorrow?
+
+1501
+00:59:23,293 --> 00:59:24,461
+They're leaving in the morning.
+
+1502
+00:59:25,128 --> 00:59:27,230
+I just wanted to make sure
+everything was clear.
+
+1503
+00:59:27,297 --> 00:59:28,899
+-[Servo] Well...
+-Bye, girls.
+
+1504
+00:59:28,965 --> 00:59:30,567
+[Servo, Joel and Crow]
+Bye.
+
+1505
+00:59:30,634 --> 00:59:32,335
+What's she got against us anyway?
+
+1506
+00:59:33,336 --> 00:59:35,472
+She thinks you violated
+the sanitary code.
+
+1507
+00:59:35,539 --> 00:59:36,740
+[Servo] That's my job.
+
+1508
+00:59:36,807 --> 00:59:38,341
+I could kill that woman.
+
+1509
+00:59:39,643 --> 00:59:41,344
+Why, Tessie, that's against the law.
+
+1510
+00:59:41,411 --> 00:59:42,879
+[Crow] I still want to.
+
+1511
+00:59:43,680 --> 00:59:46,683
+'Course, it could be
+a coincidental accident.
+
+1512
+00:59:47,951 --> 00:59:48,885
+With dear Rose gone,
+
+1513
+00:59:48,952 --> 00:59:50,120
+you'd have no reason to leave town.
+
+1514
+00:59:50,187 --> 00:59:52,889
+[Joel] She's paying them
+in television warranties.
+
+1515
+00:59:52,956 --> 00:59:54,157
+Girls, you've been so good for business
+
+1516
+00:59:54,224 --> 00:59:56,193
+I'm going to give you
+a little going-away bonus.
+
+1517
+00:59:56,259 --> 00:59:57,260
+Wampum bucks.
+
+1518
+01:00:00,197 --> 01:00:01,298
+[Servo] Hey...
+
+1519
+01:00:05,735 --> 01:00:08,505
+[Joel] Well, I'll see if I can
+borrow a dollar from Ed.
+
+1520
+01:00:14,277 --> 01:00:16,446
+-Hello, there.
+-[Servo] I thought you were Dale.
+
+1521
+01:00:17,280 --> 01:00:19,149
+What are you doing up there?
+
+1522
+01:00:19,683 --> 01:00:21,418
+On the lookout for gorgeous marshals.
+
+1523
+01:00:21,485 --> 01:00:22,486
+[Crow mocks laughter]
+
+1524
+01:00:22,552 --> 01:00:23,753
+You didn't need to
+scare me half to death.
+
+1525
+01:00:23,820 --> 01:00:24,988
+Come on up.
+
+1526
+01:00:25,889 --> 01:00:27,390
+Don't be silly.
+
+1527
+01:00:27,491 --> 01:00:29,025
+You wanna learn my business, don't ya?
+
+1528
+01:00:29,092 --> 01:00:30,160
+[Crow] You did your business up there?
+
+1529
+01:00:30,227 --> 01:00:31,895
+I almost didn't come at all.
+
+1530
+01:00:31,962 --> 01:00:34,131
+I almost didn't expect you.
+
+1531
+01:00:34,197 --> 01:00:35,999
+But now that you're here,
+if you want to find out anything,
+
+1532
+01:00:36,066 --> 01:00:37,501
+you'll have to come up in this tree.
+
+1533
+01:00:37,567 --> 01:00:39,302
+[Joel] I made
+a really cool fort up here.
+
+1534
+01:00:39,369 --> 01:00:43,039
+-Twelve-year-old!
+-I spent that much time in prison.
+
+1535
+01:00:43,106 --> 01:00:45,275
+-All right, little boy, I'll come up.
+-[Servo groans]
+
+1536
+01:00:45,342 --> 01:00:47,377
+[Servo] Gee, you're not
+as small as you look.
+
+1537
+01:00:47,444 --> 01:00:48,411
+[panting]
+
+1538
+01:00:48,478 --> 01:00:50,747
+[Crow] You can make me feel
+young again.
+
+1539
+01:00:50,814 --> 01:00:52,849
+All right, start talking.
+
+1540
+01:00:52,916 --> 01:00:54,985
+[Servo babbling]
+
+1541
+01:00:55,852 --> 01:00:58,321
+Look, you can see the Big Dipper.
+
+1542
+01:00:58,388 --> 01:00:59,456
+[Joel] Hey, it's daytime.
+
+1543
+01:00:59,523 --> 01:01:00,490
+[Crow] He's not talking about the stars.
+
+1544
+01:01:00,557 --> 01:01:01,725
+[Joel] I don't know.
+
+1545
+01:01:01,791 --> 01:01:04,761
+-Well, come down from the stars.
+-[Servo] OK.
+
+1546
+01:01:04,828 --> 01:01:06,930
+I want to know exactly
+what you're after here.
+
+1547
+01:01:08,532 --> 01:01:09,633
+Very little.
+
+1548
+01:01:09,699 --> 01:01:11,635
+[Servo] Just this.
+
+1549
+01:01:11,835 --> 01:01:13,336
+[Servo vocalizing eating]
+
+1550
+01:01:19,209 --> 01:01:20,343
+I know all about that.
+
+1551
+01:01:20,410 --> 01:01:22,245
+[Joel] We had a class in fifth grade.
+
+1552
+01:01:22,879 --> 01:01:24,114
+I mean, other things.
+
+1553
+01:01:24,981 --> 01:01:26,149
+What other things?
+
+1554
+01:01:27,484 --> 01:01:29,319
+-Oh...
+-[Crow] Tasty Freeze.
+
+1555
+01:01:29,386 --> 01:01:30,620
+...things about Oracle.
+
+1556
+01:01:32,756 --> 01:01:33,823
+Nice place.
+
+1557
+01:01:33,890 --> 01:01:35,792
+[Joel] Hear they got
+a meat packing plant there.
+
+1558
+01:01:37,827 --> 01:01:39,362
+You tried to kill Polk today.
+
+1559
+01:01:40,163 --> 01:01:42,299
+-I love you.
+-I'm glad you didn't get to him.
+
+1560
+01:01:42,365 --> 01:01:43,567
+I'd have had to kill you.
+
+1561
+01:01:43,633 --> 01:01:46,069
+[Crow] Now he's the sensitive
+coldblooded killer.
+
+1562
+01:01:47,504 --> 01:01:49,072
+But you didn't.
+
+1563
+01:01:49,139 --> 01:01:50,340
+I love you.
+
+1564
+01:01:50,407 --> 01:01:51,808
+[Servo] Hmph.
+
+1565
+01:01:51,875 --> 01:01:53,343
+I thought that's what you said.
+
+1566
+01:01:55,512 --> 01:01:56,846
+I'm glad you're here.
+
+1567
+01:01:56,913 --> 01:02:00,016
+[Servo] So how's this going to effect
+his contract to kill her, I wonder?
+
+1568
+01:02:03,019 --> 01:02:05,589
+[Joel] Tastiest sheriff
+in the Old West.
+
+1569
+01:02:05,655 --> 01:02:06,823
+I wish that...
+
+1570
+01:02:07,390 --> 01:02:09,059
+-What?
+-[Crow] You were somebody else.
+
+1571
+01:02:09,125 --> 01:02:12,062
+[sighs] I have to throw you out and I...
+
+1572
+01:02:12,128 --> 01:02:13,396
+[Joel] Motel matches.
+
+1573
+01:02:13,463 --> 01:02:14,898
+...I wish I didn't have to.
+
+1574
+01:02:15,599 --> 01:02:17,267
+No one's making you do anything.
+
+1575
+01:02:18,602 --> 01:02:19,769
+I won't change my mind...
+
+1576
+01:02:19,836 --> 01:02:21,938
+[Servo] Well, maybe I will.
+No, no I won't.
+
+1577
+01:02:22,005 --> 01:02:23,406
+...but I can make-believe a little.
+
+1578
+01:02:24,708 --> 01:02:27,544
+Sure you can. We both can.
+
+1579
+01:02:27,611 --> 01:02:29,613
+[Crow] Let's make-believe
+I have talent.
+
+1580
+01:02:29,679 --> 01:02:32,082
+Did you tell anyone I ordered you
+out of town by Saturday?
+
+1581
+01:02:33,016 --> 01:02:34,084
+Not a soul.
+
+1582
+01:02:34,985 --> 01:02:36,753
+Well, pretend I'm taking it all back.
+
+1583
+01:02:37,454 --> 01:02:39,289
+You stay here forever and I'll...
+
+1584
+01:02:39,356 --> 01:02:40,724
+[Servo] Aw, forget it.
+
+1585
+01:02:43,193 --> 01:02:44,227
+You didn't tell anyone?
+
+1586
+01:02:45,161 --> 01:02:46,196
+That's what I said.
+
+1587
+01:02:48,064 --> 01:02:49,499
+Except Erica.
+
+1588
+01:02:49,566 --> 01:02:50,800
+Erica, last of all.
+
+1589
+01:02:50,867 --> 01:02:52,836
+[Servo] No, she was
+the last person I didn't tell.
+
+1590
+01:02:53,837 --> 01:02:55,038
+You're lying to me.
+
+1591
+01:02:55,105 --> 01:02:56,206
+I wouldn't lie to you.
+
+1592
+01:02:56,273 --> 01:02:58,008
+She knows. She told Polk.
+
+1593
+01:02:58,074 --> 01:03:00,744
+-[Crow] OK, I would lie to you.
+-So she knows.
+
+1594
+01:03:01,745 --> 01:03:04,281
+-We're making believe, aren't we?
+-That isn't why you lied.
+
+1595
+01:03:05,382 --> 01:03:06,883
+How does Erica fit into your plans?
+
+1596
+01:03:06,950 --> 01:03:09,085
+[Joel] What is this?
+Come on, let's love!
+
+1597
+01:03:09,152 --> 01:03:10,287
+Is she in this tree?
+
+1598
+01:03:13,390 --> 01:03:14,324
+I don't know.
+
+1599
+01:03:15,525 --> 01:03:16,593
+Is she?
+
+1600
+01:03:17,961 --> 01:03:19,129
+Don't be a fool.
+
+1601
+01:03:19,195 --> 01:03:20,563
+[Servo speaks French]
+
+1602
+01:03:20,630 --> 01:03:21,765
+[Servo] What's that, baby?
+
+1603
+01:03:21,831 --> 01:03:23,933
+It means, may I borrow your bicycle?
+
+1604
+01:03:24,868 --> 01:03:26,236
+I can't trust you.
+
+1605
+01:03:27,137 --> 01:03:28,204
+I know you can't.
+
+1606
+01:03:29,306 --> 01:03:30,473
+I'd laugh at anyone that did...
+
+1607
+01:03:30,540 --> 01:03:32,042
+[Joel] Ha ha.
+
+1608
+01:03:32,108 --> 01:03:33,943
+...but I swear to you
+I was telling God's truth
+
+1609
+01:03:34,010 --> 01:03:35,178
+when I said I loved you.
+
+1610
+01:03:35,712 --> 01:03:36,946
+Maybe you were, Cane.
+
+1611
+01:03:38,748 --> 01:03:42,018
+Maybe it's a two-way thing.
+
+1612
+01:03:42,085 --> 01:03:43,953
+[Crow] With a center passing lane.
+
+1613
+01:03:44,020 --> 01:03:46,189
+-But there's one thing I mustn't forget...
+-[Joel] Jello.
+
+1614
+01:03:46,256 --> 01:03:48,291
+...and that's that we're
+sworn enemies, you and I.
+
+1615
+01:03:48,358 --> 01:03:50,760
+All the moonlight in heaven
+can't change that.
+
+1616
+01:03:50,827 --> 01:03:52,228
+[Servo] Oh yeah, that's right.
+
+1617
+01:03:54,097 --> 01:03:55,732
+[Crow] It's too late
+to create conflict.
+
+1618
+01:03:55,799 --> 01:03:57,100
+-[Servo] Mm-hmm.
+-Goodnight, Cane.
+
+1619
+01:03:58,168 --> 01:04:00,337
+[Joel] She is one spooky chick.
+
+1620
+01:04:06,609 --> 01:04:07,911
+[Joel] My enemies don't realize
+
+1621
+01:04:07,977 --> 01:04:10,347
+that I'm very vulnerable right now.
+
+1622
+01:04:13,650 --> 01:04:16,319
+[Joel] What is the crew
+doing in this shot?
+
+1623
+01:04:16,386 --> 01:04:17,854
+[Crow] In this movie,
+you can just pick any object
+
+1624
+01:04:17,921 --> 01:04:19,089
+and hide behind it.
+
+1625
+01:04:19,155 --> 01:04:20,156
+Let go of me!
+
+1626
+01:04:20,223 --> 01:04:21,925
+[Servo] All right, what are these?
+
+1627
+01:04:21,991 --> 01:04:24,494
+[Joel] Looks like they've
+all been to Fleet Farm.
+
+1628
+01:04:26,463 --> 01:04:27,497
+[Rose] What are you doing?
+
+1629
+01:04:27,564 --> 01:04:29,032
+[Servo] This is for taking my lip liner.
+
+1630
+01:04:29,099 --> 01:04:31,134
+[Crow] She's been attacked
+by Babes in Toyland.
+
+1631
+01:04:31,634 --> 01:04:33,503
+-[Servo] And the grunge look here.
+-[Crow] Oh, yes.
+
+1632
+01:04:33,570 --> 01:04:36,306
+[Joel] You're going to watch us dance
+if it's the last thing you do.
+
+1633
+01:04:39,609 --> 01:04:41,511
+[Servo] Oh, come on,
+you know I don't wear necklaces.
+
+1634
+01:04:41,578 --> 01:04:42,779
+Stop it! Let go!
+
+1635
+01:04:42,846 --> 01:04:44,414
+-Stop!
+-[Joel] This isn't funny!
+
+1636
+01:04:44,481 --> 01:04:45,648
+[♪♪♪]
+
+1637
+01:04:46,282 --> 01:04:47,450
+Don't let 'em get away!
+
+1638
+01:04:48,284 --> 01:04:49,486
+[gunshot]
+
+1639
+01:04:50,153 --> 01:04:51,821
+Don't bother going back to town.
+
+1640
+01:04:51,888 --> 01:04:53,857
+I want you out of this state tonight.
+
+1641
+01:04:53,957 --> 01:04:56,459
+-What about our clothes?
+-Now!
+
+1642
+01:04:57,060 --> 01:04:58,128
+If you ever come back to Oracle again,
+
+1643
+01:04:58,194 --> 01:04:59,195
+I'll kill all three of you.
+
+1644
+01:04:59,262 --> 01:05:00,897
+[Crow] I'm just so upset right now.
+
+1645
+01:05:00,964 --> 01:05:01,998
+Move!
+
+1646
+01:05:03,199 --> 01:05:04,567
+[Joel] This bites. Let's go, Gretel.
+
+1647
+01:05:04,634 --> 01:05:07,404
+-[Crow] Told you it wouldn't work.
+-[Servo] It wasn't my idea, Cindy.
+
+1648
+01:05:07,470 --> 01:05:09,105
+My new shirt.
+
+1649
+01:05:09,172 --> 01:05:10,440
+[hoofbeats departing]
+
+1650
+01:05:10,507 --> 01:05:12,442
+[Crow] She didn't even cry
+when her husband died.
+
+1651
+01:05:12,509 --> 01:05:13,710
+[Servo] Ah! Ow! Ow!
+
+1652
+01:05:14,978 --> 01:05:17,714
+{\an8}[Joel] The British were coming!
+The British were coming!
+
+1653
+01:05:18,648 --> 01:05:19,916
+[Servo] Little man, my man.
+
+1654
+01:05:22,719 --> 01:05:23,820
+[Crow] And action.
+
+1655
+01:05:25,755 --> 01:05:27,257
+What's the matter? You goin' home?
+
+1656
+01:05:28,892 --> 01:05:31,194
+That was a smart stunt
+you tried to pull last night.
+
+1657
+01:05:31,761 --> 01:05:32,862
+What are you talking about?
+
+1658
+01:05:33,730 --> 01:05:35,832
+You think you can get away
+with sicking your floozies on Rose?
+
+1659
+01:05:35,899 --> 01:05:36,933
+[Servo] I thought I might.
+
+1660
+01:05:37,000 --> 01:05:38,435
+How did you know about that?
+
+1661
+01:05:38,535 --> 01:05:40,770
+I saw the whole thing.
+They tried to hang her.
+
+1662
+01:05:40,837 --> 01:05:41,771
+Where?
+
+1663
+01:05:41,838 --> 01:05:43,940
+Three miles out, just off the main road.
+
+1664
+01:05:44,474 --> 01:05:45,842
+What were you doing there?
+
+1665
+01:05:45,942 --> 01:05:47,844
+That's none of your business.
+
+1666
+01:05:47,944 --> 01:05:49,946
+That woman's my target tomorrow,
+
+1667
+01:05:50,013 --> 01:05:51,514
+and you're my hired help.
+
+1668
+01:05:52,148 --> 01:05:55,285
+Everything you and she do
+in this town is my business.
+
+1669
+01:05:55,385 --> 01:05:57,053
+Don't flatter yourself.
+
+1670
+01:05:58,021 --> 01:05:59,589
+I'll see you in your room tonight.
+
+1671
+01:06:00,523 --> 01:06:02,559
+[Crow] It's a hallway,
+and don't you forget it!
+
+1672
+01:06:04,394 --> 01:06:05,628
+[Servo] What it is, little Wormy guy.
+
+1673
+01:06:06,963 --> 01:06:08,932
+[Servo with nasally voice]
+I never liked him.
+
+1674
+01:06:08,998 --> 01:06:10,366
+[♪♪♪]
+
+1675
+01:06:10,433 --> 01:06:13,203
+-[Crow] Mmm, pure maple syrup.
+-Well, tomorrow's the big day.
+
+1676
+01:06:13,269 --> 01:06:16,239
+-[Servo] Yeah. Who the hell are you?
+-Yeah, big day.
+
+1677
+01:06:19,709 --> 01:06:22,111
+[Joel] Right in the crotch,
+I did it again. Ooh.
+
+1678
+01:06:24,047 --> 01:06:27,116
+[Servo] The man
+who shot Vivian Valance.
+
+1679
+01:06:27,951 --> 01:06:29,586
+[Joel] His hands are glowing.
+
+1680
+01:06:29,986 --> 01:06:32,822
+[♪♪♪]
+
+1681
+01:06:32,889 --> 01:06:34,924
+[Crow] Booze, it's what's for dinner.
+
+1682
+01:06:34,991 --> 01:06:37,794
+[Servo] The perdiest marshal
+of the Old West.
+
+1683
+01:06:39,996 --> 01:06:41,898
+Why don't you do your
+drinking in your room, Cane?
+
+1684
+01:06:41,965 --> 01:06:44,267
+-[Servo] It's a hall.
+-Am I disturbing the peace?
+
+1685
+01:06:44,901 --> 01:06:48,004
+I do disturb the peace
+sometimes, you know.
+
+1686
+01:06:48,104 --> 01:06:49,939
+-I was thinking of you.
+-[Servo humming somber theme]
+
+1687
+01:06:50,573 --> 01:06:52,375
+Well, don't be sorry, beautiful.
+
+1688
+01:06:53,409 --> 01:06:56,145
+Tonight's the last night for you and me.
+
+1689
+01:06:56,246 --> 01:06:58,815
+In the morning, we'll both be done.
+
+1690
+01:06:58,915 --> 01:07:00,216
+Go away.
+
+1691
+01:07:01,351 --> 01:07:03,786
+There are better ways to say goodbye.
+
+1692
+01:07:03,853 --> 01:07:04,888
+Are there?
+
+1693
+01:07:04,954 --> 01:07:05,955
+[Crow] Are you saying
+what I think you're saying?
+
+1694
+01:07:06,022 --> 01:07:07,724
+<i>Find the one that feels good.</i>
+
+1695
+01:07:09,659 --> 01:07:10,660
+No?
+
+1696
+01:07:10,727 --> 01:07:12,629
+[Joel] Ouch, there I go again.
+
+1697
+01:07:12,695 --> 01:07:13,630
+<i>Get out of here and leave me alone.</i>
+
+1698
+01:07:13,696 --> 01:07:15,098
+<i>I don't want to see you or touch you</i>
+
+1699
+01:07:15,164 --> 01:07:17,567
+<i>or ever remember that I knew you.</i>
+
+1700
+01:07:17,700 --> 01:07:19,536
+[Servo continues humming
+somber theme]
+
+1701
+01:07:19,602 --> 01:07:20,637
+<i>You don't mean that.</i>
+
+1702
+01:07:23,172 --> 01:07:27,176
+<i>More than anything I ever</i>
+<i>meant in my life, I mean that.</i>
+
+1703
+01:07:27,243 --> 01:07:28,912
+[Crow] Except there was something
+I said a while back
+
+1704
+01:07:28,978 --> 01:07:30,413
+that I meant more than that.
+
+1705
+01:07:30,480 --> 01:07:33,550
+[Servo continues humming
+somber theme]
+
+1706
+01:07:33,616 --> 01:07:36,419
+[Joel] Hey, the Angel of Death's
+stopping by for a drink.
+
+1707
+01:07:36,486 --> 01:07:37,587
+[Crow] Well, that's nice.
+
+1708
+01:07:38,855 --> 01:07:40,857
+[Joel] Darn zipper, stuck again.
+
+1709
+01:07:46,162 --> 01:07:47,830
+[Servo] Everything I need to know
+I learn from booze.
+
+1710
+01:07:47,897 --> 01:07:49,832
+-[knocking on door]
+-[Servo] Come out.
+
+1711
+01:07:51,634 --> 01:07:52,502
+[Joel gulps]
+
+1712
+01:07:53,269 --> 01:07:55,638
+[Crow] Uh. Right in the middle of dinner.
+
+1713
+01:07:58,441 --> 01:07:59,609
+[Joel imitating drunk]
+Uh... OK.
+
+1714
+01:07:59,676 --> 01:08:02,178
+Who wants to come
+into the hallway now?
+
+1715
+01:08:02,845 --> 01:08:05,114
+-You drunk.
+<i>-[slurs] Come on in, Erica.</i>
+
+1716
+01:08:05,848 --> 01:08:07,817
+<i>You and I are on the same side.</i>
+
+1717
+01:08:07,884 --> 01:08:09,018
+<i>What are you talking about?</i>
+
+1718
+01:08:09,085 --> 01:08:10,753
+[Servo] We're humans, come here.
+
+1719
+01:08:13,890 --> 01:08:15,291
+<i>Who cares what I'm talking about?</i>
+
+1720
+01:08:15,358 --> 01:08:16,893
+<i>I should keep you drunk all the time.</i>
+
+1721
+01:08:16,960 --> 01:08:19,696
+[Crow] I am.
+We are. Or something.
+
+1722
+01:08:21,097 --> 01:08:25,001
+[Servo] Sneak, sneak,
+sneak, sneak, squeak.
+
+1723
+01:08:25,068 --> 01:08:26,836
+[Joel] Oh... Mmm.
+
+1724
+01:08:27,837 --> 01:08:29,372
+<i>You got brown eyes.</i>
+
+1725
+01:08:29,439 --> 01:08:31,307
+[Servo] Uh, you got a neck.
+
+1726
+01:08:32,976 --> 01:08:34,077
+<i>I come here to battle with you,</i>
+
+1727
+01:08:34,143 --> 01:08:36,613
+and you start talking
+<i>about the color of my eyes.</i>
+
+1728
+01:08:36,679 --> 01:08:39,282
+[Servo] You got, uh,
+large pores on your nose.
+
+1729
+01:08:39,349 --> 01:08:40,883
+Oh, and a wood tick. Mmm.
+
+1730
+01:08:41,985 --> 01:08:43,519
+<i>You're a darn fool.</i>
+
+1731
+01:08:43,586 --> 01:08:45,088
+<i>That's what I am.</i>
+
+1732
+01:08:45,154 --> 01:08:46,756
+<i>I'm a lovin' fool.</i>
+
+1733
+01:08:47,490 --> 01:08:48,658
+<i>Lovin' fool.</i>
+
+1734
+01:08:49,025 --> 01:08:51,594
+[Joel] You taste
+like Annie Greensprings.
+
+1735
+01:08:51,661 --> 01:08:52,762
+<i>And you'll never stop?</i>
+
+1736
+01:08:53,830 --> 01:08:55,365
+<i>Who wants to sober up?</i>
+
+1737
+01:08:56,099 --> 01:08:58,701
+[Servo imitating drunk] Booze has
+knighted me the king of the lovers.
+
+1738
+01:08:59,402 --> 01:09:00,670
+<i>You're mean when you're sober.</i>
+
+1739
+01:09:00,737 --> 01:09:02,205
+<i>I'm not mean.</i>
+
+1740
+01:09:02,305 --> 01:09:04,774
+I love everybody,
+<i>and especially I love Erica.</i>
+
+1741
+01:09:04,841 --> 01:09:06,142
+[Servo] Hey, guys,
+look at little theory to put forth
+
+1742
+01:09:06,209 --> 01:09:09,178
+about how he got around in
+the back of the building there
+
+1743
+01:09:09,245 --> 01:09:11,014
+and came around on the horse and...
+
+1744
+01:09:19,188 --> 01:09:20,757
+But Tom, that doesn't explain
+
+1745
+01:09:20,823 --> 01:09:23,192
+how John Ireland could go
+into the attorney's office
+
+1746
+01:09:23,259 --> 01:09:25,928
+and suddenly appear
+on his horse in the street?
+
+1747
+01:09:25,995 --> 01:09:28,898
+Look, Joel, it's really just
+a broadened interpretation
+
+1748
+01:09:28,965 --> 01:09:30,833
+of quantum linear super positional.
+
+1749
+01:09:30,900 --> 01:09:32,268
+Super behud-- Huh?
+
+1750
+01:09:32,368 --> 01:09:33,870
+They simply observe
+the apparent relative state
+
+1751
+01:09:33,936 --> 01:09:36,773
+of John Ireland in one place,
+while in actuality
+
+1752
+01:09:36,839 --> 01:09:39,008
+he coexisted
+in the objective vector state.
+
+1753
+01:09:39,075 --> 01:09:41,010
+-You see?
+-I have a theory.
+
+1754
+01:09:41,077 --> 01:09:42,578
+That town is a bunch of false fronts
+
+1755
+01:09:42,645 --> 01:09:43,813
+and he ran over there real fast.
+
+1756
+01:09:43,880 --> 01:09:44,947
+All right, I'm with him.
+
+1757
+01:09:45,014 --> 01:09:46,983
+Guys, why is it so hard
+to accept the fact
+
+1758
+01:09:47,050 --> 01:09:49,419
+that time is not an immutable
+forward progression,
+
+1759
+01:09:49,485 --> 01:09:51,120
+but a factor in a space time model
+
+1760
+01:09:51,187 --> 01:09:54,157
+of relativistic causality
+and determinism, huh?
+
+1761
+01:09:54,223 --> 01:09:56,325
+Guys? Hello?
+
+1762
+01:09:56,392 --> 01:09:57,660
+Geez, like a couple of cattle, these two.
+
+1763
+01:09:57,727 --> 01:09:58,594
+OK. [clears throat]
+
+1764
+01:09:58,661 --> 01:10:00,096
+Here, I'm going to demonstrate, OK?
+
+1765
+01:10:00,163 --> 01:10:01,731
+Watch me closely.
+
+1766
+01:10:02,298 --> 01:10:04,200
+Alleoop!
+
+1767
+01:10:04,267 --> 01:10:05,334
+Hey, wait, where did he go?
+
+1768
+01:10:05,401 --> 01:10:07,170
+-I don't know. He just--
+-I'm over here, guys.
+
+1769
+01:10:07,236 --> 01:10:09,372
+-Aaghh!
+-I hate when you do that.
+
+1770
+01:10:09,439 --> 01:10:12,008
+But, Servo, that's fantastic,
+that's amazing.
+
+1771
+01:10:12,075 --> 01:10:13,976
+It's physics, Joel, plain and simple.
+
+1772
+01:10:14,043 --> 01:10:16,846
+You just exist in one
+observable region in space,
+
+1773
+01:10:16,913 --> 01:10:20,583
+and then zip, you simply realign
+your point of origin, you see?
+
+1774
+01:10:20,650 --> 01:10:21,784
+He does this to me at night.
+
+1775
+01:10:21,851 --> 01:10:22,885
+Scared the hell out of me.
+
+1776
+01:10:22,952 --> 01:10:24,787
+It's easy, guys.
+A trained chimp could do it.
+
+1777
+01:10:24,854 --> 01:10:26,055
+Come on, Joel, try it. It's fun.
+
+1778
+01:10:26,122 --> 01:10:29,325
+OK, I'm going to excite myself
+
+1779
+01:10:29,392 --> 01:10:32,328
+-in a position of undetermined...
+-Oh, boy.
+
+1780
+01:10:32,395 --> 01:10:34,030
+origin and region.
+
+1781
+01:10:34,097 --> 01:10:36,799
+-And zock!
+-[Servo] No, no, no.
+
+1782
+01:10:36,866 --> 01:10:38,468
+-It didn't really work.
+-Well, I'm not doing it.
+
+1783
+01:10:38,534 --> 01:10:41,237
+Doing it makes you chubby
+and stupid like Tom.
+
+1784
+01:10:41,304 --> 01:10:43,873
+-Say it to my face.
+-Joel, help me.
+
+1785
+01:10:43,940 --> 01:10:46,109
+Hey, you know, I can work
+space and time this way? What?
+
+1786
+01:10:46,175 --> 01:10:47,844
+-Oh, Tom, I don't think that...
+-[Servo grunts]
+
+1787
+01:10:47,910 --> 01:10:50,847
+But that still doesn't explain
+how John Ireland is able to go
+
+1788
+01:10:50,913 --> 01:10:54,684
+into the attorney's office
+and end up on his horse on this...
+
+1789
+01:10:54,751 --> 01:10:56,819
+-[scoffs] What the...?
+-[Servo laughs]
+
+1790
+01:10:56,886 --> 01:10:58,020
+See what I mean?
+
+1791
+01:10:58,488 --> 01:10:59,922
+Hey, my sandwich is whole again.
+
+1792
+01:10:59,989 --> 01:11:01,090
+-[Crow] Cool.
+-[Servo] Yeah.
+
+1793
+01:11:01,157 --> 01:11:02,358
+We-- We'll be right back.
+
+1794
+01:11:02,425 --> 01:11:03,359
+No, no, no, no.
+
+1795
+01:11:03,426 --> 01:11:05,495
+They'll be right back,
+we'll be right here.
+
+1796
+01:11:05,561 --> 01:11:06,696
+Honey, don't.
+
+1797
+01:11:09,699 --> 01:11:10,967
+-You mean that, Cane?
+-[Crow] Whoa.
+
+1798
+01:11:11,033 --> 01:11:13,236
+'Course I mean it. I said it, didn't I?
+
+1799
+01:11:14,070 --> 01:11:16,939
+And to think I was worried
+about poor little Rose.
+
+1800
+01:11:19,175 --> 01:11:20,743
+[Servo] Magnuson,
+puts her into the boards.
+
+1801
+01:11:20,810 --> 01:11:21,677
+Sorry.
+
+1802
+01:11:21,778 --> 01:11:22,845
+I have to tell you this...
+
+1803
+01:11:22,912 --> 01:11:23,846
+[Servo] I'm Pops Staples.
+
+1804
+01:11:23,913 --> 01:11:25,014
+...there's been a change in plans.
+
+1805
+01:11:25,081 --> 01:11:26,783
+[Crow] I'm going blonde.
+
+1806
+01:11:26,849 --> 01:11:27,950
+With the mayor locked up in jail,
+
+1807
+01:11:28,017 --> 01:11:29,485
+we'll have to get the letter
+from the Express rider
+
+1808
+01:11:29,552 --> 01:11:31,087
+before he gets to town.
+
+1809
+01:11:32,121 --> 01:11:33,189
+Do you understand?
+
+1810
+01:11:33,256 --> 01:11:34,223
+[Servo imitating drunk]
+You got brown eyes.
+
+1811
+01:11:34,290 --> 01:11:35,558
+I understand.
+
+1812
+01:11:35,658 --> 01:11:38,494
+Then I'll meet you
+at Immigrant Gap at 6:30.
+
+1813
+01:11:40,163 --> 01:11:42,532
+[Joel imitating drunk] There are
+six immigrants at the Gap. Got it.
+
+1814
+01:11:42,598 --> 01:11:44,534
+...Immigrant Gap at 6:30.
+
+1815
+01:11:44,600 --> 01:11:46,602
+[Crow] Booze. Write that down.
+
+1816
+01:11:50,206 --> 01:11:52,608
+[Joel] Look, a sale at Hurrah.
+
+1817
+01:12:00,383 --> 01:12:01,617
+[Crow] It's Buddy Love.
+
+1818
+01:12:03,986 --> 01:12:06,155
+[Joel] Well, better do
+next week's schedule.
+
+1819
+01:12:08,357 --> 01:12:09,425
+[all three] Boo!
+
+1820
+01:12:09,492 --> 01:12:11,861
+There! You got what you asked for!
+
+1821
+01:12:12,628 --> 01:12:14,964
+Don't go lying like that again
+about how you love me.
+
+1822
+01:12:15,031 --> 01:12:15,965
+[gasping]
+
+1823
+01:12:16,032 --> 01:12:17,767
+[Servo stammers] I lurve you.
+
+1824
+01:12:18,501 --> 01:12:19,635
+I'm gonna kill you.
+
+1825
+01:12:20,169 --> 01:12:23,005
+I'm gonna kill you
+but I'm gonna use Cane Miro to do it.
+
+1826
+01:12:23,072 --> 01:12:24,207
+All I have to do is pay him,
+
+1827
+01:12:24,273 --> 01:12:26,275
+and he'll follow you
+to the end of the world.
+
+1828
+01:12:27,510 --> 01:12:28,678
+You won't do that.
+
+1829
+01:12:28,744 --> 01:12:30,479
+[Crow] Missus, lady, don't, no.
+
+1830
+01:12:30,546 --> 01:12:32,515
+Jake, you're a dead little man.
+
+1831
+01:12:33,049 --> 01:12:35,184
+Now get out before I kill you myself.
+
+1832
+01:12:36,018 --> 01:12:38,054
+[Servo] OK, what time
+do you want me in tomorrow?
+
+1833
+01:12:40,456 --> 01:12:42,692
+[Crow] This is like
+<i>Silverado, </i>only better.
+
+1834
+01:12:42,758 --> 01:12:43,726
+[Joel] Yeah, a lot better.
+
+1835
+01:12:45,595 --> 01:12:49,832
+[Servo] Joel, I hate my paws so bad.
+
+1836
+01:13:00,643 --> 01:13:02,078
+[Crow] Huh? Oh, sale at Hurrah.
+
+1837
+01:13:06,349 --> 01:13:07,283
+Don't shoot me!
+
+1838
+01:13:07,350 --> 01:13:08,885
+[Servo] Oh, no, I'm the comic relief.
+Don't shoot.
+
+1839
+01:13:08,951 --> 01:13:11,020
+What do you mean by
+bursting in here like that?
+
+1840
+01:13:11,087 --> 01:13:13,055
+You'd better go after Cane Miro.
+
+1841
+01:13:13,389 --> 01:13:14,857
+Cane? What for?
+
+1842
+01:13:14,924 --> 01:13:16,525
+He's gonna shoot you.
+
+1843
+01:13:16,592 --> 01:13:18,160
+[Crow] Over my dead body.
+
+1844
+01:13:18,227 --> 01:13:19,362
+How do you know that?
+
+1845
+01:13:19,428 --> 01:13:21,364
+Erica Page hired him to do it.
+
+1846
+01:13:21,430 --> 01:13:23,566
+I seen her pay him $3,000 to kill you
+
+1847
+01:13:23,633 --> 01:13:25,601
+if the railroad don't come through Oracle.
+
+1848
+01:13:25,668 --> 01:13:26,869
+The railroad?
+
+1849
+01:13:26,936 --> 01:13:28,905
+They're just waiting for you
+to read that letter, Mayor.
+
+1850
+01:13:28,971 --> 01:13:31,274
+-I'd better go after him.
+-No. No. You can't.
+
+1851
+01:13:31,340 --> 01:13:33,009
+You can't arrest a man
+on Jake's hearsay.
+
+1852
+01:13:33,075 --> 01:13:34,243
+You'd better do it!
+
+1853
+01:13:34,310 --> 01:13:35,344
+I emphatically agree.
+
+1854
+01:13:35,411 --> 01:13:37,046
+We just have to wait
+until he does something.
+
+1855
+01:13:37,113 --> 01:13:38,714
+By then, it may be too late.
+
+1856
+01:13:38,781 --> 01:13:40,416
+So Erica paid him.
+
+1857
+01:13:41,484 --> 01:13:43,419
+She's probably behind
+Scott's killing too.
+
+1858
+01:13:43,486 --> 01:13:45,888
+Sure she is,
+and she's in love with Cane Miro
+
+1859
+01:13:45,955 --> 01:13:46,889
+and him with her too.
+
+1860
+01:13:46,956 --> 01:13:49,025
+[Joel] Can I hit you,
+Wormy, just once?
+
+1861
+01:13:49,091 --> 01:13:50,660
+Go on, Jake.
+
+1862
+01:13:50,726 --> 01:13:52,128
+You mean, you're gonna let him be?
+
+1863
+01:13:52,194 --> 01:13:53,195
+[Servo] Speaking words of wisdom?
+
+1864
+01:13:53,262 --> 01:13:55,231
+Yeah, that's right.
+Goodnight, little man.
+
+1865
+01:13:55,298 --> 01:13:58,301
+Don't call me that! Erica called me that.
+
+1866
+01:13:58,367 --> 01:13:59,435
+I don't like it!
+
+1867
+01:13:59,502 --> 01:14:01,437
+-[Crow] Touched a nerve.
+-I don't like it!
+
+1868
+01:14:01,504 --> 01:14:03,039
+[Joel] We are kind of little.
+
+1869
+01:14:04,573 --> 01:14:05,875
+You're making a big mistake, Rose.
+
+1870
+01:14:06,008 --> 01:14:07,109
+[Servo] Stay in school.
+
+1871
+01:14:07,176 --> 01:14:08,678
+You ought to move in tonight.
+
+1872
+01:14:08,778 --> 01:14:11,948
+On what evidence?
+Jake's testimony?
+
+1873
+01:14:12,515 --> 01:14:14,517
+Any cheap lawyer would prove
+him mentally incompetent
+
+1874
+01:14:14,583 --> 01:14:15,518
+in three minutes.
+
+1875
+01:14:15,584 --> 01:14:17,620
+[Joel] Hey, they haven't
+invented that yet.
+
+1876
+01:14:19,088 --> 01:14:23,092
+No, we--we just have to wait it out.
+
+1877
+01:14:23,559 --> 01:14:26,128
+[Crow] ♪<i> Why am I such a misfit? </i>♪
+
+1878
+01:14:27,163 --> 01:14:28,130
+Evening, Jake.
+
+1879
+01:14:29,665 --> 01:14:30,666
+[Servo] I'm a pixie!
+
+1880
+01:14:34,370 --> 01:14:36,505
+Don't say hi. Come on.
+
+1881
+01:14:37,606 --> 01:14:39,141
+[Servo] Oh, for crying out loud,
+he's upset.
+
+1882
+01:14:39,208 --> 01:14:42,111
+Little, what's got into you?
+Little, honey?
+
+1883
+01:14:44,280 --> 01:14:46,482
+[♪♪♪]
+
+1884
+01:14:46,549 --> 01:14:48,417
+-[Servo] There, you see.
+-[Joel and Crow] Hey!
+
+1885
+01:14:48,484 --> 01:14:49,652
+He did it again.
+
+1886
+01:14:49,719 --> 01:14:52,555
+[Joel] So they're just incorporating
+the fact that they're just close friends.
+
+1887
+01:14:54,323 --> 01:14:55,992
+[all] He's everywhere.
+He's everywhere.
+
+1888
+01:15:01,731 --> 01:15:03,866
+[Joel] Little, honey,
+did I say something?
+
+1889
+01:15:05,668 --> 01:15:08,170
+[Crow] I don't think Little Man
+is cut out for a rampage.
+
+1890
+01:15:08,237 --> 01:15:11,440
+[♪♪♪]
+
+1891
+01:15:14,944 --> 01:15:17,747
+[Servo] Oh, wait,
+the little man. Ow, owie! Ow.
+
+1892
+01:15:21,851 --> 01:15:24,153
+[Joel] Now, what were
+you so mad about?
+
+1893
+01:15:25,755 --> 01:15:28,090
+[Crow] Should I taunt him?
+Nah, he's dead.
+
+1894
+01:15:31,394 --> 01:15:33,963
+[Servo] Oh, oh.
+Hi, just cleaning up down here.
+
+1895
+01:15:34,030 --> 01:15:36,098
+Look what I found. Does he belong to you?
+
+1896
+01:15:40,903 --> 01:15:43,105
+[Joel] Oh, good,
+you killed Little Man.
+
+1897
+01:15:44,106 --> 01:15:45,674
+[Crow] Am I in time for happy hour?
+
+1898
+01:15:45,741 --> 01:15:47,843
+I could really go
+for some mozzarella sticks.
+
+1899
+01:15:51,947 --> 01:15:53,516
+[Servo] Uh, you're standing
+on his head, dear.
+
+1900
+01:15:53,582 --> 01:15:54,617
+[Crow] Ew.
+
+1901
+01:15:55,618 --> 01:15:56,952
+How'd it happen?
+
+1902
+01:15:57,987 --> 01:15:59,388
+Jake tried to kill him.
+
+1903
+01:16:00,556 --> 01:16:01,624
+It was self-defense.
+
+1904
+01:16:01,690 --> 01:16:04,126
+And thus the first L.A. cop was born.
+
+1905
+01:16:05,127 --> 01:16:06,195
+That right?
+
+1906
+01:16:07,196 --> 01:16:08,330
+You might call it that.
+
+1907
+01:16:15,738 --> 01:16:17,273
+[Joel] She's quiet today.
+
+1908
+01:16:19,341 --> 01:16:20,276
+[Servo] Oh goodness, yes.
+
+1909
+01:16:20,342 --> 01:16:21,644
+I always come here on Saturday
+
+1910
+01:16:21,710 --> 01:16:24,113
+{\an8}because they have that
+really nice breakfast burrito.
+
+1911
+01:16:24,180 --> 01:16:25,114
+You know, you take eggs and...
+
+1912
+01:16:25,181 --> 01:16:26,248
+What time is it?
+
+1913
+01:16:26,315 --> 01:16:28,551
+It's still 7:15,
+like the last time you asked me.
+
+1914
+01:16:28,617 --> 01:16:30,453
+Take it easy, Gideon.
+
+1915
+01:16:30,519 --> 01:16:32,254
+Did you see Cane Miro this morning?
+
+1916
+01:16:32,321 --> 01:16:33,889
+Not yet.
+
+1917
+01:16:33,956 --> 01:16:35,624
+[Crow] You're hard to talk to.
+
+1918
+01:16:35,691 --> 01:16:37,126
+You feel up to meeting the mail at eight?
+
+1919
+01:16:37,193 --> 01:16:38,794
+[Joel] No, but thanks for asking.
+
+1920
+01:16:39,361 --> 01:16:40,362
+It's my duty.
+
+1921
+01:16:41,363 --> 01:16:42,765
+I failed it once.
+
+1922
+01:16:44,366 --> 01:16:45,835
+I won't again.
+
+1923
+01:16:45,901 --> 01:16:47,670
+[Servo] Ah, you probably will,
+but let's go.
+
+1924
+01:16:47,736 --> 01:16:48,838
+Wait until he gets here.
+
+1925
+01:16:48,904 --> 01:16:50,773
+No sense muffing this
+with a miss at long range.
+
+1926
+01:16:50,840 --> 01:16:52,007
+You didn't pay for this. It's your shot.
+
+1927
+01:16:52,074 --> 01:16:54,443
+[Crow] Hey, she got
+her horse reupholstered.
+
+1928
+01:16:57,947 --> 01:16:59,615
+-Hi, folks!
+-[Servo] Hey, guard.
+
+1929
+01:16:59,682 --> 01:17:01,450
+What brings you way out here so early?
+
+1930
+01:17:01,517 --> 01:17:02,518
+Have you got the railroad letter?
+
+1931
+01:17:02,585 --> 01:17:04,420
+Right here, safe and sound.
+
+1932
+01:17:04,487 --> 01:17:06,155
+That's nice to know.
+
+1933
+01:17:06,222 --> 01:17:07,256
+Hand it over.
+
+1934
+01:17:07,323 --> 01:17:08,858
+[Servo] You gotta sign for it.
+
+1935
+01:17:09,792 --> 01:17:12,328
+[Joel] There's postage due
+on that letter, ma'am.
+
+1936
+01:17:12,394 --> 01:17:14,430
+[Crow] Which one of you
+gets the<i> Starlog?</i>
+
+1937
+01:17:15,231 --> 01:17:16,699
+Now get out of here.
+
+1938
+01:17:17,900 --> 01:17:19,201
+[Joel] You're welcome.
+
+1939
+01:17:21,570 --> 01:17:23,906
+[Servo] Oh, there's a switch.
+Someone's shooting a postal worker.
+
+1940
+01:17:25,541 --> 01:17:27,877
+[Joel] Mom wants to stay with us,
+so see for yourself.
+
+1941
+01:17:27,943 --> 01:17:28,878
+Not coming.
+
+1942
+01:17:29,512 --> 01:17:32,081
+[Joel] Yeah, but Peg
+sends her regards.
+
+1943
+01:17:32,148 --> 01:17:34,150
+They're going to build
+the line through Rockdale.
+
+1944
+01:17:35,017 --> 01:17:37,953
+-That's a shame.
+-Is that all you can say?
+
+1945
+01:17:38,020 --> 01:17:40,189
+-It's a darn shame.
+-[Servo] That's better.
+
+1946
+01:17:40,789 --> 01:17:42,691
+You ready to help me knock over the town?
+
+1947
+01:17:43,626 --> 01:17:44,894
+I've got two bullets,
+
+1948
+01:17:44,960 --> 01:17:48,230
+one for Rose, and one for Captain Polk.
+
+1949
+01:17:49,465 --> 01:17:52,001
+[Crow] Hey, she's littering.
+There's a fine for that.
+
+1950
+01:17:54,003 --> 01:17:55,704
+Nine o'clock.
+
+1951
+01:17:55,771 --> 01:17:57,873
+It's never been this late before.
+
+1952
+01:17:57,940 --> 01:17:59,575
+Something's happened to him.
+
+1953
+01:18:00,242 --> 01:18:01,877
+Think I'd better ride out and meet him.
+
+1954
+01:18:01,944 --> 01:18:03,646
+No, you'd better stay here.
+
+1955
+01:18:03,712 --> 01:18:04,980
+You go on, Rose.
+
+1956
+01:18:05,047 --> 01:18:06,849
+Gideon and I can take care of ourselves.
+
+1957
+01:18:06,916 --> 01:18:08,684
+[Joel] Speak for yourself, honey.
+
+1958
+01:18:08,751 --> 01:18:09,885
+[Servo] Dun-dun-dun! Oh!
+
+1959
+01:18:09,952 --> 01:18:11,820
+<i>♪ Oklahoma, where the w-- ♪</i>
+
+1960
+01:18:11,887 --> 01:18:13,722
+-Oh, forget it.
+-Move away, folks.
+
+1961
+01:18:13,789 --> 01:18:15,891
+Might be some shootin' around here.
+
+1962
+01:18:15,958 --> 01:18:18,827
+Nobody on the street except
+Fred, Mayor Polk, and me.
+
+1963
+01:18:18,894 --> 01:18:21,430
+[Joel] Well, that's pretty much
+the whole town, pretty much.
+
+1964
+01:18:23,299 --> 01:18:26,368
+Ow, ow, ow, ow, ow, ow!
+
+1965
+01:18:26,869 --> 01:18:28,971
+[Servo] ♪ Who'll catch McCain
+<i>He's got.-- ♪</i>
+
+1966
+01:18:29,038 --> 01:18:30,940
+-[Servo] Oh, never mind.
+-[dog barking]
+
+1967
+01:18:34,510 --> 01:18:36,111
+[dramatic trumpet flourish]
+
+1968
+01:18:36,178 --> 01:18:37,947
+[Servo imitating trumpet flourish]
+
+1969
+01:18:38,013 --> 01:18:40,816
+[Crow] Tell Sergeant O'Rourke
+it's the Harkawis.
+
+1970
+01:18:40,916 --> 01:18:43,619
+[Joel] Well, look, they have
+a Fotomat over there.
+
+1971
+01:18:43,686 --> 01:18:46,088
+[Crow] Yeah.
+And it's saying, "Oh, no!"
+
+1972
+01:18:46,155 --> 01:18:48,090
+[Joel and Servo chuckle]
+
+1973
+01:18:48,157 --> 01:18:49,592
+[Servo] Army man.
+
+1974
+01:18:49,692 --> 01:18:52,061
+-Joshua!
+-[Joel] Light show.
+
+1975
+01:18:52,127 --> 01:18:54,096
+Looks like he means to hold us up.
+
+1976
+01:18:54,163 --> 01:18:55,898
+You'll have to get him.
+
+1977
+01:18:55,965 --> 01:18:57,433
+You'll have to pay for it.
+
+1978
+01:18:57,499 --> 01:18:59,768
+I gave you 3,000 to take care
+of the law in Oracle.
+
+1979
+01:18:59,835 --> 01:19:00,769
+He's part of it.
+
+1980
+01:19:00,836 --> 01:19:01,770
+So you did.
+
+1981
+01:19:01,837 --> 01:19:03,572
+I should've listened to the fine print.
+
+1982
+01:19:03,639 --> 01:19:04,807
+Take the other side of the road.
+
+1983
+01:19:06,108 --> 01:19:07,176
+That's far enough!
+
+1984
+01:19:08,043 --> 01:19:09,278
+[Joel] Guess not.
+
+1985
+01:19:10,779 --> 01:19:12,214
+They shot Joshua!
+
+1986
+01:19:12,281 --> 01:19:16,819
+[Servo] ♪ They didn't shoot the sheriff
+But they did shoot the deputy ♪
+
+1987
+01:19:18,287 --> 01:19:20,122
+Haven't even got a gun
+to protect myself with.
+
+1988
+01:19:20,189 --> 01:19:21,690
+[Crow as Star Trek's Scottie]
+I'm losing power, Captain.
+
+1989
+01:19:21,757 --> 01:19:22,891
+I'll find you one.
+
+1990
+01:19:22,958 --> 01:19:25,894
+[Joel] And put on another pair
+of pants, for God's sakes.
+
+1991
+01:19:25,961 --> 01:19:27,396
+Where are you going?
+
+1992
+01:19:27,463 --> 01:19:29,064
+After something to shoot with.
+
+1993
+01:19:29,131 --> 01:19:30,532
+You better stay here.
+
+1994
+01:19:31,567 --> 01:19:33,535
+That won't do you any good.
+
+1995
+01:19:33,602 --> 01:19:36,005
+Gideon asked for a gun
+and I aim to find one for him.
+
+1996
+01:19:36,071 --> 01:19:38,474
+[Crow] But there's
+a ten-day waiting period.
+
+1997
+01:19:38,540 --> 01:19:40,042
+I'm afraid it's too late.
+
+1998
+01:19:46,782 --> 01:19:49,418
+[Servo] Hey, could you tell us
+where the Red Dog Saloon is?
+
+1999
+01:19:49,485 --> 01:19:50,719
+-Where's the marshal?
+-She rode out of town.
+
+2000
+01:19:52,921 --> 01:19:53,822
+What's the matter?
+
+2001
+01:19:54,590 --> 01:19:56,692
+Thought I saw an old friend.
+
+2002
+01:19:56,759 --> 01:19:57,693
+[Joel] Oops, got to pee.
+
+2003
+01:19:57,760 --> 01:19:59,361
+You haven't got time for the mayor.
+
+2004
+01:19:59,428 --> 01:20:01,196
+I've waited 15 years.
+
+2005
+01:20:01,263 --> 01:20:03,098
+This is as good a time
+as any to settle it.
+
+2006
+01:20:03,165 --> 01:20:05,734
+[Servo whispers]
+Plop, plop, plop, plop, plop, plop, plop.
+
+2007
+01:20:06,602 --> 01:20:07,736
+He's after you!
+
+2008
+01:20:09,672 --> 01:20:10,773
+Get out of sight!
+
+2009
+01:20:11,640 --> 01:20:13,375
+[Crow] Whoa, guess
+he's not the hero anymore.
+
+2010
+01:20:16,145 --> 01:20:17,313
+Felicity!
+
+2011
+01:20:17,379 --> 01:20:19,081
+[Servo] There's a beef roast in the...
+[groaning]
+
+2012
+01:20:19,148 --> 01:20:21,383
+-[Crow] Yes, where?
+-Don't be afraid for me.
+
+2013
+01:20:22,184 --> 01:20:24,219
+Just get yourself away from here.
+
+2014
+01:20:24,286 --> 01:20:25,554
+[Joel] Retire to Florida.
+
+2015
+01:20:25,621 --> 01:20:30,492
+You don't have to be brave
+just for some no-account killer.
+
+2016
+01:20:30,559 --> 01:20:33,228
+[Crow] Got you out
+the school marm. Sorry.
+
+2017
+01:20:36,065 --> 01:20:37,466
+[Servo] You were supposed
+to get me a gun.
+
+2018
+01:20:37,533 --> 01:20:39,234
+Oh, great. What's next?
+
+2019
+01:20:39,301 --> 01:20:40,369
+Uh. Oh.
+
+2020
+01:20:41,804 --> 01:20:44,373
+[Joel] Dri-- I mean, wait a sec.
+
+2021
+01:20:46,875 --> 01:20:49,611
+[Crow] Could we maybe settle this
+with a game of Scrabble?
+
+2022
+01:20:52,348 --> 01:20:53,749
+[Joel] American Gothic; solo.
+
+2023
+01:20:56,418 --> 01:20:58,320
+[Crow] ♪ Da-ner-da-ner-ner!
+<i>Got chores! ♪</i>
+
+2024
+01:20:58,387 --> 01:21:00,622
+[Servo] ♪ Da-doot-da-doot-doot!
+<i>The hell? ♪</i>
+
+2025
+01:21:04,393 --> 01:21:06,061
+[Joel] I'm sorry, you look too stupid.
+
+2026
+01:21:06,128 --> 01:21:07,129
+I can't shoot you.
+
+2027
+01:21:09,765 --> 01:21:12,067
+[Crow] Bad idea. Fork thing didn't work.
+
+2028
+01:21:15,604 --> 01:21:18,073
+[Servo] Oh, hi, honey.
+Gee, I've had a very productive day.
+
+2029
+01:21:18,741 --> 01:21:20,776
+Alright, you've taken care
+of your personal pleasures.
+
+2030
+01:21:20,843 --> 01:21:22,378
+Rose will be here any minute.
+
+2031
+01:21:22,444 --> 01:21:23,412
+It's your show.
+
+2032
+01:21:23,479 --> 01:21:26,315
+-[Servo] Hi.
+-Ride to the alley by your hotel and wait.
+
+2033
+01:21:26,382 --> 01:21:28,384
+I'll be in the Land Office
+across the street.
+
+2034
+01:21:28,450 --> 01:21:29,318
+[Crow] Who's this guy?
+
+2035
+01:21:29,385 --> 01:21:31,553
+You drag these bodies up
+to the street by the alley.
+
+2036
+01:21:32,121 --> 01:21:33,856
+When Rose gets here, keep her talking.
+
+2037
+01:21:33,922 --> 01:21:35,724
+If you give us away, I'll kill you.
+
+2038
+01:21:35,791 --> 01:21:36,892
+Anything you say.
+
+2039
+01:21:36,959 --> 01:21:38,560
+Get moving!
+
+2040
+01:21:38,627 --> 01:21:40,896
+-You plan fast.
+-I always have.
+
+2041
+01:21:40,963 --> 01:21:42,364
+I'll signal you when to take her.
+
+2042
+01:21:42,431 --> 01:21:44,433
+[Joel] You seem
+really crabby today.
+
+2043
+01:21:48,070 --> 01:21:50,606
+[Crow] Oh, you leave town
+and your work piles up.
+
+2044
+01:21:52,207 --> 01:21:54,376
+[Joel] Yeah, I don't like being
+the sheriff anymore.
+
+2045
+01:21:59,681 --> 01:22:00,649
+[Crow] Should be two Ls.
+
+2046
+01:22:01,049 --> 01:22:03,318
+[Joel] Well, one's OK.
+
+2047
+01:22:03,719 --> 01:22:05,053
+[Servo] Oh, hi, everyone's dead.
+
+2048
+01:22:05,120 --> 01:22:06,455
+They got the mayor, and his wife too.
+
+2049
+01:22:08,857 --> 01:22:10,859
+Killers rode out of town.
+
+2050
+01:22:11,260 --> 01:22:13,462
+-[Crow] Nooner, come on.
+-[Servo whispers] No, not now.
+
+2051
+01:22:13,562 --> 01:22:15,097
+Did you see who they were?
+
+2052
+01:22:15,164 --> 01:22:16,598
+No, I didn't get a good look.
+
+2053
+01:22:18,333 --> 01:22:19,568
+[Crow] Nooner, you know...
+
+2054
+01:22:19,635 --> 01:22:20,936
+[Servo whispers]
+No. What do you mean?
+
+2055
+01:22:21,003 --> 01:22:23,105
+Are you sure it wasn't
+Cane Miro and Erica?
+
+2056
+01:22:23,172 --> 01:22:24,807
+Oh, I'm positive it wasn't.
+
+2057
+01:22:26,508 --> 01:22:28,644
+-[Crow] Come on.
+-[Servo whispers] There's no time.
+
+2058
+01:22:32,314 --> 01:22:34,149
+[Crow] Guess
+there's no nooner then.
+
+2059
+01:22:37,719 --> 01:22:38,687
+It's all right.
+
+2060
+01:22:40,556 --> 01:22:42,324
+That's why I couldn't talk.
+
+2061
+01:22:42,391 --> 01:22:44,893
+-Who am I after?
+-Cane Miro.
+
+2062
+01:22:45,928 --> 01:22:47,062
+Thanks.
+
+2063
+01:22:47,162 --> 01:22:49,031
+[Joel] Remind me to kill you later.
+
+2064
+01:22:49,097 --> 01:22:51,900
+[♪♪♪]
+
+2065
+01:22:52,634 --> 01:22:58,640
+[Servo] Robby, Steve,
+Donny, Uncle Charlie...
+
+2066
+01:23:03,712 --> 01:23:04,880
+[Joel] Hey, there's
+Jeep tracks on that hill.
+
+2067
+01:23:04,947 --> 01:23:06,448
+[Crow] Yeah, I thought so.
+
+2068
+01:23:08,784 --> 01:23:10,118
+[Servo] This film
+makes<i> Dirty Dingus Magee</i>
+
+2069
+01:23:10,185 --> 01:23:11,787
+look like a John Ford film.
+
+2070
+01:23:11,854 --> 01:23:12,988
+[Crow laughs] I can't...
+
+2071
+01:23:14,923 --> 01:23:16,859
+[Crow] The 12 days and the Baja 500.
+
+2072
+01:23:18,427 --> 01:23:20,662
+-[Joel] Are they circling each other?
+-[Servo] I think so.
+
+2073
+01:23:23,999 --> 01:23:26,201
+[Servo] Now he's in Ireland.
+What's going on?
+
+2074
+01:23:29,471 --> 01:23:30,772
+[Crow] From Vermont to New Mexico.
+
+2075
+01:23:33,675 --> 01:23:36,144
+[Joel] Power-assisted antilock hoofs.
+
+2076
+01:23:39,748 --> 01:23:41,917
+[Crow] Well, I'll just
+follow these Jeep tracks.
+
+2077
+01:23:49,358 --> 01:23:52,027
+[Servo] Guys, that's a baobab tree.
+
+2078
+01:23:52,094 --> 01:23:53,428
+Now they're in the Serengeti.
+
+2079
+01:23:58,867 --> 01:24:01,637
+[Joel] Man, I wish there was
+a Pump 'n' Lunch around here.
+
+2080
+01:24:07,109 --> 01:24:09,545
+[Crow] Tonight, on a very special
+<i>Guns of Will Sonnett...</i>
+
+2081
+01:24:09,611 --> 01:24:11,747
+[Servo with old man voice]
+Son? Dagnabbit.
+
+2082
+01:24:13,282 --> 01:24:14,483
+[gun cocks]
+
+2083
+01:24:16,618 --> 01:24:19,688
+[Servo] Ha! I like how the horse is
+so affected by the gunfire.
+
+2084
+01:24:21,023 --> 01:24:23,158
+Nice day for shooting rabbits.
+
+2085
+01:24:23,258 --> 01:24:26,328
+[Crow] Actually it's better
+when it's a little overcast.
+
+2086
+01:24:26,395 --> 01:24:28,230
+That any way to talk to an old friend?
+
+2087
+01:24:28,330 --> 01:24:29,298
+Don't be a fool, Cane.
+
+2088
+01:24:29,364 --> 01:24:30,699
+I'm out here to kill you.
+
+2089
+01:24:30,799 --> 01:24:32,501
+I wouldn't do that to you.
+
+2090
+01:24:32,601 --> 01:24:33,869
+I know you've been missing on purpose,
+
+2091
+01:24:33,936 --> 01:24:35,537
+but it won't do you any good.
+
+2092
+01:24:35,604 --> 01:24:37,406
+[Joel] You know, they should start
+dating other people.
+
+2093
+01:24:37,472 --> 01:24:38,774
+-[Servo] Mm-hmm.
+-[Crow] Yep, or shooting 'em.
+
+2094
+01:24:38,840 --> 01:24:41,109
+You haven't been doing so well yourself.
+
+2095
+01:24:41,209 --> 01:24:44,079
+[Servo] I think maybe they should read
+<i>You Just Don't Understand.</i>
+
+2096
+01:24:45,380 --> 01:24:47,549
+[Crow] Back in those days, when
+you had relationship problems,
+
+2097
+01:24:47,616 --> 01:24:49,618
+you really had relationship problems.
+
+2098
+01:24:50,652 --> 01:24:52,287
+[Servo] That hurts.
+
+2099
+01:24:52,354 --> 01:24:53,388
+Rose?
+
+2100
+01:24:53,989 --> 01:24:55,023
+Yes?
+
+2101
+01:24:55,624 --> 01:24:56,792
+In case I don't see you again,
+
+2102
+01:24:56,858 --> 01:24:58,894
+there's something I'd like to ask you.
+
+2103
+01:24:58,994 --> 01:25:00,062
+What is it?
+
+2104
+01:25:00,462 --> 01:25:01,396
+Do you...?
+
+2105
+01:25:01,463 --> 01:25:03,131
+[Joel] What's Fred MacMurray like?
+
+2106
+01:25:03,198 --> 01:25:05,200
+Is it a two-way thing?
+
+2107
+01:25:05,267 --> 01:25:06,802
+[Joel] He just popped that
+out of his shoulder.
+
+2108
+01:25:08,737 --> 01:25:09,838
+It's a two-way thing.
+
+2109
+01:25:13,175 --> 01:25:14,743
+[Servo] Oh, I guess
+it's kind of one-way now.
+
+2110
+01:25:20,015 --> 01:25:21,383
+[Crow] This is kind of like
+<i>Ride the High Country,</i>
+
+2111
+01:25:21,483 --> 01:25:23,251
+except it's not very cool.
+
+2112
+01:25:31,560 --> 01:25:33,128
+[Joel] You shoot like a girl.
+
+2113
+01:25:34,429 --> 01:25:35,297
+Rose?
+
+2114
+01:25:35,364 --> 01:25:37,065
+[Servo] Hey, you don't have eight
+or nine pounds of plasma
+
+2115
+01:25:37,132 --> 01:25:38,367
+on you, do you?
+
+2116
+01:25:41,136 --> 01:25:42,337
+Rose?
+
+2117
+01:25:42,437 --> 01:25:44,539
+[Crow] Come on, pick up.
+I know you're there.
+
+2118
+01:25:48,977 --> 01:25:51,313
+-[Joel] Oh, right in the hat.
+-[Servo] Ouch.
+
+2119
+01:25:57,653 --> 01:26:00,188
+[Servo] Uh, now I'm going
+to have to make new friends.
+
+2120
+01:26:01,823 --> 01:26:03,458
+[Crow] She'll have to start
+a new town now.
+
+2121
+01:26:03,525 --> 01:26:04,493
+[Servo laughs] Yeah.
+
+2122
+01:26:11,333 --> 01:26:14,970
+{\an8}[Joel] What did you mean
+by that two-way thing?
+
+2123
+01:26:18,073 --> 01:26:19,875
+{\an8}[Servo] God, the paperwork!
+
+2124
+01:26:22,177 --> 01:26:24,379
+[Crow] Well, now she's
+the sheriff of herself.
+
+2125
+01:26:24,446 --> 01:26:27,215
+[Joel] Yeah, well, at least
+the horses are cheap now.
+
+2126
+01:26:30,419 --> 01:26:31,353
+You found him.
+
+2127
+01:26:31,420 --> 01:26:33,121
+[Servo] Well, we canceled Crazy Days.
+
+2128
+01:26:33,188 --> 01:26:35,791
+Yeah. Here.
+
+2129
+01:26:36,458 --> 01:26:39,428
+[Crow] Look, before we say anything else,
+are you setting me up here?
+
+2130
+01:26:39,494 --> 01:26:41,363
+By the twisted tree near Boot Hill.
+
+2131
+01:26:41,430 --> 01:26:43,098
+[Joel] Oh, I love that place.
+
+2132
+01:26:44,700 --> 01:26:47,302
+Jimmy, I'm leaving Oracle.
+I don't want to see this place again.
+
+2133
+01:26:48,370 --> 01:26:49,738
+When the new marshal gets here...
+
+2134
+01:26:51,273 --> 01:26:52,174
+give him this.
+
+2135
+01:26:52,240 --> 01:26:53,875
+[Servo] You don't need a marshal.
+There's no people.
+
+2136
+01:26:53,942 --> 01:26:56,011
+My things are packed.
+They're in the marshal's office.
+
+2137
+01:26:56,078 --> 01:26:59,081
+-[Joel] Give him all my bras too.
+-Send 'em to Santa Fe for me?
+
+2138
+01:26:59,147 --> 01:27:00,716
+Be glad to, Mrs. Hood.
+
+2139
+01:27:01,917 --> 01:27:04,519
+-Thanks.
+-[Crow] By the way, who are you?
+
+2140
+01:27:04,586 --> 01:27:06,588
+[Servo] And don't set up
+the new marshal.
+
+2141
+01:27:08,056 --> 01:27:09,191
+[Servo in feminine voice]
+Well, goodbye, everybody.
+
+2142
+01:27:09,257 --> 01:27:10,358
+[Crow] We're all dead.
+
+2143
+01:27:10,425 --> 01:27:11,960
+[Servo] Oh, that's right.
+
+2144
+01:27:13,128 --> 01:27:14,830
+[Servo making hoofbeat noises]
+
+2145
+01:27:16,665 --> 01:27:17,999
+[Joel] Hi, I'm here to kill you.
+
+2146
+01:27:19,968 --> 01:27:22,838
+'Scuse me, ma'am.
+My name is Sam Bass.
+
+2147
+01:27:22,904 --> 01:27:25,107
+Can you tell me where I might
+find the marshal's office?
+
+2148
+01:27:27,042 --> 01:27:27,976
+<i>It's right down there.</i>
+
+2149
+01:27:28,043 --> 01:27:29,444
+-[Crow] Third body on the left.
+-Thanks, ma'am.
+
+2150
+01:27:30,178 --> 01:27:32,547
+<i>Looks like a nice,</i>
+<i>quiet little town you've got here.</i>
+
+2151
+01:27:32,614 --> 01:27:33,882
+[Servo] Dead quiet.
+
+2152
+01:27:33,949 --> 01:27:34,816
+<i>Yeah.</i>
+
+2153
+01:27:35,984 --> 01:27:37,052
+<i>Yeah, it is.</i>
+
+2154
+01:27:37,119 --> 01:27:38,653
+[Joel] Except for all the bodies.
+
+2155
+01:27:38,720 --> 01:27:41,790
+[♪♪♪]
+
+2156
+01:27:43,625 --> 01:27:46,394
+[Servo]<i> ♪ All that glitters is gold ♪</i>
+
+2157
+01:27:46,695 --> 01:27:47,763
+[Servo humming]
+
+2158
+01:27:47,963 --> 01:27:49,631
+[Servo] Hey, lady, you forget
+to tell me where the--
+
+2159
+01:27:49,698 --> 01:27:50,866
+Oh, my God!
+
+2160
+01:27:50,932 --> 01:27:52,567
+[Servo screams]
+
+2161
+01:27:53,301 --> 01:27:54,503
+-[Joel laughs]
+-[Crow] Oh, my.
+
+2162
+01:27:54,569 --> 01:27:57,038
+[Joel] Oh, boy!
+That was turd, wasn't it?
+
+2163
+01:28:09,885 --> 01:28:12,587
+You know, Roger Corman can make
+almost anything seem dismal,
+
+2164
+01:28:12,654 --> 01:28:16,391
+but still, the 1870s
+had to be a pretty foul decade, eh?
+
+2165
+01:28:16,458 --> 01:28:18,460
+Well, I barely remember the 1870s,
+
+2166
+01:28:18,527 --> 01:28:20,662
+but I was around for the 1970s,
+
+2167
+01:28:20,729 --> 01:28:23,198
+and you're right,
+it was a pretty foul decade.
+
+2168
+01:28:23,265 --> 01:28:26,134
+Cool. Well, did you wear chaps
+and cowboy hats and stuff?
+
+2169
+01:28:26,201 --> 01:28:28,403
+Uh, no, but I knew people who did.
+
+2170
+01:28:28,470 --> 01:28:29,838
+Were the James gang still around?
+
+2171
+01:28:29,905 --> 01:28:32,641
+Oh, no, Joel Walsh broke up
+and started Barnstorm.
+
+2172
+01:28:32,707 --> 01:28:36,244
+Oh, hey, did you ever rope cattle
+or bust broncos and stuff?
+
+2173
+01:28:36,311 --> 01:28:38,914
+No, but I rolled
+my Charger a few times.
+
+2174
+01:28:38,980 --> 01:28:40,115
+[bots] Wow.
+
+2175
+01:28:40,182 --> 01:28:42,284
+Well, let's read some letters, huh?
+Where are they?
+
+2176
+01:28:42,350 --> 01:28:43,718
+Uh... Yeah, they're down there.
+
+2177
+01:28:43,785 --> 01:28:46,454
+-Oh.
+-Yup, fresh, crispy letters.
+
+2178
+01:28:46,521 --> 01:28:49,724
+Hey, they are fresh and crispy. Ew!
+
+2179
+01:28:49,791 --> 01:28:52,594
+-Yeah, we deep fried 'em.
+-Why?
+
+2180
+01:28:52,661 --> 01:28:54,930
+Uh, I'm not sure I understand
+the question, Joel.
+
+2181
+01:28:54,996 --> 01:28:58,733
+Uh, never mind, let's just
+blot out some of this grease,
+
+2182
+01:28:58,800 --> 01:29:02,437
+break off some of this admittedly
+delicious looking crust--
+
+2183
+01:29:02,504 --> 01:29:04,306
+Ooh, caution, filling is hot.
+
+2184
+01:29:04,372 --> 01:29:06,308
+-[Crow] Yup. Be careful.
+-OK...
+
+2185
+01:29:06,374 --> 01:29:10,245
+And about how many weeks' worth
+of letters did you fry anyway?
+
+2186
+01:29:10,312 --> 01:29:13,081
+Well, like four mail bags full,
+whatever that is.
+
+2187
+01:29:13,148 --> 01:29:16,351
+Yup. We had a lot of frying medium
+and a lot of letters.
+
+2188
+01:29:16,418 --> 01:29:19,354
+Well, honeys, don't deep fry
+any more letters, OK?
+
+2189
+01:29:19,421 --> 01:29:20,589
+-Yeah, OK.
+-Yeah, OK.
+
+2190
+01:29:20,655 --> 01:29:22,591
+OK, this letter is from France.
+
+2191
+01:29:22,657 --> 01:29:24,392
+-French.
+-Ooh la la.
+
+2192
+01:29:24,459 --> 01:29:26,494
+{\an8}And put that on still storage French.
+
+2193
+01:29:26,561 --> 01:29:32,567
+{\an8}And that's from Mike Murph,
+Amy, Dan, Nancy, Jeff and Marie.
+
+2194
+01:29:32,901 --> 01:29:35,770
+And they write, "Dear fellows,
+our club is made up of members
+
+2195
+01:29:35,837 --> 01:29:37,973
+from Nice, Monaco, and Menton.
+
+2196
+01:29:38,039 --> 01:29:40,342
+And we meet regularly
+to scarf down Mexican food
+
+2197
+01:29:40,408 --> 01:29:42,210
+and watch the latest 10 tapes
+
+2198
+01:29:42,277 --> 01:29:46,481
+sent over by our supplier
+in Southern California."
+
+2199
+01:29:46,548 --> 01:29:47,549
+[Servo] Wink, wink.
+
+2200
+01:29:47,616 --> 01:29:49,317
+"So far, our club
+is exclusively American,
+
+2201
+01:29:49,384 --> 01:29:51,219
+as the British folks
+we've tried to recruit
+
+2202
+01:29:51,286 --> 01:29:54,089
+just haven't gotten
+all really excited.
+
+2203
+01:29:54,155 --> 01:29:56,358
+But hey, what can
+you expect from the people
+
+2204
+01:29:56,424 --> 01:29:57,926
+who gave us<i> Benny Hill?"</i>
+
+2205
+01:29:57,993 --> 01:29:59,661
+Hey, they gave us Monty Python too.
+
+2206
+01:29:59,728 --> 01:30:01,162
+[all] Yeah.
+
+2207
+01:30:01,229 --> 01:30:03,565
+But, there is that Benny Hill thing.
+
+2208
+01:30:03,632 --> 01:30:06,268
+Yup. There it sits.
+
+2209
+01:30:06,334 --> 01:30:08,103
+Well, what do you think, sirs?
+
+2210
+01:30:08,536 --> 01:30:10,272
+[Crow humming "Benny Hill Theme"]
+
+2211
+01:30:10,505 --> 01:30:11,773
+-[Servo] Don't!
+-[Crow] Blah.
+
+2212
+01:30:13,575 --> 01:30:14,709
+[gasps]
+
+2213
+01:30:14,776 --> 01:30:16,311
+Wow, it worked.
+
+2214
+01:30:16,378 --> 01:30:18,580
+I blew Frank's head up.
+
+2215
+01:30:18,647 --> 01:30:20,882
+Well, remind me
+to snap on a new one, Joel.
+
+2216
+01:30:20,949 --> 01:30:22,617
+Until next time...
+
+2217
+01:30:23,118 --> 01:30:25,053
+[eerie music playing]
+
+2218
+01:30:28,723 --> 01:30:31,760
+[theme music playing]
+
+2219
+01:31:30,185 --> 01:31:31,786
+{\an8}Don't bother going back to town!
+
+2220
+01:31:31,853 --> 01:31:33,855
+{\an8}I want you out of this state tonight!
+
+2221
+01:31:33,922 --> 01:31:35,123
+{\an8}What about our clothes?
+

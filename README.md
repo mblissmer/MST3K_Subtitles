@@ -234,7 +234,7 @@ Below is the list of all episodes, and the status of the subtitle file
 | S09E04 | Werewolf ||🌐| | |
 | S09E05 | The Deadly Bees |❌ |🤖 | | |
 | S09E06 | The Space Children |❌ |🤖 | ||
-| S09E07 | Hobgoblins ||🌐| | |
+| S09E07 | Hobgoblins ||🌐| |Two versions? |
 | S09E08 | Touch of Satan ||🌐| | |
 | S09E09 | Gorgo ||🌐| | |
 | S09E10 | The Final Sacrifice ||🌐| | |
