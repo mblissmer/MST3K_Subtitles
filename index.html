@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Subtitle Archive</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<center>
+
+<table width="800" cellpadding="10" cellspacing="0" border="0">
+<tr>
+<td>
+
+<h1 align="center">Subtitle Archive</h1>
+
+<p align="center">
+    A fan-maintained collection of subtitle files
+</p>
+
+<hr>
+
+<p>
+<b>Welcome!</b>
+</p>
+
+<p>
+This site contains a collection of subtitle files for this show.
+All files are provided as individual downloads, or you can download
+the complete archive below.
+</p>
+
+<p align="center">
+    <a href="subtitles.zip">
+        <b>Download Complete Subtitle Archive (ZIP)</b>
+    </a>
+</p>
+
+<hr>
+
+<h2>Search Subtitles</h2>
+
+<p>
+Use the search box below to find words or phrases within the subtitle files.
+</p>
+
+<form>
+    <input
+        type="text"
+        id="searchBox"
+        size="50"
+        placeholder="Search subtitles...">
+
+    <input
+        type="button"
+        value="Search"
+        onclick="searchSubtitles()">
+</form>
+
+<p>
+<small>
+Search is currently under construction.
+</small>
+</p>
+
+<hr>
+
+<h2>Subtitle List</h2>
+
+<p>
+Total subtitle files:
+<b id="subtitleCount">loading...</b>
+</p>
+
+<table width="100%" border="1" cellpadding="4" cellspacing="0">
+
+<tr>
+    <th>Episode</th>
+    <th>Title</th>
+    <th>Source</th>
+    <th>Quality</th>
+    <th>Notes</th>
+    <th>Download</th>
+</tr>
+
+<tbody id="subtitleTable">
+
+<tr>
+    <td colspan="6" align="center">
+        Loading subtitle list...
+    </td>
+</tr>
+
+</tbody>
+
+</table>
+
+<hr>
+
+<p>
+<b>About this site</b>
+</p>
+
+<p>
+Created as a permanent archive for subtitle files.
+Last updated: August 2026.
+</p>
+
+<hr>
+
+<p align="center">
+<small>
+Best viewed with Netscape Navigator 4.0<br>
+Resolution: 800x600<br>
+</small>
+</p>
+
+</td>
+</tr>
+</table>
+
+</center>
+
+<script src="app.js"></script>
+
+</body>
+</html>
