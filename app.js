@@ -59,7 +59,7 @@ function searchSubtitles() {
         for (const hit of episode.hits) {
             html += `
                 <div class="hit">
-                    <b>${hit.time}</b> &quot;...${hit.text}...&quot;
+                    <i><span style="color: grey">${hit.time}</span></i> ${hit.text}
                 </div>
             `;
         }
