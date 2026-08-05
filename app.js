@@ -8,7 +8,8 @@ async function loadSearchIndex() {
     fuse = new Fuse(searchData, {
         keys: ["text"],
         threshold: 0.35,
-        includeMatches: true
+        includeMatches: true,
+        includeScore: true
     });
     document.getElementById("searchBox").disabled = false;
 }
@@ -38,7 +39,8 @@ function searchSubtitles() {
         }
         grouped.get(key).hits.push({
             time: item.time,
-            text: item.text
+            text: item.text,
+            score: result.score
         });
     }
 
@@ -60,7 +62,14 @@ function searchSubtitles() {
         for (const hit of episode.hits) {
             html += `
                 <div class="hit">
-                    <i><span style="color: grey">${hit.time}</span></i> ${hit.text}
+                    <i>
+                        <span style="color: grey">
+                            ${hit.time}
+                        </span>
+                    </i> ${hit.text}
+                    <small>
+                        (score: ${hit.score.toFixed(3)})
+                    </small>
                 </div>
             `;
         }
