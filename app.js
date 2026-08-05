@@ -11,9 +11,8 @@ async function loadSearchIndex() {
         includeMatches: true
     });
     document.getElementById("searchBox").disabled = false;
-    document.getElementById("subtitleCount").textContent =
-        new Set(searchData.map(x => x.file)).size;
 }
+
 
 function searchSubtitles() {
     const query =
@@ -43,7 +42,7 @@ function searchSubtitles() {
         });
     }
 
-    
+
     let html = "";
     for (const episode of grouped.values()) {
         html += `
@@ -57,8 +56,7 @@ function searchSubtitles() {
         for (const hit of episode.hits) {
             html += `
                 <div class="hit">
-                    <b>${hit.time}</b>
-                    ${hit.text}
+                    <b>${hit.time}</b> &quot;...${hit.text}...&quot;
                 </div>
             `;
         }
