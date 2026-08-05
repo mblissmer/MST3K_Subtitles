@@ -54,6 +54,7 @@ function searchSubtitles() {
                 S${String(episode.season).padStart(2,"0")}
                 E${String(episode.episode).padStart(2,"0")}
                 - ${episode.title}
+                - <a href="${episode.file}">Download</a>
             </h3>
         `;
         for (const hit of episode.hits) {
@@ -63,13 +64,6 @@ function searchSubtitles() {
                 </div>
             `;
         }
-        html += `
-            <p>
-                <a href="${episode.file}">
-                    Download subtitle
-                </a>
-            </p>
-        `;
     }
     results.innerHTML = html;
 }
