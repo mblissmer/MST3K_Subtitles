@@ -8,6 +8,9 @@ async function loadSearchIndex() {
     fuse = new Fuse(searchData, {
         keys: ["text"],
         threshold: 0.35,
+        ignoreDiacritics: true,
+        findAllMathes: true,
+        ignoreLocation: true,
         includeMatches: true,
         includeScore: true
     });
