@@ -29,6 +29,9 @@ function searchSubtitles() {
     }
     const grouped = new Map();
     for (const result of fuse.search(query)) {   
+        if result.score > 0.4 {
+            return;
+        }
         const item = result.item;
         const key = item.file;
         if (!grouped.has(key)) {
