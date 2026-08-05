@@ -7,9 +7,9 @@ async function loadSearchIndex() {
     searchData = await response.json();
     fuse = new Fuse(searchData, {
         keys: ["text"],
-        threshold: 0.35,
+        threshold: 0.2,
         ignoreDiacritics: true,
-        findAllMathes: true,
+        findAllMatches: true,
         ignoreLocation: true,
         includeMatches: true,
         includeScore: true
