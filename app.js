@@ -45,6 +45,9 @@ function searchSubtitles() {
 
     let html = "";
     for (const episode of grouped.values()) {
+        episode.hits.sort((a, b) => a.time.localeCompare(b.time));
+    }
+    for (const episode of grouped.values()) {
         html += `
             <hr>
             <h3>
