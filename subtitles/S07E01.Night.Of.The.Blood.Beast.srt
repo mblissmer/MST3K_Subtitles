@@ -1,4 +1,4 @@
-1
+﻿1
 00:00:01,433 --> 00:00:04,867
 ♪ In the not too
 distant future ♪
@@ -4810,7 +4810,7 @@ it's fighting the others.
 
 1082
 00:41:38,800 --> 00:41:40,233
-H-hem.
+H-Hem.
 
 1083
 00:41:40,233 --> 00:41:43,633
@@ -10736,3 +10736,4 @@ Go back to sleep little baby.
 01:31:40,467 --> 01:31:42,500
 - A wounded animal
 that large isn't good.
+

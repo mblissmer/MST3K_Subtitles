@@ -1,4 +1,4 @@
-1
+﻿1
 00:00:00,668 --> 00:00:03,572
 ♪ In the not too
 distant future ♪
@@ -10790,3 +10790,4 @@ system of some sort.
 01:30:42,103 --> 01:30:45,942
 Seize them!
 (thrilling music)
+

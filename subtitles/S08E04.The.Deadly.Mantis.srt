@@ -5712,7 +5712,7 @@ Calling mantis man. Calling mantis man.
 
 1429
 01:06:54,000 --> 01:06:56,000
-DM-4.
+Dm-4.
 
 1430
 01:06:56,000 --> 01:06:59,000
@@ -7576,47 +7576,47 @@ Bobo!
 
 1895
 01:30:46,000 --> 01:30:49,000
-[MUSIC PLAYING]
+[Music playing]
 
 1896
 01:30:49,000 --> 01:30:52,000
-[MUSIC PLAYING]
+[Music playing]
 
 1897
 01:30:52,000 --> 01:30:55,000
-[MUSIC PLAYING]
+[Music playing]
 
 1898
 01:30:55,000 --> 01:30:58,000
-[MUSIC PLAYING]
+[Music playing]
 
 1899
 01:30:58,000 --> 01:31:01,000
-[MUSIC PLAYING]
+[Music playing]
 
 1900
 01:31:01,000 --> 01:31:04,000
-[MUSIC PLAYING]
+[Music playing]
 
 1901
 01:31:04,000 --> 01:31:07,000
-[MUSIC PLAYING]
+[Music playing]
 
 1902
 01:31:07,000 --> 01:31:10,000
-[MUSIC PLAYING]
+[Music playing]
 
 1903
 01:31:12,000 --> 01:31:15,000
-[MUSIC PLAYING]
+[Music playing]
 
 1904
 01:31:15,000 --> 01:31:18,000
-[MUSIC PLAYING]
+[Music playing]
 
 1905
 01:31:18,000 --> 01:31:21,000
-[MUSIC PLAYING]
+[Music playing]
 
 1906
 01:31:47,000 --> 01:31:49,000
@@ -7624,5 +7624,5 @@ Oh, she's like a butterfly.
 
 1907
 01:31:49,000 --> 01:31:52,000
-[INAUDIBLE]
+[Inaudible]
 

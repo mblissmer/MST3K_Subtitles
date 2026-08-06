@@ -1,4 +1,4 @@
-1
+﻿1
 00:00:01,000 --> 00:00:03,600
 ♪ In the not too
 distant future ♪
@@ -248,7 +248,7 @@ Commercial sign now.
 
 58
 00:02:20,633 --> 00:02:25,000
-♪ H-U-M-A-N ♪
+♪ H-u-m-a-n ♪
 
 59
 00:02:25,000 --> 00:02:26,000
@@ -10445,3 +10445,4 @@ Until next time, skippy drawers.
 01:37:12,700 --> 01:37:17,700
 (eerie electronic beeping)
 (wind howling)
+

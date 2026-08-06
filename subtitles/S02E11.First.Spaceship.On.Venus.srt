@@ -1,15 +1,15 @@
-1
+﻿1
 00:00:05,105 --> 00:00:07,574
 ♪ In the not too
 distant future ♪
 
 2
 00:00:07,574 --> 00:00:10,677
-♪ Next Sunday AD 
+♪ Next Sunday AD
 
 3
 00:00:10,677 --> 00:00:13,913
-♪ There was a guy named Joel 
+♪ There was a guy named Joel
 
 4
 00:00:13,913 --> 00:00:17,150
@@ -38,19 +38,19 @@ didn't like him ♪
 
 9
 00:00:28,094 --> 00:00:33,099
-♪ So they shot him into space 
+♪ So they shot him into space
 
 10
 00:00:34,034 --> 00:00:35,969
-♪ We'll send him cheesy movies 
+♪ We'll send him cheesy movies
 
 11
 00:00:35,969 --> 00:00:38,238
-♪ The worst we can find 
+♪ The worst we can find
 
 12
 00:00:38,238 --> 00:00:39,572
-♪ La la la 
+♪ La la la
 
 13
 00:00:39,572 --> 00:00:42,242
@@ -59,15 +59,15 @@ and watch them all ♪
 
 14
 00:00:42,242 --> 00:00:44,411
-♪ And we'll monitor his mind 
+♪ And we'll monitor his mind
 
 15
 00:00:44,411 --> 00:00:45,512
-♪ La la la 
+♪ La la la
 
 16
 00:00:45,512 --> 00:00:47,113
-♪ Now keep in mind, 
+♪ Now keep in mind,
 
 17
 00:00:47,113 --> 00:00:50,483
@@ -76,7 +76,7 @@ the movies begin or end ♪
 
 18
 00:00:50,483 --> 00:00:51,718
-♪ La la la 
+♪ La la la
 
 19
 00:00:51,718 --> 00:00:54,587
@@ -85,30 +85,30 @@ those special parts ♪
 
 20
 00:00:54,587 --> 00:00:58,224
-♪ To make his robot friends 
+♪ To make his robot friends
 
 21
 00:00:59,993 --> 00:01:01,327
-♪ Robot roll 
+♪ Robot roll
 Let's go.
 
 22
 00:01:01,327 --> 00:01:02,562
-♪ Cambot 
+♪ Cambot
 
 23
 00:01:02,562 --> 00:01:03,897
-♪ Gypsy 
+♪ Gypsy
 Hi girl.
 
 24
 00:01:03,897 --> 00:01:05,932
-♪ Tom Servo 
+♪ Tom Servo
 What a cool guy.
 
 25
 00:01:05,932 --> 00:01:07,534
-♪ Crow 
+♪ Crow
 Wise cracker
 
 26
@@ -118,23 +118,23 @@ he eats and breathes ♪
 
 27
 00:01:09,836 --> 00:01:12,405
-♪ And other science facts 
+♪ And other science facts
 
 28
 00:01:12,405 --> 00:01:13,440
-♪ La la la 
+♪ La la la
 
 29
 00:01:13,440 --> 00:01:14,607
-♪ Then repeat to yourself 
+♪ Then repeat to yourself
 
 30
 00:01:14,607 --> 00:01:16,276
-♪ It's just a show 
+♪ It's just a show
 
 31
 00:01:16,276 --> 00:01:19,646
-♪ I should really just relax 
+♪ I should really just relax
 
 32
 00:01:19,646 --> 00:01:23,883
@@ -1967,7 +1967,7 @@ toward the planet Venus.
 
 443
 00:14:56,729 --> 00:14:57,963
-V-E-N.
+V-e-n.
 
 444
 00:14:57,963 --> 00:14:59,465
@@ -6017,27 +6017,27 @@ monkey with matted awful--
 
 1369
 00:46:14,271 --> 00:46:17,207
-♪ Oh sweet mother of mine 
+♪ Oh sweet mother of mine
 
 1370
 00:46:17,207 --> 00:46:21,845
-♪ Tis only for you I pine 
+♪ Tis only for you I pine
 
 1371
 00:46:21,845 --> 00:46:23,914
-♪ I'll try to get bail 
+♪ I'll try to get bail
 
 1372
 00:46:23,914 --> 00:46:25,883
-♪ And I'll drive up to jail 
+♪ And I'll drive up to jail
 
 1373
 00:46:25,883 --> 00:46:27,251
-♪ And I'll spring 
+♪ And I'll spring
 
 1374
 00:46:27,251 --> 00:46:30,921
-♪ That sweet mother of mine 
+♪ That sweet mother of mine
 
 1375
 00:46:32,256 --> 00:46:33,857
@@ -9684,7 +9684,7 @@ incredible, Sikarna.
 
 2197
 01:17:35,183 --> 01:17:36,685
-- E=MC2.
+- E=mc2.
 
 2198
 01:17:36,685 --> 01:17:37,819
@@ -10947,7 +10947,7 @@ Look.
 
 2484
 01:27:29,143 --> 01:27:31,713
-♪ Happy birthday 
+♪ Happy birthday
 
 2485
 01:27:31,713 --> 01:27:34,315
@@ -11177,7 +11177,7 @@ the end of the movie ♪
 
 2537
 01:29:32,533 --> 01:29:33,601
-♪ They're coming back 
+♪ They're coming back
 
 2538
 01:29:33,601 --> 01:29:35,203
@@ -11235,8 +11235,8 @@ car filled with A people.
 
 2550
 01:30:00,928 --> 01:30:02,163
-MA.
-- MA.
+Ma.
+- Ma.
 
 2551
 01:30:02,163 --> 01:30:03,765
@@ -11270,11 +11270,11 @@ Sounds like I got rhythm.
 
 2558
 01:30:22,450 --> 01:30:26,721
-♪ This is the song 
+♪ This is the song
 
 2559
 01:30:26,721 --> 01:30:29,157
-♪ That we sing 
+♪ That we sing
 
 2560
 01:30:29,157 --> 01:30:34,162
@@ -11283,11 +11283,11 @@ home from Venus ♪
 
 2561
 01:30:34,929 --> 01:30:35,763
-♪ It's really neat 
+♪ It's really neat
 
 2562
 01:30:35,763 --> 01:30:37,799
-♪ The dancing A guys 
+♪ The dancing A guys
 
 2563
 01:30:37,799 --> 01:30:39,767
@@ -12020,3 +12020,4 @@ rascal, chin rascal.
 2729
 01:37:32,112 --> 01:37:34,782
 (all cheering)
+

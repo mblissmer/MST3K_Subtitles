@@ -1,4 +1,4 @@
-1
+﻿1
 00:00:01,267 --> 00:00:04,200
 ♪ In the not too distant
 Future ♪
@@ -269,7 +269,7 @@ Bingo!
 
 59
 00:02:44,467 --> 00:02:45,700
-[MOANING AND CHEWING]
+[Moaning and chewing]
 
 60
 00:02:45,700 --> 00:02:48,300
@@ -341,11 +341,11 @@ Find it, find it.
 
 75
 00:03:18,133 --> 00:03:20,433
-[BEEPING]
+[Beeping]
 
 76
 00:03:20,433 --> 00:03:21,867
-[MOANS]
+[Moans]
 
 77
 00:03:21,867 --> 00:03:23,433
@@ -491,7 +491,7 @@ I saved some stuff.
 
 108
 00:04:38,933 --> 00:04:40,233
-[SIGHS]
+[Sighs]
 
 109
 00:04:40,233 --> 00:04:47,367
@@ -551,7 +551,7 @@ Wow! Pearl really does love us.
 
 122
 00:05:12,667 --> 00:05:14,667
-[GIGGLES]
+[Giggles]
 
 123
 00:05:14,667 --> 00:05:15,733
@@ -586,7 +586,7 @@ to work with others...
 
 130
 00:05:23,533 --> 00:05:24,533
-[GROANING IN PANIC]
+[Groaning in panic]
 
 131
 00:05:24,533 --> 00:05:26,400
@@ -681,11 +681,11 @@ kidney problem.
 
 151
 00:06:20,600 --> 00:06:23,767
-[MIKE AND CROW GIGGLING]
+[Mike and crow giggling]
 
 152
 00:06:23,767 --> 00:06:25,533
-[MIKE SIGHS]
+[Mike sighs]
 
 153
 00:06:26,633 --> 00:06:27,900
@@ -732,7 +732,7 @@ any longer.
 
 162
 00:06:46,367 --> 00:06:47,700
-[GROANS]
+[Groans]
 
 163
 00:06:47,700 --> 00:06:51,900
@@ -890,7 +890,7 @@ They’ll be afraid.
 
 194
 00:08:21,633 --> 00:08:23,300
-[LAUGHS]
+[Laughs]
 
 195
 00:08:23,300 --> 00:08:25,133
@@ -925,7 +925,7 @@ blowing my cover right now.
 
 201
 00:08:43,733 --> 00:08:44,800
-[LAUGHING]
+[Laughing]
 
 202
 00:08:44,800 --> 00:08:45,967
@@ -1139,7 +1139,7 @@ Planning revenge on my friends.
 
 242
 00:11:35,967 --> 00:11:37,433
-[HUMMING]
+[Humming]
 
 243
 00:11:40,200 --> 00:11:41,433
@@ -1186,7 +1186,7 @@ Zapped!
 
 251
 00:12:14,000 --> 00:12:15,300
-[MIKE AND TOM YELL IN SURPRISE]
+[Mike and tom yell in surprise]
 
 252
 00:12:15,300 --> 00:12:17,467
@@ -1548,7 +1548,7 @@ Signature Series of needles.
 
 320
 00:16:34,867 --> 00:16:40,500
-TOM: [MAKES MACHINE NOISES]
+Tom: [Makes machine noises]
 
 321
 00:16:40,500 --> 00:16:43,167
@@ -1602,7 +1602,7 @@ He’s playing the calliope.
 
 331
 00:17:26,067 --> 00:17:28,767
-TOM: [IMITATES MACHINE NOISES]
+Tom: [Imitates machine noises]
 
 332
 00:17:30,600 --> 00:17:31,767
@@ -1893,7 +1893,7 @@ Snake, the Don Prudhomme.
 
 387
 00:21:46,133 --> 00:21:47,267
-[TOM CHUCKLES]
+[Tom chuckles]
 
 388
 00:21:49,500 --> 00:21:51,100
@@ -2035,7 +2035,7 @@ attack!
 
 415
 00:24:02,567 --> 00:24:04,433
-[SINISTER LAUGH]
+[Sinister laugh]
 
 416
 00:24:04,433 --> 00:24:06,933
@@ -2145,7 +2145,7 @@ pry me out of here, Mike.
 
 438
 00:24:56,500 --> 00:24:57,633
-[CRIES OF FEAR]
+[Cries of fear]
 
 439
 00:24:57,633 --> 00:24:59,900
@@ -2757,12 +2757,12 @@ manhole covers.
 
 561
 00:31:43,933 --> 00:31:45,200
-[MIKE IMITATES SOUNDTRACK]
+[Mike imitates soundtrack]
 
 562
 00:31:45,200 --> 00:31:49,867
-[HUMS LAST PART
-OF BASEBALL STADIUM THEME]
+[Hums last part
+of baseball stadium theme]
 
 563
 00:31:49,867 --> 00:31:52,100
@@ -2777,7 +2777,7 @@ I hooked to Dr. Z.
 
 565
 00:31:57,433 --> 00:31:58,933
-[SCREAMING]
+[Screaming]
 
 566
 00:31:58,933 --> 00:32:00,200
@@ -2791,7 +2791,7 @@ kept us amused the whole time.
 
 568
 00:32:02,633 --> 00:32:03,767
-[CROWD SCREAMING]
+[Crowd screaming]
 
 569
 00:32:08,267 --> 00:32:09,967
@@ -2812,7 +2812,7 @@ And... go.
 
 572
 00:32:24,867 --> 00:32:26,100
-[SCREAMING]
+[Screaming]
 
 573
 00:32:27,400 --> 00:32:30,100
@@ -3143,7 +3143,7 @@ She’s not in her underwear!
 
 640
 00:35:20,800 --> 00:35:21,800
-[CROW SCOFFS]
+[Crow scoffs]
 
 641
 00:35:25,367 --> 00:35:27,033
@@ -3172,7 +3172,7 @@ attack!
 
 646
 00:35:39,567 --> 00:35:41,633
-[BARKING]
+[Barking]
 
 647
 00:35:42,700 --> 00:35:44,500
@@ -3185,7 +3185,7 @@ Okay.
 
 649
 00:35:45,700 --> 00:35:47,300
-[BARKING]
+[Barking]
 
 650
 00:35:47,300 --> 00:35:48,300
@@ -3329,7 +3329,7 @@ Do you remember that?
 
 678
 00:37:21,767 --> 00:37:23,300
-[SCREAMING]
+[Screaming]
 
 679
 00:37:23,300 --> 00:37:24,300
@@ -3647,7 +3647,7 @@ junior life taking bath.
 
 742
 00:40:28,733 --> 00:40:29,767
-[SCREAMING]
+[Screaming]
 
 743
 00:40:32,767 --> 00:40:34,133
@@ -4115,11 +4115,11 @@ just the right mood here.
 
 840
 00:44:59,000 --> 00:44:59,933
-[CHUCKLES]
+[Chuckles]
 
 841
 00:45:06,333 --> 00:45:07,400
-[SCREAMING]
+[Screaming]
 
 842
 00:45:07,400 --> 00:45:08,467
@@ -4206,7 +4206,7 @@ I’ll say.
 
 858
 00:46:07,167 --> 00:46:08,733
-[SCREAMING]
+[Screaming]
 
 859
 00:46:08,733 --> 00:46:10,667
@@ -4241,7 +4241,7 @@ her dog at the wheel.
 
 865
 00:46:29,733 --> 00:46:32,467
-[BELL RINGING]
+[Bell ringing]
 
 866
 00:46:32,467 --> 00:46:34,000
@@ -4261,7 +4261,7 @@ lightly poaching her.
 
 869
 00:46:42,733 --> 00:46:44,800
-[TOM HUMMING]
+[Tom humming]
 
 870
 00:46:44,800 --> 00:46:45,800
@@ -4330,7 +4330,7 @@ petulantly like this.
 
 882
 00:47:29,967 --> 00:47:31,833
-[MIKE MUMBLES]
+[Mike mumbles]
 
 883
 00:47:33,733 --> 00:47:36,800
@@ -4357,7 +4357,7 @@ Us white guys are fine.
 
 888
 00:47:44,600 --> 00:47:47,867
-[ALARM]
+[Alarm]
 
 889
 00:47:47,867 --> 00:47:49,100
@@ -4391,7 +4391,7 @@ a disposable camera.
 
 895
 00:48:04,900 --> 00:48:05,900
-[HUMS]
+[Hums]
 
 896
 00:48:08,500 --> 00:48:10,700
@@ -4494,7 +4494,7 @@ You moistened my dry look.
 
 916
 00:49:08,400 --> 00:49:09,867
-[GROWLING]
+[Growling]
 
 917
 00:49:09,867 --> 00:49:11,133
@@ -4507,7 +4507,7 @@ I command you to attack!
 
 919
 00:49:15,367 --> 00:49:16,400
-[GROWLING]
+[Growling]
 
 920
 00:49:16,400 --> 00:49:17,333
@@ -4528,7 +4528,7 @@ smacked around by fish.
 
 923
 00:49:31,200 --> 00:49:32,433
-[GROWLING]
+[Growling]
 
 924
 00:49:32,433 --> 00:49:34,133
@@ -4537,7 +4537,7 @@ Remember, I will conquer...
 
 925
 00:49:34,133 --> 00:49:35,167
-[GROANS]
+[Groans]
 
 926
 00:49:41,100 --> 00:49:42,400
@@ -4562,7 +4562,7 @@ for the whole Christmas break.
 
 930
 00:49:50,367 --> 00:49:51,800
-[CRIES]
+[Cries]
 
 931
 00:49:53,533 --> 00:49:55,633
@@ -4578,7 +4578,7 @@ mucus on that trip.
 
 933
 00:50:04,000 --> 00:50:05,433
-[GROANS]
+[Groans]
 
 934
 00:50:05,433 --> 00:50:06,967
@@ -4643,7 +4643,7 @@ will be conquered.
 
 946
 00:50:38,800 --> 00:50:40,133
-[TOM GIGGLES]
+[Tom giggles]
 
 947
 00:50:40,133 --> 00:50:43,600
@@ -4690,7 +4690,7 @@ done over a gasmask.
 
 955
 00:51:03,767 --> 00:51:05,300
-[SCREAMING]
+[Screaming]
 
 956
 00:51:05,300 --> 00:51:07,433
@@ -4700,8 +4700,8 @@ He’s listening to
 
 957
 00:51:07,433 --> 00:51:11,733
-[CROW HUMMING
-"LOVE ROLLERCOASTER"]
+[Crow humming
+"love rollercoaster"]
 
 958
 00:51:11,733 --> 00:51:12,867
@@ -4721,7 +4721,7 @@ Yup, there’s where I blew it.
 
 961
 00:51:27,133 --> 00:51:28,333
-[BELL RINGING]
+[Bell ringing]
 
 962
 00:51:31,367 --> 00:51:33,600
@@ -4780,7 +4780,7 @@ nothing’s open.
 
 973
 00:52:13,800 --> 00:52:17,600
-[FLUTE TRILLING]
+[Flute trilling]
 
 974
 00:52:17,600 --> 00:52:19,067
@@ -4895,7 +4895,7 @@ Ching, ching.
 
 996
 00:53:29,500 --> 00:53:30,833
-[GROANING]
+[Groaning]
 
 997
 00:53:30,833 --> 00:53:32,400
@@ -4918,7 +4918,7 @@ that’s who!
 
 1001
 00:53:36,500 --> 00:53:38,233
-[LAUGHS]
+[Laughs]
 
 1002
 00:53:38,233 --> 00:53:39,567
@@ -5079,7 +5079,7 @@ forearms of a catfish!
 
 1033
 00:54:55,367 --> 00:54:56,367
-[TOM AND MIKE GIGGLING]
+[Tom and mike giggling]
 
 1034
 00:54:58,967 --> 00:55:00,300
@@ -5140,7 +5140,7 @@ durable materials.
 
 1045
 00:55:38,533 --> 00:55:39,767
-[CRIES OUT]
+[Cries out]
 
 1046
 00:55:43,333 --> 00:55:44,700
@@ -5174,7 +5174,7 @@ I had such a pretty mind!
 
 1052
 00:56:04,167 --> 00:56:05,533
-[TOM HUMMING]
+[Tom humming]
 
 1053
 00:56:08,200 --> 00:56:10,200
@@ -5260,7 +5260,7 @@ Let’s have an Alabama getaway.
 
 1070
 00:57:00,833 --> 00:57:02,533
-[BARKING]
+[Barking]
 
 1071
 00:57:02,533 --> 00:57:07,233
@@ -5270,7 +5270,7 @@ of this monster attack.
 
 1072
 00:57:07,233 --> 00:57:08,800
-[BARKING]
+[Barking]
 
 1073
 00:57:08,800 --> 00:57:10,200
@@ -5284,7 +5284,7 @@ a third grader.
 
 1075
 00:57:14,033 --> 00:57:16,967
-[BARKING]
+[Barking]
 
 1076
 00:57:16,967 --> 00:57:20,533
@@ -5294,11 +5294,11 @@ his hand and hit the wall.
 
 1077
 00:57:20,533 --> 00:57:22,100
-[BARKING]
+[Barking]
 
 1078
 00:57:25,367 --> 00:57:26,400
-[TOM SCOFFS]
+[Tom scoffs]
 
 1079
 00:57:30,400 --> 00:57:31,967
@@ -5460,7 +5460,7 @@ Goodnight.
 
 1111
 00:59:00,167 --> 00:59:01,300
-[LAUGHS]
+[Laughs]
 
 1112
 00:59:01,300 --> 00:59:02,500
@@ -5747,7 +5747,7 @@ He has a moss caplet.
 
 1170
 01:01:45,300 --> 01:01:48,767
-[BARKING]
+[Barking]
 
 1171
 01:01:48,767 --> 01:01:50,633
@@ -5894,7 +5894,7 @@ biological mutations.
 
 1199
 01:03:26,100 --> 01:03:28,633
-[MIKE HUMMING]
+[Mike humming]
 
 1200
 01:03:31,600 --> 01:03:34,033
@@ -5904,7 +5904,7 @@ and ditched me.
 
 1201
 01:03:34,033 --> 01:03:35,400
-[TOM HUMMING]
+[Tom humming]
 
 1202
 01:03:37,300 --> 01:03:39,500
@@ -5925,7 +5925,7 @@ oh, there I go babbling again.
 
 1205
 01:03:47,600 --> 01:03:48,600
-[CHUCKLES]
+[Chuckles]
 
 1206
 01:03:53,000 --> 01:03:54,767
@@ -5956,7 +5956,7 @@ the German explaining station.
 
 1211
 01:04:05,100 --> 01:04:06,700
-[TOM GIGGLES]
+[Tom giggles]
 
 1212
 01:04:06,700 --> 01:04:08,067
@@ -6287,7 +6287,7 @@ I just can’t accept that.
 
 1280
 01:06:59,467 --> 01:07:00,467
-[SIGHS]
+[Sighs]
 
 1281
 01:07:00,467 --> 01:07:03,433
@@ -6296,7 +6296,7 @@ we need you.
 
 1282
 01:07:03,433 --> 01:07:05,333
-[COUNTRY MUSIC]
+[Country music]
 
 1283
 01:07:06,867 --> 01:07:08,133
@@ -6463,7 +6463,7 @@ Maybe, yeah!
 
 1319
 01:08:20,500 --> 01:08:21,533
-[LAUGHS]
+[Laughs]
 
 1320
 01:08:21,533 --> 01:08:23,067
@@ -6563,7 +6563,7 @@ Julie’s apartment.
 
 1340
 01:09:36,467 --> 01:09:38,067
-[SCREAMING]
+[Screaming]
 
 1341
 01:09:38,067 --> 01:09:40,567
@@ -6573,7 +6573,7 @@ our problems, Agnes.
 
 1342
 01:09:40,567 --> 01:09:42,167
-[SCREAMING]
+[Screaming]
 
 1343
 01:09:42,167 --> 01:09:43,633
@@ -6583,7 +6583,7 @@ where your krill is.
 
 1344
 01:09:43,633 --> 01:09:47,533
-[SCREAMING]
+[Screaming]
 
 1345
 01:09:47,533 --> 01:09:48,600
@@ -6622,7 +6622,7 @@ professional wrestlers.
 
 1352
 01:10:07,133 --> 01:10:09,500
-[TOM HUMMING WITH SOUNDTRACK]
+[Tom humming with soundtrack]
 
 1353
 01:10:09,500 --> 01:10:11,600
@@ -6685,7 +6685,7 @@ They’ll never see me again.
 
 1365
 01:10:36,167 --> 01:10:37,833
-[CHUCKLES]
+[Chuckles]
 
 1366
 01:10:37,833 --> 01:10:39,767
@@ -6694,7 +6694,7 @@ He’ll never see us again.
 
 1367
 01:10:39,767 --> 01:10:40,867
-[CHUCKLES]
+[Chuckles]
 
 1368
 01:10:45,167 --> 01:10:46,233
@@ -6847,11 +6847,11 @@ I’m going trekking.
 
 1399
 01:12:14,833 --> 01:12:17,133
-[SUSPENSEFUL MUSIC]
+[Suspenseful music]
 
 1400
 01:12:18,300 --> 01:12:21,567
-[TOM HUMMING]
+[Tom humming]
 
 1401
 01:12:30,733 --> 01:12:32,667
@@ -7118,7 +7118,7 @@ Oh, ow!
 
 1452
 01:15:37,967 --> 01:15:39,567
-[CRYING AND MOANING]
+[Crying and moaning]
 
 1453
 01:15:42,433 --> 01:15:43,833
@@ -7184,7 +7184,7 @@ and skipped a year.
 
 1466
 01:16:22,800 --> 01:16:23,733
-CROW [WHISTLES]:
+Crow [whistles]:
 
 1467
 01:16:26,400 --> 01:16:27,667
@@ -7273,7 +7273,7 @@ in a towel dispenser.
 
 1483
 01:17:32,967 --> 01:17:34,933
-[TOM GROANING]
+[Tom groaning]
 
 1484
 01:17:36,233 --> 01:17:37,733
@@ -7286,7 +7286,7 @@ to safely ensconce myself.
 
 1486
 01:17:42,367 --> 01:17:43,900
-[GROANING]
+[Groaning]
 
 1487
 01:17:49,967 --> 01:17:51,800
@@ -7658,7 +7658,7 @@ just like he said.
 
 1562
 01:21:54,833 --> 01:21:56,267
-[SCREAMING]
+[Screaming]
 
 1563
 01:21:56,267 --> 01:21:59,000
@@ -7667,7 +7667,7 @@ The Beatles are on Ed Sullivan!
 
 1564
 01:21:59,000 --> 01:22:00,567
-[SCREAMING]
+[Screaming]
 
 1565
 01:22:00,567 --> 01:22:02,100
@@ -7885,7 +7885,7 @@ want to get up.
 
 1606
 01:24:50,333 --> 01:24:52,367
-[YAWNING]
+[Yawning]
 
 1607
 01:24:54,367 --> 01:24:56,167
@@ -8317,7 +8317,7 @@ meat dish to shreds!
 
 1692
 01:29:31,500 --> 01:29:33,300
-[CRYING]
+[Crying]
 
 1693
 01:29:33,300 --> 01:29:35,133
@@ -8412,7 +8412,7 @@ the hearts of seafaring men.
 
 1712
 01:30:18,067 --> 01:30:19,567
-[LAUGHS]
+[Laughs]
 
 1713
 01:30:19,567 --> 01:30:22,433
@@ -8447,7 +8447,7 @@ lonely rugged sailormen.
 
 1720
 01:30:37,533 --> 01:30:40,933
-[SINGING]
+[Singing]
 
 1721
 01:30:40,933 --> 01:30:42,133
@@ -8474,3 +8474,4 @@ that lower fish torso back.
 01:31:53,000 --> 01:31:57,667
 - Sargassum,
 the weed of deceit.
+

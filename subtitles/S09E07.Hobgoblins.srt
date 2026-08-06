@@ -1,4 +1,4 @@
-1
+﻿1
 00:00:01,667 --> 00:00:04,900
 ♪ In the not-too-distant future
 
@@ -3338,7 +3338,7 @@ Old Guy Radio, WOLD.
 
 752
 00:30:16,800 --> 00:30:19,233
-♪ W, O, L, D
+♪ W, o, l, d
 
 753
 00:30:20,433 --> 00:30:21,967
@@ -9903,3 +9903,4 @@ to stay off the couch.
 01:31:44,500 --> 01:31:48,667
 (funky music)
 (guttural growling)
+

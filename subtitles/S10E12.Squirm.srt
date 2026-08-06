@@ -135,7 +135,7 @@ Theater 3000! ♪</i>
 
 29
 00:01:34,620 --> 00:01:35,620
-( BOTS HUMMING )
+( Bots humming )
 
 30
 00:01:35,620 --> 00:01:37,120
@@ -216,7 +216,7 @@ for an actual ham.
 
 46
 00:02:01,150 --> 00:02:02,150
-( SERVO SMACKING HIS LIPS )
+( Servo smacking his lips )
 
 47
 00:02:02,150 --> 00:02:05,660
@@ -267,7 +267,7 @@ in the towel dispenser.
 
 57
 00:02:19,170 --> 00:02:22,170
-( THEME MUSIC PLAYING )
+( Theme music playing )
 
 58
 00:02:24,810 --> 00:02:27,310
@@ -299,7 +299,7 @@ Pearlie-vu?
 
 64
 00:02:34,320 --> 00:02:36,320
-( CHUCKLING )
+( Chuckling )
 
 65
 00:02:36,320 --> 00:02:42,330
@@ -355,7 +355,7 @@ and then the universe fair.
 
 76
 00:03:07,350 --> 00:03:08,850
-( SINISTER LAUGHTER )
+( Sinister laughter )
 
 77
 00:03:08,850 --> 00:03:11,860
@@ -398,7 +398,7 @@ using cucumbers and Windex.
 
 85
 00:03:29,370 --> 00:03:30,880
-( VOMITING )
+( Vomiting )
 
 86
 00:03:30,870 --> 00:03:33,370
@@ -635,7 +635,7 @@ go, go, go.</i>
 
 136
 00:05:13,480 --> 00:05:15,950
-( MUSIC PLAYING )
+( Music playing )
 
 137
 00:05:15,940 --> 00:05:17,940
@@ -644,7 +644,7 @@ a case of bass ale.
 
 138
 00:05:17,950 --> 00:05:19,450
-( CHUCKLING )
+( Chuckling )
 
 139
 00:05:19,450 --> 00:05:20,950
@@ -652,7 +652,7 @@ a case of bass ale.
 
 140
 00:05:20,950 --> 00:05:22,950
-( MUSIC PLAYING )
+( Music playing )
 
 141
 00:05:22,950 --> 00:05:25,460
@@ -661,7 +661,7 @@ back then.
 
 142
 00:05:25,450 --> 00:05:27,950
-( MUSIC PLAYING )
+( Music playing )
 
 143
 00:05:27,960 --> 00:05:29,960
@@ -744,7 +744,7 @@ from now on.</i>
 
 160
 00:06:09,500 --> 00:06:12,500
-( BOT SCATTING )
+( Bot scatting )
 
 161
 00:06:12,500 --> 00:06:14,510
@@ -811,7 +811,7 @@ Split the difference.
 
 175
 00:06:54,040 --> 00:06:55,540
-( LAUGHING )
+( Laughing )
 
 176
 00:06:55,540 --> 00:06:57,540
@@ -836,7 +836,7 @@ never recovered from that.
 
 181
 00:07:10,560 --> 00:07:12,560
-( LAUGHING )
+( Laughing )
 
 182
 00:07:12,560 --> 00:07:15,070
@@ -873,7 +873,7 @@ Get back here!
 
 190
 00:07:37,590 --> 00:07:39,590
-( LOUD CRASH )
+( Loud crash )
 
 191
 00:07:39,590 --> 00:07:40,590
@@ -891,7 +891,7 @@ fit into God's plan for us?
 
 194
 00:07:47,100 --> 00:07:48,100
-( CHUCKLING )
+( Chuckling )
 
 195
 00:07:50,100 --> 00:07:53,100
@@ -1000,7 +1000,7 @@ almost instantly?
 
 217
 00:08:53,660 --> 00:08:56,670
-( LIVELY MUSIC PLAYING )
+( Lively music playing )
 
 218
 00:08:56,670 --> 00:08:59,670
@@ -1009,7 +1009,7 @@ you wonderful old couch.
 
 219
 00:08:59,670 --> 00:09:02,670
-( LIVELY MUSIC PLAYING )
+( Lively music playing )
 
 220
 00:09:03,670 --> 00:09:06,180
@@ -1040,7 +1040,7 @@ Eleanor Roosevelt.
 
 226
 00:09:19,690 --> 00:09:21,190
-( WHISTLING )
+( Whistling )
 
 227
 00:09:21,190 --> 00:09:22,190
@@ -1093,7 +1093,7 @@ horrify friends.
 
 238
 00:09:47,220 --> 00:09:50,220
-( LIVELY MUSIC PLAYING )
+( Lively music playing )
 
 239
 00:09:52,720 --> 00:09:53,720
@@ -1431,7 +1431,7 @@ rides along on an even keel.</i>
 
 310
 00:12:21,370 --> 00:12:22,870
-( BOT CLUCKING )
+( Bot clucking )
 
 311
 00:12:22,870 --> 00:12:24,380
@@ -1548,7 +1548,7 @@ like that as long as you live.</i>
 
 335
 00:13:16,930 --> 00:13:18,430
-( LAUGHING )
+( Laughing )
 
 336
 00:13:18,430 --> 00:13:21,430
@@ -1566,7 +1566,7 @@ in a convenient place.
 
 339
 00:13:27,440 --> 00:13:30,440
-( THEME MUSIC PLAYING )
+( Theme music playing )
 
 340
 00:13:39,080 --> 00:13:40,580
@@ -1625,7 +1625,7 @@ bad weather.
 
 352
 00:14:11,610 --> 00:14:13,610
-( WIND HOWLING )
+( Wind howling )
 
 353
 00:14:13,620 --> 00:14:15,120
@@ -1659,7 +1659,7 @@ but okay.
 
 359
 00:14:33,130 --> 00:14:36,130
-( OMINOUS MUSIC PLAYING )
+( Ominous music playing )
 
 360
 00:14:40,140 --> 00:14:41,150
@@ -1697,7 +1697,7 @@ never get to have any fun.
 
 368
 00:14:56,160 --> 00:14:59,160
-( OMINOUS MUSIC PLAYING )
+( Ominous music playing )
 
 369
 00:15:00,660 --> 00:15:03,170
@@ -1749,7 +1749,7 @@ he's destroying the city, huh?
 
 380
 00:15:44,710 --> 00:15:47,710
-( MUSIC PLAYING )
+( Music playing )
 
 381
 00:15:47,710 --> 00:15:50,710
@@ -1770,7 +1770,7 @@ he's destroying the city, huh?
 
 385
 00:16:02,220 --> 00:16:04,220
-( SCREAMING )
+( Screaming )
 
 386
 00:16:04,230 --> 00:16:07,230
@@ -1801,7 +1801,7 @@ the "E" is silent.
 
 392
 00:16:29,750 --> 00:16:30,750
-( CHUCKLING )
+( Chuckling )
 
 393
 00:16:34,260 --> 00:16:36,760
@@ -2153,7 +2153,7 @@ Freedom Station.
 
 468
 00:19:37,440 --> 00:19:39,940
-( MUSIC PLAYING ON RADIO )
+( Music playing on radio )
 
 469
 00:19:39,940 --> 00:19:41,950
@@ -2213,7 +2213,7 @@ than going to Pamida.
 
 481
 00:20:08,970 --> 00:20:11,480
-( MUSIC PLAYING ON RADIO )
+( Music playing on radio )
 
 482
 00:20:11,470 --> 00:20:12,470
@@ -2321,7 +2321,7 @@ the Chipmunk had a baby--
 
 504
 00:21:02,020 --> 00:21:03,520
-( CHUCKLING )
+( chuckling )
 
 505
 00:21:06,030 --> 00:21:08,030
@@ -2329,7 +2329,7 @@ the Chipmunk had a baby--
 
 506
 00:21:08,030 --> 00:21:11,030
-<i>( BABY CRYING )</i>
+<i>( Baby crying )</i>
 
 507
 00:21:12,530 --> 00:21:14,030
@@ -2365,7 +2365,7 @@ I'll get off here.</i>
 
 514
 00:21:25,050 --> 00:21:26,550
-<i>( BABY CRYING )</i>
+<i>( Baby crying )</i>
 
 515
 00:21:26,550 --> 00:21:27,550
@@ -2391,7 +2391,7 @@ drive a bus.
 
 520
 00:21:35,060 --> 00:21:38,060
-<i>( BABY CRYING )</i>
+<i>( Baby crying )</i>
 
 521
 00:21:38,060 --> 00:21:39,560
@@ -2868,11 +2868,11 @@ I want my socks back.
 
 623
 00:25:32,030 --> 00:25:35,030
-( THEME MUSIC PLAYING )
+( Theme music playing )
 
 624
 00:25:37,930 --> 00:25:41,440
-( MUSIC PLAYING )
+( Music playing )
 
 625
 00:25:41,440 --> 00:25:42,440
@@ -2894,7 +2894,7 @@ should be in this scene.
 
 629
 00:25:50,950 --> 00:25:53,450
-( GERI LAUGHING )
+( Geri laughing )
 
 630
 00:25:53,450 --> 00:25:54,450
@@ -3011,7 +3011,7 @@ GERI:
 
 655
 00:27:00,010 --> 00:27:02,010
-( MUMBLING, MUFFLED VOICE )
+( Mumbling, muffled voice )
 
 656
 00:27:03,020 --> 00:27:05,520
@@ -3098,7 +3098,7 @@ angry bull worms back there.
 
 674
 00:27:53,070 --> 00:27:55,570
-( EERIE MUSIC PLAYING )
+( Eerie music playing )
 
 675
 00:27:55,570 --> 00:27:58,070
@@ -3316,7 +3316,7 @@ up at June Jenkins--
 
 721
 00:29:44,680 --> 00:29:46,180
-( LAUGHTER )
+( Laughter )
 
 722
 00:29:46,180 --> 00:29:47,180
@@ -3329,7 +3329,7 @@ a worm cream?
 
 724
 00:29:49,180 --> 00:29:50,180
-( WORM SCREAMING )
+( Worm screaming )
 
 725
 00:29:50,180 --> 00:29:51,180
@@ -3485,7 +3485,7 @@ like Lyndon LaRouche.
 
 758
 00:31:10,760 --> 00:31:12,260
-( CHUCKLING )
+( Chuckling )
 
 759
 00:31:12,270 --> 00:31:14,770
@@ -3494,7 +3494,7 @@ like Lyndon LaRouche.
 
 760
 00:31:14,770 --> 00:31:17,270
-( GERI LAUGHING )
+( Geri laughing )
 
 761
 00:31:17,270 --> 00:31:18,780
@@ -3672,7 +3672,7 @@ have to wait 'til later.</i>
 
 800
 00:32:41,360 --> 00:32:44,360
-( THEME MUSIC PLAYING )
+( Theme music playing )
 
 801
 00:32:46,530 --> 00:32:48,030
@@ -3759,7 +3759,7 @@ then who did?</i>
 
 819
 00:33:27,070 --> 00:33:29,070
-( SERVO MUMBLING )
+( Servo mumbling )
 
 820
 00:33:32,570 --> 00:33:35,070
@@ -3927,7 +3927,7 @@ so you're safe, heh, heh.
 
 855
 00:35:26,690 --> 00:35:29,690
-( SERVO MAKING GUNSHOT SOUND )
+( Servo making gunshot sound )
 
 856
 00:35:29,690 --> 00:35:30,690
@@ -3953,7 +3953,7 @@ he's not here or something.
 
 861
 00:35:42,700 --> 00:35:44,700
-( RUSTLING )
+( Rustling )
 
 862
 00:35:44,710 --> 00:35:47,710
@@ -3984,7 +3984,7 @@ Come on!
 
 868
 00:36:01,220 --> 00:36:02,230
-<i>( GERI SCREAMING )</i>
+<i>( Geri screaming )</i>
 
 869
 00:36:04,730 --> 00:36:07,230
@@ -4058,7 +4058,7 @@ let me tell you.
 
 884
 00:36:43,260 --> 00:36:44,760
-( GOOFY LAUGHING )
+( Goofy laughing )
 
 885
 00:36:46,270 --> 00:36:48,770
@@ -4220,11 +4220,11 @@ I'm very vulnerable right now.
 
 919
 00:38:15,860 --> 00:38:17,860
-( CHUCKLING )
+( Chuckling )
 
 920
 00:38:17,860 --> 00:38:21,360
-( CROW MAKING VOMITING SOUNDS )
+( Crow making vomiting sounds )
 
 921
 00:38:23,860 --> 00:38:24,860
@@ -4422,7 +4422,7 @@ since 1667.
 
 964
 00:40:17,480 --> 00:40:20,480
-( EERIE MUSIC PLAYING )
+( Eerie music playing )
 
 965
 00:40:20,480 --> 00:40:22,490
@@ -4430,7 +4430,7 @@ since 1667.
 
 966
 00:40:22,480 --> 00:40:25,480
-( EERIE MUSIC PLAYING )
+( Eerie music playing )
 
 967
 00:40:25,490 --> 00:40:26,490
@@ -4471,12 +4471,12 @@ for a boneless person.
 
 975
 00:40:51,010 --> 00:40:54,520
-( SERVO SINGING "WORMS"
-TO TUNE OF "DUELING BANJOS" )
+( Servo singing "worms"
+to tune of "dueling banjos" )
 
 976
 00:40:55,520 --> 00:40:59,020
-( CROW JOINING IN )
+( Crow joining in )
 
 977
 00:41:01,520 --> 00:41:02,530
@@ -4530,12 +4530,12 @@ Ugh.
 
 988
 00:41:27,550 --> 00:41:31,550
-( BOTS SINGING "WORMS"
-TO TUNE OF "DUELING BANJOS" )
+( Bots singing "worms"
+to tune of "dueling banjos" )
 
 989
 00:41:31,550 --> 00:41:35,060
-( THEME MUSIC PLAYING )
+( Theme music playing )
 
 990
 00:41:37,660 --> 00:41:39,660
@@ -4770,7 +4770,7 @@ from New York.</i>
 
 1039
 00:43:28,500 --> 00:43:30,510
-( LAUGHING )
+( Laughing )
 
 1040
 00:43:30,500 --> 00:43:32,000
@@ -4805,7 +4805,7 @@ when I said New York?
 
 1047
 00:43:49,020 --> 00:43:50,030
-( GOOFY LAUGHING )
+( Goofy laughing )
 
 1048
 00:43:50,020 --> 00:43:52,520
@@ -5166,7 +5166,7 @@ for antique man!
 
 1126
 00:47:18,730 --> 00:47:21,740
-( EERIE MUSIC PLAYING )
+( Eerie music playing )
 
 1127
 00:47:21,730 --> 00:47:23,730
@@ -5175,7 +5175,7 @@ mobile unit.
 
 1128
 00:47:28,240 --> 00:47:30,750
-( SERVO MAKING EXPLOSION SOUND )
+( Servo making explosion sound )
 
 1129
 00:47:30,740 --> 00:47:34,240
@@ -5184,8 +5184,8 @@ on the Dan Haggerty level.
 
 1130
 00:47:34,250 --> 00:47:37,250
-( SERVO TRYING TO
-BLOW OUT LIGHTER )
+( Servo trying to
+blow out lighter )
 
 1131
 00:47:39,250 --> 00:47:41,260
@@ -5252,7 +5252,7 @@ then southern man!
 
 1145
 00:48:23,800 --> 00:48:25,300
-( CHUCKLING )
+( Chuckling )
 
 1146
 00:48:27,800 --> 00:48:28,800
@@ -6094,7 +6094,7 @@ antique dealer/detective show?
 
 1330
 00:56:41,930 --> 00:56:44,430
-( WHISTLING )
+( Whistling )
 
 1331
 00:56:44,430 --> 00:56:47,440
@@ -6302,7 +6302,7 @@ we'll be going 30.
 
 1377
 00:59:11,080 --> 00:59:12,080
-( TIRES SQUEALING )
+( Tires squealing )
 
 1378
 00:59:12,080 --> 00:59:13,580
@@ -6343,7 +6343,7 @@ Two corpses in one day.</i>
 
 1387
 00:59:38,100 --> 00:59:41,100
-( SERVO PRETENDING TO SOB )
+( Servo pretending to sob )
 
 1388
 00:59:44,110 --> 00:59:45,110
@@ -6633,7 +6633,7 @@ to this thing?
 
 1450
 01:02:32,780 --> 01:02:36,780
-( EERIE MUSIC PLAYING )
+( Eerie music playing )
 
 1451
 01:02:36,780 --> 01:02:38,290
@@ -6646,7 +6646,7 @@ with his spaghetti?
 
 1453
 01:02:40,790 --> 01:02:44,290
-( EERIE MUSIC PLAYING )
+( Eerie music playing )
 
 1454
 01:02:45,790 --> 01:02:46,790
@@ -6659,7 +6659,7 @@ birthplace.
 
 1456
 01:02:48,790 --> 01:02:51,290
-( RUNNING WATER )
+( Running water )
 
 1457
 01:02:51,300 --> 01:02:52,800
@@ -6757,7 +6757,7 @@ of politic worms!
 
 1477
 01:03:30,340 --> 01:03:34,340
-( THEME MUSIC PLAYING )
+( Theme music playing )
 
 1478
 01:03:37,180 --> 01:03:42,680
@@ -6879,7 +6879,7 @@ to the Bronx?
 
 1504
 01:05:13,770 --> 01:05:15,280
-( TREE BRANCHES CRACKING )
+( Tree branches cracking )
 
 1505
 01:05:15,270 --> 01:05:17,270
@@ -6887,7 +6887,7 @@ to the Bronx?
 
 1506
 01:05:17,280 --> 01:05:20,280
-( CRASHING/SCREAMING )
+( crashing/screaming )
 
 1507
 01:05:20,280 --> 01:05:23,780
@@ -6896,7 +6896,7 @@ collard greens!
 
 1508
 01:05:23,780 --> 01:05:25,790
-( CRASHING NOISES )
+( Crashing noises )
 
 1509
 01:05:25,780 --> 01:05:26,780
@@ -7007,7 +7007,7 @@ skin pigment, ugh.
 
 1532
 01:06:39,860 --> 01:06:41,360
-<i>( GERI GASPING )</i>
+<i>( Geri gasping )</i>
 
 1533
 01:06:41,360 --> 01:06:42,860
@@ -7201,7 +7201,7 @@ concrete structure.</i>
 
 1576
 01:08:21,960 --> 01:08:24,970
-( OMINOUS MUSIC PLAYING )
+( Ominous music playing )
 
 1577
 01:08:25,960 --> 01:08:29,460
@@ -7385,7 +7385,7 @@ I'm a failure.
 
 1615
 01:10:11,300 --> 01:10:13,300
-( SOBBING )
+( Sobbing )
 
 1616
 01:10:13,300 --> 01:10:15,300
@@ -7461,7 +7461,7 @@ for nuclear power.
 
 1632
 01:10:39,830 --> 01:10:41,840
-( LAUGHING )
+( Laughing )
 
 1633
 01:10:41,830 --> 01:10:43,830
@@ -7484,7 +7484,7 @@ a dipping sauce.
 
 1637
 01:10:48,340 --> 01:10:52,350
-( THEME MUSIC PLAYING )
+( Theme music playing )
 
 1638
 01:10:59,620 --> 01:11:02,120
@@ -7529,7 +7529,7 @@ He's completely used to it.
 
 1647
 01:11:36,650 --> 01:11:38,650
-( GRUNTING )
+( Grunting )
 
 1648
 01:11:40,660 --> 01:11:42,160
@@ -7743,7 +7743,7 @@ coming out upstairs.</i>
 
 1695
 01:13:48,790 --> 01:13:49,790
-( OMINOUS MUSIC PLAYING )
+( Ominous music playing )
 
 1696
 01:13:50,290 --> 01:13:52,290
@@ -7752,7 +7752,7 @@ playing kazoo in there.
 
 1697
 01:13:52,290 --> 01:13:55,300
-( OMINOUS MUSIC PLAYING )
+( Ominous music playing )
 
 1698
 01:13:56,290 --> 01:13:58,290
@@ -7903,7 +7903,7 @@ to Dustin Hoffman.
 
 1729
 01:16:16,430 --> 01:16:17,930
-( CHUCKLING )
+( Chuckling )
 
 1730
 01:16:17,940 --> 01:16:18,940
@@ -7949,7 +7949,7 @@ I've got the key.</i>
 
 1739
 01:16:45,960 --> 01:16:48,460
-( CHUCKLING )
+( Chuckling )
 
 1740
 01:16:48,470 --> 01:16:50,970
@@ -7979,7 +7979,7 @@ about nothing.
 
 1746
 01:17:02,480 --> 01:17:05,490
-( CHUCKLING )
+( Chuckling )
 
 1747
 01:17:05,480 --> 01:17:06,480
@@ -8005,7 +8005,7 @@ I'm perfectly smooth.
 
 1752
 01:17:22,500 --> 01:17:25,010
-( SCREAMING )
+( Screaming )
 
 1753
 01:17:27,000 --> 01:17:28,500
@@ -8054,7 +8054,7 @@ who wanted to make a movie.
 
 1763
 01:17:56,530 --> 01:17:58,030
-( SCREAMING )
+( Screaming )
 
 1764
 01:17:58,540 --> 01:18:00,040
@@ -8062,7 +8062,7 @@ who wanted to make a movie.
 
 1765
 01:18:01,540 --> 01:18:02,540
-( SERVO BURPING )
+( Servo burping )
 
 1766
 01:18:02,540 --> 01:18:03,540
@@ -8131,7 +8131,7 @@ Thanks.
 
 1781
 01:18:56,590 --> 01:19:00,090
-( EERIE MUSIC PLAYING )
+( Eerie music playing )
 
 1782
 01:19:01,600 --> 01:19:04,100
@@ -8224,7 +8224,7 @@ with the Olympics.
 
 1802
 01:20:12,170 --> 01:20:15,180
-( THEME MUSIC PLAYING )
+( Theme music playing )
 
 1803
 01:20:17,940 --> 01:20:18,950
@@ -8232,7 +8232,7 @@ with the Olympics.
 
 1804
 01:20:18,940 --> 01:20:21,940
-( OMINOUS MUSIC PLAYING )
+( Ominous music playing )
 
 1805
 01:20:24,450 --> 01:20:26,450
@@ -8240,7 +8240,7 @@ with the Olympics.
 
 1806
 01:20:26,950 --> 01:20:29,960
-( OMINOUS MUSIC PLAYING )
+( Ominous music playing )
 
 1807
 01:20:32,460 --> 01:20:34,960
@@ -8333,7 +8333,7 @@ keep my arms.
 
 1826
 01:21:25,010 --> 01:21:26,510
-<i>( ROGER SCREAMING )</i>
+<i>( Roger screaming )</i>
 
 1827
 01:21:29,010 --> 01:21:31,510
@@ -8347,7 +8347,7 @@ Woo-hoo!
 
 1829
 01:21:35,020 --> 01:21:38,020
-( OMINOUS MUSIC PLAYING )
+( Ominous music playing )
 
 1830
 01:21:39,520 --> 01:21:42,520
@@ -8365,7 +8365,7 @@ with your bike, huh?
 
 1833
 01:21:53,540 --> 01:21:56,040
-( SCREAMING )
+( Screaming )
 
 1834
 01:21:56,040 --> 01:21:57,540
@@ -8432,7 +8432,7 @@ before making out.
 
 1848
 01:22:38,080 --> 01:22:41,590
-<i>( GERI SOBBING )</i>
+<i>( Geri sobbing )</i>
 
 1849
 01:22:41,590 --> 01:22:42,590
@@ -8446,7 +8446,7 @@ a Play-Doh fuzzy pumper.
 
 1851
 01:22:45,090 --> 01:22:47,090
-<i>( GERI SOBBING )</i>
+<i>( Geri sobbing )</i>
 
 1852
 01:22:47,090 --> 01:22:49,100
@@ -8459,7 +8459,7 @@ It's okay.</i>
 
 1854
 01:22:50,090 --> 01:22:52,590
-<i>( GERI SOBBING )</i>
+<i>( Geri sobbing )</i>
 
 1855
 01:22:52,600 --> 01:22:55,600
@@ -8482,7 +8482,7 @@ where we're going, really?
 
 1859
 01:23:05,610 --> 01:23:08,620
-<i>( SCREAMING )</i>
+<i>( Screaming )</i>
 
 1860
 01:23:08,610 --> 01:23:10,110
@@ -8505,7 +8505,7 @@ through Vaseline.
 
 1864
 01:23:32,140 --> 01:23:33,140
-<i>( SCREAMING )</i>
+<i>( Screaming )</i>
 
 1865
 01:23:36,640 --> 01:23:39,150
@@ -8514,7 +8514,7 @@ gets violent.
 
 1866
 01:23:40,140 --> 01:23:41,640
-<i>( SCREAMING )</i>
+<i>( Screaming )</i>
 
 1867
 01:23:41,650 --> 01:23:43,150
@@ -8661,7 +8661,7 @@ that we're in a tree?
 
 1899
 01:25:02,230 --> 01:25:03,230
-( SNIFFING )
+( Sniffing )
 
 1900
 01:25:03,230 --> 01:25:05,230
@@ -8705,7 +8705,7 @@ to house sit, huh?
 
 1909
 01:25:38,260 --> 01:25:40,770
-( OMINOUS MUSIC PLAYING )
+( Ominous music playing )
 
 1910
 01:25:43,270 --> 01:25:45,270
@@ -9101,7 +9101,7 @@ for all that matter.
 
 1995
 01:29:18,650 --> 01:29:20,150
-( SINISTER LAUGHING )
+( Sinister laughing )
 
 1996
 01:29:20,150 --> 01:29:22,160
@@ -9163,7 +9163,7 @@ Not very subtle.
 
 2008
 01:29:48,180 --> 01:29:49,180
-( CROW LAUGHING )
+( Crow laughing )
 
 2009
 01:29:49,180 --> 01:29:50,680
@@ -9308,7 +9308,7 @@ Come to the fair.
 
 2041
 01:30:57,450 --> 01:31:01,450
-( THEME MUSIC PLAYING )
+( Theme music playing )
 
 2042
 01:31:59,510 --> 01:32:02,010

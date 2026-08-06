@@ -1,4 +1,4 @@
-1
+﻿1
 00:00:01,400 --> 00:00:04,800
 ♪ In the
 not-too-distant future ♪
@@ -6420,7 +6420,7 @@ Number Eleven Minus Two.
 
 1431
 01:08:38,000 --> 01:08:40,000
-Mr. da Vinci, it's
+Mr. Da Vinci, it's
 an honor to meet you.
 
 1432
@@ -7297,7 +7297,7 @@ We took some stuff, sir.
 
 1627
 01:18:31,833 --> 01:18:34,000
-- [Tom] i guard this
+- [Tom] I guard this
 old futon with my life.
 
 1628
@@ -8552,3 +8552,4 @@ hard candy for everyone!
 1904
 01:31:57,300 --> 01:31:58,367
 - I'm coming!
+

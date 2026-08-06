@@ -1,4 +1,4 @@
-1
+﻿1
 00:00:01,233 --> 00:00:04,267
 ♪ In the not too distant
 Future ♪
@@ -199,11 +199,11 @@ something special.
 
 43
 00:01:55,833 --> 00:01:56,733
-[GASPS]
+[Gasps]
 
 44
 00:01:56,833 --> 00:01:57,867
-[GRUNTS]
+[Grunts]
 
 45
 00:01:57,967 --> 00:02:02,233
@@ -268,7 +268,7 @@ a nice way to unwind.
 
 58
 00:02:46,167 --> 00:02:47,067
-[GIGGLES]
+[Giggles]
 
 59
 00:02:47,167 --> 00:02:49,367
@@ -318,7 +318,7 @@ Yes.
 
 69
 00:03:10,800 --> 00:03:12,467
-[LAUGHING]
+[Laughing]
 
 70
 00:03:12,567 --> 00:03:16,933
@@ -361,7 +361,7 @@ and the Bridge of Death.
 
 78
 00:03:36,533 --> 00:03:37,433
-[BUZZER]
+[Buzzer]
 
 79
 00:03:37,533 --> 00:03:39,633
@@ -846,7 +846,7 @@ How progressive.
 
 178
 00:07:45,167 --> 00:07:48,067
-[TOM HUMMING]
+[Tom humming]
 
 179
 00:07:51,433 --> 00:07:52,433
@@ -1202,7 +1202,7 @@ JOEL: For savings!
 
 252
 00:11:14,367 --> 00:11:16,600
-[CROW HOWLS LIKE A WOLF]
+[Crow howls like a wolf]
 
 253
 00:11:16,700 --> 00:11:19,700
@@ -1698,7 +1698,7 @@ We'd better go.
 
 353
 00:16:56,333 --> 00:16:57,467
-[ALL TALKING AT ONCE]
+[All talking at once]
 
 354
 00:16:57,567 --> 00:16:58,867
@@ -1726,7 +1726,7 @@ Think Cody'll survive?
 
 359
 00:17:23,900 --> 00:17:25,667
-[HUMMING]
+[Humming]
 
 360
 00:17:25,767 --> 00:17:27,200
@@ -2078,7 +2078,7 @@ until death do you part?
 
 432
 00:20:17,600 --> 00:20:18,500
-[CRIES OUT]
+[Cries out]
 
 433
 00:20:18,600 --> 00:20:19,500
@@ -2110,7 +2110,7 @@ if they hear about this.
 
 439
 00:20:34,233 --> 00:20:36,400
-[CHATTERING]
+[Chattering]
 
 440
 00:20:36,500 --> 00:20:37,867
@@ -2650,8 +2650,8 @@ those words, stooge.
 
 551
 00:24:43,100 --> 00:24:46,300
-CROW: [MAKES SOUNDS LIKE
-THE THREE STOOGES CURLY]
+Crow: [Makes sounds like
+the three stooges curly]
 
 552
 00:24:46,400 --> 00:24:49,300
@@ -2772,7 +2772,7 @@ He really is a stooge.
 
 576
 00:25:34,067 --> 00:25:36,233
-[CROW IMITATES CURLY]
+[Crow imitates curly]
 
 577
 00:25:38,767 --> 00:25:39,933
@@ -2806,7 +2806,7 @@ Blah! Blah!
 
 583
 00:25:55,867 --> 00:25:57,333
-[KNOCK ON DOOR]
+[Knock on door]
 
 584
 00:25:57,433 --> 00:25:58,500
@@ -2851,12 +2851,12 @@ alone with Alice?
 
 593
 00:26:17,667 --> 00:26:20,433
-[ALL GIRLS TALKING TOGETHER]
+[All girls talking together]
 
 594
 00:26:20,533 --> 00:26:22,467
-[ALL COMMENTATORS
-IMITATING GIRLS]
+[All commentators
+imitating girls]
 
 595
 00:26:22,567 --> 00:26:24,167
@@ -2901,7 +2901,7 @@ dropping dead.
 
 604
 00:26:40,333 --> 00:26:42,033
-[KNOCK ON DOOR]
+[Knock on door]
 
 605
 00:26:42,133 --> 00:26:43,300
@@ -2949,7 +2949,7 @@ All my love.
 
 614
 00:27:02,867 --> 00:27:04,067
-[SIGHS]
+[Sighs]
 
 615
 00:27:06,067 --> 00:27:07,933
@@ -2993,7 +2993,7 @@ no one's looking, and...
 
 624
 00:27:21,900 --> 00:27:23,067
-[KNOCK ON DOOR]
+[Knock on door]
 
 625
 00:27:23,167 --> 00:27:24,867
@@ -3043,7 +3043,7 @@ until death do you... huh?
 
 635
 00:27:51,300 --> 00:27:52,233
-[CRIES OUT]
+[Cries out]
 
 636
 00:27:52,333 --> 00:27:53,433
@@ -3061,7 +3061,7 @@ darling, are you alright?
 
 639
 00:27:58,067 --> 00:28:01,133
-[ALL COMMENTATORS MUMBLING]
+[All commentators mumbling]
 
 640
 00:28:01,233 --> 00:28:02,133
@@ -3451,7 +3451,7 @@ of dead brides.
 
 721
 00:32:04,400 --> 00:32:05,600
-[JOEL'S MUFFLED SPEECH]
+[Joel's muffled speech]
 
 722
 00:32:05,700 --> 00:32:07,000
@@ -3764,7 +3764,7 @@ painted on his drywall.
 
 786
 00:34:42,600 --> 00:34:44,700
-[MOANING]
+[Moaning]
 
 787
 00:34:47,067 --> 00:34:49,800
@@ -3888,7 +3888,7 @@ I think he went to Scare U.
 
 811
 00:35:39,767 --> 00:35:42,200
-[MOANING]
+[Moaning]
 
 812
 00:35:52,700 --> 00:35:54,800
@@ -3951,7 +3951,7 @@ Right.
 
 824
 00:36:31,367 --> 00:36:32,700
-[GROANING]
+[Groaning]
 
 825
 00:36:32,800 --> 00:36:35,533
@@ -3970,7 +3970,7 @@ She's a quart low.
 
 828
 00:36:42,100 --> 00:36:44,933
-[GROANING]
+[Groaning]
 
 829
 00:36:48,733 --> 00:36:50,100
@@ -3979,7 +3979,7 @@ Courage.
 
 830
 00:36:50,200 --> 00:36:51,400
-[GROANING]
+[Groaning]
 
 831
 00:37:07,800 --> 00:37:09,300
@@ -3994,7 +3994,7 @@ a little sting.
 
 833
 00:37:15,800 --> 00:37:17,733
-[SCREAMS]
+[Screams]
 
 834
 00:37:17,833 --> 00:37:19,967
@@ -4007,7 +4007,7 @@ Lovely... lovely.
 
 836
 00:37:27,700 --> 00:37:30,200
-[GASPING]
+[Gasping]
 
 837
 00:37:33,633 --> 00:37:37,433
@@ -4016,8 +4016,8 @@ Lovely... lovely.
 
 838
 00:37:37,533 --> 00:37:38,633
-TOM: [SINGING TO THE TUNE
-OF "WHIP IT" BY DEVO]
+Tom: [Singing to the tune
+of "whip it" by devo]
 
 839
 00:37:38,733 --> 00:37:40,533
@@ -4170,7 +4170,7 @@ What did they call her?
 
 870
 00:39:02,400 --> 00:39:05,533
-[GASPING]
+[Gasping]
 
 871
 00:39:07,833 --> 00:39:09,667
@@ -4178,11 +4178,11 @@ What did they call her?
 
 872
 00:39:15,033 --> 00:39:16,633
-[MOANING]
+[Moaning]
 
 873
 00:39:17,733 --> 00:39:19,767
-[PANTING]
+[Panting]
 
 874
 00:39:23,367 --> 00:39:25,567
@@ -4218,7 +4218,7 @@ Come on back here.
 
 881
 00:39:46,900 --> 00:39:47,800
-[ALARM BUZZING]
+[Alarm buzzing]
 
 882
 00:39:47,900 --> 00:39:50,100
@@ -4319,7 +4319,7 @@ He lives at a mall?
 
 903
 00:40:32,767 --> 00:40:34,633
-[BELL RINGING]
+[Bell ringing]
 
 904
 00:40:36,900 --> 00:40:39,267
@@ -4739,7 +4739,7 @@ the garage door opener.
 
 991
 00:44:07,167 --> 00:44:09,367
-[JOEL LAUGHS]
+[Joel laughs]
 
 992
 00:44:09,467 --> 00:44:11,167
@@ -5276,7 +5276,7 @@ sleep very good, maybe.
 
 1104
 00:48:39,200 --> 00:48:40,100
-[SINISTER LAUGH]
+[Sinister laugh]
 
 1105
 00:48:40,200 --> 00:48:41,800
@@ -5559,7 +5559,7 @@ at the asbestos factory.
 
 1164
 00:52:23,867 --> 00:52:25,833
-[GROANS]
+[Groans]
 
 1165
 00:52:25,933 --> 00:52:28,267
@@ -5573,7 +5573,7 @@ the master will catch you.
 
 1167
 00:52:33,067 --> 00:52:34,033
-[GROANS]
+[Groans]
 
 1168
 00:52:34,133 --> 00:52:35,267
@@ -5604,7 +5604,7 @@ Dig my shadow?
 
 1174
 00:52:45,067 --> 00:52:46,167
-[TOM GIGGLES]
+[Tom giggles]
 
 1175
 00:52:51,300 --> 00:52:55,300
@@ -5693,7 +5693,7 @@ and then maybe we'd...
 
 1193
 00:53:41,300 --> 00:53:44,000
-[SCREAMS]
+[Screams]
 
 1194
 00:53:44,100 --> 00:53:45,867
@@ -6032,7 +6032,7 @@ that bit him.
 
 1263
 00:57:20,433 --> 00:57:22,567
-[CROW HUMMING WITH SOUNDTRACK]
+[Crow humming with soundtrack]
 
 1264
 00:57:23,933 --> 00:57:25,567
@@ -6162,7 +6162,7 @@ Oh!
 
 1289
 00:59:10,767 --> 00:59:13,367
-[TOM LAUGHS]
+[Tom laughs]
 
 1290
 00:59:13,467 --> 00:59:15,700
@@ -6211,7 +6211,7 @@ Pretty.
 
 1299
 00:59:38,167 --> 00:59:39,200
-[CLATTERING SOUND]
+[Clattering sound]
 
 1300
 00:59:39,300 --> 00:59:41,000
@@ -6236,12 +6236,12 @@ as the case may be.
 
 1304
 01:00:12,267 --> 01:00:15,967
-[CROW SCREECHING
-TO TUNE OF SOUNDTRACK]
+[Crow screeching
+to tune of soundtrack]
 
 1305
 01:00:22,367 --> 01:00:26,333
-[TOM JOINS CROW]
+[Tom joins crow]
 
 1306
 01:00:27,533 --> 01:00:28,700
@@ -6250,7 +6250,7 @@ Uh-oh.
 
 1307
 01:00:28,800 --> 01:00:30,233
-[GROANS]
+[Groans]
 
 1308
 01:00:34,267 --> 01:00:38,800
@@ -6262,7 +6262,7 @@ I would not hurt you.
 
 1310
 01:00:41,300 --> 01:00:42,433
-[GROANS]
+[Groans]
 
 1311
 01:00:42,533 --> 01:00:43,967
@@ -6323,7 +6323,7 @@ You have legs.
 
 1322
 01:01:32,567 --> 01:01:34,767
-[WHISTLING]
+[Whistling]
 
 1323
 01:01:34,867 --> 01:01:36,000
@@ -6383,7 +6383,7 @@ in the family thresher machine.
 
 1335
 01:01:57,567 --> 01:01:58,500
-[WHISTLING]
+[Whistling]
 
 1336
 01:01:58,600 --> 01:02:00,633
@@ -6406,7 +6406,7 @@ Turn please.
 
 1340
 01:02:08,300 --> 01:02:09,567
-[WHISTLING]
+[Whistling]
 
 1341
 01:02:09,667 --> 01:02:12,367
@@ -6443,7 +6443,7 @@ No, your other left.
 
 1348
 01:02:25,200 --> 01:02:26,633
-[CHUCKLES]
+[Chuckles]
 
 1349
 01:02:26,733 --> 01:02:30,067
@@ -7390,7 +7390,7 @@ print the story on page one.
 
 1550
 01:09:58,567 --> 01:09:59,867
-[JOEL MUFFLED SPEECH]
+[Joel muffled speech]
 
 1551
 01:09:59,967 --> 01:10:01,067
@@ -7409,7 +7409,7 @@ are bringing in.
 
 1554
 01:10:03,867 --> 01:10:05,100
-[JOEL MUFFLED SPEECH]
+[Joel muffled speech]
 
 1555
 01:10:05,200 --> 01:10:06,633
@@ -8451,7 +8451,7 @@ That's really a load of hooey.
 
 1774
 01:16:39,067 --> 01:16:40,167
-[GROANS]
+[Groans]
 
 1775
 01:16:40,267 --> 01:16:42,333
@@ -8488,7 +8488,7 @@ in infamy!
 
 1782
 01:16:58,933 --> 01:17:01,033
-[SINISTER LAUGH]
+[Sinister laugh]
 
 1783
 01:17:01,133 --> 01:17:04,300
@@ -8845,7 +8845,7 @@ No actors in this scene.
 
 1858
 01:19:26,533 --> 01:19:27,833
-[PIANO NOTES]
+[Piano notes]
 
 1859
 01:19:32,400 --> 01:19:35,000
@@ -8874,7 +8874,7 @@ So sad.
 
 1864
 01:19:40,933 --> 01:19:43,600
-[TOM AND CROW CRYING]
+[Tom and crow crying]
 
 1865
 01:19:43,700 --> 01:19:44,600
@@ -8987,8 +8987,8 @@ Reverend?
 
 1888
 01:20:32,100 --> 01:20:33,667
-[TOM GROANS]
-[SCREAMS]
+[Tom groans]
+[Screams]
 
 1889
 01:20:33,767 --> 01:20:34,667
@@ -9118,7 +9118,7 @@ Laurel and Hardy music again.
 
 1915
 01:21:50,933 --> 01:21:52,400
-[GUNSHOT]
+[Gunshot]
 
 1916
 01:21:52,500 --> 01:21:53,700
@@ -9232,7 +9232,7 @@ real sanitary, you know?
 
 1938
 01:23:06,700 --> 01:23:08,700
-[GROANING]
+[Groaning]
 
 1939
 01:23:10,467 --> 01:23:11,567
@@ -9394,7 +9394,7 @@ the tragic punching scenes.
 
 1973
 01:24:38,233 --> 01:24:39,367
-[MOANING]
+[Moaning]
 
 1974
 01:24:39,467 --> 01:24:40,600
@@ -9451,7 +9451,7 @@ character actress.
 
 1985
 01:25:11,800 --> 01:25:13,667
-[GROANS]
+[Groans]
 
 1986
 01:25:13,767 --> 01:25:15,367
@@ -9476,7 +9476,7 @@ In through here.
 
 1991
 01:25:36,367 --> 01:25:38,100
-[SCREAMS]
+[Screams]
 
 1992
 01:25:38,200 --> 01:25:39,533
@@ -9505,7 +9505,7 @@ Pat?
 
 1998
 01:25:52,033 --> 01:25:53,533
-[SIGHS]
+[Sighs]
 
 1999
 01:25:53,633 --> 01:25:56,600
@@ -9518,7 +9518,7 @@ We've got headlines to write.
 
 2001
 01:25:58,167 --> 01:25:59,200
-[CHUCKLES]
+[Chuckles]
 
 2002
 01:25:59,300 --> 01:26:01,567
@@ -9561,7 +9561,7 @@ this was the cause of it all.
 
 2010
 01:26:17,533 --> 01:26:18,600
-[LAUGHS]
+[Laughs]
 
 2011
 01:26:18,700 --> 01:26:20,200
@@ -9761,7 +9761,7 @@ something is wrong...
 
 2053
 01:27:54,400 --> 01:27:56,067
-[PANTING]
+[Panting]
 
 2054
 01:27:56,167 --> 01:27:58,267
@@ -9814,3 +9814,4 @@ my little space biscuit.
 2064
 01:29:18,733 --> 01:29:21,733
 [♪♪♪]
+

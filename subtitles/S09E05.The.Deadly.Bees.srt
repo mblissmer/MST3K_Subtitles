@@ -1,10 +1,10 @@
 ﻿1
 00:00:00,000 --> 00:00:02,000
-[MUSIC PLAYING]
+[Music playing]
 
 2
 00:00:02,000 --> 00:00:04,000
-[MUSIC PLAYING]
+[Music playing]
 
 3
 00:00:04,000 --> 00:00:10,320
@@ -116,27 +116,27 @@ Called Mystery Science Theater 3000.
 
 30
 00:01:22,680 --> 00:01:24,680
-[ROARING]
+[Roaring]
 
 31
 00:01:24,680 --> 00:01:26,680
-[CLATTERING]
+[Clattering]
 
 32
 00:01:26,680 --> 00:01:28,680
-[BEEPING]
+[Beeping]
 
 33
 00:01:28,680 --> 00:01:30,680
-[BEEPING]
+[Beeping]
 
 34
 00:01:30,680 --> 00:01:32,680
-[CLATTERING]
+[Clattering]
 
 35
 00:01:32,680 --> 00:01:34,680
-[BEEPING]
+[Beeping]
 
 36
 00:01:34,680 --> 00:01:36,680

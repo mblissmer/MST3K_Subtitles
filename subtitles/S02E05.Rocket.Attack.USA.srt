@@ -1,4 +1,4 @@
-1
+﻿1
 00:00:03,772 --> 00:00:10,212
 ♪ In the not-too-distant
 future--next Sunday, A.D.-- ♪
@@ -9417,3 +9417,4 @@ She does a wonderful job.
 2028
 01:37:33,248 --> 01:37:34,850
 Help me.
+

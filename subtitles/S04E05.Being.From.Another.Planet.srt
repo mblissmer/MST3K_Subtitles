@@ -1,4 +1,4 @@
-1
+﻿1
 00:00:01,402 --> 00:00:04,172
 ♪ In the not-too-distant future
 
@@ -8062,7 +8062,7 @@ Oh, a triple word score.
 
 1845
 01:16:34,357 --> 01:16:36,393
-THX.
+Thx.
 
 1846
 01:16:37,893 --> 01:16:39,495
@@ -9737,3 +9737,4 @@ but now I can look like I was.
 2232
 01:31:57,513 --> 01:32:00,482
 (horrified yelling)
+

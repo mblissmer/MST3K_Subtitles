@@ -1,19 +1,19 @@
-1
+﻿1
 00:00:01,001 --> 00:00:03,536
 ♪ In the
 not-too-distant future ♪
 
 2
 00:00:03,536 --> 00:00:06,639
-♪ Way down in Deep 13 
+♪ Way down in Deep 13
 
 3
 00:00:06,639 --> 00:00:10,143
-♪ Dr. Forrester and TV's Frank 
+♪ Dr. Forrester and TV's Frank
 
 4
 00:00:10,143 --> 00:00:12,946
-♪ Were hatching an evil scheme 
+♪ Were hatching an evil scheme
 
 5
 00:00:12,946 --> 00:00:15,749
@@ -37,11 +37,11 @@ him in the noggin ♪
 
 9
 00:00:23,857 --> 00:00:28,862
-♪ And they shot him into space 
+♪ And they shot him into space
 
 10
 00:00:29,763 --> 00:00:31,531
-♪ We'll send him cheesy movies 
+♪ We'll send him cheesy movies
 
 11
 00:00:31,531 --> 00:00:34,734
@@ -70,7 +70,7 @@ begin or end, la la la ♪
 
 16
 00:00:47,113 --> 00:00:50,183
-♪ He'll try to keep his sanity 
+♪ He'll try to keep his sanity
 
 17
 00:00:50,183 --> 00:00:55,155
@@ -79,23 +79,23 @@ his robot friends ♪
 
 18
 00:00:55,955 --> 00:00:56,790
-♪ Robot roll call 
+♪ Robot roll call
 
 19
 00:00:56,790 --> 00:00:58,191
-♪ Cambot 
+♪ Cambot
 
 20
 00:00:58,191 --> 00:00:59,492
-♪ Gypsy 
+♪ Gypsy
 
 21
 00:00:59,492 --> 00:01:01,161
-♪ Tom Servo 
+♪ Tom Servo
 
 22
 00:01:01,161 --> 00:01:02,695
-♪ Crow 
+♪ Crow
 
 23
 00:01:02,695 --> 00:01:05,832
@@ -114,7 +114,7 @@ it's just a show ♪
 
 26
 00:01:12,038 --> 00:01:14,874
-♪ For should really just relax 
+♪ For should really just relax
 
 27
 00:01:14,874 --> 00:01:19,379
@@ -2322,7 +2322,7 @@ look out, look out!
 
 518
 00:20:52,451 --> 00:20:55,053
-♪ Leader of the pack 
+♪ Leader of the pack
 
 519
 00:20:55,053 --> 00:20:58,123
@@ -4891,7 +4891,7 @@ through that door.
 
 1087
 00:47:41,525 --> 00:47:43,861
-♪ To grandmother's house we go 
+♪ To grandmother's house we go
 
 1088
 00:47:43,861 --> 00:47:45,495
@@ -5622,7 +5622,7 @@ I'm only a head.
 
 1252
 00:54:29,866 --> 00:54:30,900
-♪ That can't say no 
+♪ That can't say no
 
 1253
 00:54:30,900 --> 00:54:32,602
@@ -6930,7 +6930,7 @@ Come on.
 
 1542
 01:06:49,872 --> 01:06:52,908
-♪ There's a place for us 
+♪ There's a place for us
 
 1543
 01:06:52,908 --> 01:06:55,544
@@ -7804,7 +7804,7 @@ imagined lay behind that door.
 
 1734
 01:14:50,018 --> 01:14:51,887
-♪ All the people, living 
+♪ All the people, living
 
 1735
 01:14:51,887 --> 01:14:53,355
@@ -8017,7 +8017,7 @@ it'll be safe, that's all.
 
 1782
 01:16:36,758 --> 01:16:38,093
-♪ Lefty won't open the door 
+♪ Lefty won't open the door
 
 1783
 01:16:38,093 --> 01:16:41,396
@@ -8477,7 +8477,7 @@ we're gonna make sweet love.
 
 1886
 01:21:40,095 --> 01:21:43,765
-♪ You don't bring me torsos 
+♪ You don't bring me torsos
 
 1887
 01:21:49,638 --> 01:21:53,275
@@ -9572,3 +9572,4 @@ been a presentation
 2127
 01:35:28,189 --> 01:35:29,890
 from Comedy Central.
+

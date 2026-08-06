@@ -1,4 +1,4 @@
-1
+﻿1
 00:00:00,000 --> 00:00:06,278
 In the not-too-distant future,
 somewhere in time and space,

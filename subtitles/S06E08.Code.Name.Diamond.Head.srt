@@ -1,4 +1,4 @@
-1
+﻿1
 00:00:01,100 --> 00:00:04,405
 THEME SONG: In the
 not-too-distant future way
@@ -220,7 +220,7 @@ Hmm.
 
 51
 00:02:14,068 --> 00:02:15,937
-[ALL SNIFFING]
+[All sniffing]
 
 52
 00:02:23,310 --> 00:02:24,278
@@ -465,7 +465,7 @@ toward the sun.
 
 107
 00:03:52,333 --> 00:03:53,233
--OK.
+-Ok.
 
 108
 00:03:53,267 --> 00:03:55,437
@@ -500,7 +500,7 @@ That thing's still moving!
 
 115
 00:04:06,947 --> 00:04:08,015
-[YELLING]
+[Yelling]
 
 116
 00:04:08,048 --> 00:04:09,250
@@ -549,11 +549,11 @@ Push the button, Frank.
 
 127
 00:04:28,703 --> 00:04:32,473
-[GARGLING]
+[Gargling]
 
 128
 00:04:32,507 --> 00:04:33,240
--OK.
+-Ok.
 
 129
 00:04:33,273 --> 00:04:34,207
@@ -571,7 +571,7 @@ the place up.
 
 132
 00:04:37,010 --> 00:04:37,945
-[BUZZING]
+[Buzzing]
 
 133
 00:04:37,978 --> 00:04:38,445
@@ -899,7 +899,7 @@ brush the calves' coats--
 
 206
 00:07:01,755 --> 00:07:02,722
--[GRUNTING]
+-[grunting]
 
 207
 00:07:02,755 --> 00:07:03,757
@@ -1501,7 +1501,7 @@ Boys take the stage.
 
 339
 00:11:35,428 --> 00:11:39,567
--[MUMBLED_SINGING]
+-[Mumbled_singing]
 
 340
 00:11:39,600 --> 00:11:41,835
@@ -1533,7 +1533,7 @@ polishes up the horns--
 
 346
 00:11:51,412 --> 00:11:53,447
--[MAKING_SQUEAKING_NOISES]
+-[making_squeaking_noises]
 
 347
 00:11:53,480 --> 00:11:55,950
@@ -1944,7 +1944,7 @@ a ride on The Whip.
 
 437
 00:15:01,268 --> 00:15:02,368
--[VOMITING_SOUNDS]
+-[Vomiting_sounds]
 
 438
 00:15:02,402 --> 00:15:05,405
@@ -1980,7 +1980,7 @@ the fun comes to an end.
 
 445
 00:15:19,318 --> 00:15:20,218
--[SINGING_INCOMPREHENSIBLY]
+-[Singing_incomprehensibly]
 
 446
 00:15:20,252 --> 00:15:22,923
@@ -2010,7 +2010,7 @@ Tonight on Generic TV Movie.
 
 452
 00:15:38,205 --> 00:15:42,208
-[THEME MUSIC PLAYING]
+[Theme music playing]
 
 453
 00:15:42,242 --> 00:15:45,445
@@ -3228,7 +3228,7 @@ to finish them.
 
 730
 00:25:42,575 --> 00:25:43,075
-OK?
+Ok?
 
 731
 00:25:43,108 --> 00:25:43,577
@@ -3477,7 +3477,7 @@ That's a done pop, OK?
 
 788
 00:26:54,547 --> 00:26:55,515
-[BOTH SOBBING]
+[Both sobbing]
 
 789
 00:26:55,548 --> 00:26:57,650
@@ -3494,7 +3494,7 @@ these magazines?
 
 792
 00:27:01,520 --> 00:27:03,890
-[BOTH SCREAM]
+[Both scream]
 
 793
 00:27:03,923 --> 00:27:05,292
@@ -3510,7 +3510,7 @@ Mm.
 
 796
 00:27:10,297 --> 00:27:16,435
-[THEME MUSIC PLAYING]
+[Theme music playing]
 
 797
 00:27:16,468 --> 00:27:17,970
@@ -3703,7 +3703,7 @@ Jackie Mason body.
 
 840
 00:28:32,945 --> 00:28:37,850
-[SINGING IN HAWAIIAN]
+[Singing in hawaiian]
 
 841
 00:28:37,883 --> 00:28:39,918
@@ -3716,7 +3716,7 @@ Man. [WHISTLES]
 
 843
 00:28:42,722 --> 00:28:47,727
--[NONSENSE_FAST_SINGING]
+-[Nonsense_fast_singing]
 
 844
 00:28:47,760 --> 00:28:50,363
@@ -3861,7 +3861,7 @@ So ask quiet, huh?
 
 877
 00:30:00,065 --> 00:30:01,833
-[WHISTLES]
+[Whistles]
 
 878
 00:30:01,867 --> 00:30:05,070
@@ -4543,7 +4543,7 @@ I do say so myself.
 
 1033
 00:35:51,617 --> 00:35:53,452
-[SNORING]
+[Snoring]
 
 1034
 00:35:58,958 --> 00:36:00,392
@@ -4797,7 +4797,7 @@ into an apartment.
 
 1091
 00:38:08,853 --> 00:38:10,757
-[MUFFLED]
+[Muffled]
 
 1092
 00:38:10,790 --> 00:38:12,858
@@ -4909,7 +4909,7 @@ at Beneficial.
 
 1116
 00:39:40,345 --> 00:39:42,815
-[SUSPENSEFUL MUSIC BUILDING]
+[Suspenseful music building]
 
 1117
 00:39:42,848 --> 00:39:43,348
@@ -4929,7 +4929,7 @@ I'm uncool!
 
 1121
 00:39:54,260 --> 00:39:57,663
-[IMITATING SUSPENSEFUL MUSIC]
+[Imitating suspenseful music]
 
 1122
 00:39:57,697 --> 00:40:00,065
@@ -5310,7 +5310,7 @@ poison, vaporized it--
 
 1207
 00:43:43,888 --> 00:43:47,158
-[THEME MUSIC PLAYING]
+[Theme music playing]
 
 1208
 00:43:49,662 --> 00:43:50,162
@@ -5404,7 +5404,7 @@ a Crash Test Dummy!
 
 1229
 00:44:19,925 --> 00:44:21,660
--[MUMBLED_SINGING]
+-[Mumbled_singing]
 
 1230
 00:44:21,693 --> 00:44:22,393
@@ -5412,7 +5412,7 @@ a Crash Test Dummy!
 
 1231
 00:44:22,427 --> 00:44:24,497
--[MUMBLED_SINGING]
+-[Mumbled_singing]
 
 1232
 00:44:24,530 --> 00:44:26,365
@@ -5420,7 +5420,7 @@ a Crash Test Dummy!
 
 1233
 00:44:26,398 --> 00:44:34,305
--[MUMBLED_SINGING]
+-[Mumbled_singing]
 
 1234
 00:44:34,338 --> 00:44:35,340
@@ -5465,11 +5465,11 @@ Just kidding.
 
 1244
 00:44:46,652 --> 00:44:50,088
-[BUZZING]
+[Buzzing]
 
 1245
 00:45:02,733 --> 00:45:04,235
--[SOBBING]
+-[Sobbing]
 
 1246
 00:45:04,268 --> 00:45:05,470
@@ -5713,8 +5713,8 @@ You do.
 
 1299
 00:46:48,773 --> 00:46:49,908
--[SINGING "THE
-GIRL FROM IPANEMA"]
+-[Singing "the
+girl from ipanema"]
 
 1300
 00:46:54,478 --> 00:46:57,917
@@ -5968,7 +5968,7 @@ to have trifocals.
 
 1358
 00:49:16,087 --> 00:49:17,322
-[PHONE RINGS]
+[Phone rings]
 
 1359
 00:49:17,355 --> 00:49:18,757
@@ -6702,7 +6702,7 @@ that kind of thing.
 
 1529
 00:55:37,935 --> 00:55:42,040
--[BLABBERING_INCOHERENTLY]
+-[Blabbering_incoherently]
 
 1530
 00:55:42,073 --> 00:55:43,875
@@ -6863,7 +6863,7 @@ over as fast as you can.
 
 1567
 00:57:12,230 --> 00:57:22,440
--[SINGING_JAZZY_THEME]
+-[Singing_jazzy_theme]
 
 1568
 00:57:22,473 --> 00:57:25,510
@@ -6958,7 +6958,7 @@ Help!
 
 1590
 00:58:20,465 --> 00:58:28,640
--[DOLPHIN_NOISES]
+-[Dolphin_noises]
 
 1591
 00:58:28,673 --> 00:58:30,708
@@ -7121,7 +7121,7 @@ Be careful.
 
 1629
 00:59:21,792 --> 00:59:26,097
--[MAKING_SHOE_SQUISHING_NOISES]
+-[Making_shoe_squishing_noises]
 
 1630
 00:59:26,130 --> 00:59:28,032
@@ -7134,7 +7134,7 @@ like Squiggy now.
 
 1632
 00:59:32,770 --> 00:59:36,040
--[SNEEZES]
+-[Sneezes]
 
 1633
 00:59:36,073 --> 00:59:37,008
@@ -7218,7 +7218,7 @@ Same time, same place.
 
 1652
 01:00:05,570 --> 01:00:07,005
-[THEME MUSIC PLAYING]
+[Theme music playing]
 
 1653
 01:00:11,875 --> 01:00:12,408
@@ -7677,7 +7677,7 @@ Debbie Johnson.
 
 1756
 01:03:36,813 --> 01:03:37,313
-OK.
+Ok.
 
 1757
 01:03:37,347 --> 01:03:38,715
@@ -8237,8 +8237,8 @@ Girls on standby.
 
 1883
 01:08:18,328 --> 01:08:19,430
-[ALL IMITATING
-SUSPENSEFUL MUSIC]
+[All imitating
+suspenseful music]
 
 1884
 01:08:23,600 --> 01:08:24,935
@@ -8271,8 +8271,8 @@ Hammer toes!
 
 1891
 01:08:47,390 --> 01:08:49,560
-[ALL HUMMING MC HAMMER -
-"YOU CAN'T TOUCH THIS"]
+[All humming mc hammer -
+"you can't touch this"]
 
 1892
 01:08:49,593 --> 01:08:50,360
@@ -8328,7 +8328,7 @@ to hear them go
 
 1904
 01:09:15,318 --> 01:09:19,757
-[IMITATING SUSPENSEFUL MUSIC]
+[imitating suspenseful music]
 
 1905
 01:09:19,790 --> 01:09:20,925
@@ -8545,7 +8545,7 @@ I couldn't--
 
 1953
 01:10:48,212 --> 01:10:48,878
--OK.
+-ok.
 
 1954
 01:10:48,912 --> 01:10:50,247
@@ -8575,7 +8575,7 @@ have to say that.
 
 1960
 01:11:12,335 --> 01:11:14,905
-[INTERPOSING VOICES]
+[Interposing voices]
 
 1961
 01:11:14,938 --> 01:11:19,343
@@ -8879,7 +8879,7 @@ powder for Grandma.
 
 2030
 01:14:04,842 --> 01:14:08,612
-[CAR TEARS OUT NOISILY]
+[Car tears out noisily]
 
 2031
 01:14:08,645 --> 01:14:10,980
@@ -8965,7 +8965,7 @@ he did return them.
 
 2049
 01:15:03,133 --> 01:15:08,538
--[IMITATING_SUSPENSEFUL_MUSIC]
+-[Imitating_suspenseful_music]
 
 2050
 01:15:08,572 --> 01:15:10,807
@@ -8974,7 +8974,7 @@ on a very special Ravi Shankar,
 
 2051
 01:15:10,840 --> 01:15:12,408
-PI.
+pi.
 
 2052
 01:15:12,442 --> 01:15:16,178
@@ -9431,7 +9431,7 @@ without virtue--
 
 2157
 01:19:05,008 --> 01:19:06,008
-[SNORING SOUNDS]
+[snoring sounds]
 
 2158
 01:19:06,042 --> 01:19:07,377
@@ -9492,7 +9492,7 @@ me to introduce myself.
 
 2171
 01:19:37,040 --> 01:19:41,243
-[THEME MUSIC]
+[Theme music]
 
 2172
 01:19:43,880 --> 01:19:44,447
@@ -9724,7 +9724,7 @@ a saloon in sight?
 
 2225
 01:21:46,102 --> 01:21:48,037
-[CHEERING AND LAUGHING]
+[Cheering and laughing]
 
 2226
 01:21:48,070 --> 01:21:48,572
@@ -9827,7 +9827,7 @@ money here, Mitchell!
 
 2249
 01:23:08,818 --> 01:23:12,188
-[GOOFY CHUCKLING]
+[Goofy chuckling]
 
 2250
 01:23:12,222 --> 01:23:13,623
@@ -9948,7 +9948,7 @@ I had that coming.
 
 2278
 01:24:15,083 --> 01:24:16,052
-[SIRENS]
+[Sirens]
 
 2279
 01:24:16,085 --> 01:24:18,053
@@ -9956,7 +9956,7 @@ I had that coming.
 
 2280
 01:24:18,087 --> 01:24:22,058
-[SIRENS]
+[Sirens]
 
 2281
 01:24:22,092 --> 01:24:24,527
@@ -10025,7 +10025,7 @@ It means you were incredible.
 
 2296
 01:24:52,222 --> 01:24:58,127
--[MAKING_LOUD_SQUEAKING_NOISE]
+-[Making_loud_squeaking_noise]
 
 2297
 01:24:58,160 --> 01:25:00,497
@@ -10071,7 +10071,7 @@ sorry I'm so fat for you.
 
 2307
 01:25:31,393 --> 01:25:32,327
-[PHONE RINGING]
+[Phone ringing]
 
 2308
 01:25:32,360 --> 01:25:35,030
@@ -10137,7 +10137,7 @@ formant has been destroyed.
 
 2323
 01:26:03,325 --> 01:26:04,392
-[IMITATING DIAL TONE]
+[Imitating dial tone]
 
 2324
 01:26:04,425 --> 01:26:05,962
@@ -10232,7 +10232,7 @@ be very impressed.
 
 2345
 01:26:42,965 --> 01:26:44,133
-[KNOCKING ON DOOR]
+[Knocking on door]
 
 2346
 01:26:44,167 --> 01:26:46,768
@@ -10336,7 +10336,7 @@ Ooh.
 
 2370
 01:27:29,145 --> 01:27:32,748
-[LAUGHING]
+[Laughing]
 
 2371
 01:27:32,782 --> 01:27:38,553
@@ -10532,7 +10532,7 @@ nice, Hawaiian punch?
 
 2416
 01:28:55,598 --> 01:28:56,065
--OK.
+-Ok.
 
 2417
 01:28:56,098 --> 01:28:56,865
@@ -10569,7 +10569,7 @@ Thanks a lot.
 
 2425
 01:29:04,973 --> 01:29:06,007
--OK.
+-Ok.
 
 2426
 01:29:06,040 --> 01:29:07,743
@@ -10610,7 +10610,7 @@ letter for a second.
 
 2434
 01:29:21,990 --> 01:29:23,960
-[MUMBLING] OK.
+[Mumbling] Ok.
 
 2435
 01:29:23,993 --> 01:29:25,260
@@ -10756,7 +10756,7 @@ We've got things to do.
 
 2467
 01:30:18,780 --> 01:30:22,752
-[ROBOTS SINGING]
+[Robots singing]
 
 2468
 01:30:22,785 --> 01:30:25,320
@@ -10831,14 +10831,16 @@ Clay?
 
 2484
 01:30:53,983 --> 01:31:04,027
-[THEME MUSIC PLAYING]
+[Theme music playing]
 
 2485
 01:31:04,027 --> 01:31:24,113
-[THEME MUSIC PLAYING]
+[Theme music playing]
 
 2486
 01:31:24,113 --> 01:31:44,133
 
+
 2487
 01:31:44,133 --> 01:31:54,043
+

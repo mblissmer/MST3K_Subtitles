@@ -1,139 +1,139 @@
-1
+﻿1
 00:00:01,201 --> 00:00:04,605
-♪ IN THE NOT-TOO-DISTANT
-FUTURE ♪
+♪ In the not-too-distant
+future ♪
 
 2
 00:00:04,605 --> 00:00:07,474
-♪ SOMEWHERE IN TIME
-AND SPACE ♪
+♪ somewhere in time
+and space ♪
 
 3
 00:00:07,474 --> 00:00:10,711
-♪ MIKE NELSON
-AND HIS ROBOT PALS ♪
+♪ mike nelson
+and his robot pals ♪
 
 4
 00:00:10,711 --> 00:00:13,747
-♪ ARE CAUGHT IN
-AN ENDLESS CHASE ♪
+♪ are caught in
+an endless chase ♪
 
 5
 00:00:13,747 --> 00:00:16,783
-♪ PURSUED BY A WOMAN
-WHOSE NAME IS PEARL ♪
+♪ pursued by a woman
+whose name is pearl ♪
 
 6
 00:00:16,783 --> 00:00:19,987
-♪ AN EVIL GAL WHO WANTS
-TO RULE THE WORLD ♪
+♪ an evil gal who wants
+to rule the world ♪
 
 7
 00:00:19,987 --> 00:00:22,890
-♪ SHE THREW A FEW THINGS
-IN HER PURSE ♪
+♪ she threw a few things
+in her purse ♪
 
 8
 00:00:22,890 --> 00:00:24,558
-♪ AND IN HER ROCKET SHIP
-SHE HUNTS HIM ♪
+♪ and in her rocket ship
+she hunts him ♪
 
 9
 00:00:24,558 --> 00:00:26,560
-♪ ALL ACROSS THE UNIVERSE ♪
+♪ all across the universe ♪
 
 10
 00:00:26,560 --> 00:00:29,363
-[PEARL]
-I’LL GET YOU!
+[Pearl]
+I’ll get you!
 
 11
 00:00:29,363 --> 00:00:32,232
-♪ I’LL SEND HIM
-CHEESY MOVIES ♪
+♪ I’ll send him
+cheesy movies ♪
 
 12
 00:00:32,232 --> 00:00:35,769
-♪ THE WORST I CAN FIND--
-LA LA LA ♪
+♪ the worst I can find--
+la la la ♪
 
 13
 00:00:35,769 --> 00:00:38,639
-♪ HE’LL HAVE TO SIT
-AND WATCH THEM ALL ♪
+♪ he’ll have to sit
+and watch them all ♪
 
 14
 00:00:38,639 --> 00:00:41,775
-♪ AND I’LL MONITOR HIS MIND--
-LA LA LA ♪
+♪ and i’ll monitor his mind--
+la la la ♪
 
 15
 00:00:41,775 --> 00:00:44,645
-♪ NOW KEEP IN MIND,
-MIKE CAN’T CONTROL ♪
+♪ now keep in mind,
+mike can’t control ♪
 
 16
 00:00:44,645 --> 00:00:48,148
-♪ WHERE THE MOVIES BEGIN
-OR END-- LA LA LA ♪
+♪ where the movies begin
+or end-- la la la ♪
 
 17
 00:00:48,148 --> 00:00:51,084
-♪ HE’LL TRY TO KEEP
-HIS SANITY ♪
+♪ he’ll try to keep
+his sanity ♪
 
 18
 00:00:51,084 --> 00:00:53,553
-♪ WITH THE HELP
-OF HIS ROBOT FRIENDS ♪
+♪ with the help
+of his robot friends ♪
 
 19
 00:00:56,156 --> 00:00:57,524
-♪ ROBOT ROLL CALL ♪
+♪ robot roll call ♪
 
 20
 00:00:57,524 --> 00:00:59,226
-YOU’RE ON!
+You’re on!
 
 21
 00:00:59,226 --> 00:01:00,427
-OH, MY STARS!
+Oh, my stars!
 
 22
 00:01:00,427 --> 00:01:02,095
-CHECK ME OUT!
+Check me out!
 
 23
 00:01:02,095 --> 00:01:03,563
-I’M DIFFERENT!
+I’m different!
 
 24
 00:01:03,563 --> 00:01:04,998
-♪ IF YOU’RE WONDERING HOW ♪
+♪ If you’re wondering how ♪
 
 25
 00:01:04,998 --> 00:01:06,700
-♪ HE EATS AND BREATHES ♪
+♪ he eats and breathes ♪
 
 26
 00:01:06,700 --> 00:01:09,870
-♪ AND OTHER SCIENCE FACTS--
-LA LA LA ♪
+♪ and other science facts--
+la la la ♪
 
 27
 00:01:09,870 --> 00:01:12,673
-♪ JUST REPEAT TO YOURSELF,
-"IT’S JUST A SHOW ♪
+♪ just repeat to yourself,
+"it’s just a show ♪
 
 28
 00:01:12,673 --> 00:01:15,976
-♪ I SHOULD REALLY
-JUST RELAX" ♪
+♪ I should really
+just relax" ♪
 
 29
 00:01:15,976 --> 00:01:19,046
-♪ FOR MYSTERY
- SCIENCE THEATER ♪
+♪ for mystery
+science theater ♪
 
 30
 00:01:19,046 --> 00:01:22,549
@@ -141,129 +141,129 @@ JUST RELAX" ♪
 
 31
 00:01:35,929 --> 00:01:38,498
-MM, HI EVERYONE.
-CROW, SERVO, GLAD YOU’RE HERE.
+Mm, hi everyone.
+Crow, servo, glad you’re here.
 
 32
 00:01:38,498 --> 00:01:40,701
-JUST GOT THIS, UH,
-NOTICE FROM GYPSY.
+Just got this, uh,
+notice from gypsy.
 
 33
 00:01:40,701 --> 00:01:44,371
-- APPARENTLY SHE’S GOTTA WORK ON
-THE MAIN SWITCHING UNIT.
-- HUH.
+- Apparently she’s gotta work on
+the main switching unit.
+- Huh.
 
 34
 00:01:44,371 --> 00:01:46,473
-I DON’T KNOW.
-SO IN A COUPLE OF MINUTES,
-THE POWER’S GOING TO GO DOWN.
+I don’t know.
+So in a couple of minutes,
+the power’s going to go down.
 
 35
 00:01:46,473 --> 00:01:47,741
-- YES!
-- WOOHOO!
+- Yes!
+- Woohoo!
 
 36
 00:01:47,741 --> 00:01:49,509
-HEY, HEY, HEY! I KNOW
-WHAT YOU’RE THINKING,
+Hey, hey, hey! I know
+what you’re thinking,
 
 37
 00:01:49,509 --> 00:01:51,278
-AND NO LOOTING THIS TIME.
-YOU UNDERSTAND?
+and no looting this time.
+You understand?
 
 38
 00:01:51,278 --> 00:01:52,379
-[SWITCH CLICKS]
+[Switch clicks]
 
 39
 00:01:52,379 --> 00:01:53,847
-- WOW!
-- WOOHOO!
+- Wow!
+- Woohoo!
 
 40
 00:01:53,847 --> 00:01:57,117
-[GLASS SHATTERING]
+[Glass shattering]
 
 41
 00:01:57,117 --> 00:01:59,386
-[CLATTERING]
+[Clattering]
 
 42
 00:02:03,724 --> 00:02:05,993
-[SWITCH CLICKS]
+[Switch clicks]
 
 43
 00:02:05,993 --> 00:02:07,561
-ALL RIGHT,
-WHAT DID YOU LOOT?
+All right,
+what did you loot?
 
 44
 00:02:07,561 --> 00:02:09,096
-WELL, I BROKE INTO
-MY OWN ROOM,
+Well, I broke into
+my own room,
 
 45
 00:02:09,096 --> 00:02:11,164
-AND MANAGED TO GET AWAY
-WITH MY TV.
+and managed to get away
+with my tv.
 
 46
 00:02:11,164 --> 00:02:13,800
-[CHUCKLES]
-I’LL NEVER MISS IT.
+[Chuckles]
+I’ll never miss it.
 
 47
 00:02:13,800 --> 00:02:15,235
-OKAY. TOM?
+Okay. Tom?
 
 48
 00:02:15,235 --> 00:02:17,671
-AH, WELL, I THREW A MANNEQUIN
-THROUGH YOUR WINDOW, MIKE--
+Ah, well, I threw a mannequin
+through your window, mike--
 
 49
 00:02:17,671 --> 00:02:19,639
-WAIT, WAIT, WAIT.
-WHERE’D YOU GET A MANNEQUIN?
+wait, wait, wait.
+Where’d you get a mannequin?
 
 50
 00:02:19,639 --> 00:02:21,675
-WELL, I KEEP ONE
-FOR POWER OUTAGES.
+Well, I keep one
+for power outages.
 
 51
 00:02:21,675 --> 00:02:22,976
-ANYWAY, THREW IT
-THROUGH YOUR WINDOW,
+Anyway, threw it
+through your window,
 
 52
 00:02:22,976 --> 00:02:25,312
-MANAGED TO GET AWAY
-WITH YOUR RECYCLING HERE.
+managed to get away
+with your recycling here.
 
 53
 00:02:25,312 --> 00:02:27,547
-I’M NOT A VERY GOOD
-LOOTER, AM I?
+I’m not a very good
+looter, am I?
 
 54
 00:02:27,547 --> 00:02:28,815
-- NO, NO YOU’RE NOT.
-- NO.
+- No, no you’re not.
+- No.
 
 55
 00:02:28,815 --> 00:02:30,050
-WE’LL BE RIGHT BACK.
+We’ll be right back.
 
 56
 00:02:30,050 --> 00:02:32,753
-IF IT GOES OUT AGAIN,
-I’M GRABBING MY BLENDER.
+If it goes out again,
+i’m grabbing my blender.
 
 57
 00:02:36,223 --> 00:02:40,827
@@ -271,339 +271,339 @@ I’M GRABBING MY BLENDER.
 
 58
 00:02:40,827 --> 00:02:44,197
-[GLASS SHATTERING]
+[Glass shattering]
 
 59
 00:02:44,197 --> 00:02:45,465
-ALL RIGHT,
-WHAT DID YOU LOOT NOW?
+All right,
+what did you loot now?
 
 60
 00:02:45,465 --> 00:02:47,501
-LOOT? NO, NO LOOTING.
+Loot? No, no looting.
 
 61
 00:02:47,501 --> 00:02:49,870
-I JUST ACCIDENTALLY
-DROPPED AN ANVIL INTO YOUR BOX
+I just accidentally
+dropped an anvil into your box
 
 62
 00:02:49,870 --> 00:02:51,271
-OF COMMEMORATIVE PLATES
+of commemorative plates
 
 63
 00:02:51,271 --> 00:02:53,273
-OH, HEY LOOK.
-PEARL’S CALLING.
+oh, hey look.
+Pearl’s calling.
 
 64
 00:02:53,273 --> 00:02:55,976
-WANNA GET THAT?
+Wanna get that?
 
 65
 00:02:55,976 --> 00:03:00,614
-AND THEN
-I WILL RULE THE WORLD!
+And then
+I will rule the world!
 
 66
 00:03:02,249 --> 00:03:04,518
-[LAUGHS]
+[Laughs]
 
 67
 00:03:04,518 --> 00:03:07,287
-THAT NEEDS A LITTLE BACKGROUND,
-DOESN’T IT?
+That needs a little background,
+doesn’t it?
 
 68
 00:03:07,287 --> 00:03:10,190
-THE DEAL IS, SMELLSON,
-I’M GOING TO RULE THE WORLD.
+The deal is, smellson,
+i’m going to rule the world.
 
 69
 00:03:10,190 --> 00:03:11,792
-BUT YOU DON’T RULE THE WORLD
+But you don’t rule the world
 
 70
 00:03:11,792 --> 00:03:13,927
-BY GOING AT IT
-ALL SCATTERSHOT.
+by going at it
+all scattershot.
 
 71
 00:03:13,927 --> 00:03:17,898
-NOPE, SLOW AND STEADY
-WINS THE RACE, OLD NUT.
+Nope, slow and steady
+wins the race, old nut.
 
 72
 00:03:17,898 --> 00:03:20,300
-SO, I’M GOING TO RULE
-THE WORLD,
+So, i’m going to rule
+the world,
 
 73
 00:03:20,300 --> 00:03:21,802
-BUT I’M GOING TO DO IT
+but i’m going to do it
 
 74
 00:03:21,802 --> 00:03:25,539
-ONE PERSON AT A TIME.
+one person at a time.
 
 75
 00:03:25,539 --> 00:03:28,341
-[LAUGHS]
+[Laughs]
 
 76
 00:03:28,341 --> 00:03:29,676
-NOW, WHO’S FIRST?
+Now, who’s first?
 
 77
 00:03:29,676 --> 00:03:31,178
-HERE...
+Here...
 
 78
 00:03:31,178 --> 00:03:33,246
-A MR. TODD GUNDERSON, MA’AM.
+A mr. Todd gunderson, ma’am.
 
 79
 00:03:33,246 --> 00:03:35,482
-AH, GUNDERSON EH?
+Ah, gunderson eh?
 
 80
 00:03:35,482 --> 00:03:36,783
-UH, TODD’S FINE.
+Uh, todd’s fine.
 
 81
 00:03:36,783 --> 00:03:38,885
-TODD. TODD, GOOD.
+Todd. Todd, good.
 
 82
 00:03:38,885 --> 00:03:41,021
-WELL, TODD...
+Well, todd...
 
 83
 00:03:41,021 --> 00:03:43,857
-WHAT DO YOU SAY? CAN I RULE YOU?
-CAN I? HUH? CAN I?
+What do you say? Can I rule you?
+Can I? Huh? Can I?
 
 84
 00:03:43,857 --> 00:03:46,093
-RULE ME? UH, NO.
+Rule me? Uh, no.
 
 85
 00:03:46,093 --> 00:03:47,494
-PLEASE?
+Please?
 
 86
 00:03:47,494 --> 00:03:51,331
-NO!
+No!
 
 87
 00:03:51,331 --> 00:03:53,934
-WHAT IF I SAID I’D KILL YOU
-IF YOU DIDN’T LET ME?
+What if I said i’d kill you
+if you didn’t let me?
 
 88
 00:03:53,934 --> 00:03:57,304
-UH, I’M SORRY, I REALLY
-DON’T FEEL THAT THREATENED.
+Uh, i’m sorry, I really
+don’t feel that threatened.
 
 89
 00:03:57,304 --> 00:03:59,106
-GET OUT OF HERE.
+Get out of here.
 
 90
 00:03:59,106 --> 00:04:01,374
-NEXT.
+Next.
 
 91
 00:04:01,374 --> 00:04:03,777
-A MR. TOM SERVO, MA’AM.
+A mr. Tom servo, ma’am.
 
 92
 00:04:03,777 --> 00:04:05,378
-HEY, GUYS! HERE I AM!
+Hey, guys! Here I am!
 
 93
 00:04:05,378 --> 00:04:07,114
-HEY, GLAD TO HELP.
+Hey, glad to help.
 
 94
 00:04:09,416 --> 00:04:10,684
-[TOGETHER]
-SERVO?
+[Together]
+Servo?
 
 95
 00:04:10,684 --> 00:04:13,353
-YUP, IT’S ME.
-BRAIN-GUY BROUGHT ME DOWN.
+Yup, it’s me.
+Brain-guy brought me down.
 
 96
 00:04:13,353 --> 00:04:16,256
-MY NAME WAS NEXT ON THE LIST.
-TOTALLY RANDOM! IT’S WEIRD.
+My name was next on the list.
+Totally random! It’s weird.
 
 97
 00:04:16,256 --> 00:04:19,860
-SO, TOM SERVO,
-WHAT DO YOU SAY? CAN--
+So, tom servo,
+what do you say? Can--
 
 98
 00:04:19,860 --> 00:04:20,927
-WHAT? WHAT? WHAT?
+what? What? What?
 
 99
 00:04:20,927 --> 00:04:22,863
-DON’T I KNOW YOU
-FROM SOMEWHERE?
+Don’t I know you
+from somewhere?
 
 100
 00:04:22,863 --> 00:04:24,898
-IT COULD BE.
-I DO GET AROUND.
+It could be.
+I do get around.
 
 101
 00:04:24,898 --> 00:04:28,301
-THE TOM JONES THEATER
-IN BRANSON, MISSOURI.
+The tom jones theater
+in branson, missouri.
 
 102
 00:04:28,301 --> 00:04:31,004
-YOU TRIED TO STEAL MY PURSE,
-AND I BEAT YOU WITHIN--
+You tried to steal my purse,
+and I beat you within--
 
 103
 00:04:31,004 --> 00:04:33,607
-NO, NO, NO. MUST HAVE BEEN
-SOME OTHER LUCKY GUY.
+no, no, no. Must have been
+some other lucky guy.
 
 104
 00:04:33,607 --> 00:04:36,042
-WELL, IT’S NOT IMPORTANT.
+Well, it’s not important.
 
 105
 00:04:36,042 --> 00:04:37,477
-CAN I RULE YOU?
+Can I rule you?
 
 106
 00:04:37,477 --> 00:04:40,380
-SORRY, BABY.
-NOBODY RULES THE TOM MONSTER.
+Sorry, baby.
+Nobody rules the tom monster.
 
 107
 00:04:40,380 --> 00:04:43,416
-DAMN, YOUR DEFENSES
-ARE IMPENETRABLE.
+Damn, your defenses
+are impenetrable.
 
 108
 00:04:43,416 --> 00:04:46,219
-BRAIN-GUY, SEND MIKE THE MOVIE
-WHILE I FIGURE OUT
+Brain-guy, send mike the movie
+while I figure out
 
 109
 00:04:46,219 --> 00:04:47,921
-THIS WHOLE
-WORLD RULING THING.
+this whole
+world ruling thing.
 
 110
 00:04:47,921 --> 00:04:50,790
-CERTAINLY. MIKE,
-YOUR MOVIE TODAY IS,
+Certainly. Mike,
+your movie today is,
 
 111
 00:04:50,790 --> 00:04:53,026
-IF ONE CAN MEASURE
-THESE THINGS,
+if one can measure
+these things,
 
 112
 00:04:53,026 --> 00:04:55,929
-THE WORSE THING TO EVER
-COME OUT OF CANADA.
+the worse thing to ever
+come out of canada.
 
 113
 00:04:55,929 --> 00:04:58,165
-- WHOA.
-- IT’S CALLED
- THE FINAL SACRIFICE.
+- Whoa.
+- It’s called
+the final sacrifice.
 
 114
 00:04:58,165 --> 00:05:00,734
- [WOBBLY DIGITAL SOUND]
+[Wobbly digital sound]
 
 115
 00:05:00,734 --> 00:05:02,169
-UH, MA’AM, MAY I HAVE THE ROBOT?
+Uh, ma’am, may I have the robot?
 
 116
 00:05:02,169 --> 00:05:04,137
-- OH, YES, OF COURSE.
-- THEY NEED HIM FOR THE MOVIE.
+- Oh, yes, of course.
+- They need him for the movie.
 
 117
 00:05:04,137 --> 00:05:05,872
-SO LONG, TOOTS.
-TAKE ME UP, CURLY.
+So long, toots.
+Take me up, curly.
 
 118
 00:05:05,872 --> 00:05:08,608
-CURLY? WHY, I NEVER...
+Curly? Why, I never...
 
 119
 00:05:12,078 --> 00:05:14,014
-[PANTING]
+[Panting]
 
 120
 00:05:17,117 --> 00:05:19,619
-HERE I AM, GUYS! GUYS?
+Here I am, guys! Guys?
 
 121
 00:05:19,619 --> 00:05:20,754
-[MIKE]
-WE’RE IN THE THEATRE.
+[Mike]
+We’re in the theatre.
 
 122
 00:05:20,754 --> 00:05:23,423
-- [GRUNTS]
-- COME ON, DUMMY!
+- [Grunts]
+- Come on, dummy!
 
 123
 00:05:35,969 --> 00:05:37,671
-OH, ME, I DON’T GIVE
-A FLYING DUTCHMAN
+Oh, me, I don’t give
+a flying dutchman
 
 124
 00:05:37,671 --> 00:05:38,872
-ABOUT THIS PRODUCTION.
+about this production.
 
 125
 00:05:43,310 --> 00:05:46,746
-HUH, I UNDERSTAND EVERYTHING
-UP TO THE WORD "A."
+Huh, I understand everything
+up to the word "a."
 
 126
 00:05:46,746 --> 00:05:49,649
-HE COMES FROM
-A LONG LINE OF GREIDANUSES.
+He comes from
+a long line of greidanuses.
 
 127
 00:05:51,585 --> 00:05:54,821
-[MOUTH ECHOES]
+[Mouth echoes]
 
 128
 00:05:57,424 --> 00:06:00,660
-HOORAY! THE MOVIE’S CLOSED TODAY
-BECAUSE OF SNOW!
+Hooray! The movie’s closed today
+because of snow!
 
 129
 00:06:00,660 --> 00:06:02,762
-[CROW CAWING]
+[Crow cawing]
 
 130
 00:06:02,762 --> 00:06:06,166
-THINK MAYBE THIS IS
-A DOCUMENTARY ABOUT MAPLE SYRUP?
+Think maybe this is
+a documentary about maple syrup?
 
 131
 00:06:09,436 --> 00:06:13,340
-YOU BROUGHT THE FACEMASK,
-YOU NUT.
+You brought the facemask,
+you nut.
 
 132
 00:06:13,340 --> 00:06:16,009
@@ -612,532 +612,532 @@ HIS BIORé STRIP.
 
 133
 00:06:20,847 --> 00:06:24,684
-[HUMMING, BEATBOXING]
+[Humming, beatboxing]
 
 134
 00:06:24,684 --> 00:06:28,255
-I THINK THE MOVIE’S
-GOING REALLY WELL.
+I think the movie’s
+going really well.
 
 135
 00:06:28,255 --> 00:06:30,090
-YEAH.
+Yeah.
 
 136
 00:06:30,090 --> 00:06:31,291
-DON’T WORRY ABOUT ME, BOSS.
+Don’t worry about me, boss.
 
 137
 00:06:31,291 --> 00:06:33,960
-THE HAIR ON MY BACK
-IS KEEPING ME WARM.
+The hair on my back
+is keeping me warm.
 
 138
 00:06:33,960 --> 00:06:35,662
-YEAH.
+Yeah.
 
 139
 00:06:39,499 --> 00:06:42,902
-BETH PLUS JASON.
+Beth plus jason.
 
 140
 00:06:42,902 --> 00:06:45,105
-RAY DAVIES?
+Ray davies?
 
 141
 00:06:50,610 --> 00:06:54,581
-UGH, AH MAN, I DON’T KNOW.
-I SLEPT WEIRD. UGH.
+Ugh, ah man, I don’t know.
+I slept weird. Ugh.
 
 142
 00:07:02,055 --> 00:07:04,791
-BIGFOOT FOR
-WRANGLER RELAXED FIT.
+Bigfoot for
+wrangler relaxed fit.
 
 143
 00:07:08,695 --> 00:07:12,299
-RANDY BACHMAN IS BEING PURSUED
-BY SADOMASOCHISTS.
+Randy bachman is being pursued
+by sadomasochists.
 
 144
 00:07:16,436 --> 00:07:18,972
-[GULPING]
+[Gulping]
 
 145
 00:07:18,972 --> 00:07:22,375
-NO FAIR, YOU GUYS,
-I LOST MY MOON BOOTS.
+No fair, you guys,
+I lost my moon boots.
 
 146
 00:07:26,346 --> 00:07:29,983
-MY FACE IS WARM,
-BUT MY SHOULDERS ARE FREEZING.
+My face is warm,
+but my shoulders are freezing.
 
 147
 00:07:36,456 --> 00:07:39,659
-NOBODY LEAVES
-THE WORLD WRESTLING FEDERATION.
+Nobody leaves
+the world wrestling federation.
 
 148
 00:07:41,594 --> 00:07:44,731
-COME BACK HERE,
-SYRUP RUSTLER!
+Come back here,
+syrup rustler!
 
 149
 00:07:48,501 --> 00:07:51,204
-THAT’S HIS WINTER TANK-TOP.
+That’s his winter tank-top.
 
 150
 00:07:55,041 --> 00:07:57,277
-CANADIAN RULES FOOTBALL
-IS MUCH DIFFERENT.
+Canadian rules football
+is much different.
 
 151
 00:07:57,277 --> 00:08:00,547
-YEAH, MAN.
+Yeah, man.
 
 152
 00:08:00,547 --> 00:08:03,783
-I DON’T KNOW, I’M JUST HAPPY.
+I don’t know, i’m just happy.
 
 153
 00:08:06,319 --> 00:08:10,657
-AH, I FORGOT A MOUTH HOLE.
+Ah, I forgot a mouth hole.
 
 154
 00:08:10,657 --> 00:08:14,027
-BEETHOVEN’S FIFTH JUST
-CAN’T GET STARTED, HERE.
+Beethoven’s fifth just
+can’t get started, here.
 
 155
 00:08:18,231 --> 00:08:20,533
-HI, CINDY.
+Hi, cindy.
 
 156
 00:08:24,938 --> 00:08:26,139
-[GUNSHOT]
+[Gunshot]
 
 157
 00:08:26,139 --> 00:08:28,274
-OH, HE EXPLODED BEFORE
-THEY COULD SHOOT HIM.
+Oh, he exploded before
+they could shoot him.
 
 158
 00:08:28,274 --> 00:08:29,409
-OH.
+Oh.
 
 159
 00:08:32,278 --> 00:08:34,614
-HE CHANGED HIS NAME FROM
-I BELIEVE IN SOMETHING,
+He changed his name from
+I believe in something,
 
 160
 00:08:34,614 --> 00:08:37,083
-BUT I DON’T REALLY
-GO TO CHURCH MALCOLM.
+but I don’t really
+go to church malcolm.
 
 161
 00:08:39,619 --> 00:08:44,023
-OH, GREAT,
-THE SCORE IS SKIPPING.
+Oh, great,
+the score is skipping.
 
 162
 00:08:44,023 --> 00:08:46,493
-OH, COME ON! ONE MORE SACRIFICE
-BEFORE WE GO!
+Oh, come on! One more sacrifice
+before we go!
 
 163
 00:08:46,493 --> 00:08:48,795
-OKAY, BUT THIS IS
-THE FINAL SACRIFICE!
+Okay, but this is
+the final sacrifice!
 
 164
 00:08:48,795 --> 00:08:50,463
-GOODIE, GOODIE.
+Goodie, goodie.
 
 165
 00:08:53,500 --> 00:08:57,404
-GO AWAY, SHANE. GO AWAY!
+Go away, shane. Go away!
 
 166
 00:08:57,404 --> 00:08:59,372
-HEY, RON ANDERSON HERE,
-JUST GOTTA NIP DOWN
+Hey, ron anderson here,
+just gotta nip down
 
 167
 00:08:59,372 --> 00:09:03,009
-AND MAKE THAT MOVIE
-REAL GOOD THEN.
+and make that movie
+real good then.
 
 168
 00:09:03,009 --> 00:09:05,612
-THAT’S AN ILLEGAL USE
-OF A SILENT CONSONANT.
+That’s an illegal use
+of a silent consonant.
 
 169
 00:09:08,314 --> 00:09:10,984
-YOU KNOW WHAT, THIS HAS THE
-BACONEY STINK OF CANADA
+You know what, this has the
+baconey stink of canada
 
 170
 00:09:10,984 --> 00:09:13,119
-- ALL OVER IT.
-- ALREADY.
+- all over it.
+- Already.
 
 171
 00:09:14,921 --> 00:09:17,991
-[HUMMING]
+[Humming]
 
 172
 00:09:17,991 --> 00:09:21,661
-I AM ZOMBOR. KELLY ZOMBOR.
+I am zombor. Kelly zombor.
 
 173
 00:09:28,301 --> 00:09:31,137
-I HOPE HIS WOODEN SHOES
-GET ICED UP AND HE CRASHES.
+I hope his wooden shoes
+get iced up and he crashes.
 
 174
 00:09:31,137 --> 00:09:32,772
-YEAH.
+Yeah.
 
 175
 00:09:32,772 --> 00:09:36,242
-THAT’S AN ANAGRAM FOR
-"DIRECT TO VIDEO."
+That’s an anagram for
+"direct to video."
 
 176
 00:09:39,079 --> 00:09:40,780
-SEVEN YEARS
-AFTER THE CREDITS?
+Seven years
+after the credits?
 
 177
 00:09:40,780 --> 00:09:43,316
-I-- I GUESS.
+I-- I guess.
 
 178
 00:09:45,251 --> 00:09:47,954
-WELL.
+Well.
 
 179
 00:09:47,954 --> 00:09:49,556
-YOU KNOW WHAT, PEOPLE
-ARE JUST DYING TO--
+You know what, people
+are just dying to--
 
 180
 00:09:49,556 --> 00:09:51,758
-NO!
+no!
 
 181
 00:09:51,758 --> 00:09:53,560
-SORRY.
+Sorry.
 
 182
 00:09:53,560 --> 00:09:55,361
-WELL, I BETTER GET BACK
-TO MY GRAVE.
+Well, I better get back
+to my grave.
 
 183
 00:09:55,361 --> 00:09:58,264
-SUN’S BEEN UP AN HOUR,
-I’M STARTING TO DISINTEGRATE.
+Sun’s been up an hour,
+i’m starting to disintegrate.
 
 184
 00:10:02,402 --> 00:10:03,837
-HE WAS A GOOD HAMSTER.
+He was a good hamster.
 
 185
 00:10:03,837 --> 00:10:05,738
-HELLO, DAD.
+Hello, dad.
 
 186
 00:10:05,738 --> 00:10:08,041
-IT’S BEEN A LONG TIME.
+It’s been a long time.
 
 187
 00:10:08,041 --> 00:10:10,310
-I MISS YOU.
+I miss you.
 
 188
 00:10:10,310 --> 00:10:12,011
-I WANT TO KNOW
-WHAT HAPPENED TO YOU.
+I want to know
+what happened to you.
 
 189
 00:10:12,011 --> 00:10:15,482
-I DIED.
+I died.
 
 190
 00:10:15,482 --> 00:10:17,517
-WHAT?
+What?
 
 191
 00:10:17,517 --> 00:10:21,621
-OH, A MAUSOLEUM WITH
-A FINISHED EXPANSION UPSTAIRS.
+Oh, a mausoleum with
+a finished expansion upstairs.
 
 192
 00:10:25,859 --> 00:10:27,327
-OH, THIS IS WHERE
-THEY GET ALL THE STUFF
+Oh, this is where
+they get all the stuff
 
 193
 00:10:27,327 --> 00:10:29,796
-TO PUT IN T.G.I. FRIDAYS.
+to put in t.G.I. Fridays.
 
 194
 00:10:33,299 --> 00:10:35,735
-HOW MANY GEEKS DOES IT TAKE
-TO SCREW IN A LIGHT BULB?
+How many geeks does it take
+to screw in a light bulb?
 
 195
 00:10:35,735 --> 00:10:37,070
-HOW MANY?
+How many?
 
 196
 00:10:37,070 --> 00:10:40,740
-I DON’T KNOW.
-THAT WHY I’M ASKING YOU?
+I don’t know.
+That why i’m asking you?
 
 197
 00:10:40,740 --> 00:10:43,343
-[SIGHS]
+[Sighs]
 
 198
 00:10:43,343 --> 00:10:46,980
-MAN, HE IS JUST POURED
-INTO THAT SWEATER.
+Man, he is just poured
+into that sweater.
 
 199
 00:10:50,083 --> 00:10:52,485
-THIS SCENE WAS LIT
-BY AN ITTY-BITTY BOOK LIGHT.
+This scene was lit
+by an itty-bitty book light.
 
 200
 00:10:56,789 --> 00:10:58,424
-THIS IS WHERE
-I’VE SECRETED AWAY
+This is where
+i’ve secreted away
 
 201
 00:10:58,424 --> 00:11:00,159
-ALL MY RED SWEATERS.
+all my red sweaters.
 
 202
 00:11:02,028 --> 00:11:03,530
-OH, BOY.
+Oh, boy.
 
 203
 00:11:03,530 --> 00:11:06,432
-HE’S GOING TO FIND OUT
-HIS DAD IS A RODEO CLOWN.
+He’s going to find out
+his dad is a rodeo clown.
 
 204
 00:11:11,538 --> 00:11:14,607
-I DON’T CARE IF I’M TOO OLD,
-I’M GETTING MY BATMAN PAJAMAS
+I don’t care if i’m too old,
+i’m getting my batman pajamas
 
 205
 00:11:14,607 --> 00:11:16,042
-BACK OUT OF HERE.
+back out of here.
 
 206
 00:11:19,679 --> 00:11:22,615
-HE WAS MADE IN THE IMAGE
-OF AN EGG NOODLE.
+He was made in the image
+of an egg noodle.
 
 207
 00:11:24,484 --> 00:11:27,020
-WELL, IF I’M GOING TO BE
-A VENTRILOQUIST DUMMY,
+Well, if i’m going to be
+a ventriloquist dummy,
 
 208
 00:11:27,020 --> 00:11:29,789
-I BETTER LEARN HOW TO LIVE
-IN THIS TRUNK.
+I better learn how to live
+in this trunk.
 
 209
 00:11:35,295 --> 00:11:37,263
-[GRUNTS]
+[Grunts]
 
 210
 00:11:39,332 --> 00:11:42,802
-NOW I’M GOING TO SETTLE IN
-WITH THE BOOK OF MORMON.
+Now i’m going to settle in
+with the book of mormon.
 
 211
 00:11:49,042 --> 00:11:50,543
-LARRY CSONKA!
+Larry csonka!
 
 212
 00:11:57,517 --> 00:12:00,353
-[SNIFFS]
-OOH, SHOULDN’T HAVE FILED
-THAT SANDWICH.
+[Sniffs]
+Ooh, shouldn’t have filed
+that sandwich.
 
 213
 00:12:02,922 --> 00:12:06,593
-I’VE GOT TO FIND THE WARRANTEE
-ON THIS SWEATER.
+I’ve got to find the warrantee
+on this sweater.
 
 214
 00:12:13,232 --> 00:12:17,136
-♪ AND I WILL BE THE ONE
-TO HOLD LARRY CSONKA DOWN ♪
+♪ And I will be the one
+to hold larry csonka down ♪
 
 215
 00:12:17,136 --> 00:12:18,771
-♪ KISS HIM SO HARD ♪
+♪ kiss him so hard ♪
 
 216
 00:12:18,771 --> 00:12:21,474
-♪ I’LL TAKE LARRY CSONKA’S
-BREATH AWAY ♪
+♪ i’ll take larry csonka’s
+breath away ♪
 
 217
 00:12:24,110 --> 00:12:27,080
-SOME GUYS CAN REALLY
-PULL OFF LEGGINGS.
+Some guys can really
+pull off leggings.
 
 218
 00:12:29,115 --> 00:12:32,218
-I CAN’T WAIT UNTIL THEY START
-THE INTERNET.
+I can’t wait until they start
+the internet.
 
 219
 00:12:32,218 --> 00:12:35,488
-HE’S WORKING ON
-HIS BUD CORT SCRAPBOOK.
+He’s working on
+his bud cort scrapbook.
 
 220
 00:12:39,459 --> 00:12:41,427
-AH, I’M GLAD I DON’T HAVE
-ANY FRIENDS,
+Ah, i’m glad I don’t have
+any friends,
 
 221
 00:12:41,427 --> 00:12:43,730
-BECAUSE THEN I WOULDN’T BE ABLE
-TO DO THIS.
+because then I wouldn’t be able
+to do this.
 
 222
 00:12:46,899 --> 00:12:50,670
-MAN, I’M 25,
-I HOPE I HIT PUBERTY SOON.
+Man, i’m 25,
+I hope I hit puberty soon.
 
 223
 00:12:53,272 --> 00:12:56,509
-I KNOW, I’LL CALL
-PRETENDING I’M BOB GRIESE.
+I know, i’ll call
+pretending i’m bob griese.
 
 224
 00:12:58,945 --> 00:13:02,048
-AH, FINALLY. GRANDMA’S HEAD.
+Ah, finally. Grandma’s head.
 
 225
 00:13:10,189 --> 00:13:13,860
-NO WONDER DAD LOST HIS MONEY,
-HE INVESTED IN LEMON MINES.
+No wonder dad lost his money,
+he invested in lemon mines.
 
 226
 00:13:16,929 --> 00:13:21,300
-SEE CHEERLEADERS, CLASSMATES,
-TEACHERS I DON’T LIKE...
+See cheerleaders, classmates,
+teachers I don’t like...
 
 227
 00:13:23,636 --> 00:13:25,505
-A-HA, HERE IT IS.
-THE TRANSCRIPTS FROM
+A-ha, here it is.
+The transcripts from
 
 228
 00:13:25,505 --> 00:13:28,474
-THE SPASSKY-KASPAROV MATCH
-OF ’82.
+the spassky-kasparov match
+of ’82.
 
 229
 00:13:28,474 --> 00:13:31,544
-OKAY. DEVIL, LIVING ROOM,
+Okay. Devil, living room,
 
 230
 00:13:31,544 --> 00:13:33,579
-DEN, FAMILY ROOM,
+den, family room,
 
 231
 00:13:33,579 --> 00:13:37,150
-ANOTHER DEVIL.
+another devil.
 
 232
 00:13:37,150 --> 00:13:39,118
-TO MIKE PIPPER.
+To mike pipper.
 
 233
 00:13:39,118 --> 00:13:40,920
-OH, HE’S A PIPPER.
-WOULDN’T YOU LIKE TO BE A--
+Oh, he’s a pipper.
+Wouldn’t you like to be a--
 
 234
 00:13:40,920 --> 00:13:42,422
-NO, NO!
+no, no!
 
 235
 00:13:42,422 --> 00:13:44,490
-MAN.
+Man.
 
 236
 00:13:44,490 --> 00:13:45,591
-DON’T.
+Don’t.
 
 237
 00:13:45,591 --> 00:13:47,360
-[GRUNTS]
+[Grunts]
 
 238
 00:13:50,763 --> 00:13:54,300
-AH, SEX, MALE. SEE, I AM.
+Ah, sex, male. See, I am.
 
 239
 00:13:54,300 --> 00:13:56,469
-IT SAYS, "DO NOT WRINKLE."
+It says, "do not wrinkle."
 
 240
 00:13:56,469 --> 00:13:59,105
-"DEAR MIKE, I HAD
-A CLOSE CALL TODAY.
+"Dear mike, I had
+a close call today.
 
 241
 00:13:59,105 --> 00:14:00,473
-"THE CULT IS ON MY HEELS.
+"The cult is on my heels.
 
 242
 00:14:00,473 --> 00:14:02,642
-"THE MAP IS NO LONGER
-SAFE WITH ME.
+"The map is no longer
+safe with me.
 
 243
 00:14:02,642 --> 00:14:06,279
-"IT IS THE ONLY COPY LEFT.
-THE OTHERS I HAVE DESTROYED.
+"It is the only copy left.
+The others I have destroyed.
 
 244
 00:14:06,279 --> 00:14:08,081
-"WE’LL MEET AGAIN SOON.
+"We’ll meet again soon.
 
 245
 00:14:08,081 --> 00:14:11,317
-BE CAREFUL.
-YOUR PARTNER, THOMAS."
+Be careful.
+Your partner, thomas."
 
 246
 00:14:11,317 --> 00:14:14,954
-YES, THERE’S WEIGHT-GAIN POWDER
-IN THE FRIDGE.
+Yes, there’s weight-gain powder
+in the fridge.
 
 247
 00:14:20,093 --> 00:14:22,628
-SO IT’S NEAR
-A PONDEROSA STEAKHOUSE.
+So it’s near
+a ponderosa steakhouse.
 
 248
 00:14:25,164 --> 00:14:27,533
-I’M GONNA COLOR IT.
+I’m gonna color it.
 
 249
 00:14:27,533 --> 00:14:30,203
@@ -1145,502 +1145,502 @@ I’M GONNA COLOR IT.
 
 250
 00:14:35,808 --> 00:14:37,744
-[HUMMING]
+[Humming]
 
 251
 00:14:41,347 --> 00:14:44,951
-MORNING, LARRY.
+Morning, larry.
 
 252
 00:14:44,951 --> 00:14:47,587
-THE TIME IS 6:4.
+The time is 6:4.
 
 253
 00:14:49,789 --> 00:14:52,525
-DELAYED PUBERTY AWARENESS
-PROGRAMS, HERE.
+Delayed puberty awareness
+programs, here.
 
 254
 00:14:57,864 --> 00:15:01,601
-MAN, THERE’S AN AMAZING NUMBER
-OF CSONKAS.
+Man, there’s an amazing number
+of csonkas.
 
 255
 00:15:06,172 --> 00:15:09,475
-[GRUNTS]
+[Grunts]
 
 256
 00:15:09,475 --> 00:15:10,676
-SO WE’RE JUST
-WATCHING SOMEONE
+So we’re just
+watching someone
 
 257
 00:15:10,676 --> 00:15:12,245
-FRITTER AWAY
-THEIR AFTERNOON HERE.
+fritter away
+their afternoon here.
 
 258
 00:15:12,245 --> 00:15:14,147
-MM-HM.
+Mm-hm.
 
 259
 00:15:14,147 --> 00:15:16,849
-- OPERATOR.
- - HI, COULD I HAVE
-INFORMATION, PLEASE?
+- Operator.
+- Hi, could I have
+information, please?
 
 260
 00:15:16,849 --> 00:15:18,518
- ONE MOMENT, PLEASE.
+One moment, please.
 
 261
 00:15:18,518 --> 00:15:22,288
-NOW, THAT’S TWO MOMENTS.
-I’M SORRY.
+Now, that’s two moments.
+I’m sorry.
 
 262
 00:15:22,288 --> 00:15:23,656
- INFORMATION.
+Information.
 
 263
 00:15:23,656 --> 00:15:25,525
-HI, COULD I HAVE THE NUMBER
-FOR MIKE PIPPER?
+Hi, could I have the number
+for mike pipper?
 
 264
 00:15:25,525 --> 00:15:26,592
-NO.
+No.
 
 265
 00:15:26,592 --> 00:15:28,895
-P-I-P-P-E-R.
+P-i-p-p-e-r.
 
 266
 00:15:28,895 --> 00:15:30,830
- FOR WHAT CITY, PLEASE?
+For what city, please?
 
 267
 00:15:30,830 --> 00:15:34,200
-- FROM EAGLEHAT.
- - ONE MOMENT.
+- From eaglehat.
+- One moment.
 
 268
 00:15:34,200 --> 00:15:37,170
-EAGLEHAT?
+Eaglehat?
 
 269
 00:15:37,170 --> 00:15:39,605
- I’ SORRY, THERE’S NO LISTING
- FOR AN M. PIPPER.
+I’ sorry, there’s no listing
+for an m. Pipper.
 
 270
 00:15:39,605 --> 00:15:41,007
-OH, OKAY, THANKS.
+Oh, okay, thanks.
 
 271
 00:15:41,007 --> 00:15:45,511
-AND THE INVESTIGATION
-COMES TO A CLOSE.
+And the investigation
+comes to a close.
 
 272
 00:15:45,511 --> 00:15:48,781
-WELL, I BETTER GET TO READING
-MY X-MEN COMICS.
+Well, I better get to reading
+my x-men comics.
 
 273
 00:15:52,518 --> 00:15:57,023
-HEY, GET THIS CATERPILLAR
-OFF MY LIP.
+Hey, get this caterpillar
+off my lip.
 
 274
 00:15:57,023 --> 00:15:59,759
-WELL, LARRY,
-I GUESS I BETTER GET GOING.
+Well, larry,
+I guess I better get going.
 
 275
 00:15:59,759 --> 00:16:03,262
-SAY HELLO
-TO JIM KIICK FOR ME.
+Say hello
+to jim kiick for me.
 
 276
 00:16:04,630 --> 00:16:06,933
-[DOOR KNOCKS]
+[Door knocks]
 
 277
 00:16:06,933 --> 00:16:10,203
-COME IN.
+Come in.
 
 278
 00:16:10,203 --> 00:16:13,472
-MRS. COSTANZA!
+Mrs. Costanza!
 
 279
 00:16:13,472 --> 00:16:15,708
-THERE. WHAT ARE YOU STUDYING?
+There. What are you studying?
 
 280
 00:16:15,708 --> 00:16:17,143
-FRENCH REVOLUTION.
+French revolution.
 
 281
 00:16:17,143 --> 00:16:19,779
-OH, THAT LOOKS MORE LIKE
-WORLD WAR II.
+Oh, that looks more like
+world war ii.
 
 282
 00:16:19,779 --> 00:16:21,614
-[CHUCKLES]
-OH, I’M A CAUTION.
+[Chuckles]
+Oh, i’m a caution.
 
 283
 00:16:21,614 --> 00:16:23,816
-WHERE DID YOU GET THAT?
+Where did you get that?
 
 284
 00:16:23,816 --> 00:16:25,351
-I FOUND IT IN THE ATTIC.
+I found it in the attic.
 
 285
 00:16:25,351 --> 00:16:28,287
-LEAVE ME ALONE, MOM.
-I’M STARTING A SOFTWARE COMPANY.
+Leave me alone, mom.
+I’m starting a software company.
 
 286
 00:16:28,287 --> 00:16:29,856
-WELL, DON’T WORK TOO LATE.
+Well, don’t work too late.
 
 287
 00:16:29,856 --> 00:16:31,724
-I’LL LOCK YOU IN AS USUAL.
+I’ll lock you in as usual.
 
 288
 00:16:31,724 --> 00:16:34,026
-WHAT WAS HE LIKE?
+What was he like?
 
 289
 00:16:34,026 --> 00:16:37,063
-NOW, TROY, WE’VE TALKED
-ABOUT THIS BEFORE.
+Now, troy, we’ve talked
+about this before.
 
 290
 00:16:37,063 --> 00:16:39,165
-I DON’T WANT YOU TO CRY
-ABOUT WHAT IS PASSED.
+I don’t want you to cry
+about what is passed.
 
 291
 00:16:39,165 --> 00:16:42,001
-NO EMOTIONS.
-WE’VE DISCUSSED THAT.
+No emotions.
+We’ve discussed that.
 
 292
 00:16:42,001 --> 00:16:43,870
-IS THAT WHY YOU LOCKED UP
-HIS STUFF IN THE ATTIC?
+Is that why you locked up
+his stuff in the attic?
 
 293
 00:16:43,870 --> 00:16:45,771
-YOU DIDN’T WANT ME
-TO GET UPSET?
+You didn’t want me
+to get upset?
 
 294
 00:16:45,771 --> 00:16:48,040
-YOU FOUND THAT--?
+You found that--?
 
 295
 00:16:48,040 --> 00:16:51,177
-TROY, YOU HAD
-NO BUSINESS THERE.
+Troy, you had
+no business there.
 
 296
 00:16:51,177 --> 00:16:54,480
-MY FATHER IS MY BUSINESS.
+My father is my business.
 
 297
 00:16:54,480 --> 00:16:57,917
-AL LOUIS AS GRANDMA.
+Al louis as grandma.
 
 298
 00:16:57,917 --> 00:17:01,354
-OH, TROY, I’M SORRY.
+Oh, troy, i’m sorry.
 
 299
 00:17:01,354 --> 00:17:03,789
-I ONLY WANT YOU
-TO FORGET HIM.
+I only want you
+to forget him.
 
 300
 00:17:03,789 --> 00:17:05,358
-CARRY ON WITH YOUR OWN LIFE.
+Carry on with your own life.
 
 301
 00:17:05,358 --> 00:17:07,326
-YEAH, ONCE YOU GET ONE.
+Yeah, once you get one.
 
 302
 00:17:12,465 --> 00:17:13,766
-AM I LIKE HIM?
+Am I like him?
 
 303
 00:17:13,766 --> 00:17:17,303
-NO, HE WAS MASCULINE
-AND LIKABLE.
+No, he was masculine
+and likable.
 
 304
 00:17:17,303 --> 00:17:19,171
-YES.
+Yes.
 
 305
 00:17:19,171 --> 00:17:20,840
-YOU’RE VERY MUCH LIKE HIM.
+You’re very much like him.
 
 306
 00:17:20,840 --> 00:17:23,509
-IF I’M THINKING
-OF THE RIGHT GUY.
+If i’m thinking
+of the right guy.
 
 307
 00:17:26,178 --> 00:17:29,949
-MAN, NOW MY ROOM STINKS
-OF YOUTH DEW.
+Man, now my room stinks
+of youth dew.
 
 308
 00:17:32,351 --> 00:17:37,156
-MVP, SUPER BOWL VIII
-FOR MIAMI.
+Mvp, super bowl viii
+for miami.
 
 309
 00:17:37,156 --> 00:17:39,258
-SEVEN YEARS LATER.
+Seven years later.
 
 310
 00:17:40,459 --> 00:17:42,962
-[CAR ENGINE FAILING]
+[Car engine failing]
 
 311
 00:17:42,962 --> 00:17:45,464
-THAT’S ENOUGH TREES
-FOR THE SPOTTED OWL, ISN’T IT?
+That’s enough trees
+for the spotted owl, isn’t it?
 
 312
 00:17:45,464 --> 00:17:46,933
-SURE.
+Sure.
 
 313
 00:17:49,735 --> 00:17:52,371
-UH-OH, THE TOWN’S ALTERNATOR
-IS SHOT.
+Uh-oh, the town’s alternator
+is shot.
 
 314
 00:17:56,509 --> 00:17:59,645
-FREE PICTURES OF BRIAN MULRONEY
-WITH FILL UP.
+Free pictures of brian mulroney
+with fill up.
 
 315
 00:18:04,383 --> 00:18:07,453
-OH, AND WHO SAYS THERE AREN’T
-ANY NICE HOMES IN CANADA?
+Oh, and who says there aren’t
+any nice homes in canada?
 
 316
 00:18:15,761 --> 00:18:18,531
-CHECK IT OUT.
+Check it out.
 
 317
 00:18:18,531 --> 00:18:22,902
-SOMEONE’S SCRATCHING
-HIS BELLY.
+Someone’s scratching
+his belly.
 
 318
 00:18:22,902 --> 00:18:24,770
-DAMN!
+Damn!
 
 319
 00:18:24,770 --> 00:18:28,407
-WHEN IT’S ABOVE 50 OR BELOW 40
-IT NEVER STARTS.
+When it’s above 50 or below 40
+it never starts.
 
 320
 00:18:33,813 --> 00:18:37,249
-CANADA IS FOR LOVERS.
+Canada is for lovers.
 
 321
 00:18:39,852 --> 00:18:40,886
-HIS TRUCK WON’T START,
+His truck won’t start,
 
 322
 00:18:40,886 --> 00:18:43,489
-BUT AT LEAST
-HIS TABLECLOTH IS DRY.
+but at least
+his tablecloth is dry.
 
 323
 00:18:47,360 --> 00:18:50,629
-IF YOU LIVED HERE,
-YOU’D BE IN HELL BY NOW.
+If you lived here,
+you’d be in hell by now.
 
 324
 00:18:52,298 --> 00:18:54,467
-CHECK OUT
-THE LINC HAYES TOPIARY.
+Check out
+the linc hayes topiary.
 
 325
 00:18:54,467 --> 00:18:57,837
-COOL.
+Cool.
 
 326
 00:18:57,837 --> 00:18:59,939
-[HUMMING]
+[Humming]
 
 327
 00:18:59,939 --> 00:19:02,641
-HITCHCOCK’S PARADE OF HOMES.
+Hitchcock’s parade of homes.
 
 328
 00:19:06,278 --> 00:19:10,616
-AW, IT’S
-THE CAME-WITH-THE-FRAME FAMILY.
+Aw, it’s
+the came-with-the-frame family.
 
 329
 00:19:10,616 --> 00:19:12,551
-WATER ME!
+Water me!
 
 330
 00:19:12,551 --> 00:19:17,089
-[COUGHING]
+[Coughing]
 
 331
 00:19:17,089 --> 00:19:20,292
-HEY, ANOTHER KID
-EXACTLY LIKE HIM ACROSS TOWN.
+Hey, another kid
+exactly like him across town.
 
 332
 00:19:22,828 --> 00:19:24,430
-HE JUST FINISHED
-HIS EXHAUSTIVE
+He just finished
+his exhaustive
 
 333
 00:19:24,430 --> 00:19:27,133
-FOUR-VOLUME BIOGRAPHY
-OF LARRY CSONKA.
+four-volume biography
+of larry csonka.
 
 334
 00:19:27,133 --> 00:19:30,002
-[CLOCK CHIMES]
+[Clock chimes]
 
 335
 00:19:30,002 --> 00:19:33,906
-SOMEONE’S HITTING A FRY PAN,
-WHICH MEANS IT’S 8:00.
+Someone’s hitting a fry pan,
+which means it’s 8:00.
 
 336
 00:19:35,841 --> 00:19:38,611
-OF COURSE THE CLOCK’S SET
-TO MIAMI TIME.
+Of course the clock’s set
+to miami time.
 
 337
 00:19:42,281 --> 00:19:45,818
-WELL, SWING CHOIR AIN’T GONNA
-REHEARSE ITSELF.
+Well, swing choir ain’t gonna
+rehearse itself.
 
 338
 00:19:49,955 --> 00:19:51,657
-CALLED IN
-FOR THE NIGHT SHIFT.
+Called in
+for the night shift.
 
 339
 00:19:51,657 --> 00:19:55,194
-APPARENTLY AUNTIE NEVER
-GOT LAID-OFF AFTER THE WAR.
+Apparently auntie never
+got laid-off after the war.
 
 340
 00:20:01,067 --> 00:20:03,736
-WHY DID HE PUT A LASERDISC
-IN THE REFRIGERATOR.
+Why did he put a laserdisc
+in the refrigerator.
 
 341
 00:20:05,971 --> 00:20:07,606
-HEY, EL SANTO!
+Hey, el santo!
 
 342
 00:20:07,606 --> 00:20:08,874
-HEY!
+Hey!
 
 343
 00:20:12,411 --> 00:20:16,048
-AH, LET’S SEE IF THERE’S ANY
-LARRY CSONKA MOVIES ON TONIGHT.
+Ah, let’s see if there’s any
+larry csonka movies on tonight.
 
 344
 00:20:22,021 --> 00:20:23,956
-CAN I DISCIPLINE YOU?
+Can I discipline you?
 
 345
 00:20:28,160 --> 00:20:29,795
-[CHEWING SOUNDS]
+[Chewing sounds]
 
 346
 00:20:29,795 --> 00:20:33,299
-COLD CRAZY BREAD. MM.
-REALLY IS CRAZY.
+Cold crazy bread. Mm.
+Really is crazy.
 
 347
 00:20:36,135 --> 00:20:40,239
-WAIT, I HAVEN’T READ TOLKIEN
-IN ALMOST A WEEK.
+Wait, I haven’t read tolkien
+in almost a week.
 
 348
 00:20:42,208 --> 00:20:46,178
-SCRIPT IS PUNCHED UP
-BY HARPO MARX.
+Script is punched up
+by harpo marx.
 
 349
 00:20:46,178 --> 00:20:49,348
-AH, A YANNI SONG
-IS ABOUT TO BEGIN.
+Ah, a yanni song
+is about to begin.
 
 350
 00:20:54,954 --> 00:20:58,057
-WHAT WOULD
-COACH DON SHULA DO?
+What would
+coach don shula do?
 
 351
 00:21:05,097 --> 00:21:06,599
-[GRUNTING SOUNDS]
+[Grunting sounds]
 
 352
 00:21:06,599 --> 00:21:09,768
-IT’S HIS MICHAEL FEINSTEIN
-SIGNATURE BAT.
+It’s his michael feinstein
+signature bat.
 
 353
 00:21:12,972 --> 00:21:16,775
-TEE-HEE, TEE-HEE.
+Tee-hee, tee-hee.
 
 354
 00:21:16,775 --> 00:21:20,679
-HIS HEAD IS STILL
-FACTORY WRAPPED.
+His head is still
+factory wrapped.
 
 355
 00:21:20,679 --> 00:21:23,916
-IS HE A DOOR-TO-DOOR
-EXECUTIONER?
+Is he a door-to-door
+executioner?
 
 356
 00:21:37,763 --> 00:21:40,666
-OW! I WAS JUST GOING TO
-READ THE METER.
+Ow! I was just going to
+read the meter.
 
 357
 00:21:46,071 --> 00:21:47,940
-YOU KNOW IT’S SPRING
-WHEN THE EXECUTIONERS
+You know it’s spring
+when the executioners
 
 358
 00:21:47,940 --> 00:21:49,842
-START GETTING IN THE HOUSE.
+start getting in the house.
 
 359
 00:21:53,979 --> 00:21:57,216
-IT’S OPEN. PLEASE.
+It’s open. Please.
 
 360
 00:22:02,388 --> 00:22:04,957
@@ -1648,362 +1648,362 @@ THE McCULLOCHS ARE HERE.
 
 361
 00:22:13,132 --> 00:22:16,202
-CAN I INTEREST YOU
-IN A REPLACEMENT DOOR?
+Can I interest you
+in a replacement door?
 
 362
 00:22:22,074 --> 00:22:26,478
-CANADIAN VILLAIN,
-GARTH VADER.
+Canadian villain,
+garth vader.
 
 363
 00:22:26,478 --> 00:22:29,281
-ICKY FLAKES. UGH.
+Icky flakes. Ugh.
 
 364
 00:22:30,849 --> 00:22:33,586
-AH, THAT WAS
-A GOOD SEVEN YEARS.
+Ah, that was
+a good seven years.
 
 365
 00:22:36,121 --> 00:22:40,259
-TROY! I KNOW
-YOU CAN HEAR ME, TROY.
+Troy! I know
+you can hear me, troy.
 
 366
 00:22:40,259 --> 00:22:42,995
-I KNOW YOU HAVE THE MAP.
+I know you have the map.
 
 367
 00:22:42,995 --> 00:22:44,296
-I WANT IT.
+I want it.
 
 368
 00:22:44,296 --> 00:22:46,999
-JESSE "THE BODY" VENTURA
-DUBBED HIS VOICE.
+Jesse "the body" ventura
+dubbed his voice.
 
 369
 00:22:51,337 --> 00:22:54,039
-WOW, AUNTIE SENT
-HER JACK-BOOTED THUGS
+Wow, auntie sent
+her jack-booted thugs
 
 370
 00:22:54,039 --> 00:22:56,575
-TO MAKE HIM LUNCH.
+to make him lunch.
 
 371
 00:23:03,382 --> 00:23:07,119
-WE JUST WANT TO CUT
-YOUR SUGAR-CANE CROP.
+We just want to cut
+your sugar-cane crop.
 
 372
 00:23:12,258 --> 00:23:15,294
-YOU THUGS, DON’T RUN
-WITH YOUR SCIMITARS.
+You thugs, don’t run
+with your scimitars.
 
 373
 00:23:16,795 --> 00:23:20,799
-DAM, HE’S GOT A 10-SPEED.
+Dam, he’s got a 10-speed.
 
 374
 00:23:20,799 --> 00:23:24,536
-GET ON THE BANANA-SEAT BIKE,
-AND GIVE CHASE.
+Get on the banana-seat bike,
+and give chase.
 
 375
 00:23:24,536 --> 00:23:25,804
-LET’S GET OUT OF HERE.
+Let’s get out of here.
 
 376
 00:23:25,804 --> 00:23:29,241
-HEY MAN, THANK YOUR SISTER
-FOR SEWING OUR HOODS.
+Hey man, thank your sister
+for sewing our hoods.
 
 377
 00:23:40,352 --> 00:23:41,887
-[LAUGHTER]
+[Laughter]
 
 378
 00:23:41,887 --> 00:23:44,923
-AND THEN THE DRUNK GUY SAYS,
-I CAN’T HELP BEING AN IDIOT,
+And then the drunk guy says,
+I can’t help being an idiot,
 
 379
 00:23:44,923 --> 00:23:46,325
-I’M CANADIAN.
+i’m canadian.
 
 380
 00:23:46,325 --> 00:23:47,927
-[LAUGHTER]
+[Laughter]
 
 381
 00:23:47,927 --> 00:23:50,496
-YOU’RE RIGHT,
-THEY’RE SO PATHETIC, MIKE.
+You’re right,
+they’re so pathetic, mike.
 
 382
 00:23:50,496 --> 00:23:51,864
-[WHISTLE BLOWS]
+[Whistle blows]
 
 383
 00:23:51,864 --> 00:23:53,365
-HUH?
+Huh?
 
 384
 00:23:53,365 --> 00:23:56,936
-ENOUGH! THERE’S BEEN TOO MUCH
-CANADA BASHING FOR FAR TOO LONG.
+Enough! There’s been too much
+canada bashing for far too long.
 
 385
 00:23:56,936 --> 00:23:58,971
-I SAY NO MORE.
+I say no more.
 
 386
 00:23:58,971 --> 00:24:01,073
-DON’T YOU MEAN, NO MORE EH?
+Don’t you mean, no more eh?
 
 387
 00:24:01,073 --> 00:24:02,374
-- [LAUGHER]
-- GOOD ONE, MAN.
+- [Laugher]
+- Good one, man.
 
 388
 00:24:02,374 --> 00:24:04,076
-THEY ARE SO STUPID.
+They are so stupid.
 
 389
 00:24:04,076 --> 00:24:05,277
-STOP IT NOW.
+Stop it now.
 
 390
 00:24:05,277 --> 00:24:07,079
-INSTEAD LET US OFFER
-OUR NORTHERN BROTHERS
+Instead let us offer
+our northern brothers
 
 391
 00:24:07,079 --> 00:24:10,115
-AND SISTERS
-THIS SONG OF TRIBUTE.
+and sisters
+this song of tribute.
 
 392
 00:24:10,115 --> 00:24:14,253
-♪ OH, I WISH I WAS BACK
-IN OLD CANADA ♪
+♪ Oh, I wish I was back
+in old canada ♪
 
 393
 00:24:14,253 --> 00:24:17,456
-♪ A LAND WHICH I NEVER
-SHALL LAMPOON ♪
+♪ a land which I never
+shall lampoon ♪
 
 394
 00:24:17,456 --> 00:24:21,060
-♪ HOW I PINE FOR THE ICE
-COVERING LAKE MANITOBA ♪
+♪ how I pine for the ice
+covering lake manitoba ♪
 
 395
 00:24:21,060 --> 00:24:24,063
-♪ AND THE BEAUTY
-THAT IS SASKATOON ♪
+♪ and the beauty
+that is saskatoon ♪
 
 396
 00:24:24,063 --> 00:24:25,397
-I GOT ONE.
+I got one.
 
 397
 00:24:25,397 --> 00:24:28,133
-♪ I WISH I WAS STUCK
-IN THE HILLS OF ALBERTA ♪
+♪ I wish I was stuck
+in the hills of alberta ♪
 
 398
 00:24:28,133 --> 00:24:31,637
-♪ DRINKING BEER WITH SOME
-BIG, DUMB GUY TRAPPING FUR ♪
+♪ drinking beer with some
+big, dumb guy trapping fur ♪
 
 399
 00:24:31,637 --> 00:24:33,272
-♪ AS HE SCRAPED
-AND HE CHISELED ♪
+♪ as he scraped
+and he chiseled ♪
 
 400
 00:24:33,272 --> 00:24:35,140
-♪ ALL THE MOOSE DUNG
-OFF HIS BOOTS ♪
+♪ all the moose dung
+off his boots ♪
 
 401
 00:24:35,140 --> 00:24:37,609
-♪ I WOULD LEARN
-THAT HE’S THE PRIME MINISTER ♪
+♪ I would learn
+that he’s the prime minister ♪
 
 402
 00:24:37,609 --> 00:24:39,178
-OH, STOP THAT.
+Oh, stop that.
 
 403
 00:24:39,178 --> 00:24:42,681
-♪ OH, I WISH I WAS IN THE LAND
-THAT GAVE US PETER JENNINGS ♪
+♪ Oh, I wish I was in the land
+that gave us peter jennings ♪
 
 404
 00:24:42,681 --> 00:24:45,651
-♪ ALANIS MORISSETTE,
-MIKE MYERS TOO ♪
+♪ alanis morissette,
+mike myers too ♪
 
 405
 00:24:45,651 --> 00:24:47,920
-♪ NO, I TAKE THAT BACK
-I WOULDN’T GO THERE ♪
+♪ no, I take that back
+I wouldn’t go there ♪
 
 406
 00:24:47,920 --> 00:24:49,421
-♪ EVEN IN YOU PAID ME ♪
+♪ even in you paid me ♪
 
 407
 00:24:49,421 --> 00:24:52,024
-♪ OH, CANADA, YOU ARE A PLACE
-I MUST ESCHEW ♪
+♪ oh, canada, you are a place
+I must eschew ♪
 
 408
 00:24:52,024 --> 00:24:53,892
-NOW THIS IS NOT IN THE SPIRIT
-THAT I INTENDED.
+Now this is not in the spirit
+that I intended.
 
 409
 00:24:53,892 --> 00:24:55,361
-OH, COME ON. GIVE IN.
+Oh, come on. Give in.
 
 410
 00:24:55,361 --> 00:24:58,530
-I MEAN, AFTER ALL, THEY GAVE US
-ED THE SOCK AND RUSH.
+I mean, after all, they gave us
+ed the sock and rush.
 
 411
 00:24:58,530 --> 00:25:00,599
-YEAH, WHAT ARE YOU DEFENDING?
-THEY’RE SUCH FEEBS.
+Yeah, what are you defending?
+They’re such feebs.
 
 412
 00:25:00,599 --> 00:25:03,202
-- OKAY, I’LL TRY.
-- ALL RIGHT. GOOD MAN.
+- Okay, i’ll try.
+- All right. Good man.
 
 413
 00:25:03,202 --> 00:25:07,339
-♪ OH, I WISH I WAS BLOWING UP
-PRINCE EDWARD ISLAND ♪
+♪ Oh, I wish I was blowing up
+prince edward island ♪
 
 414
 00:25:07,339 --> 00:25:10,409
-♪ GOING ON TO BOMB ONTARIO ♪
+♪ going on to bomb ontario ♪
 
 415
 00:25:10,409 --> 00:25:13,879
-♪ THE DESTRUCTION OF CANADA
-AND ALL OF ITS CULTURE ♪
+♪ the destruction of canada
+and all of its culture ♪
 
 416
 00:25:13,879 --> 00:25:16,849
-♪ IS BY FAR
-MY FAVORITE SCENARIO ♪
+♪ is by far
+my favorite scenario ♪
 
 417
 00:25:16,849 --> 00:25:18,584
-OKAY, THAT’S A LITTLE STRONG.
-YOU MIGHT WANT TO BACK IT DOWN.
+Okay, that’s a little strong.
+You might want to back it down.
 
 418
 00:25:18,584 --> 00:25:20,886
-NO, NO YOU WERE RIGHT, MIKE.
-THIS IS MUCH MORE FUN.
+No, no you were right, mike.
+This is much more fun.
 
 419
 00:25:20,886 --> 00:25:22,488
-♪ JUST WHERE THE HELL DOES
-CANADA GET OFF ♪
+♪ Just where the hell does
+canada get off ♪
 
 420
 00:25:22,488 --> 00:25:24,757
-♪ SHARING A BORDER ♪
+♪ sharing a border ♪
 
 421
 00:25:24,757 --> 00:25:27,092
-♪ WITH COUNTRIES
-FAR SUPERIOR TO IT? ♪
+♪ with countries
+far superior to it? ♪
 
 422
 00:25:27,092 --> 00:25:28,360
-YIKES.
+Yikes.
 
 423
 00:25:28,360 --> 00:25:30,295
-♪ WHY YOU LOUSY, STINKIN’,
-FRANCOPHONIC, ♪
+♪ Why you lousy, stinkin’,
+francophonic, ♪
 
 424
 00:25:30,295 --> 00:25:31,930
-♪ BACON LOVING BASTARDS ♪
+♪ bacon loving bastards ♪
 
 425
 00:25:31,930 --> 00:25:33,966
-♪ YOUR COUNTRY’S
-JUST A GIANT PIECE OF-- ♪
+♪ your country’s
+just a giant piece of-- ♪
 
 426
 00:25:33,966 --> 00:25:35,267
-- WHOA, WHOA, WHOA, EASY!
-- OKAY, I THINK THAT’S ENOUGH.
+- Whoa, whoa, whoa, easy!
+- Okay, I think that’s enough.
 
 427
 00:25:35,267 --> 00:25:37,469
-I THINK WE GOING TO CAMBOT.
-OKAY, THANKS.
+I think we going to cambot.
+Okay, thanks.
 
 428
 00:25:37,469 --> 00:25:38,570
-- ALL RIGHT.
-- WOW.
+- All right.
+- Wow.
 
 429
 00:25:38,570 --> 00:25:40,305
-I HAVE NO
-SENSE OF PROPORTION.
+I have no
+sense of proportion.
 
 430
 00:25:40,305 --> 00:25:42,474
-I’M A DISGRACE TO MY UNIFORM.
+I’m a disgrace to my uniform.
 
 431
 00:25:42,474 --> 00:25:44,343
-NO, THAT’S OKAY.
-NOW, CALM DOWN.
+No, that’s okay.
+Now, calm down.
 
 432
 00:25:44,343 --> 00:25:45,978
-NOW, WE MUSTN’T HATE.
-MUSTN’T HATE.
+Now, we mustn’t hate.
+Mustn’t hate.
 
 433
 00:25:45,978 --> 00:25:47,479
-AT LEAST SO OVERTLY.
+At least so overtly.
 
 434
 00:25:47,479 --> 00:25:50,182
-EXACTLY RIGHT. MUST DISGUISE
-OUR HATE JUST A LITTLE.
+Exactly right. Must disguise
+our hate just a little.
 
 435
 00:25:50,182 --> 00:25:52,651
-WE’LL BE RIGHT BACK.
-SSH, SSH, IT’S OKAY NOW, DUDLEY.
+We’ll be right back.
+Ssh, ssh, it’s okay now, dudley.
 
 436
 00:25:52,651 --> 00:25:54,653
-- CALM DOWN. CALM DOWN.
-- PARDONNEZ-MOI.
+- Calm down. Calm down.
+- Pardonnez-moi.
 
 437
 00:25:54,653 --> 00:25:56,355
- PARDONNEZ-MOI. 
+Pardonnez-moi.
 
 438
 00:25:56,355 --> 00:25:58,290
@@ -2011,57 +2011,57 @@ SSH, SSH, IT’S OKAY NOW, DUDLEY.
 
 439
 00:26:05,330 --> 00:26:08,567
-SEVEN YEARS LATER.
+Seven years later.
 
 440
 00:26:08,567 --> 00:26:10,969
-DENTAL HYGIENIST OF THE WEEK.
+Dental hygienist of the week.
 
 441
 00:26:16,375 --> 00:26:17,743
-YEAH, ONCE HE GETS IT STARTED,
+Yeah, once he gets it started,
 
 442
 00:26:17,743 --> 00:26:19,378
-HE’S GOING TO DRIVE IT
-TO THE FRONT YARD,
+he’s going to drive it
+to the front yard,
 
 443
 00:26:19,378 --> 00:26:21,313
-TAKE A COUPLE OF TIRES OFF,
-AND LET IT RUST
+take a couple of tires off,
+and let it rust
 
 444
 00:26:21,313 --> 00:26:25,584
-NEXT TO THE OLD FREEZER
-SITTING ON THE FRONT LAWN.
+next to the old freezer
+sitting on the front lawn.
 
 445
 00:26:25,584 --> 00:26:27,586
-AH.
+Ah.
 
 446
 00:26:27,586 --> 00:26:29,621
-IN MY WORK
-FOR A BLOODTHIRSTY CULT,
+In my work
+for a bloodthirsty cult,
 
 447
 00:26:29,621 --> 00:26:32,224
-I DEPEND ON MY GRAN TORINO.
+I depend on my gran torino.
 
 448
 00:26:32,224 --> 00:26:36,395
-I THINK HIS MENACE IS UNDERCUT
-BY THE "BABY ON BOARD" TAG.
+I think his menace is undercut
+by the "baby on board" tag.
 
 449
 00:26:39,731 --> 00:26:43,836
-HEY, I THINK YOUR CAMERAMAN’S
-STUCK IN THE DOOR.
+Hey, I think your cameraman’s
+stuck in the door.
 
 450
 00:26:43,836 --> 00:26:45,971
-SEE?
+See?
 
 451
 00:26:49,107 --> 00:26:51,777
@@ -2070,168 +2070,168 @@ POTATO OLé CONTAINERS
 
 452
 00:26:51,777 --> 00:26:54,480
-ARE ON THE FLOOR OF THAT CAR?
+are on the floor of that car?
 
 453
 00:26:56,215 --> 00:26:59,818
-THIS MUSIC IS REALLY MORE SUITED
-TO PLATE SPINNING.
+This music is really more suited
+to plate spinning.
 
 454
 00:26:59,818 --> 00:27:02,120
-KIND OF A MAZURKA.
+Kind of a mazurka.
 
 455
 00:27:04,823 --> 00:27:08,293
-I’M LOSING TRACK
-OF THE CRAPPY VEHICLES HERE.
+I’m losing track
+of the crappy vehicles here.
 
 456
 00:27:11,964 --> 00:27:15,567
-CRANK THE MOLLY HATCHET
-AND LET’S ROLL!
+Crank the molly hatchet
+and let’s roll!
 
 457
 00:27:15,567 --> 00:27:16,902
- [RADIO CHATTER]
+[Radio chatter]
 
 458
 00:27:16,902 --> 00:27:20,405
-I’M SHERRY.
+I’m sherry.
 
 459
 00:27:20,405 --> 00:27:22,474
- THIS IS CAROL DOLAN,
- AND I’LL BE BACK.
+This is carol dolan,
+and i’ll be back.
 
 460
 00:27:22,474 --> 00:27:27,045
-AW, NOW I HAVE TO
-LISTEN TO AS IT HAPPENS.
+Aw, now I have to
+listen to as it happens.
 
 461
 00:27:27,045 --> 00:27:29,748
-HONK! HONK! ON YOUR ASS!
+Honk! Honk! On your ass!
 
 462
 00:27:31,917 --> 00:27:35,487
-OH, I LOVE TRASH--
-OW, OH, GOD.
+Oh, I love trash--
+ow, oh, god.
 
 463
 00:27:38,190 --> 00:27:40,425
-MAYBE IT’S THE CHEAP
-CANADIAN GAS THEY’RE USING.
+Maybe it’s the cheap
+canadian gas they’re using.
 
 464
 00:27:40,425 --> 00:27:43,161
-JUST CAN’T GET UP ANY SPEED.
+Just can’t get up any speed.
 
 465
 00:27:48,967 --> 00:27:51,503
-DAMN YOU, PEEWEE!
+Damn you, peewee!
 
 466
 00:27:55,040 --> 00:27:58,443
-HI, I’M BILLY THE BUILDING.
-[LAUGHS]
+Hi, i’m billy the building.
+[Laughs]
 
 467
 00:28:04,650 --> 00:28:06,752
-UNFORTUNATELY,
-THE TRUCK’S MAKING A DELIVERY
+Unfortunately,
+the truck’s making a delivery
 
 468
 00:28:06,752 --> 00:28:09,221
-RIGHT BACK TO THE CULT.
+right back to the cult.
 
 469
 00:28:13,659 --> 00:28:15,227
-WELL, LET’S JUST
-GO GET SOME BULLWHIPS
+Well, let’s just
+go get some bullwhips
 
 470
 00:28:15,227 --> 00:28:17,396
-AND POSE FOR MAPPLETHORPE.
+and pose for mapplethorpe.
 
 471
 00:28:17,396 --> 00:28:19,031
-YUP.
+Yup.
 
 472
 00:28:22,534 --> 00:28:23,969
-HUDDLED IN A PILE
-OF DIRTY LAUNDRY,
+Huddled in a pile
+of dirty laundry,
 
 473
 00:28:23,969 --> 00:28:26,271
-IT’S JUST LIKE HOME.
+it’s just like home.
 
 474
 00:28:32,844 --> 00:28:35,914
-IT SOUNDS LIKE
-VIDEO-POKER MUSIC.
+It sounds like
+video-poker music.
 
 475
 00:28:40,118 --> 00:28:41,386
-AND THEY TAKE REFUGE
+And they take refuge
 
 476
 00:28:41,386 --> 00:28:43,322
-IN THE ANNE MURRAY
-NATIONAL FOREST.
+in the anne murray
+national forest.
 
 477
 00:28:43,322 --> 00:28:45,724
-BEAUTIFUL, ISN’T IT?
+Beautiful, isn’t it?
 
 478
 00:28:45,724 --> 00:28:48,327
-I THINK HE’S
-THE TIN DRUM KID.
+I think he’s
+the tin drum kid.
 
 479
 00:28:53,899 --> 00:28:56,802
-HE’S THE KIND OF CLOWN
-WHO PUTS $1.87 OF GAS
+He’s the kind of clown
+who puts $1.87 of gas
 
 480
 00:28:56,802 --> 00:28:59,304
-IN HIS TRUCK.
+in his truck.
 
 481
 00:28:59,304 --> 00:29:01,940
-HELP ME, OH,
-SAINT LARRY CSONKA.
+Help me, oh,
+saint larry csonka.
 
 482
 00:29:05,577 --> 00:29:08,647
-WELL, IT WENT FURTHER
-THAN IT USUALLY DOES.
+Well, it went further
+than it usually does.
 
 483
 00:29:08,647 --> 00:29:11,383
-LIKE A... [COUGHS]
-ROCK.
+Like a... [coughs]
+Rock.
 
 484
 00:29:15,287 --> 00:29:18,390
-ANOTHER HUMAN BEING.
-OH, I’M IN FOR A BEATING.
+Another human being.
+Oh, i’m in for a beating.
 
 485
 00:29:24,696 --> 00:29:25,998
-WHAT THE HELL?
+What the hell?
 
 486
 00:29:25,998 --> 00:29:28,700
-I’VE ALWAYS BEEN
-BACK HERE, REMEMBER?
+I’ve always been
+back here, remember?
 
 487
 00:29:28,700 --> 00:29:30,836
-WHAT ARE YOU DOING
-BACK THERE, KID?
+What are you doing
+back there, kid?
 
 488
 00:29:30,836 --> 00:29:31,870
@@ -2239,174 +2239,174 @@ I...
 
 489
 00:29:31,870 --> 00:29:33,972
-I’M LAUNDRY.
+I’m laundry.
 
 490
 00:29:33,972 --> 00:29:35,140
-I NEEDED A RIDE.
+I needed a ride.
 
 491
 00:29:35,140 --> 00:29:37,442
-IS HE A MAKEUPLESS CLOWN?
+Is he a makeupless clown?
 
 492
 00:29:37,442 --> 00:29:38,477
-WHY DON’T YOU GET IN THE CAB?
+Why don’t you get in the cab?
 
 493
 00:29:38,477 --> 00:29:39,578
-IT’S MUCH
-MORE COMFORTABLE THERE.
+It’s much
+more comfortable there.
 
 494
 00:29:39,578 --> 00:29:42,447
-ACTUALLY, I BET IT ISN’T.
+Actually, I bet it isn’t.
 
 495
 00:29:50,155 --> 00:29:52,557
-SO, UH, EH THEN, EH?
+So, uh, eh then, eh?
 
 496
 00:29:52,557 --> 00:29:53,659
-[COUGHING]
+[Coughing]
 
 497
 00:29:53,659 --> 00:29:56,862
-EH.
+Eh.
 
 498
 00:29:56,862 --> 00:29:59,297
-DON’T YOU LOVE
-OUR HEALTHCARE SYSTEM?
+Don’t you love
+our healthcare system?
 
 499
 00:29:59,297 --> 00:30:01,099
-HERE, PUT THIS ON.
+Here, put this on.
 
 500
 00:30:01,099 --> 00:30:03,669
-- IT’S MADE OF LUNCH MEAT.
-- THANKS.
+- It’s made of lunch meat.
+- Thanks.
 
 501
 00:30:10,208 --> 00:30:12,277
-KNOW ANYTHING ABOUT MOTORS?
+Know anything about motors?
 
 502
 00:30:12,277 --> 00:30:15,080
-NO, SIR. NOT REALLY.
+No, sir. Not really.
 
 503
 00:30:15,080 --> 00:30:17,849
- I KNOW ALL THE SONGS FROM
- ONCE UPON A MATTRESS THOUGH.
+I know all the songs from
+once upon a mattress though.
 
 504
 00:30:17,849 --> 00:30:19,618
-LET’S HAVE A LOOK.
+Let’s have a look.
 
 505
 00:30:19,618 --> 00:30:21,353
-ARE YOU GONNA BE A MOUNTIE
-OR A FISHING GUIDE
+Are you gonna be a mountie
+or a fishing guide
 
 506
 00:30:21,353 --> 00:30:23,689
-WHEN YOU GROW UP?
+when you grow up?
 
 507
 00:30:23,689 --> 00:30:26,391
-- WHERE ARE YOU HEADING?
-- LIQUOR STORE.
+- Where are you heading?
+- Liquor store.
 
 508
 00:30:26,391 --> 00:30:29,227
-LOOKS LIKE
-I’M HEADING NOWHERE.
+Looks like
+i’m heading nowhere.
 
 509
 00:30:29,227 --> 00:30:33,231
-I SEE THE PROBLEM.
-THE GAS LINE’S LOOSE.
+I see the problem.
+The gas line’s loose.
 
 510
 00:30:33,231 --> 00:30:34,466
-YOU’RE GETTING BEHIND
-THE STEERING WHEEL,
+You’re getting behind
+the steering wheel,
 
 511
 00:30:34,466 --> 00:30:35,867
-AND CRANK HER OVER
-WHEN I TELL YOU.
+and crank her over
+when I tell you.
 
 512
 00:30:35,867 --> 00:30:38,670
-HE’S WEARING FASHIONS
-BY MAC DAVIS.
+He’s wearing fashions
+by mac davis.
 
 513
 00:30:43,141 --> 00:30:47,112
-I’LL JUST, UH,
-POUR MY GARBAGE IN HERE.
+I’ll just, uh,
+pour my garbage in here.
 
 514
 00:30:47,112 --> 00:30:48,880
-NOW!
+Now!
 
 515
 00:30:48,880 --> 00:30:51,083
-KABOOM!
+Kaboom!
 
 516
 00:30:51,083 --> 00:30:53,752
-DIDN’T BARBARA MANDRELL
-HAVE HAIR LIKE HIS AT ONE POINT?
+Didn’t barbara mandrell
+have hair like his at one point?
 
 517
 00:30:53,752 --> 00:30:55,454
-I THINK SO. YUP, YUP.
+I think so. Yup, yup.
 
 518
 00:30:55,454 --> 00:30:58,757
-PUT THE PEDAL
-ALL THE WAY DOWN.
+Put the pedal
+all the way down.
 
 519
 00:30:58,757 --> 00:31:01,093
-HM, DARE I?
+Hm, dare I?
 
 520
 00:31:01,093 --> 00:31:03,395
-[ENGINE STRUGGLING]
+[Engine struggling]
 
 521
 00:31:06,965 --> 00:31:11,403
-BETTER CHECK THIS OIL HERE.
-YEP, 10W-30.
+Better check this oil here.
+Yep, 10w-30.
 
 522
 00:31:11,403 --> 00:31:12,604
-[SIZZLING]
+[Sizzling]
 
 523
 00:31:12,604 --> 00:31:15,974
-OOH, HIS HAIR’S ON FIRE.
+Ooh, his hair’s on fire.
 
 524
 00:31:15,974 --> 00:31:17,943
-KEEP HER GOING, KID!
+Keep her going, kid!
 
 525
 00:31:20,612 --> 00:31:22,848
-OKAY, BRING THE BRATS OUT.
+Okay, bring the brats out.
 
 526
 00:31:25,584 --> 00:31:26,718
-[LAUGHS]
+[Laughs]
 
 527
 00:31:26,718 --> 00:31:29,421
-OUTWITTED MY TRUCK AGAIN!
+Outwitted my truck again!
 
 528
 00:31:33,125 --> 00:31:35,327
@@ -2415,185 +2415,185 @@ OUTWITTED MY TRUCK AGAIN!
 
 529
 00:31:35,327 --> 00:31:37,462
-I’M ROWSDOWER.
+I’m rowsdower.
 
 530
 00:31:37,462 --> 00:31:38,730
-ZAP ROWSDOWER.
+Zap rowsdower.
 
 531
 00:31:38,730 --> 00:31:42,367
-WELL, MY NAME
-IS BILL SHTINKWATER.
+Well, my name
+is bill shtinkwater.
 
 532
 00:31:42,367 --> 00:31:44,770
-ROWSDOWER-MOBILE AWAY!
+Rowsdower-mobile away!
 
 533
 00:31:44,770 --> 00:31:48,940
-AND TOGETHER THEY FOUGHT CRIME
-THROUGHOUT SOUTHWESTERN ALBERTA!
+And together they fought crime
+throughout southwestern alberta!
 
 534
 00:31:51,810 --> 00:31:56,715
-SO, ROWSDOWER,
-IS THAT A STUPID NAME, OR...?
+So, rowsdower,
+is that a stupid name, or...?
 
 535
 00:31:56,715 --> 00:32:00,952
-- UH, FILL HER UP.
-- YUP.
+- Uh, fill her up.
+- Yup.
 
 536
 00:32:00,952 --> 00:32:03,088
-YOU STAY HERE AND I’LL GET YOU
-A CHOCOLATE BAR, OKAY?
+You stay here and i’ll get you
+a chocolate bar, okay?
 
 537
 00:32:03,088 --> 00:32:04,823
-- THANKS.
-- BUY ME ANYTHING IN THERE
+- Thanks.
+- Buy me anything in there
 
 538
 00:32:04,823 --> 00:32:07,626
-WITH LARRY CSONKA ON IT.
-I’LL PAY FOR IT.
+with larry csonka on it.
+I’ll pay for it.
 
 539
 00:32:13,799 --> 00:32:16,768
-SHOOT, I’M IN CANADA.
+Shoot, i’m in canada.
 
 540
 00:32:24,075 --> 00:32:25,343
-OPERATOR, GIVE ME THE POLICE.
+Operator, give me the police.
 
 541
 00:32:25,343 --> 00:32:28,713
-AND THE COPS PICK UP
-THEIR ZAP ROWSDOWER HOTLINE.
+And the cops pick up
+their zap rowsdower hotline.
 
 542
 00:32:31,449 --> 00:32:33,552
-YES, OFFICE, I FOUND THIS KID
-IN THE BACK OF MY TRUCK.
+Yes, office, I found this kid
+in the back of my truck.
 
 543
 00:32:33,552 --> 00:32:37,889
-AND PLAY IN THE FRONT SEAT.
+And play in the front seat.
 
 544
 00:32:37,889 --> 00:32:40,992
-♪ ROLL ON, BIG MAMA,
-THE HIGHWAY ♪
+♪ Roll on, big mama,
+the highway ♪
 
 545
 00:32:40,992 --> 00:32:42,727
-HOW SHOULD I KNOW? ASK HIM.
+How should I know? Ask him.
 
 546
 00:32:42,727 --> 00:32:44,796
-EW, GOTTA GET
-THIS DEAD WOODCHUCK OUT
+Ew, gotta get
+this dead woodchuck out
 
 547
 00:32:44,796 --> 00:32:46,865
-FROM UNDER THE SEAT.
-EW, POOEY.
+from under the seat.
+Ew, pooey.
 
 548
 00:32:46,865 --> 00:32:49,100
-LOOK, YOU’RE GOING TO
-SEND SOMEONE TO PICK HIM UP?
+Look, you’re going to
+send someone to pick him up?
 
 549
 00:32:52,304 --> 00:32:54,306
-WHAT DO THEY THINK
-THEY’RE IN IDAHO?
+What do they think
+they’re in idaho?
 
 550
 00:32:57,142 --> 00:33:01,446
-HEY, I’VE GOT 89 CENTS
-WORTH OF CANS BACK THERE!
+Hey, i’ve got 89 cents
+worth of cans back there!
 
 551
 00:33:01,446 --> 00:33:04,249
-ZAP ACTIONS-DOWER.
+Zap actions-dower.
 
 552
 00:33:07,953 --> 00:33:09,087
-[GUNSHOTS]
+[Gunshots]
 
 553
 00:33:09,087 --> 00:33:12,324
-MY HOOD WICKS MOISTURE
-FROM MY FACE.
+My hood wicks moisture
+from my face.
 
 554
 00:33:16,795 --> 00:33:21,333
-UM, EAT MY DUST.
-I DON’T KNOW.
+Um, eat my dust.
+I don’t know.
 
 555
 00:33:21,333 --> 00:33:24,236
-DO THESE PANTS
-GO WITH THIS SWEATER?
+Do these pants
+go with this sweater?
 
 556
 00:33:29,507 --> 00:33:32,811
-YOU KNOW, HE BLENDS IN.
-HE LOOKS LIKE A SACK OF GARBAGE.
+You know, he blends in.
+He looks like a sack of garbage.
 
 557
 00:33:32,811 --> 00:33:37,148
-MM-HM.
+Mm-hm.
 
 558
 00:33:37,148 --> 00:33:39,684
-[GRUNTS]
+[Grunts]
 
 559
 00:33:42,687 --> 00:33:46,558
-THIS IS NO TIME FOR ZYMURGY.
+This is no time for zymurgy.
 
 560
 00:33:46,558 --> 00:33:50,128
-HEY, JUST DON’T SHOOT AT ME
-FOR A COUPLE OF MINUTES, OKAY?
-THANKS.
+Hey, just don’t shoot at me
+for a couple of minutes, okay?
+Thanks.
 
 561
 00:33:54,933 --> 00:33:58,203
-IF THIS DOESN’T WORK,
-I’LL THROW BALLS OF CARP DOUGH.
+If this doesn’t work,
+i’ll throw balls of carp dough.
 
 562
 00:34:04,809 --> 00:34:07,846
-YOU WANT US
-TO PICK THAT UP FOR YOU?
+You want us
+to pick that up for you?
 
 563
 00:34:12,817 --> 00:34:15,787
-I KNEW THERE WAS AN UPSIDE
-TO BEING AN ALCOHOLIC.
+I knew there was an upside
+to being an alcoholic.
 
 564
 00:34:17,589 --> 00:34:20,492
-CAN YOU TAKE THOSE
-TO RECYCLING? THANKS.
+Can you take those
+to recycling? Thanks.
 
 565
 00:34:24,963 --> 00:34:27,332
-CANADIAN MANNIX!
+Canadian mannix!
 
 566
 00:34:30,201 --> 00:34:33,939
-UH, SO, YOU WANNA
-HIT THE BRAKES, THERE, OR NOT?
+Uh, so, you wanna
+hit the brakes, there, or not?
 
 567
 00:34:38,944 --> 00:34:40,845
-OH, I’M SO RELAXED RIGHT NOW.
+Oh, i’m so relaxed right now.
 
 568
 00:34:40,845 --> 00:34:42,781
@@ -2601,540 +2601,540 @@ OH, I’M SO RELAXED RIGHT NOW.
 
 569
 00:34:48,019 --> 00:34:50,422
-ROWSDOWER, I CAN EXPLAIN.
+Rowsdower, I can explain.
 
 570
 00:34:50,422 --> 00:34:52,190
-THOSE MEN
-WERE TRYING TO KILL ME.
+Those men
+were trying to kill me.
 
 571
 00:34:52,190 --> 00:34:55,193
-YEAH, TELL IT
-TO MY ACID-WASHED JEANS.
+Yeah, tell it
+to my acid-washed jeans.
 
 572
 00:34:58,229 --> 00:35:00,365
-DO YOU HAVE ANY IDEA
-WHAT KIND OF PEOPLE
-YOU’RE DEALING WITH?
+Do you have any idea
+what kind of people
+you’re dealing with?
 
 573
 00:35:00,365 --> 00:35:02,233
-THEY’RE FROM SASKATCHEWAN.
+They’re from saskatchewan.
 
 574
 00:35:02,233 --> 00:35:04,402
-NO.
+No.
 
 575
 00:35:04,402 --> 00:35:07,172
-- IT’S A CULT.
-- THEY WORSHIP BLUE OYSTERS.
+- It’s a cult.
+- They worship blue oysters.
 
 576
 00:35:07,172 --> 00:35:09,407
-THEY WANT TO RULE THE WORLD.
+They want to rule the world.
 
 577
 00:35:09,407 --> 00:35:12,277
-HOW DO YOU KNOW THAT?
+How do you know that?
 
 578
 00:35:12,277 --> 00:35:13,511
-I’VE BEEN AROUND, KID.
+I’ve been around, kid.
 
 579
 00:35:13,511 --> 00:35:16,581
-- AND I’VE BEEN A SQUARE KID.
-- NO.
+- And i’ve been a square kid.
+- No.
 
 580
 00:35:16,581 --> 00:35:18,216
-TELL ME MORE ABOUT THEM.
+Tell me more about them.
 
 581
 00:35:18,216 --> 00:35:19,718
-THEIR FACES
-ARE LUMPY AND WHISKERED.
+Their faces
+are lumpy and whiskered.
 
 582
 00:35:19,718 --> 00:35:22,854
-OH, WAIT, THAT’S ME.
+Oh, wait, that’s me.
 
 583
 00:35:22,854 --> 00:35:24,422
-THE RACE
-RULED THIS LAND ONCE.
+The race
+ruled this land once.
 
 584
 00:35:24,422 --> 00:35:26,257
-THEY RULED THIS ONE ACRE
-FOR ABOUT A WEEK.
+They ruled this one acre
+for about a week.
 
 585
 00:35:26,257 --> 00:35:27,325
-NOBODY KNEW.
+Nobody knew.
 
 586
 00:35:27,325 --> 00:35:31,596
-THE RACE
-OF THE ZIOX CIVILIZATION.
+The race
+of the ziox civilization.
 
 587
 00:35:31,596 --> 00:35:34,199
-- ZIOX?
-- WASN’T THAT A SANDWICH COOKIE?
+- Ziox?
+- Wasn’t that a sandwich cookie?
 
 588
 00:35:34,199 --> 00:35:38,403
-MY DAD WROTE ABOUT THEM.
+My dad wrote about them.
 
 589
 00:35:38,403 --> 00:35:40,739
-BTO WAS SUCH
-A GREAT BAND, MAN.
+Bto was such
+a great band, man.
 
 590
 00:35:40,739 --> 00:35:43,441
-LOOK.
+Look.
 
 591
 00:35:43,441 --> 00:35:45,877
-I’M ABOUT TO PUKE, KID.
-YOU MIGHT WANT TO CLEAR OUT.
+I’m about to puke, kid.
+You might want to clear out.
 
 592
 00:35:45,877 --> 00:35:48,013
-LOOK AT THE WRITING.
+Look at the writing.
 
 593
 00:35:48,013 --> 00:35:49,414
-IT’S ANCIENT.
+It’s ancient.
 
 594
 00:35:49,414 --> 00:35:52,417
-OLD AS THE CRUMBS
-IN YOUR MOUSTACHE.
+Old as the crumbs
+in your moustache.
 
 595
 00:35:52,417 --> 00:35:55,220
-WHERE DOES THIS LEAD TO?
+Where does this lead to?
 
 596
 00:35:55,220 --> 00:35:57,689
-WELL, NOBODY KNOWS
-FOR SURE...
+Well, nobody knows
+for sure...
 
 597
 00:35:57,689 --> 00:36:00,191
-EXCEPT MY DAD, BUT UM...
+Except my dad, but um...
 
 598
 00:36:00,191 --> 00:36:01,960
-I DISAPPOINTED HIM.
+I disappointed him.
 
 599
 00:36:01,960 --> 00:36:04,129
-HE WAS KILLED
-SEVEN YEARS AGO.
+He was killed
+seven years ago.
 
 600
 00:36:04,129 --> 00:36:06,431
-AND I WANT TO KNOW
-WHY HE DIED.
+And I want to know
+why he died.
 
 601
 00:36:06,431 --> 00:36:08,800
-THIS MAP IS MY ONLY LEAD.
+This map is my only lead.
 
 602
 00:36:08,800 --> 00:36:11,202
-YEAH, HANG ON. [BURPS]
+Yeah, hang on. [Burps]
 
 603
 00:36:11,202 --> 00:36:12,570
-GO TO SLEEP, KID.
+Go to sleep, kid.
 
 604
 00:36:12,570 --> 00:36:14,072
-I’M TAKING YOU HOME
-IN THE MORNING.
+I’m taking you home
+in the morning.
 
 605
 00:36:14,072 --> 00:36:17,676
-OH, I THINK HE’S TAKING HIM HOME
-IN THE MORNING. YEAH, YEAH.
+Oh, I think he’s taking him home
+in the morning. Yeah, yeah.
 
 606
 00:36:17,676 --> 00:36:19,044
-YUP.
+Yup.
 
 607
 00:36:22,247 --> 00:36:23,848
-ROWSDOWER?
+Rowsdower?
 
 608
 00:36:23,848 --> 00:36:25,917
-[LAUGHING]
+[Laughing]
 
 609
 00:36:25,917 --> 00:36:26,951
-YEAH?
+Yeah?
 
 610
 00:36:26,951 --> 00:36:30,221
-WHY DO I FEEL LIKE
-HAVING HAGGIS?
+Why do I feel like
+having haggis?
 
 611
 00:36:30,221 --> 00:36:32,624
-- HAVE YOU ALWAYS BEEN A--
-- HOPELESS DRUNK.
+- Have you always been a--
+- hopeless drunk.
 
 612
 00:36:32,624 --> 00:36:35,527
-DRIFTER?
+Drifter?
 
 613
 00:36:35,527 --> 00:36:39,330
-ROWSDOWER, COULD YOU
-PUT OUT MY HEAD?
+Rowsdower, could you
+put out my head?
 
 614
 00:36:39,330 --> 00:36:40,932
-NO.
+No.
 
 615
 00:36:40,932 --> 00:36:42,033
-OH.
+Oh.
 
 616
 00:36:42,033 --> 00:36:43,535
-WELL, WHAT WERE YOU BEFORE?
+Well, what were you before?
 
 617
 00:36:43,535 --> 00:36:48,073
-WELL, I USED TO GIVE PLASMA.
-YOU MIGHT KNOW ME FROM THAT.
+Well, I used to give plasma.
+You might know me from that.
 
 618
 00:36:48,073 --> 00:36:52,510
-- I WAS A--
--  A CHIPPENDALES DANCER.
+- I was a--
+- a chippendales dancer.
 
 619
 00:36:52,510 --> 00:36:55,480
-A BUSINESSMAN.
+A businessman.
 
 620
 00:36:55,480 --> 00:36:56,915
-WHAT HAPPENED?
+What happened?
 
 621
 00:36:56,915 --> 00:37:00,018
-WELL, I SWITCHED TO BEATING UP
-ANNOYING KIDS WITH BEER BOTTLES.
+Well, I switched to beating up
+annoying kids with beer bottles.
 
 622
 00:37:07,058 --> 00:37:08,326
-GO TO SLEEP, KID.
+Go to sleep, kid.
 
 623
 00:37:08,326 --> 00:37:12,397
-YOU’RE HARSHING MY BUZZ.
+You’re harshing my buzz.
 
 624
 00:37:12,397 --> 00:37:16,601
-HUH, NOW IS THIS TOUCHING
-OR BORING? I CAN’T...
+Huh, now is this touching
+or boring? I can’t...
 
 625
 00:37:16,601 --> 00:37:20,071
-REALLY...
+Really...
 
 626
 00:37:20,071 --> 00:37:21,906
-ROWSDOWER.
+Rowsdower.
 
 627
 00:37:25,610 --> 00:37:28,746
-NOW THAT IS A DARLING
-MAXI SKIRT.
+Now that is a darling
+maxi skirt.
 
 628
 00:37:31,616 --> 00:37:36,121
-[YAWNS]
-ROWSDOWER.
+[Yawns]
+Rowsdower.
 
 629
 00:37:36,121 --> 00:37:39,324
-WOW, I DREAMT I WAS STUCK
-WITH A CHUNKY BACKWOODS LOSER
+Wow, I dreamt I was stuck
+with a chunky backwoods loser
 
 630
 00:37:39,324 --> 00:37:42,393
-NAMED ROWSDOWER-- AAH!
+named rowsdower-- aah!
 
 631
 00:37:42,393 --> 00:37:45,730
-[COUGHS] I THINK
-MY VOICE CHANGED OVERNIGHT.
+[Coughs] I think
+my voice changed overnight.
 
 632
 00:37:48,766 --> 00:37:50,668
-GOOD MORNING.
+Good morning.
 
 633
 00:37:52,871 --> 00:37:56,508
-SO YOU GONNA GET US
-OUT OF HERE?
+So you gonna get us
+out of here?
 
 634
 00:37:56,508 --> 00:37:57,575
-I’LL GET US OUT OF HERE.
+I’ll get us out of here.
 
 635
 00:37:57,575 --> 00:38:01,146
-THEN WE’LL STALL
-50 YARDS DOWN THE LINE.
+Then we’ll stall
+50 yards down the line.
 
 636
 00:38:01,146 --> 00:38:05,583
-WHY WERE YOU GOING TO
-TURN ME OVER TO THE COPS?
+Why were you going to
+turn me over to the cops?
 
 637
 00:38:05,583 --> 00:38:07,352
-BECAUSE I LIKE TO KEEP
-MY NOSE CLEAN.
+Because I like to keep
+my nose clean.
 
 638
 00:38:07,352 --> 00:38:09,220
-MY BODY SUFFERS
-FOR IT, BUT...
+My body suffers
+for it, but...
 
 639
 00:38:09,220 --> 00:38:11,656
-HELPING A RUNAWAY KID
-CAN GET ME IN BIG TROUBLE.
+Helping a runaway kid
+can get me in big trouble.
 
 640
 00:38:11,656 --> 00:38:14,659
-I’D LOVE FOR YOU TO MEET
-THE PEOPLE IN MY YOUTH GROUP.
+I’d love for you to meet
+the people in my youth group.
 
 641
 00:38:17,762 --> 00:38:20,131
-ROWSDOWER?
+Rowsdower?
 
 642
 00:38:20,131 --> 00:38:22,433
-HAVE YOU EVER BATHED?
+Have you ever bathed?
 
 643
 00:38:22,433 --> 00:38:25,303
-WILL YOU HELP ME FIND
-WHAT’S BEHIND THE MAP?
+Will you help me find
+what’s behind the map?
 
 644
 00:38:25,303 --> 00:38:28,873
-OH, I DON’T GO
-MAP FINDING BEHINDING.
+Oh, I don’t go
+map finding behinding.
 
 645
 00:38:28,873 --> 00:38:30,475
-YOU SHOULD BE IN SCHOOL.
+You should be in school.
 
 646
 00:38:30,475 --> 00:38:33,945
-NOT RUNNING AROUND
-HUNTING DOWN LOST CIVILIZATIONS.
+Not running around
+hunting down lost civilizations.
 
 647
 00:38:33,945 --> 00:38:36,514
-BESIDES, THE MAP
-COULD BE A FAKE.
+Besides, the map
+could be a fake.
 
 648
 00:38:36,514 --> 00:38:38,283
-A FANTASY OF YOUR OLD MAN’S.
+A fantasy of your old man’s.
 
 649
 00:38:38,283 --> 00:38:40,585
-WHY DO YOU THINK THOSE MEN
-WERE FOLLOWING US YESTERDAY?
+Why do you think those men
+were following us yesterday?
 
 650
 00:38:40,585 --> 00:38:42,687
-AH, THEY THOUGHT I WAS THAT GUY
-FROM  DUE SOUTH. 
+Ah, they thought I was that guy
+from due south.
 
 651
 00:38:42,687 --> 00:38:44,489
-DON’T YOU SEE?
+Don’t you see?
 
 652
 00:38:44,489 --> 00:38:46,124
-THEY WERE AFTER THIS.
+They were after this.
 
 653
 00:38:46,124 --> 00:38:49,794
-ROWSDOWER’S GOT ONE
-OF SCREENDOM’S BEST REAR ENDS.
+Rowsdower’s got one
+of screendom’s best rear ends.
 
 654
 00:38:49,794 --> 00:38:52,764
-MM-HMM.
+Mm-hmm.
 
 655
 00:38:52,764 --> 00:38:55,166
-YOU GIVE ME A HAND NOW, KID.
+You give me a hand now, kid.
 
 656
 00:38:55,166 --> 00:38:57,669
-ROWSDOWER!
+Rowsdower!
 
 657
 00:39:04,943 --> 00:39:07,812
-DO YOU KNOW HOW FAST
-YOU WERE GOING, ROWSDOWER?
+Do you know how fast
+you were going, rowsdower?
 
 658
 00:39:10,215 --> 00:39:14,619
-COME ON.
+Come on.
 
 659
 00:39:14,619 --> 00:39:16,287
-COME ON, BABY.
-DON’T LET ME DOWN.
+Come on, baby.
+Don’t let me down.
 
 660
 00:39:16,287 --> 00:39:18,756
-I WON’T, ROWSDOWER.
+I won’t, rowsdower.
 
 661
 00:39:18,756 --> 00:39:22,660
-[ENGINE TURNS OVER]
-WATCH OUT, KID.
+[Engine turns over]
+Watch out, kid.
 
 662
 00:39:22,660 --> 00:39:27,065
-ROWSDOWER-ER-ER-ER.
+Rowsdower-er-er-er.
 
 663
 00:39:27,065 --> 00:39:29,667
-DAMN.
+Damn.
 
 664
 00:39:29,667 --> 00:39:33,137
-YOU’RE GOING TO DRIVE
-WHILE I PUSH AT THE FRONT.
+You’re going to drive
+while I push at the front.
 
 665
 00:39:33,137 --> 00:39:34,505
-START OUT SLOW.
+Start out slow.
 
 666
 00:39:34,505 --> 00:39:36,674
-WHEN YOU GET UP SOME SPEED,
-FLOOR HER. GOT IT?
+When you get up some speed,
+floor her. Got it?
 
 667
 00:39:36,674 --> 00:39:38,042
-AND I’D LIKE
-TO THANK DAN AYKROYD
+And i’d like
+to thank dan aykroyd
 
 668
 00:39:38,042 --> 00:39:40,345
-FOR DOING THAT LAST LINE.
+for doing that last line.
 
 669
 00:39:44,115 --> 00:39:47,886
-GO!
+Go!
 
 670
 00:39:47,886 --> 00:39:50,521
-FUDGE.
+Fudge.
 
 671
 00:39:50,521 --> 00:39:53,258
-CHILDREN AND PREGNANT WOMEN
-SHOULD NOT WATCH THIS SCENE.
+Children and pregnant women
+should not watch this scene.
 
 672
 00:39:53,258 --> 00:39:54,826
-YOU KNOW, IN FACT, NO ONE
-SHOULD REALLY WATCH
+You know, in fact, no one
+should really watch
 
 673
 00:39:54,826 --> 00:39:55,893
-ANY OF THESE SCENES.
+any of these scenes.
 
 674
 00:39:55,893 --> 00:39:57,328
-- YEAH, YOU’RE RIGHT.
-- I AGREE.
+- Yeah, you’re right.
+- I agree.
 
 675
 00:40:00,832 --> 00:40:02,200
-THIS IS LIKE
-WHEN OUR NURSING HOME
+This is like
+when our nursing home
 
 676
 00:40:02,200 --> 00:40:04,869
-VOLUNTEER BUS BROKE DOWN.
+volunteer bus broke down.
 
 677
 00:40:04,869 --> 00:40:07,105
-[EXPLOSION]
-WOW!
+[Explosion]
+Wow!
 
 678
 00:40:07,105 --> 00:40:09,874
-SOUNDS LIKE ROWSDOWER’S HEART
-JUST EXPLODED.
+Sounds like rowsdower’s heart
+just exploded.
 
 679
 00:40:13,211 --> 00:40:15,380
-[HEAVY PANTING]
+[Heavy panting]
 
 680
 00:40:15,380 --> 00:40:17,282
-I DON’T THINK
-THAT WAS A VERY GOOD IDEA.
+I don’t think
+that was a very good idea.
 
 681
 00:40:17,282 --> 00:40:18,917
-SHUT UP.
+Shut up.
 
 682
 00:40:18,917 --> 00:40:20,518
-WE’RE IN FOR A LONG WALK.
+We’re in for a long walk.
 
 683
 00:40:20,518 --> 00:40:23,021
-- WE’RE GONNA WALK?
-- WELL, IT’S NOT MY FAULT!
+- We’re gonna walk?
+- Well, it’s not my fault!
 
 684
 00:40:23,021 --> 00:40:26,724
-YOU’RE THE ONE
-THAT GOT US INTO THIS MESS.
+You’re the one
+that got us into this mess.
 
 685
 00:40:26,724 --> 00:40:28,726
-YOU STAY HERE
-WHILE I GO GET US SOME WATER.
+You stay here
+while I go get us some water.
 
 686
 00:40:28,726 --> 00:40:32,697
-- I’LL GO.
-- CAN YOU CARRY ME?
+- I’ll go.
+- Can you carry me?
 
 687
 00:40:32,697 --> 00:40:34,265
-CANTEEN’S IN THE CAB.
+Canteen’s in the cab.
 
 688
 00:40:34,265 --> 00:40:37,235
@@ -3143,125 +3143,125 @@ AT COLUMBUS AND 77th.
 
 689
 00:40:43,574 --> 00:40:47,245
-AND IF YOU FIND A PACKAGE STORE,
-GET ME SOME YUKON JACK.
+And if you find a package store,
+get me some yukon jack.
 
 690
 00:40:54,185 --> 00:40:56,788
-THANKS FOR THE RIDE, MISTER.
+Thanks for the ride, mister.
 
 691
 00:40:59,023 --> 00:41:01,893
-WELL, I TRY TO WORK OUT,
-BUT IT JUST GETS HARD.
+Well, I try to work out,
+but it just gets hard.
 
 692
 00:41:07,932 --> 00:41:10,635
-♪ GETTING WATER
-FOR ROWSDOWER ♪
+♪ Getting water
+for rowsdower ♪
 
 693
 00:41:10,635 --> 00:41:13,471
-♪ ROWSDOWER WANTS ME
-TO GET WATER FOR HIM ♪
+♪ rowsdower wants me
+to get water for him ♪
 
 694
 00:41:13,471 --> 00:41:16,240
-[SNIFFS]
-EW, NATURE SMELLS.
+[Sniffs]
+Ew, nature smells.
 
 695
 00:41:16,240 --> 00:41:18,109
-MIKE, IS THERE ANY WAY
-I COULD HOP INTO THE MOVIE
+Mike, is there any way
+I could hop into the movie
 
 696
 00:41:18,109 --> 00:41:19,410
-AND DUMP THIS KID’S BOOKS?
+and dump this kid’s books?
 
 697
 00:41:19,410 --> 00:41:21,713
-OH, I ONLY WISH.
+Oh, I only wish.
 
 698
 00:41:21,713 --> 00:41:24,582
-SOMEBODY COVERED
-THEIR TOMATO PLANTS.
+Somebody covered
+their tomato plants.
 
 699
 00:41:29,754 --> 00:41:32,957
-LET’S SEE WHAT MY CAP’N CRUNCH
-TREASURE MAP SAYS.
+Let’s see what my cap’n crunch
+treasure map says.
 
 700
 00:41:36,928 --> 00:41:39,097
-[GROWLS]
+[Growls]
 
 701
 00:41:42,066 --> 00:41:45,036
-THE THREE BAGUETTES.
+The three baguettes.
 
 702
 00:41:45,036 --> 00:41:48,072
-[GRUNTS]
+[Grunts]
 
 703
 00:41:50,908 --> 00:41:54,545
-♪ ROWSDOWER, ROWSDOWER,
-ROWSE-A-ROWSE-A-ROWSEDOWER ♪
+♪ Rowsdower, rowsdower,
+rowse-a-rowse-a-rowsedower ♪
 
 704
 00:41:54,545 --> 00:41:56,381
-♪ BOWSE-A-BOWSE-A-BOWESDOWER ♪
+♪ bowse-a-bowse-a-bowesdower ♪
 
 705
 00:41:56,381 --> 00:41:58,182
-♪ SABIDI-SABIDI-SOWSDOWER ♪
+♪ sabidi-sabidi-sowsdower ♪
 
 706
 00:41:58,182 --> 00:41:59,884
-♪ BIPPITY-BOPPITY-BOWSEDOWER ♪
+♪ bippity-boppity-bowsedower ♪
 
 707
 00:41:59,884 --> 00:42:02,520
-♪ BOPPITY-DOPPITY-DOWER-ROWSE ♪
+♪ boppity-doppity-dower-rowse ♪
 
 708
 00:42:02,520 --> 00:42:04,122
-♪ DOWER ♪
+♪ dower ♪
 
 709
 00:42:06,691 --> 00:42:09,694
-SOMEBODY’S BREAKING
-SHREDDED-WHEAT BISCUITS.
+Somebody’s breaking
+shredded-wheat biscuits.
 
 710
 00:42:13,598 --> 00:42:16,000
-OKAY, I DROPPED THE CANTEEN,
-AND I GOT LOST.
+Okay, I dropped the canteen,
+and I got lost.
 
 711
 00:42:16,000 --> 00:42:17,702
-RIGHT ON SCHEDULE.
+Right on schedule.
 
 712
 00:42:17,702 --> 00:42:20,038
-AH, NEXT I HAVE TO FALL,
-BREAK MY ANKLE,
+Ah, next I have to fall,
+break my ankle,
 
 713
 00:42:20,038 --> 00:42:22,874
-BE ATTACKED BY COYOTES,
-AND BURIED BY A BEAR.
+be attacked by coyotes,
+and buried by a bear.
 
 714
 00:42:22,874 --> 00:42:25,576
-[HOWLING]
+[Howling]
 
 715
 00:42:30,648 --> 00:42:33,951
-TAKE A LEFT AT THE TREE.
-THAT HELPS!
+Take a left at the tree.
+That helps!
 
 716
 00:42:35,686 --> 00:42:37,622
@@ -3269,1108 +3269,1108 @@ THAT HELPS!
 
 717
 00:42:43,928 --> 00:42:45,496
-BAD NEWS, LOSERS.
+Bad news, losers.
 
 718
 00:42:45,496 --> 00:42:46,864
-WE WON’T BE IN TODAY
+We won’t be in today
 
 719
 00:42:46,864 --> 00:42:49,934
-BECAUSE BOBO ATE A BAD CAN
-OF CANADIAN BACON,
+because bobo ate a bad can
+of canadian bacon,
 
 720
 00:42:49,934 --> 00:42:51,736
-AND HE CAME DOWN
-WITH HOCKEY HAIR,
+and he came down
+with hockey hair,
 
 721
 00:42:51,736 --> 00:42:54,005
-AND NOW WE’VE ALL GOT IT.
+and now we’ve all got it.
 
 722
 00:42:54,005 --> 00:42:56,240
-LADY? LADY.
+Lady? Lady.
 
 723
 00:42:56,240 --> 00:42:58,810
-CAN I WATCH POWER RANGERS?
+Can I watch power rangers?
 
 724
 00:43:00,578 --> 00:43:02,613
-WELL GEE, PEARL,
-THAT’S TOO BAD.
+Well gee, pearl,
+that’s too bad.
 
 725
 00:43:02,613 --> 00:43:04,449
-I GUESS THAT MEANS
-IT’S CONTAGIOUS.
+I guess that means
+it’s contagious.
 
 726
 00:43:04,449 --> 00:43:06,751
-OH, I’M SURE YOU GUYS
-WILL BE FINE.
+Oh, i’m sure you guys
+will be fine.
 
 727
 00:43:06,751 --> 00:43:08,386
-I MEAN, WE LIVE WITH THE APE,
+I mean, we live with the ape,
 
 728
 00:43:08,386 --> 00:43:11,022
-SO WHEN HE GETS HOCKEY HAIR,
-WE ALL GET HOCKEY HAIR.
+so when he gets hockey hair,
+we all get hockey hair.
 
 729
 00:43:11,022 --> 00:43:12,857
-DON’T WORRY.
+Don’t worry.
 
 730
 00:43:12,857 --> 00:43:16,627
-THE-- THE DOCTOR SAYS
-I HAVE TO HAVE MORE WHOPPERS
+The-- the doctor says
+I have to have more whoppers
 
 731
 00:43:16,627 --> 00:43:19,530
-AND MALTED MILK BALLS.
+and malted milk balls.
 
 732
 00:43:19,530 --> 00:43:22,133
-YES, YES, DEAR.
+Yes, yes, dear.
 
 733
 00:43:22,133 --> 00:43:26,003
-OH, FOR CRYING--
-IT’S AN AIRBORNE VIRUS. SHEESH.
+Oh, for crying--
+it’s an airborne virus. Sheesh.
 
 734
 00:43:26,003 --> 00:43:28,072
-MIKE, WHAT’S YOUR DEAL?
-HOW COME YOU DON’T HAVE IT?
+Mike, what’s your deal?
+How come you don’t have it?
 
 735
 00:43:28,072 --> 00:43:32,376
-OH, I HAD IT ONCE ALREADY
-FROM 1982 TO 1992.
+Oh, I had it once already
+from 1982 to 1992.
 
 736
 00:43:32,376 --> 00:43:34,378
-ONCE YOU GET IT ONCE,
-YOU CAN’T GET IT AGAIN.
+Once you get it once,
+you can’t get it again.
 
 737
 00:43:34,378 --> 00:43:35,613
-HUH.
+Huh.
 
 738
 00:43:35,613 --> 00:43:39,417
-OH, NO.
-YOU GUYS GOT IT TOO, HUH?
+Oh, no.
+You guys got it too, huh?
 
 739
 00:43:39,417 --> 00:43:42,620
-WELL, THE BEST THING IS TO
-JUST LET IT RUN ITS COURSE.
+Well, the best thing is to
+just let it run its course.
 
 740
 00:43:42,620 --> 00:43:45,056
-WELL, I THINK IT’S GREAT!
+Well, I think it’s great!
 
 741
 00:43:45,056 --> 00:43:47,325
-I’VE NEVER FELT SO MASCULINE.
+I’ve never felt so masculine.
 
 742
 00:43:47,325 --> 00:43:49,594
-I FEEL LIKE GUY LAFLEUR.
+I feel like guy lafleur.
 
 743
 00:43:49,594 --> 00:43:53,998
-IT’S TIME...
-FOR MY HOURLY BEN AND JERRY’S.
+It’s time...
+For my hourly ben and jerry’s.
 
 744
 00:43:55,933 --> 00:43:58,669
-HUH, I HAVE THIS INTENSE
-CRAVING FOR ZUBAZ.
+Huh, I have this intense
+craving for zubaz.
 
 745
 00:43:58,669 --> 00:44:00,571
-YEAH, YOU’RE GONNA GET THAT.
-[ALARM BUZZES]
+Yeah, you’re gonna get that.
+[Alarm buzzes]
 
 746
 00:44:00,571 --> 00:44:03,508
-- OH, THE MOVIE’S PLAYING.
-- OH, SHERRY!
+- Oh, the movie’s playing.
+- Oh, sherry!
 
 747
 00:44:14,085 --> 00:44:17,188
-- WHOA, WOOZY.
-- SORRY, YOU GUYS.
+- Whoa, woozy.
+- Sorry, you guys.
 
 748
 00:44:17,188 --> 00:44:18,222
-TROY!
+Troy!
 
 749
 00:44:18,222 --> 00:44:21,993
-IT’S THE CANADIAN NICK NOLTE.
+It’s the canadian nick nolte.
 
 750
 00:44:21,993 --> 00:44:23,494
-TROY, WHERE ARE YOU?
+Troy, where are you?
 
 751
 00:44:23,494 --> 00:44:26,097
-MR. AIKMAN!
+Mr. Aikman!
 
 752
 00:44:26,097 --> 00:44:27,598
-HEY, MISTER,
-HAVE YOU SEEN ROWSDOWER?
+Hey, mister,
+have you seen rowsdower?
 
 753
 00:44:27,598 --> 00:44:28,733
-AH, HEY.
+Ah, hey.
 
 754
 00:44:28,733 --> 00:44:31,836
-- OVER HERE.
-- WHAT?
+- Over here.
+- What?
 
 755
 00:44:34,805 --> 00:44:36,274
-LOOK WHAT I FOUND.
+Look what I found.
 
 756
 00:44:36,274 --> 00:44:39,243
-WHAT IS IT?
+What is it?
 
 757
 00:44:39,243 --> 00:44:41,245
-IT’S A TUNNEL.
+It’s a tunnel.
 
 758
 00:44:41,245 --> 00:44:42,580
-YEAH, RIGHT.
+Yeah, right.
 
 759
 00:44:42,580 --> 00:44:45,683
-THAT IS A CLASSIC
-ROWSDOWERISM.
+That is a classic
+rowsdowerism.
 
 760
 00:44:47,685 --> 00:44:50,221
-A BUG! YUCK!
+A bug! Yuck!
 
 761
 00:44:58,729 --> 00:45:01,499
-YOU’RE GOING TO THROW ME
-DOWN THERE, AREN’T YOU?
+You’re going to throw me
+down there, aren’t you?
 
 762
 00:45:05,236 --> 00:45:08,706
-YEAH, NOT MATTER WHERE HE GOES,
-HE FINDS A BASEMENT TO DWELL IN.
+Yeah, not matter where he goes,
+he finds a basement to dwell in.
 
 763
 00:45:11,909 --> 00:45:15,780
-EXCUSE ME.
+Excuse me.
 
 764
 00:45:15,780 --> 00:45:18,816
-- WOW.
-- THESE ARE REALLY CHEAP SETS.
+- Wow.
+- These are really cheap sets.
 
 765
 00:45:20,685 --> 00:45:24,121
-[LIGHTER FLICKS]
+[Lighter flicks]
 
 766
 00:45:24,121 --> 00:45:26,257
-THIS TUNNEL MUST HAVE BEEN DUG
-HUNDREDS OF YEARS AGO.
+This tunnel must have been dug
+hundreds of years ago.
 
 767
 00:45:26,257 --> 00:45:27,625
-I SENSED THAT WITH MY HAIR.
+I sensed that with my hair.
 
 768
 00:45:27,625 --> 00:45:29,260
-MY HAIR IS AN ELABORATE
-NETWORK OF NERVES
+My hair is an elaborate
+network of nerves
 
 769
 00:45:29,260 --> 00:45:32,163
-CONSTANTLY PROCESSING
-INFORMATION.
+constantly processing
+information.
 
 770
 00:45:33,931 --> 00:45:35,433
-THIS TUNNEL IS ON THE MAP.
+This tunnel is on the map.
 
 771
 00:45:35,433 --> 00:45:38,336
-HUH?
+Huh?
 
 772
 00:45:38,336 --> 00:45:40,972
-I WAS RIGHT.
+I was right.
 
 773
 00:45:40,972 --> 00:45:42,273
-THE MAP IS REAL.
+The map is real.
 
 774
 00:45:42,273 --> 00:45:43,641
-MAP ISRAEL?
+Map israel?
 
 775
 00:45:43,641 --> 00:45:46,344
-I BELIEVE ISRAEL HAS BEEN
-FAIRLY WELL MAPPED ALREADY.
+I believe israel has been
+fairly well mapped already.
 
 776
 00:45:46,344 --> 00:45:49,347
-STOP.
+Stop.
 
 777
 00:45:49,347 --> 00:45:52,016
-IT’S AN EVIL PORKY PIG.
+It’s an evil porky pig.
 
 778
 00:45:57,421 --> 00:45:59,824
-THE PUKING BUDDHA.
+The puking buddha.
 
 779
 00:45:59,824 --> 00:46:04,028
-BLECH, I HATE-- WHAT IS THAT?
-I HAVE HAIR IN MY MOUTH. BLECH.
+Blech, I hate-- what is that?
+I have hair in my mouth. Blech.
 
 780
 00:46:07,265 --> 00:46:09,934
-WHOA, NOT THERE, KID.
-SENSITIVE AREA.
+Whoa, not there, kid.
+Sensitive area.
 
 781
 00:46:12,770 --> 00:46:15,806
-NEVER CLIMB
-IN PEOPLE YOU DON’T KNOW.
+Never climb
+in people you don’t know.
 
 782
 00:46:18,309 --> 00:46:19,877
-TROY?
+Troy?
 
 783
 00:46:19,877 --> 00:46:23,381
-ARE YOU DEAD,
-BECAUSE IF YOU ARE,
-I’M GONNA TAKE OFF.
+Are you dead,
+because if you are,
+i’m gonna take off.
 
 784
 00:46:28,552 --> 00:46:32,189
-FIREWOOD FOR SALE.
+Firewood for sale.
 
 785
 00:46:32,189 --> 00:46:35,226
-I GUESS THEY THOUGHT HE WAS
-A BABY HARP-SEAL OR SOMETHING.
+I guess they thought he was
+a baby harp-seal or something.
 
 786
 00:46:41,465 --> 00:46:44,935
-THE JUST-ABOUT-TO-SNEEZE GOD.
+The just-about-to-sneeze god.
 
 787
 00:46:52,009 --> 00:46:53,144
-WOW!
+Wow!
 
 788
 00:46:53,144 --> 00:46:55,846
-I REALLY DON’T UNDERSTAND.
+I really don’t understand.
 
 789
 00:46:59,283 --> 00:47:02,787
-YOU TRESPASSED
-ON CHARLTON HESTON’S PLACE.
+You trespassed
+on charlton heston’s place.
 
 790
 00:47:04,655 --> 00:47:07,491
-WE BAGGED OUR OWN HEADS
-AND SAVED!
+We bagged our own heads
+and saved!
 
 791
 00:47:08,793 --> 00:47:11,395
-- GIVE UP YOUR HOCKEY HAIR!
-- NEVER!
+- Give up your hockey hair!
+- Never!
 
 792
 00:47:11,395 --> 00:47:13,964
-YOU...
+You...
 
 793
 00:47:13,964 --> 00:47:15,232
-YOU.
+You.
 
 794
 00:47:15,232 --> 00:47:18,169
-SO YOU’VE NOT
-FORGOTTEN ME, ROWSDOWER.
+So you’ve not
+forgotten me, rowsdower.
 
 795
 00:47:18,169 --> 00:47:20,204
-WE MEET AGAIN.
+We meet again.
 
 796
 00:47:20,204 --> 00:47:22,573
-FOR THE FINAL TIME,
-I’M AFRAID.
+For the final time,
+i’m afraid.
 
 797
 00:47:22,573 --> 00:47:25,342
-RED GROOMS’ DRACULA.
+Red grooms’ dracula.
 
 798
 00:47:28,779 --> 00:47:31,449
-MY HAWKWIND
-ALBUM COVER WILL HELP.
+My hawkwind
+album cover will help.
 
 799
 00:47:33,284 --> 00:47:36,053
-NOPE, NOTHIN’.
-I DON’T GET IT.
+Nope, nothin’.
+I don’t get it.
 
 800
 00:47:37,755 --> 00:47:41,992
-COME ON, KID.
-GIVE US A HARDY "ROWSDOWER."
+Come on, kid.
+Give us a hardy "rowsdower."
 
 801
 00:47:41,992 --> 00:47:45,129
-- DAD!
-- THAT’S MY FAVORITE
-JACK LEMMON MOVIE.
+- Dad!
+- That’s my favorite
+jack lemmon movie.
 
 802
 00:47:45,129 --> 00:47:47,665
-YOU WERE HERE.
+You were here.
 
 803
 00:47:47,665 --> 00:47:49,400
-WEREN’T YOU?
+Weren’t you?
 
 804
 00:47:49,400 --> 00:47:52,136
-WHERE’S THE BOY?
+Where’s the boy?
 
 805
 00:47:52,136 --> 00:47:53,304
-COULD YOU SQUAT DOWN?
+Could you squat down?
 
 806
 00:47:53,304 --> 00:47:55,039
-I WAS TRYING TO GET YOU
-IN THE FACE ACTUALLY.
+I was trying to get you
+in the face actually.
 
 807
 00:47:55,039 --> 00:47:57,775
-- THE BOY, ROWSDOWER.
-- THE BOY.
+- The boy, rowsdower.
+- The boy.
 
 808
 00:47:57,775 --> 00:47:59,777
-HE WENT INTO
-THE CAVE WITH YOU.
+He went into
+the cave with you.
 
 809
 00:47:59,777 --> 00:48:02,813
-HE HAS THE MAP. I WANT IT.
+He has the map. I want it.
 
 810
 00:48:02,813 --> 00:48:04,415
-I DON’T KNOW!
+I don’t know!
 
 811
 00:48:04,415 --> 00:48:06,817
-LOOK INTO YOUR HEART, EH?
+Look into your heart, eh?
 
 812
 00:48:08,753 --> 00:48:11,889
-WE’RE GOING TO MAKE YOU DRINK
-SOMETHING OTHER THAN BEER.
+We’re going to make you drink
+something other than beer.
 
 813
 00:48:13,791 --> 00:48:17,261
-IT’S A CULT THAT WORSHIPS
-GEORGIA O’KEEFFE.
+It’s a cult that worships
+georgia o’keeffe.
 
 814
 00:48:22,032 --> 00:48:26,036
-HEY, LOOK, MILK DUDS!
-THEY NEVER GO BAD!
+Hey, look, milk duds!
+They never go bad!
 
 815
 00:48:29,774 --> 00:48:32,309
-HIS ARM SINKS IN
-UP TO THE ELBOW.
+His arm sinks in
+up to the elbow.
 
 816
 00:48:34,345 --> 00:48:36,747
-NOW GIVE ME YOUR LUNCH MONEY.
+Now give me your lunch money.
 
 817
 00:48:39,283 --> 00:48:41,886
-LOOK AT THAT.
-LOOK WHAT YOU DID. LOOK!
+Look at that.
+Look what you did. Look!
 
 818
 00:48:45,556 --> 00:48:48,559
-HE COULD EASILY BE
-IN LYNARD SKYNARD.
+He could easily be
+in lynard skynard.
 
 819
 00:48:48,559 --> 00:48:50,094
-YOU DON’T CONTROL ME.
+You don’t control me.
 
 820
 00:48:50,094 --> 00:48:53,597
-THIS HAS CONTROLLED
-YOUR ENTIRE LIFE,
-YOU DRUNKEN FOOL.
+This has controlled
+your entire life,
+you drunken fool.
 
 821
 00:48:53,597 --> 00:48:57,168
-- HEY, BRA STRAP.
-- YOU’RE CRAZY.
+- Hey, bra strap.
+- You’re crazy.
 
 822
 00:48:57,168 --> 00:48:59,503
-NO, I’M NOT CRAZY.
+No, i’m not crazy.
 
 823
 00:48:59,503 --> 00:49:02,006
-I SHALL SEE THE WORLD RULED
+I shall see the world ruled
 
 824
 00:49:02,006 --> 00:49:05,009
-BY THE ONLY RACE
-THAT WAS CREATED IN PERFECTION.
+by the only race
+that was created in perfection.
 
 825
 00:49:05,009 --> 00:49:06,477
-- MM-HM.
-- HUH?
+- Mm-hm.
+- Huh?
 
 826
 00:49:06,477 --> 00:49:08,979
-THEY’LL BE NO PLACE
-FOR THE WEAK.
+They’ll be no place
+for the weak.
 
 827
 00:49:08,979 --> 00:49:11,582
-THE UGLY.
+The ugly.
 
 828
 00:49:11,582 --> 00:49:13,818
-VERMIN LIKE YOU.
+Vermin like you.
 
 829
 00:49:13,818 --> 00:49:15,052
-GO TO HELL!
+Go to hell!
 
 830
 00:49:15,052 --> 00:49:17,955
-OR AT LEAST EDMONTON!
+Or at least edmonton!
 
 831
 00:49:17,955 --> 00:49:20,291
-OUR DAY OF CONQUEST
-IS ONCOMING.
+Our day of conquest
+is oncoming.
 
 832
 00:49:20,291 --> 00:49:23,594
-I’M SORRY, WHAT DID YOU SAY
-ABOUT BURTON CUMMINGS?
+I’m sorry, what did you say
+about burton cummings?
 
 833
 00:49:23,594 --> 00:49:25,462
-WHAT DO YOU MEAN?
+What do you mean?
 
 834
 00:49:25,462 --> 00:49:27,498
-THAT IS WHY YOU CAME BACK,
-ISN’T IT?
+That is why you came back,
+isn’t it?
 
 835
 00:49:27,498 --> 00:49:30,401
-YOU LEFT YOUR ALBUMS
-AT MY PLACE.
+You left your albums
+at my place.
 
 836
 00:49:30,401 --> 00:49:32,336
-ON A DAY SOON,
+On a day soon,
 
 837
 00:49:32,336 --> 00:49:36,073
-AN HOUR OF DARKNESS,
+an hour of darkness,
 
 838
 00:49:36,073 --> 00:49:38,776
-OUR GOD WILL ACCEPT
-A HUMAN SACRIFICE.
+our god will accept
+a human sacrifice.
 
 839
 00:49:38,776 --> 00:49:40,311
-OR YOU. I’M KIDDING.
+Or you. I’m kidding.
 
 840
 00:49:40,311 --> 00:49:43,714
-THIS ONE DEATH
+This one death
 
 841
 00:49:43,714 --> 00:49:47,651
-WILL PROVIDE ME WITH AN ARMY
-OF INVINCIBLE WARRIORS.
+will provide me with an army
+of invincible warriors.
 
 842
 00:49:47,651 --> 00:49:49,887
-- HE’S GOT A GOITER.
-- MILLIONS OF LOST SOULS
+- He’s got a goiter.
+- Millions of lost souls
 
 843
 00:49:49,887 --> 00:49:51,856
-- STOP SPITTING.
-- TRAPPED DEEP BENEATH THE EARTH
+- stop spitting.
+- Trapped deep beneath the earth
 
 844
 00:49:51,856 --> 00:49:55,926
-WILL RISE FROM THEIR GRAVE
-AND SIDE WITH ME!
+will rise from their grave
+and side with me!
 
 845
 00:49:55,926 --> 00:49:57,862
-YOU USE TOO MUCH MOOSE.
+You use too much moose.
 
 846
 00:49:57,862 --> 00:50:00,731
-I SHALL RULE THE WORLD.
+I shall rule the world.
 
 847
 00:50:00,731 --> 00:50:02,800
-TAKE HIM OUT TO THE WOODS
-AND KILL HIM.
+Take him out to the woods
+and kill him.
 
 848
 00:50:02,800 --> 00:50:05,436
-AND TAKE AWAY HIS BLOW COMB.
+And take away his blow comb.
 
 849
 00:50:06,871 --> 00:50:08,772
-SPREAD OUT. FIND THE BOY.
+Spread out. Find the boy.
 
 850
 00:50:08,772 --> 00:50:11,742
-SIR, UM, SHOULD WE PICK A PLACE
-TO MEET BACK, OR...
+Sir, um, should we pick a place
+to meet back, or...
 
 851
 00:50:11,742 --> 00:50:14,545
-I GUESS NOT THEN. OKAY.
+I guess not then. Okay.
 
 852
 00:50:14,545 --> 00:50:17,548
-YUP.
+Yup.
 
 853
 00:50:23,120 --> 00:50:26,557
-THE ANCIENT CIVILIZATION’S
-TOILET KEEPS RUNNING.
+The ancient civilization’s
+toilet keeps running.
 
 854
 00:50:29,126 --> 00:50:31,896
-A TREASURY
-OF SERGIO ARAGONES SKETCHES.
+A treasury
+of sergio aragones sketches.
 
 855
 00:50:31,896 --> 00:50:33,497
-COOL.
+Cool.
 
 856
 00:50:39,103 --> 00:50:43,173
-OH, I WILL HAVE THIS PAINTED
-ON THE SIDE OF MY VAN SOMEDAY.
+Oh, I will have this painted
+on the side of my van someday.
 
 857
 00:50:46,877 --> 00:50:49,013
-HELLO?
+Hello?
 
 858
 00:50:49,013 --> 00:50:51,382
-YOU, UH, GOT A PREFERENCE
-ABOUT WHERE YOU’D LIKE US
+You, uh, got a preference
+about where you’d like us
 
 859
 00:50:51,382 --> 00:50:53,083
-TO KILL YOU, EH?
+to kill you, eh?
 
 860
 00:50:56,453 --> 00:50:58,055
-NOW, TOMORROW’S CASUAL DAY.
+Now, tomorrow’s casual day.
 
 861
 00:50:58,055 --> 00:51:00,324
-I THINK I’M GOING TO WEAR
-A YELLOW T-SHIRT.
+I think i’m going to wear
+a yellow t-shirt.
 
 862
 00:51:04,128 --> 00:51:06,730
-AH, I’VE ESCAPED-- AAH!
+Ah, i’ve escaped-- aah!
 
 863
 00:51:09,733 --> 00:51:11,802
-CRIPES, HE ROLLED
-OUT OF BOUNDS.
+Cripes, he rolled
+out of bounds.
 
 864
 00:51:16,941 --> 00:51:18,876
-WHAT IS THIS OBSESSION
-WITH NOT SHOWING US
+What is this obsession
+with not showing us
 
 865
 00:51:18,876 --> 00:51:20,244
-WHO’S GETTING INTO
-WHAT TRUCK?
+who’s getting into
+what truck?
 
 866
 00:51:20,244 --> 00:51:21,779
-I DON’T KNOW.
+I don’t know.
 
 867
 00:51:26,417 --> 00:51:27,885
-HE’S GOT A FUNNY TAN LINE.
+He’s got a funny tan line.
 
 868
 00:51:27,885 --> 00:51:29,453
-YEAH.
+Yeah.
 
 869
 00:51:34,725 --> 00:51:39,296
-OH, NO, THEY’VE GOT A CHEVY.
-THEY’RE SO DEPENDABLE!
+Oh, no, they’ve got a chevy.
+They’re so dependable!
 
 870
 00:51:39,296 --> 00:51:43,000
-QUICK, CLIMB A TREE.
-TRUCKS CAN’T CLIMB TREES.
+Quick, climb a tree.
+Trucks can’t climb trees.
 
 871
 00:51:47,404 --> 00:51:48,872
-OOH, YOU KNOW IF YOU HIT
-A ROWSDOWER,
+Ooh, you know if you hit
+a rowsdower,
 
 872
 00:51:48,872 --> 00:51:50,341
-YOU GET TO KEEP IT.
+you get to keep it.
 
 873
 00:51:50,341 --> 00:51:54,345
-THE MEAT’S A BIT GAMEY,
-BUT IT’S GOOD FOR SAUSAGE.
+The meat’s a bit gamey,
+but it’s good for sausage.
 
 874
 00:51:54,345 --> 00:51:57,548
-[TIRES SQUEALING]
+[Tires squealing]
 
 875
 00:51:57,548 --> 00:52:00,451
-UH, I’M OKAY.
-WANT TO TRY AGAIN?
+Uh, i’m okay.
+Want to try again?
 
 876
 00:52:02,386 --> 00:52:03,754
-GRASS STAINS.
+Grass stains.
 
 877
 00:52:03,754 --> 00:52:06,190
-WHEN YOU’VE GOT CULTS,
-YOU’VE GOT TO HAVE TIDE.
+When you’ve got cults,
+you’ve got to have tide.
 
 878
 00:52:08,559 --> 00:52:09,860
-DEAR COUNSELOR TROY,
+Dear counselor troy,
 
 879
 00:52:09,860 --> 00:52:12,596
-I WAITED AT DENNY’S,
-BUT YOU DIDN’T MEET ME.
+I waited at denny’s,
+but you didn’t meet me.
 
 880
 00:52:15,366 --> 00:52:16,834
-DEAR AGENT SCULLY,
+Dear agent scully,
 
 881
 00:52:16,834 --> 00:52:20,504
-DID NOT APPRECIATE
-YOUR LAWYER’S TONE.
+did not appreciate
+your lawyer’s tone.
 
 882
 00:52:25,009 --> 00:52:26,677
-AND SO, IT IS
-WITH A HEAVY HEART
+And so, it is
+with a heavy heart
 
 883
 00:52:26,677 --> 00:52:30,347
-THAT I MUST RESIGN
-FROM CHESS CLUB.
+that I must resign
+from chess club.
 
 884
 00:52:30,347 --> 00:52:32,583
-WHERE OUR TOKEN CROSSES...
+Where our token crosses...
 
 885
 00:52:34,818 --> 00:52:37,588
-THE CITY IS LOCATED.
+The city is located.
 
 886
 00:52:37,588 --> 00:52:39,056
-HMM?
+Hmm?
 
 887
 00:52:39,056 --> 00:52:41,025
-MAN, I SOLVED MYST
-IN TEN MINUTES,
+Man, I solved myst
+in ten minutes,
 
 888
 00:52:41,025 --> 00:52:42,893
-WHY CAN’T I DO THIS?
+why can’t I do this?
 
 889
 00:52:45,763 --> 00:52:49,266
-THIS IS A PASSIVE SENTENCE,
-I BETTER ALERT MY ENGLISH CLUB.
+This is a passive sentence,
+I better alert my english club.
 
 890
 00:52:49,266 --> 00:52:52,336
-BACK! BACK,
-YOU SILVERFISH, BACK!
+Back! Back,
+you silverfish, back!
 
 891
 00:52:55,072 --> 00:52:58,208
-[GRUNTS]
+[Grunts]
 
 892
 00:53:04,848 --> 00:53:07,785
-I CAN SEE WHY QUEBEC WANTS
-TO BE SEPARATE FROM ALL THIS.
+I can see why quebec wants
+to be separate from all this.
 
 893
 00:53:07,785 --> 00:53:09,353
-MM-HMM.
+Mm-hmm.
 
 894
 00:53:12,689 --> 00:53:16,193
-HE WAS RAISED
-BY A FAMILY OF MOLES.
+He was raised
+by a family of moles.
 
 895
 00:53:21,598 --> 00:53:25,002
-WAIT, I HAVE AN APPOINTMENT
-TO GET BEAT UP.
+Wait, I have an appointment
+to get beat up.
 
 896
 00:53:29,773 --> 00:53:31,241
-LOOK LIKE A TWIG.
+Look like a twig.
 
 897
 00:53:31,241 --> 00:53:33,744
-OH, THAT SHOULDN’T BE HARD.
+Oh, that shouldn’t be hard.
 
 898
 00:53:35,979 --> 00:53:38,949
-SIR, YOU HAVE A HOLE
-IN YOUR SHOE. OOPS! SSH.
+Sir, you have a hole
+in your shoe. Oops! Ssh.
 
 899
 00:53:44,021 --> 00:53:46,924
-HE’S BUILT LIKE
-A WOMAN PHY-ED TEACHER.
+He’s built like
+a woman phy-ed teacher.
 
 900
 00:53:49,426 --> 00:53:52,463
-MY SHIRT IS CHARCOAL,
-THAT’S BASICALLY BLACK.
+My shirt is charcoal,
+that’s basically black.
 
 901
 00:53:54,531 --> 00:53:57,568
-THIS IS JUST LIKE WHEN THEY
-BURY ME EVERY WEEK AT SCHOOL.
+This is just like when they
+bury me every week at school.
 
 902
 00:53:57,568 --> 00:53:59,670
-AND GIVE ME PINK BELLY,
-AND HANG ME FROM THE GOAL POST,
+And give me pink belly,
+and hang me from the goal post,
 
 903
 00:53:59,670 --> 00:54:01,705
-AND SHAVE MY HEAD,
-AND MAGIC MARKER MY WEENIE,
+and shave my head,
+and magic marker my weenie,
 
 904
 00:54:01,705 --> 00:54:03,974
-AND STUFF ME IN MY LOCKER.
+and stuff me in my locker.
 
 905
 00:54:10,147 --> 00:54:13,150
-[MONKEY NOISES]
+[Monkey noises]
 
 906
 00:54:13,150 --> 00:54:14,651
-[GUNSHOT]
+[Gunshot]
 
 907
 00:54:14,651 --> 00:54:18,755
-MUST SLIP BACK
-AND SELL CANDY BARS FOR BAND.
+Must slip back
+and sell candy bars for band.
 
 908
 00:54:24,428 --> 00:54:27,731
-UH, I’M JUST A BUSH.
-YOU MAY WANT TO PAN OFF ME.
+Uh, i’m just a bush.
+You may want to pan off me.
 
 909
 00:54:31,034 --> 00:54:35,072
-WHAT THE-- HEY,
-I HAD A BEAD ON A GOOD EH.
+What the-- hey,
+I had a bead on a good eh.
 
 910
 00:54:35,072 --> 00:54:38,342
-EH, EH, EH...
+Eh, eh, eh...
 
 911
 00:54:42,846 --> 00:54:45,749
-[MACHINE GUN FIRE]
-[HUMMING OLYMPIC THEME]
+[Machine gun fire]
+[Humming olympic theme]
 
 912
 00:54:45,749 --> 00:54:49,086
-GILLES, NO!
+Gilles, no!
 
 913
 00:54:49,086 --> 00:54:51,121
-NOT ETIENNE!
+Not etienne!
 
 914
 00:54:54,958 --> 00:54:56,260
-I’M IN NO PARTICULAR HURRY.
+I’m in no particular hurry.
 
 915
 00:54:56,260 --> 00:54:59,029
-THE CULT’S GOT THEIR SCHEDULE,
-I GOT MINE.
+The cult’s got their schedule,
+I got mine.
 
 916
 00:55:05,335 --> 00:55:07,171
-HEY, ARE THEY AFTER ME?
+Hey, are they after me?
 
 917
 00:55:10,073 --> 00:55:13,310
- ZUT ALORS!
- JE SUIS MORT!
+Zut alors!
+Je suis mort!
 
 918
 00:55:16,914 --> 00:55:19,816
-- HEY, BOYS IN THE HOODS!
-- AH, MAN.
+- Hey, boys in the hoods!
+- Ah, man.
 
 919
 00:55:19,816 --> 00:55:22,753
-DROP DEAD.
+Drop dead.
 
 920
 00:55:22,753 --> 00:55:26,089
-MIKE, WOULD YOU SAY THESE GUYS
-ARE IN A HEAVILY FORESTED AREA?
+Mike, would you say these guys
+are in a heavily forested area?
 
 921
 00:55:26,089 --> 00:55:28,058
-UH, YEAH SURE.
+Uh, yeah sure.
 
 922
 00:55:28,058 --> 00:55:29,960
-WOULD YOU CALL THESE
-THE DEEP WOODS?
+Would you call these
+the deep woods?
 
 923
 00:55:29,960 --> 00:55:31,929
-YEAH.
+Yeah.
 
 924
 00:55:31,929 --> 00:55:33,997
-BECAUSE-- BECAUSE WHEN
-YOU’RE IN THE WOODS,
+Because-- because when
+you’re in the woods,
 
 925
 00:55:33,997 --> 00:55:37,034
-YOU CAN’T BEAT THE RELIABLE,
-REASONABLY PRICED
+you can’t beat the reliable,
+reasonably priced
 
 926
 00:55:37,034 --> 00:55:41,038
-MOSQUITO REPELLANT "OFF."
+mosquito repellant "off."
 
 927
 00:55:41,038 --> 00:55:43,841
-[LAUGHS]
-MAN, YOU NEVER EVEN
-SAW THAT COMING, DID YOU?
+[Laughs]
+Man, you never even
+saw that coming, did you?
 
 928
 00:55:48,512 --> 00:55:51,048
-- WAIT, IT’S ME!
-- I KNOW.
+- Wait, it’s me!
+- I know.
 
 929
 00:55:53,517 --> 00:55:55,452
-AH, THEY’RE ELOPING.
+Ah, they’re eloping.
 
 930
 00:56:00,624 --> 00:56:02,559
-UGH, THIS IS JUST LIKE
+Ugh, this is just like
 
 931
 00:56:02,559 --> 00:56:06,096
-WHEN I ALMOST MISSED
-MY "TEENS ENCOUNTER CHRIST" BUS.
+when I almost missed
+my "teens encounter christ" bus.
 
 932
 00:56:10,234 --> 00:56:11,501
-COME ON,
-IT WAS LIKE 30 YARDS.
+Come on,
+it was like 30 yards.
 
 933
 00:56:15,038 --> 00:56:17,541
-YEAH, MY HAIR’S A MESS.
-SO WHAT?
+Yeah, my hair’s a mess.
+So what?
 
 934
 00:56:19,142 --> 00:56:20,777
-YOU WERE ONE OF THEM?
+You were one of them?
 
 935
 00:56:20,777 --> 00:56:24,047
-AN UNCOOKED
-BRATWURST WITH HAIR.
+An uncooked
+bratwurst with hair.
 
 936
 00:56:24,047 --> 00:56:25,349
-[PANTING]
+[Panting]
 
 937
 00:56:25,349 --> 00:56:26,516
-I WAS.
+I was.
 
 938
 00:56:26,516 --> 00:56:29,219
-I WAS ONLY PART-TIME,
-AND I GOT LAID OFF.
+I was only part-time,
+and I got laid off.
 
 939
 00:56:29,219 --> 00:56:31,788
-YEARS AGO.
+Years ago.
 
 940
 00:56:31,788 --> 00:56:33,190
-WHY?
+Why?
 
 941
 00:56:33,190 --> 00:56:35,726
-LET ME DIE FIRST,
-THEN I’LL TELL YOU.
+Let me die first,
+then i’ll tell you.
 
 942
 00:56:37,294 --> 00:56:39,429
-IT STARTED
-WITH THE NIGHTMARES.
+It started
+with the nightmares.
 
 943
 00:56:39,429 --> 00:56:41,298
-[RHYTHMIC HUMMING]
+[Rhythmic humming]
 
 944
 00:56:41,298 --> 00:56:43,600
-THEN DRUMS.
+Then drums.
 
 945
 00:56:43,600 --> 00:56:45,402
-THEY WERE CALLING ME.
+They were calling me.
 
 946
 00:56:45,402 --> 00:56:47,638
-WOW, NOBODY EVER CALLS ME.
+Wow, nobody ever calls me.
 
 947
 00:56:47,638 --> 00:56:49,773
-IT WAS SATORIS,
-HE STARTED IT ALL.
+It was satoris,
+he started it all.
 
 948
 00:56:49,773 --> 00:56:51,141
-HOW?
+How?
 
 949
 00:56:51,141 --> 00:56:54,511
-HE’S PSYCHOTIC.
+He’s psychotic.
 
 950
 00:56:54,511 --> 00:56:57,314
-TOO MANY PEOPLE
-UNDERESTIMATED HIM,
-AND DIED MYSTERIOUSLY.
+Too many people
+underestimated him,
+and died mysteriously.
 
 951
 00:56:59,416 --> 00:57:03,453
-HOLD ON, I’M HAVING A SERIES
-OF ELABORATE HEART-ATTACKS.
+Hold on, i’m having a series
+of elaborate heart-attacks.
 
 952
 00:57:03,453 --> 00:57:05,389
-IS THAT HOW
-MY FATHER WAS KILLED?
+Is that how
+my father was killed?
 
 953
 00:57:05,389 --> 00:57:07,457
-I’M NOT TELLING.
+I’m not telling.
 
 954
 00:57:10,360 --> 00:57:11,495
-I DON’T KNOW.
+I don’t know.
 
 955
 00:57:11,495 --> 00:57:15,399
-UGH, NOW IT’S
-TURNED INTO A STROKE!
+Ugh, now it’s
+turned into a stroke!
 
 956
 00:57:15,399 --> 00:57:18,502
-SATORIS FOUND OUT
-I WAS ONLY A HALF-BLOOD.
+Satoris found out
+I was only a half-blood.
 
 957
 00:57:18,502 --> 00:57:20,704
-SOON AFTER, HE THREW ME OUT.
+Soon after, he threw me out.
 
 958
 00:57:20,704 --> 00:57:22,706
-I-- SSH.
+I-- ssh.
 
 959
 00:57:22,706 --> 00:57:25,642
-OH, IT’S JUST A JACKALOPE.
+Oh, it’s just a jackalope.
 
 960
 00:57:25,642 --> 00:57:28,645
-LET’S GET OUT OF HERE.
-THIS WAY.
+Let’s get out of here.
+This way.
 
 961
 00:57:28,645 --> 00:57:32,082
@@ -4379,239 +4379,239 @@ DéCOLLETAGE FOR ME.
 
 962
 00:57:34,251 --> 00:57:37,321
-AH, ANY GIVEN WEEKEND
-IN CANADA.
+Ah, any given weekend
+in canada.
 
 963
 00:57:39,856 --> 00:57:43,226
-SIDES OF HIS HEART
-ARE BLOWING OUT LIKE OLD TIRES.
+Sides of his heart
+are blowing out like old tires.
 
 964
 00:57:43,226 --> 00:57:47,464
-[TIRE POPPING SOUNDS]
+[Tire popping sounds]
 
 965
 00:57:47,464 --> 00:57:49,599
-[PANTING]
+[Panting]
 
 966
 00:57:53,570 --> 00:57:57,507
-ROWSDOWER!
+Rowsdower!
 
 967
 00:57:57,507 --> 00:58:00,243
-[PANTING]
+[Panting]
 
 968
 00:58:00,243 --> 00:58:02,913
-THIS IS FUN!
+This is fun!
 
 969
 00:58:05,749 --> 00:58:09,353
-THEY’VE STUMBLED UPON
-GEDDY LEE’S BIRTHPLACE.
+They’ve stumbled upon
+geddy lee’s birthplace.
 
 970
 00:58:09,353 --> 00:58:10,954
-OKAY.
+Okay.
 
 971
 00:58:10,954 --> 00:58:12,289
-I GUESS WE’VE HAD IT.
+I guess we’ve had it.
 
 972
 00:58:12,289 --> 00:58:15,992
-I PROBABLY ONLY HAD ABOUT
-THREE MORE MONTHS ANYWAY.
+I probably only had about
+three more months anyway.
 
 973
 00:58:15,992 --> 00:58:17,994
-NOT YET.
+Not yet.
 
 974
 00:58:17,994 --> 00:58:20,530
-IT’S THE WIZARD OF ID BIATHLON
+It’s the wizard of id biathlon
 
 975
 00:58:24,568 --> 00:58:28,405
-HEY IT LOOKS LIKE
-THEIR TIN ROOF RUSTED.
+hey it looks like
+their tin roof rusted.
 
 976
 00:58:32,075 --> 00:58:35,011
-ALL RIGHT, ABRAHAM LINCOLN,
-STOP WRITING ON THAT DAMN SHOVEL
+All right, abraham lincoln,
+stop writing on that damn shovel
 
 977
 00:58:35,011 --> 00:58:37,013
-AND COME OUT
-WITH YOUR HANDS UP.
+and come out
+with your hands up.
 
 978
 00:58:45,422 --> 00:58:46,790
-OH, THIS IS NO BIG DEAL.
+Oh, this is no big deal.
 
 979
 00:58:46,790 --> 00:58:51,395
-IT’S HOW I GET THROUGH
-EVERY SCHOOL DAY.
+It’s how I get through
+every school day.
 
 980
 00:58:51,395 --> 00:58:55,232
-WINNIPEG CONFIDENTIAL.
+Winnipeg confidential.
 
 981
 00:58:55,232 --> 00:58:57,567
-I SHOULD TELL YOU THAT I WHEEZE
-LOUDLY WHEN I’M SCARED.
+I should tell you that I wheeze
+loudly when i’m scared.
 
 982
 00:58:57,567 --> 00:59:01,071
-[WHEEZING]
+[Wheezing]
 
 983
 00:59:01,071 --> 00:59:05,575
-UH, GUILLAUME, THIS IS MY PLACE.
-DO YOU MIND?
+Uh, guillaume, this is my place.
+Do you mind?
 
 984
 00:59:05,575 --> 00:59:07,778
-MAN, THEY’RE BOUND
-TO SMELL ME.
+Man, they’re bound
+to smell me.
 
 985
 00:59:10,614 --> 00:59:11,948
-[GASPS]
+[Gasps]
 
 986
 00:59:11,948 --> 00:59:13,817
-D’OH.
+D’oh.
 
 987
 00:59:13,817 --> 00:59:16,119
- A MERDE. MON PIED!
+A merde. Mon pied!
 
 988
 00:59:18,455 --> 00:59:20,924
-DAMN, BROKE A HEEL.
+Damn, broke a heel.
 
 989
 00:59:23,627 --> 00:59:25,662
-GUY UPSTAIRS
-HAD BAD ENURESIS.
+Guy upstairs
+had bad enuresis.
 
 990
 00:59:25,662 --> 00:59:29,232
-I’LL SAY.
+I’ll say.
 
 991
 00:59:29,232 --> 00:59:31,601
-UGH, I’VE BEEN PULLING ZIOX
-DOUBLE SHIFTS ALL WEEK.
+Ugh, i’ve been pulling ziox
+double shifts all week.
 
 992
 00:59:31,601 --> 00:59:35,272
-IT’S KILLING ME.
+It’s killing me.
 
 993
 00:59:35,272 --> 00:59:39,776
-UGH, I HAVEN’T BEEN THIS TENSE
-SINCE MOCK U.N.
+Ugh, I haven’t been this tense
+since mock u.N.
 
 994
 00:59:42,345 --> 00:59:45,482
-IS IT POSSIBLE TO TRASH
-A GARBAGE HOUSE.
+Is it possible to trash
+a garbage house.
 
 995
 00:59:48,852 --> 00:59:51,888
-THIS WAS GRANDMA’S
-HUNTING SHACK.
+This was grandma’s
+hunting shack.
 
 996
 00:59:51,888 --> 00:59:53,557
-LISTEN.
+Listen.
 
 997
 00:59:53,557 --> 00:59:54,891
-[CROW CAWING]
+[Crow cawing]
 
 998
 00:59:54,891 --> 00:59:57,093
-- IT’S HECKLE!
-- NO, IT’S CLEARLY JECKLE.
+- It’s heckle!
+- No, it’s clearly jeckle.
 
 999
 00:59:57,093 --> 01:00:00,464
-OH, YOU’RE RIGHT.
+Oh, you’re right.
 
 1000
 01:00:00,464 --> 01:00:02,199
-HMM, THEY SHOT
-A PAIR OF SNOWSHOES,
+Hmm, they shot
+a pair of snowshoes,
 
 1001
 01:00:02,199 --> 01:00:04,100
-AND HAD THEM STUFFED
-AND MOUNTED.
+and had them stuffed
+and mounted.
 
 1002
 01:00:07,237 --> 01:00:10,874
-- FOOD!
-- YEAH, NO BEER THOUGH.
+- Food!
+- Yeah, no beer though.
 
 1003
 01:00:13,276 --> 01:00:15,812
-MORE FOOD!
+More food!
 
 1004
 01:00:19,349 --> 01:00:21,618
-WHAT THE HELL
-ARE YOU DOING HERE?
+What the hell
+are you doing here?
 
 1005
 01:00:21,618 --> 01:00:24,154
-WE WERE EATING YOUR FOOD.
+We were eating your food.
 
 1006
 01:00:27,157 --> 01:00:28,592
-AGAINST THE WALL.
+Against the wall.
 
 1007
 01:00:28,592 --> 01:00:32,162
-IT’S GORDON LIGHTFOOT
-AT HOME.
+It’s gordon lightfoot
+at home.
 
 1008
 01:00:32,162 --> 01:00:35,065
-CURSED CULT LEADER
-SEND YOU HERES BY ME?
+Cursed cult leader
+send you heres by me?
 
 1009
 01:00:35,065 --> 01:00:36,600
-[IMITATING ACCENT]
-YOU KNOW HIM?
+[Imitating accent]
+You know him?
 
 1010
 01:00:36,600 --> 01:00:41,071
-GET ’EM UP!
-GET ’EM UP!
+Get ’em up!
+Get ’em up!
 
 1011
 01:00:41,071 --> 01:00:43,173
-SPLATTER YOUR BRAINS
-ALL OVER THIS PLACE.
+Splatter your brains
+all over this place.
 
 1012
 01:00:43,173 --> 01:00:46,576
-NO, AS A MATTER OF FACT,
-WE JUST ESCAPED FROM HIM.
+No, as a matter of fact,
+we just escaped from him.
 
 1013
 01:00:46,576 --> 01:00:50,447
-THEN WHAT’S THAT THERE MARK
-DOING ON YOUR SHOULDER THERE?
+Then what’s that there mark
+doing on your shoulder there?
 
 1014
 01:00:50,447 --> 01:00:53,316
@@ -4630,16 +4630,16 @@ McGREGGOR, TELL HIM.
 
 1017
 01:00:57,053 --> 01:00:59,389
-THOMAS’ SON?
+Thomas’ son?
 
 1018
 01:00:59,389 --> 01:01:01,925
-YEAH.
+Yeah.
 
 1019
 01:01:01,925 --> 01:01:06,263
-- DID YOU KNOW HIM?
-- KNOW HIM? HE WAS DELICIOUS!
+- Did you know him?
+- Know him? He was delicious!
 
 1020
 01:01:06,263 --> 01:01:08,198
@@ -4647,788 +4647,788 @@ YEAH.
 
 1021
 01:01:13,236 --> 01:01:15,872
-MY NAME’S PIPPER.
-MIKE PIPPER.
+My name’s pipper.
+Mike pipper.
 
 1022
 01:01:15,872 --> 01:01:18,808
-YOUR DAD AND ME WERE PARTNERS
-IN ARCHAEOLOGY.
+Your dad and me were partners
+in archaeology.
 
 1023
 01:01:18,808 --> 01:01:20,544
-PIPPER PARTNER.
+Pipper partner.
 
 1024
 01:01:20,544 --> 01:01:22,612
-MANY DIGS WE DID TOGETHER.
+Many digs we did together.
 
 1025
 01:01:22,612 --> 01:01:24,881
-[GRUNTS]
-PIPPER DIGS.
+[Grunts]
+Pipper digs.
 
 1026
 01:01:24,881 --> 01:01:26,550
-GOOD MAN HE WAS, YOUR DAD.
+Good man he was, your dad.
 
 1027
 01:01:26,550 --> 01:01:29,920
-[LAUGHS]
-ALWAYS LAUGHING.
+[Laughs]
+Always laughing.
 
 1028
 01:01:29,920 --> 01:01:31,187
-STUBBORN THOUGH.
+Stubborn though.
 
 1029
 01:01:31,187 --> 01:01:33,790
-ANOTHER HELPING
-OF FILTH FOR YOU?
+Another helping
+of filth for you?
 
 1030
 01:01:38,862 --> 01:01:40,230
-WHAT HAPPENED TO HIM?
+What happened to him?
 
 1031
 01:01:40,230 --> 01:01:42,499
-I JERKED HIM.
+I jerked him.
 
 1032
 01:01:42,499 --> 01:01:45,635
-- I’LL TELL YOU.
-- OKAY.
+- I’ll tell you.
+- Okay.
 
 1033
 01:01:45,635 --> 01:01:49,005
-THE LAST YEAR
-YOUR FATHER AND I WERE TOGETHER,
+The last year
+your father and I were together,
 
 1034
 01:01:49,005 --> 01:01:50,307
-[GRUNTS]
+[grunts]
 
 1035
 01:01:50,307 --> 01:01:53,677
-WE WAS SEARCHING
-FOR A LOST CIVILIZATION.
+We was searching
+for a lost civilization.
 
 1036
 01:01:53,677 --> 01:01:55,045
-ZIOX CIVILIZATION?
+Ziox civilization?
 
 1037
 01:01:55,045 --> 01:01:57,013
-- THAT’S RIGHT.
-- YEAH.
+- That’s right.
+- Yeah.
 
 1038
 01:01:57,013 --> 01:01:59,716
-WE MADE CALCULATIONS
-AS TO WHERE THE REMAINS
+We made calculations
+as to where the remains
 
 1039
 01:01:59,716 --> 01:02:02,519
-OF THEIR CITY
-MIGHT BE LOCATED.
+of their city
+might be located.
 
 1040
 01:02:02,519 --> 01:02:04,888
-THAT’S WHERE
-WE RAN INTO SATORIS’ CULT.
+That’s where
+we ran into satoris’ cult.
 
 1041
 01:02:04,888 --> 01:02:07,924
-BY THE WAY,
-I HATES THAT RABBIT.
+By the way,
+I hates that rabbit.
 
 1042
 01:02:07,924 --> 01:02:10,961
-THEY WANTED OUR INFORMATION.
+They wanted our information.
 
 1043
 01:02:10,961 --> 01:02:14,598
-THOMAS WAS TOO STUBBORN,
-SO THEY KILLED HIM.
+Thomas was too stubborn,
+so they killed him.
 
 1044
 01:02:14,598 --> 01:02:16,199
-POOR OLD THOMAS.
+Poor old thomas.
 
 1045
 01:02:16,199 --> 01:02:18,501
-COULD I DRINK HIM? NO.
+Could I drink him? No.
 
 1046
 01:02:18,501 --> 01:02:20,804
-FLED HERE.
+Fled here.
 
 1047
 01:02:20,804 --> 01:02:23,139
-THIS WAS ONE OF
-OUR BASE CAMPS.
+This was one of
+our base camps.
 
 1048
 01:02:23,139 --> 01:02:25,809
-LIVED HERE EVER SINCE.
+Lived here ever since.
 
 1049
 01:02:25,809 --> 01:02:28,445
-WHAT DO YOU KNOW
-ABOUT SATORIS?
+What do you know
+about satoris?
 
 1050
 01:02:28,445 --> 01:02:31,881
-TO UNDERSTAND HIM,
-YOU MUST KNOW ABOUT THE ZIOX.
+To understand him,
+you must know about the ziox.
 
 1051
 01:02:31,881 --> 01:02:33,984
-ZIOX,
-NOW WITH LAPITITHAMINE.
+Ziox,
+now with lapitithamine.
 
 1052
 01:02:33,984 --> 01:02:37,387
-NOW, THOUSANDS OF YEARS AGO,
-LONG BEFORE THE INDIANS,
+Now, thousands of years ago,
+long before the indians,
 
 1053
 01:02:37,387 --> 01:02:39,789
-- YEAH.
-- THIS LAND WAS INHABITED
-BY THE ZIOX.
+- yeah.
+- This land was inhabited
+by the ziox.
 
 1054
 01:02:39,789 --> 01:02:40,924
-NO IT WASN’T.
+No it wasn’t.
 
 1055
 01:02:40,924 --> 01:02:43,026
-THEY’RE A HIGHLY
-INTELLIGENT RACE.
+They’re a highly
+intelligent race.
 
 1056
 01:02:43,026 --> 01:02:47,564
-FAR ADVANCED IN SCIENCE
-AND ARCHITECTURE AND LITERATURE.
+Far advanced in science
+and architecture and literature.
 
 1057
 01:02:47,564 --> 01:02:48,832
-NO THEY WEREN’T.
+No they weren’t.
 
 1058
 01:02:48,832 --> 01:02:50,667
-- THEY BUILT A HUGE CITY.
-- NO THEY DIDN’T.
+- They built a huge city.
+- No they didn’t.
 
 1059
 01:02:50,667 --> 01:02:53,169
-FAR GRANDER THAN ANYTHING
-THE OLD ROMANS OR THE EGYPTIANS
+Far grander than anything
+the old romans or the egyptians
 
 1060
 01:02:53,169 --> 01:02:55,505
-HAD EVER KNOWN.
+had ever known.
 
 1061
 01:02:55,505 --> 01:02:58,441
-THE BUILDINGS WERE COVERED
-IN GOLD AND SILVER.
+The buildings were covered
+in gold and silver.
 
 1062
 01:02:58,441 --> 01:02:59,776
-MATTED HAIR.
+Matted hair.
 
 1063
 01:02:59,776 --> 01:03:02,045
-IN THE CENTER,
-THEY BUILT A TEMPLE
+In the center,
+they built a temple
 
 1064
 01:03:02,045 --> 01:03:04,147
-TO PRAISE THEIR GOD.
+to praise their god.
 
 1065
 01:03:04,147 --> 01:03:07,017
-THEN THEY PUT A BOTTLE BRUSH
-DOWN MY THROAT.
+Then they put a bottle brush
+down my throat.
 
 1066
 01:03:07,017 --> 01:03:08,685
-IT’S ALL GONE NOW.
+It’s all gone now.
 
 1067
 01:03:08,685 --> 01:03:11,588
-ERASED FROM EXISTENCE.
+Erased from existence.
 
 1068
 01:03:11,588 --> 01:03:13,323
-- HOW?
-- NO, NO, DON’T ENCOURAGE HIM!
+- How?
+- No, no, don’t encourage him!
 
 1069
 01:03:13,323 --> 01:03:16,559
-- GEE WHIZ.
-- IT IS A MYSTERY.
+- Gee whiz.
+- It is a mystery.
 
 1070
 01:03:16,559 --> 01:03:18,228
-AS THE LEGEND GOES,
+As the legend goes,
 
 1071
 01:03:18,228 --> 01:03:20,063
-THERE WAS A PERIOD
-OF GREAT WEALTH.
+there was a period
+of great wealth.
 
 1072
 01:03:20,063 --> 01:03:23,133
-BROUGHT DISCONTENTMENT
-TO THE PEOPLE.
+Brought discontentment
+to the people.
 
 1073
 01:03:23,133 --> 01:03:27,270
-- PEOPLE BEGAN TO FEAR.
-- MM. GOOD DOPE.
+- People began to fear.
+- Mm. Good dope.
 
 1074
 01:03:27,270 --> 01:03:29,305
-- FEAR BROUGHT SUPERSTITION.
-- YEAH.
+- Fear brought superstition.
+- Yeah.
 
 1075
 01:03:29,305 --> 01:03:31,708
-SO THEY BUILT AN IDOL.
+So they built an idol.
 
 1076
 01:03:31,708 --> 01:03:35,278
-WELL, THEIR GOD CURSED THEM
-AND FLOODED THE LAND
+Well, their god cursed them
+and flooded the land
 
 1077
 01:03:35,278 --> 01:03:38,048
-WITH A RAINSTORM
-THAT LAST A FULL MONTH.
+with a rainstorm
+that last a full month.
 
 1078
 01:03:38,048 --> 01:03:39,616
-THEIR BASEMENTS GOT WET.
+Their basements got wet.
 
 1079
 01:03:39,616 --> 01:03:41,484
-SOIL BECAME SO SOFT,
+Soil became so soft,
 
 1080
 01:03:41,484 --> 01:03:43,953
-CITY SANK
-INTO A HUGE QUAGMIRE.
+city sank
+into a huge quagmire.
 
 1081
 01:03:43,953 --> 01:03:46,222
-WAIT, I’M A HUGE QUAGMIRE.
+Wait, i’m a huge quagmire.
 
 1082
 01:03:46,222 --> 01:03:49,926
-SURVIVORS WERE DOOMED
-TO ROAM THE EARTH.
+Survivors were doomed
+to roam the earth.
 
 1083
 01:03:49,926 --> 01:03:53,163
-THAT’S-- THIS CULT IS ALL
-THAT’S LEFT OF THEM.
+That’s-- this cult is all
+that’s left of them.
 
 1084
 01:03:53,163 --> 01:03:55,598
-HEY, WHAT’S THIS A PILE OF?
-OH, CRAP. THAT’S RIGHT.
+Hey, what’s this a pile of?
+Oh, crap. That’s right.
 
 1085
 01:03:55,598 --> 01:03:57,500
-SATORIS BELIEVE IN THE IDOL.
+Satoris believe in the idol.
 
 1086
 01:03:57,500 --> 01:03:59,803
-HE THINKS THAT BY SACRIFICING
-SOMEONE TO IT,
+He thinks that by sacrificing
+someone to it,
 
 1087
 01:03:59,803 --> 01:04:01,604
-IT’LL PROVIDE HIM WITH AN
-INVINCIBLE ARMY
+it’ll provide him with an
+invincible army
 
 1088
 01:04:01,604 --> 01:04:03,073
-THAT CAN CONQUER THE WORLD.
+that can conquer the world.
 
 1089
 01:04:03,073 --> 01:04:05,608
-EXCEPT THAT IF
-THE IDOL’S EVER DESTROYED,
+Except that if
+the idol’s ever destroyed,
 
 1090
 01:04:05,608 --> 01:04:08,778
-THE OLD CITY WILL RETURN
-TO ITS FORMER GLORY.
+the old city will return
+to its former glory.
 
 1091
 01:04:08,778 --> 01:04:11,548
-IT’S A SYMBOL OF GOOD.
+It’s a symbol of good.
 
 1092
 01:04:11,548 --> 01:04:14,851
-MEAN THE END
-TO SATORIS’ POWER.
+Mean the end
+to satoris’ power.
 
 1093
 01:04:14,851 --> 01:04:18,354
-UH, THESE ARE ALL LEGENDS,
-OF COURSE.
+Uh, these are all legends,
+of course.
 
 1094
 01:04:18,354 --> 01:04:21,324
-- WAIT A MINUTE.
-- I HAVE A GAG IN MY POCKET.
+- Wait a minute.
+- I have a gag in my pocket.
 
 1095
 01:04:23,460 --> 01:04:25,295
-- LOOK.
-- OOH, WHAT IS THAT?
+- Look.
+- Ooh, what is that?
 
 1096
 01:04:25,295 --> 01:04:27,163
-GIVE ME THAT, VARMINT.
+Give me that, varmint.
 
 1097
 01:04:30,100 --> 01:04:31,501
-YOUR FATHER MADE THIS.
+Your father made this.
 
 1098
 01:04:31,501 --> 01:04:32,969
-DIDN’T DO A VERY GOOD JOB.
+Didn’t do a very good job.
 
 1099
 01:04:32,969 --> 01:04:35,238
-WE FOUND THE ORIGINAL
-IN A SECRET CHAMBER
+We found the original
+in a secret chamber
 
 1100
 01:04:35,238 --> 01:04:36,239
-NOT FAR FROM HERE.
+not far from here.
 
 1101
 01:04:36,239 --> 01:04:37,407
-WE KNOW.
+We know.
 
 1102
 01:04:37,407 --> 01:04:38,742
-I TRANSLATED THE SENTENCE
+I translated the sentence
 
 1103
 01:04:38,742 --> 01:04:41,811
-WITH THE HELP
-OF MY FATHER’S NOTES.
+with the help
+of my father’s notes.
 
 1104
 01:04:41,811 --> 01:04:44,114
-"WHERE OUR TOKEN CROSSES,
+"Where our token crosses,
 
 1105
 01:04:44,114 --> 01:04:46,883
-THE CITY IS LOCATED."
+the city is located."
 
 1106
 01:04:46,883 --> 01:04:48,218
-WHAT DOES IT MEAN?
+What does it mean?
 
 1107
 01:04:48,218 --> 01:04:51,121
-IT MEANS "OOH, I’M GONNA HOG-TIE
-THAT VARMINT."
+It means "ooh, i’m gonna hog-tie
+that varmint."
 
 1108
 01:04:57,460 --> 01:05:01,664
-[JABBERING]
+[Jabbering]
 
 1109
 01:05:01,664 --> 01:05:04,734
-HE’S PLAYING
-CONNECT THE GODS.
+He’s playing
+connect the gods.
 
 1110
 01:05:04,734 --> 01:05:07,303
-♪ COME AND SIT BY MY SIDE
-IF YOU LOVE ME ♪
+♪ Come and sit by my side
+if you love me ♪
 
 1111
 01:05:07,303 --> 01:05:10,573
-♪ DO NOT HASTEN
-TO BID ME ADIEU, OOH ♪
+♪ do not hasten
+to bid me adieu, ooh ♪
 
 1112
 01:05:16,713 --> 01:05:20,316
-OOH, I NEEDS AN ERASER!
+Ooh, I needs an eraser!
 
 1113
 01:05:20,316 --> 01:05:22,385
-HERE’S THE PLAN,
-MY ARMY OF TRAINED RATS
+Here’s the plan,
+my army of trained rats
 
 1114
 01:05:22,385 --> 01:05:23,486
-WILL LEAD THE CHARGE,
+will lead the charge,
 
 1115
 01:05:23,486 --> 01:05:26,589
-AND MY SCABIES
-WILL PROTECT OUR FLANK.
+and my scabies
+will protect our flank.
 
 1116
 01:05:30,727 --> 01:05:34,197
-WELL...
+Well...
 
 1117
 01:05:34,197 --> 01:05:36,566
-- PIPPER CAM.
-- IT’S A SYMBOL!
+- Pipper cam.
+- It’s a symbol!
 
 1118
 01:05:36,566 --> 01:05:38,468
-EMPEROR HAILE SELASSIE.
+Emperor haile selassie.
 
 1119
 01:05:38,468 --> 01:05:42,806
-WHERE THE LINES CROSS IS
-THE EXACT LOCATION OF THE CITY.
+Where the lines cross is
+the exact location of the city.
 
 1120
 01:05:42,806 --> 01:05:46,075
-- AND THE IDOL?
-- OOH! I HATES THOSE QUESTIONS.
+- And the idol?
+- Ooh! I hates those questions.
 
 1121
 01:05:46,075 --> 01:05:48,011
-I KNOW WHAT YOU’RE THINKING.
+I know what you’re thinking.
 
 1122
 01:05:48,011 --> 01:05:51,181
-ME AND THOMAS SEARCHED
-AND FOUND NOTHING.
+Me and thomas searched
+and found nothing.
 
 1123
 01:05:51,181 --> 01:05:52,816
-THE IDOL’S A LEGEND.
+The idol’s a legend.
 
 1124
 01:05:52,816 --> 01:05:54,384
-I HATES LEGENDS.
+I hates legends.
 
 1125
 01:05:54,384 --> 01:05:57,854
-[LAUGHTER]
+[Laughter]
 
 1126
 01:05:57,854 --> 01:05:59,222
-ALL RIGHT.
+All right.
 
 1127
 01:05:59,222 --> 01:06:01,191
-IT’S BEEN DEAD AND GONE
-FOR MORE THAN 1,000 YEARS.
+It’s been dead and gone
+for more than 1,000 years.
 
 1128
 01:06:01,191 --> 01:06:02,792
-BUT THE CULT IS ALIVE.
+But the cult is alive.
 
 1129
 01:06:02,792 --> 01:06:05,161
-- OOH!
-- YEAH, THE CULT’S ALIVE.
+- Ooh!
+- Yeah, the cult’s alive.
 
 1130
 01:06:05,161 --> 01:06:07,697
-BUT ITS BELIEFS
-ARE BASED ON LEGENDS.
+But its beliefs
+are based on legends.
 
 1131
 01:06:07,697 --> 01:06:10,466
-IN TIME, THE CULT MEMBERS
-WILL FIND OUT OF THEMSELVES.
+In time, the cult members
+will find out of themselves.
 
 1132
 01:06:10,466 --> 01:06:12,602
-AND THE CULT
-WILL GRADUALLY BE DISSOLVED.
+And the cult
+will gradually be dissolved.
 
 1133
 01:06:12,602 --> 01:06:15,305
-AND HOW MANY LIVES
-WILL THEY CLAIM
-BEFORE THIS HAPPENS?
+And how many lives
+will they claim
+before this happens?
 
 1134
 01:06:15,305 --> 01:06:18,308
-GO HOME.
-FORGET ABOUT THE CULT.
+Go home.
+Forget about the cult.
 
 1135
 01:06:18,308 --> 01:06:20,710
-DON’T LET IT DESTROY
-YOUR LIFE TOO.
+Don’t let it destroy
+your life too.
 
 1136
 01:06:20,710 --> 01:06:21,811
-IT ALREADY HAS.
+It already has.
 
 1137
 01:06:21,811 --> 01:06:24,948
-LOOK AT MY HAIR.
+Look at my hair.
 
 1138
 01:06:24,948 --> 01:06:28,985
-WAIT! I WAS GOING TO SING
-SOMETHING FROM BONE MACHINE.
+Wait! I was going to sing
+something from bone machine.
 
 1139
 01:06:31,421 --> 01:06:35,859
-IF IT’S ANY CONSOLATION,
-I HATES THAT RABBIT TOO.
+If it’s any consolation,
+I hates that rabbit too.
 
 1140
 01:06:35,859 --> 01:06:39,062
-WELL, WHO’S UP
-FOR A MOOSE-LIP OMELET?
+Well, who’s up
+for a moose-lip omelet?
 
 1141
 01:06:41,598 --> 01:06:43,266
-DON’T TRUST THAT MAN.
+Don’t trust that man.
 
 1142
 01:06:43,266 --> 01:06:46,569
-I REMEMBER HIM.
+I remember him.
 
 1143
 01:06:46,569 --> 01:06:49,739
-HE WAS WITH SATORIS THE NIGHT
-YOUR FATHER WAS KILLED.
+He was with satoris the night
+your father was killed.
 
 1144
 01:06:49,739 --> 01:06:52,242
-THERE’S THE DOOR.
-I CAN JUST LEAVE.
+There’s the door.
+I can just leave.
 
 1145
 01:06:56,112 --> 01:06:57,213
-YOU DON’T MEAN THAT--
+You don’t mean that--
 
 1146
 01:06:57,213 --> 01:06:58,581
-KILLED YOUR FATHER?
+killed your father?
 
 1147
 01:06:58,581 --> 01:07:01,851
-SOUNDS FUN, BUT I’M BUSY.
+Sounds fun, but i’m busy.
 
 1148
 01:07:01,851 --> 01:07:04,354
-I DON’T KNOW.
+I don’t know.
 
 1149
 01:07:06,656 --> 01:07:09,659
-WELL, HOW ABOUT
-A GAME OF BALDERDASH?
+Well, how about
+a game of balderdash?
 
 1150
 01:07:09,659 --> 01:07:12,962
-OOH, FRESH TOWELS
-IN THE GUEST ROOM.
+Ooh, fresh towels
+in the guest room.
 
 1151
 01:07:25,541 --> 01:07:28,745
-[HUMMING]
-NOTHING? ABSOLUTELY NOTHING?
+[Humming]
+Nothing? Absolutely nothing?
 
 1152
 01:07:28,745 --> 01:07:29,879
-NOPE, NOPE. SORRY, CROW.
+Nope, nope. Sorry, crow.
 
 1153
 01:07:29,879 --> 01:07:31,147
-BUT FROM EVERYTHING
-I’VE READ HERE,
+But from everything
+i’ve read here,
 
 1154
 01:07:31,147 --> 01:07:32,782
-THERE’S NOTHING WE CAN DO
-ABOUT HOCKEY HAIR.
+there’s nothing we can do
+about hockey hair.
 
 1155
 01:07:32,782 --> 01:07:34,817
-WE JUST HAVE TO GET
-PLENTY OF REST AND HOCKEY,
+We just have to get
+plenty of rest and hockey,
 
 1156
 01:07:34,817 --> 01:07:35,885
-AND LET IT
-TAKE CARE OF ITSELF.
+and let it
+take care of itself.
 
 1157
 01:07:35,885 --> 01:07:36,886
-ALL RIGHT.
+All right.
 
 1158
 01:07:36,886 --> 01:07:38,621
-[TOGETHER]
-WHOA, MIKE! AAH! SHEESH!
+[Together]
+Whoa, mike! Aah! Sheesh!
 
 1159
 01:07:38,621 --> 01:07:40,857
-- HEY, GUYS.
-- MIKE, WHAT HAPPENED TO YOU?
+- Hey, guys.
+- Mike, what happened to you?
 
 1160
 01:07:40,857 --> 01:07:43,359
-OH, I’M JUST SEEING
-WHAT IT’S LIKE TO SMOKE A PIPE.
+Oh, i’m just seeing
+what it’s like to smoke a pipe.
 
 1161
 01:07:43,359 --> 01:07:44,827
-NO, NO, NO, IT’S YOUR HAIR.
+No, no, no, it’s your hair.
 
 1162
 01:07:44,827 --> 01:07:47,964
-IT’S LIKE, UH, IT’S...
-LOOK.
+It’s like, uh, it’s...
+Look.
 
 1163
 01:07:47,964 --> 01:07:50,867
-AAH! WHOA! HOLY COW.
+Aah! Whoa! Holy cow.
 
 1164
 01:07:50,867 --> 01:07:52,235
-DON’T PANIC, NOW, MIKE.
+Don’t panic, now, mike.
 
 1165
 01:07:52,235 --> 01:07:53,436
-YOU’VE SIMPLY GOT A CASE
+You’ve simply got a case
 
 1166
 01:07:53,436 --> 01:07:55,438
-OF GRIZZLED OLD
-PROSPECTOR SYNDROME.
+of grizzled old
+prospector syndrome.
 
 1167
 01:07:55,438 --> 01:07:56,673
-- WHOA, MAN.
-- IT’S NOT SURPRISING.
+- Whoa, man.
+- It’s not surprising.
 
 1168
 01:07:56,673 --> 01:07:58,541
-IT IS ASSOCIATED
-WITH IMMUNITY TO HOCKEY HAIR.
+It is associated
+with immunity to hockey hair.
 
 1169
 01:07:58,541 --> 01:08:00,810
-YEAH, IT MAY NOT EVEN BE
-A FULL-BLOWN INFECTION.
+Yeah, it may not even be
+a full-blown infection.
 
 1170
 01:08:00,810 --> 01:08:03,179
-UNLESS YOU’VE BEEN SAYING
-"CONSARN IT" A LOT.
+Unless you’ve been saying
+"consarn it" a lot.
 
 1171
 01:08:03,179 --> 01:08:05,315
-- NOPE, CONSARN IT CAN’T--
-- OH!
+- Nope, consarn it can’t--
+- oh!
 
 1172
 01:08:05,315 --> 01:08:06,916
-- AH, DAGNABBIT!
-- OH!
+- Ah, dagnabbit!
+- Oh!
 
 1173
 01:08:06,916 --> 01:08:09,619
-OH, WELL, FIDDLESTICKS!
-LITTLE VARMINTS.
+Oh, well, fiddlesticks!
+Little varmints.
 
 1174
 01:08:09,619 --> 01:08:11,487
-I GUESS I AM HORNSWOGGLED.
+I guess I am hornswoggled.
 
 1175
 01:08:11,487 --> 01:08:13,523
-WELL, WHAT DO YOU RECKON
-I SHOULD DO ABOUT IT?
+Well, what do you reckon
+I should do about it?
 
 1176
 01:08:13,523 --> 01:08:15,391
-UH, LET’S SEE...
+Uh, let’s see...
 
 1177
 01:08:15,391 --> 01:08:16,526
-NOTHING TO DO, MIKE,
+Nothing to do, mike,
 
 1178
 01:08:16,526 --> 01:08:17,794
-YOU JUST GOT TO LET IT
-RUN ITS COURSE.
+you just got to let it
+run its course.
 
 1179
 01:08:17,794 --> 01:08:19,662
-YEAH, YOU’LL WANT
-TO PAN FOR GOLD, PROBABLY.
+Yeah, you’ll want
+to pan for gold, probably.
 
 1180
 01:08:19,662 --> 01:08:22,231
-- YOU’LL PROBABLY BUY A MULE.
-- AL RIGHT, WELL...
+- You’ll probably buy a mule.
+- Al right, well...
 
 1181
 01:08:22,231 --> 01:08:23,232
-I WONDER HOW I PICKED IT UP.
+I wonder how I picked it up.
 
 1182
 01:08:23,232 --> 01:08:24,467
-WELL, LET’S SEE, UM...
+Well, let’s see, um...
 
 1183
 01:08:24,467 --> 01:08:26,069
-YOU BEEN KISSING
-ANY PROSPECTORS?
+You been kissing
+any prospectors?
 
 1184
 01:08:26,069 --> 01:08:27,270
-- NOPE!
-- GOOD, PHEW.
+- Nope!
+- Good, phew.
 
 1185
 01:08:27,270 --> 01:08:28,371
-HOLD ON. WAIT A MINUTE.
+Hold on. Wait a minute.
 
 1186
 01:08:28,371 --> 01:08:30,173
-- NO, NO, I HAVEN’T. NO.
-- PHEW.
+- No, no, I haven’t. No.
+- Phew.
 
 1187
 01:08:30,173 --> 01:08:33,242
-OH. NO, YOU KNOW WHAT,
-THAT WAS A SURLY TRUCK FARMER.
+Oh. No, you know what,
+that was a surly truck farmer.
 
 1188
 01:08:33,242 --> 01:08:35,678
-DARN FINE KISSER THOUGH.
+Darn fine kisser though.
 
 1189
 01:08:35,678 --> 01:08:37,480
-YOU OLD COOT, HUH?
+You old coot, huh?
 
 1190
 01:08:37,480 --> 01:08:38,614
-UH, WE’LL BE RIGHT BACK.
+Uh, we’ll be right back.
 
 1191
 01:08:38,614 --> 01:08:40,183
-YEE-HOO!
+Yee-hoo!
 
 1192
 01:08:40,183 --> 01:08:42,085
@@ -5436,648 +5436,648 @@ YEE-HOO!
 
 1193
 01:08:47,190 --> 01:08:49,626
-- DAGNABBIT.
-- CLEARED RIGHT UP.
+- Dagnabbit.
+- Cleared right up.
 
 1194
 01:08:49,626 --> 01:08:53,329
-AH, LANGUAGE CAMP
-IS SO FAR AWAY.
+Ah, language camp
+is so far away.
 
 1195
 01:08:59,902 --> 01:09:01,404
-I’M TAKING YOU HOME TOMORROW.
+I’m taking you home tomorrow.
 
 1196
 01:09:01,404 --> 01:09:04,007
-I KNOW MOM AND DAD
-WILL JUST LOVE YOU.
+I know mom and dad
+will just love you.
 
 1197
 01:09:07,377 --> 01:09:08,878
-HM?
+Hm?
 
 1198
 01:09:08,878 --> 01:09:10,046
-TROY.
+Troy.
 
 1199
 01:09:10,046 --> 01:09:13,516
-MAN, YOU KILL ONE GUY’S DAD.
+Man, you kill one guy’s dad.
 
 1200
 01:09:18,221 --> 01:09:21,491
-I WONDER IF THERE’S BEER
-ON THE SUN.
+I wonder if there’s beer
+on the sun.
 
 1201
 01:09:25,361 --> 01:09:29,999
-ROWSDOWER. [SNORING]
-ROWSDOWER. [SNORING]
+Rowsdower. [Snoring]
+Rowsdower. [Snoring]
 
 1202
 01:09:29,999 --> 01:09:34,003
-AH, CRUSTY PANTS,
-A FILTHY WALL, GOOD MORNING.
+Ah, crusty pants,
+a filthy wall, good morning.
 
 1203
 01:09:36,372 --> 01:09:40,143
-AH, MAN. THOSE 12 OUNCE CURLS
-REALLY TAKE IT OUT OF ME.
+Ah, man. Those 12 ounce curls
+really take it out of me.
 
 1204
 01:09:45,048 --> 01:09:47,617
-HAVE A DRINK ON ME, TATTOO.
+Have a drink on me, tattoo.
 
 1205
 01:09:50,420 --> 01:09:53,022
-LEIF GARRETT TODAY.
+Leif garrett today.
 
 1206
 01:09:56,426 --> 01:10:00,463
-WELL, THAT’S ENOUGH
-FOR ONE DAY. UGH.
+Well, that’s enough
+for one day. Ugh.
 
 1207
 01:10:06,636 --> 01:10:10,807
-♪ VAL-DER-EE,
-VAL-DER-AH-HA-HA-HA-HA-HA ♪
+♪ Val-der-ee,
+val-der-ah-ha-ha-ha-ha-ha ♪
 
 1208
 01:10:14,577 --> 01:10:17,580
-MAN, THAT’S
-A TERRIBLE GOLF STROKE.
+Man, that’s
+a terrible golf stroke.
 
 1209
 01:10:21,317 --> 01:10:25,254
-I’LL PLANT THE ROSES HERE.
+I’ll plant the roses here.
 
 1210
 01:10:25,254 --> 01:10:28,558
-BLEH! AAH! UGH!
+Bleh! Aah! Ugh!
 
 1211
 01:10:28,558 --> 01:10:31,260
-UM, SSS!
+Um, sss!
 
 1212
 01:10:34,464 --> 01:10:37,100
-HE’S LAYING ON A BEAR.
+He’s laying on a bear.
 
 1213
 01:10:43,840 --> 01:10:46,642
-HEY, HE GOT TO SECOND BASE
-WITH HIMSELF.
+Hey, he got to second base
+with himself.
 
 1214
 01:10:46,642 --> 01:10:49,011
-WHOO!
+Whoo!
 
 1215
 01:10:49,011 --> 01:10:51,581
-WELL, I GOT THAT DONE.
+Well, I got that done.
 
 1216
 01:10:54,951 --> 01:10:57,086
-GOD BLESS MOMMY AND DADDY
+God bless mommy and daddy
 
 1217
 01:10:57,086 --> 01:11:01,824
-AND GRANDPA
-AND ALL MY EVIL HENCHMEN.
+and grandpa
+and all my evil henchmen.
 
 1218
 01:11:01,824 --> 01:11:05,061
-[HUMMING]
+[Humming]
 
 1219
 01:11:05,061 --> 01:11:08,931
-AAH, OH, ANOTHER M.I.
+Aah, oh, another m.I.
 
 1220
 01:11:08,931 --> 01:11:12,235
-OH, GREAT.
+Oh, great.
 
 1221
 01:11:16,672 --> 01:11:20,143
-HE’S INVOKING
-THE POWERS OF BRYAN ADAMS.
+He’s invoking
+the powers of bryan adams.
 
 1222
 01:11:20,143 --> 01:11:24,046
-[GRUNTS]
+[Grunts]
 
 1223
 01:11:24,046 --> 01:11:26,449
-ONE.
+One.
 
 1224
 01:11:29,519 --> 01:11:33,122
-BONANZA.
+Bonanza.
 
 1225
 01:11:33,122 --> 01:11:34,557
-UGH, I’M EXHAUSTED.
+Ugh, i’m exhausted.
 
 1226
 01:11:34,557 --> 01:11:39,262
-I GOTTA TAKE A NAP
-AFTER I’M DONE SLEEPING.
+I gotta take a nap
+after i’m done sleeping.
 
 1227
 01:11:39,262 --> 01:11:43,332
-BLESS MY STICK,
-OH, HOLY WILLIE MOSCONI.
+Bless my stick,
+oh, holy willie mosconi.
 
 1228
 01:11:45,635 --> 01:11:49,172
-OH, MAN, THAT’S NOT A NOSE,
-THAT’S A DUPLEX.
+Oh, man, that’s not a nose,
+that’s a duplex.
 
 1229
 01:11:54,477 --> 01:11:56,813
-HEY!
+Hey!
 
 1230
 01:11:56,813 --> 01:11:59,949
-HEY! AH, THIS’LL TEACH ME.
+Hey! Ah, this’ll teach me.
 
 1231
 01:12:02,485 --> 01:12:05,955
-HAND ME MY TOP HAT.
+Hand me my top hat.
 
 1232
 01:12:05,955 --> 01:12:09,292
-[HUMMING  CHARGE BASEBALL SONG]
+[Humming charge baseball song]
 
 1233
 01:12:09,292 --> 01:12:11,694
-♪ DO-DO-DO-DO DO-DO
-CHARGE ♪
+♪ Do-do-do-do do-do
+charge ♪
 
 1234
 01:12:14,530 --> 01:12:18,234
-ALL RIGHTY, THE DOCTOR
-WILL BE IN TO SEE YOU
-IN JUST A MINUTE.
+All righty, the doctor
+will be in to see you
+in just a minute.
 
 1235
 01:12:21,270 --> 01:12:25,675
-OOH.
+Ooh.
 
 1236
 01:12:25,675 --> 01:12:28,144
-AW, YOUR S’MORE FELL IN.
+Aw, your s’more fell in.
 
 1237
 01:12:28,144 --> 01:12:30,913
-♪ AY-YI-YI
-HEY ♪
+♪ Ay-yi-yi
+hey ♪
 
 1238
 01:12:30,913 --> 01:12:34,016
-♪ AY-YI-YI-YI-YI 
-HEY ♪
+♪ ay-yi-yi-yi-yi
+hey ♪
 
 1239
 01:12:34,016 --> 01:12:36,953
-♪ AY-YI-YI
-HEY ♪
+♪ ay-yi-yi
+hey ♪
 
 1240
 01:12:36,953 --> 01:12:40,389
-♪ AY-YI-YI
-HEY ♪
+♪ ay-yi-yi
+hey ♪
 
 1241
 01:12:40,389 --> 01:12:43,626
-[SINGING CONTINUES]
+[Singing continues]
 
 1242
 01:12:50,099 --> 01:12:52,001
-VODKA!
+Vodka!
 
 1243
 01:12:52,001 --> 01:12:54,403
-- REALLY?
-- NO.
+- Really?
+- No.
 
 1244
 01:12:54,403 --> 01:12:57,240
-I GOT KETCHUP ON MY HAND.
-[SOBBING]
+I got ketchup on my hand.
+[Sobbing]
 
 1245
 01:13:01,244 --> 01:13:03,980
-WELL, I’M NOT HIRING THESE GUYS
-TO DO MY NIPPLE PIERCING.
+Well, i’m not hiring these guys
+to do my nipple piercing.
 
 1246
 01:13:03,980 --> 01:13:05,414
-AAH!
+Aah!
 
 1247
 01:13:05,414 --> 01:13:08,317
-OH.
+Oh.
 
 1248
 01:13:08,317 --> 01:13:09,785
-AAH!
+Aah!
 
 1249
 01:13:09,785 --> 01:13:14,223
-I FORGOT, THE LIQUOR STORES
-CLOSE AT 8:00!
+I forgot, the liquor stores
+close at 8:00!
 
 1250
 01:13:14,223 --> 01:13:15,725
-SORRY.
+Sorry.
 
 1251
 01:13:15,725 --> 01:13:17,627
-TROY?
+Troy?
 
 1252
 01:13:17,627 --> 01:13:18,828
-TROY.
+Troy.
 
 1253
 01:13:18,828 --> 01:13:22,298
-NOW MIKE, TECHNICALLY
-THAT PAPER IS SMOKIN!
+Now mike, technically
+that paper is smokin!
 
 1254
 01:13:22,298 --> 01:13:24,800
-- NO!
-- SORRY.
+- No!
+- Sorry.
 
 1255
 01:13:28,471 --> 01:13:30,973
-KRAMER-DOWER.
+Kramer-dower.
 
 1256
 01:13:35,411 --> 01:13:36,479
-THEY TOOK HIM.
+They took him.
 
 1257
 01:13:36,479 --> 01:13:39,181
-I GOTTA GO WORK OUT.
+I gotta go work out.
 
 1258
 01:13:39,181 --> 01:13:40,950
-WHY?
+Why?
 
 1259
 01:13:40,950 --> 01:13:43,185
-MAN, MY LICE
-HAS LEFT MY BEARD.
+Man, my lice
+has left my beard.
 
 1260
 01:13:43,185 --> 01:13:46,389
-WHAT WOULD THEY WANT
-WITH THE BOY?
+What would they want
+with the boy?
 
 1261
 01:13:46,389 --> 01:13:47,757
-[HORSE WHINNY]
+[Horse whinny]
 
 1262
 01:13:47,757 --> 01:13:52,261
-HERE, OKAY.
+Here, okay.
 
 1263
 01:13:52,261 --> 01:13:55,665
-HAVING A HARD TIME
-SADDLING UP THE MISSES TODAY.
+Having a hard time
+saddling up the misses today.
 
 1264
 01:13:57,733 --> 01:14:02,605
-I MADE YOU SOME TRAIL MIX
-OUT OF RAT DROPPINGS AND HAIR.
+I made you some trail mix
+out of rat droppings and hair.
 
 1265
 01:14:02,605 --> 01:14:06,742
-SHE’S OLD, BUT SHE’S GOT
-LOTS OF SPIRIT.
+She’s old, but she’s got
+lots of spirit.
 
 1266
 01:14:06,742 --> 01:14:09,745
-NOW RIDE, POSTMAN!
+Now ride, postman!
 
 1267
 01:14:15,351 --> 01:14:16,919
-LOOK, I WANT
-TO COME WITH YOU.
+Look, I want
+to come with you.
 
 1268
 01:14:16,919 --> 01:14:18,888
-NO. IT’S TOO SLOW.
+No. It’s too slow.
 
 1269
 01:14:18,888 --> 01:14:21,257
-WHOA. BUT THANKS
-FOR EVERYTHING.
+Whoa. But thanks
+for everything.
 
 1270
 01:14:21,257 --> 01:14:22,958
-THE FLEAS AND ALL, YOU KNOW.
+The fleas and all, you know.
 
 1271
 01:14:22,958 --> 01:14:24,994
-HEAD NORTH UNTIL YOU GET
-TO THE RIVER.
+Head north until you get
+to the river.
 
 1272
 01:14:24,994 --> 01:14:28,431
-FOLLOW IT UPSTREAM.
+Follow it upstream.
 
 1273
 01:14:28,431 --> 01:14:29,932
-[HORSE WHINNIES]
+[Horse whinnies]
 
 1274
 01:14:29,932 --> 01:14:31,801
-THE LONE ROWSDOWER.
+The lone rowsdower.
 
 1275
 01:14:31,801 --> 01:14:34,670
-[HUMMING THE LONE RANGER THEME]
+[Humming the lone ranger theme]
 
 1276
 01:14:34,670 --> 01:14:37,406
-OW.
+Ow.
 
 1277
 01:14:37,406 --> 01:14:41,744
-YEAH, YEAH. I KNOW THE ROUTINE.
-NOW, THE DOUBLE JOCK-LOCK.
+Yeah, yeah. I know the routine.
+Now, the double jock-lock.
 
 1278
 01:14:43,312 --> 01:14:45,448
-OH, GOODIE. YOU’RE GOING TO RIDE
-BACK HERE WITH ME!
+Oh, goodie. You’re going to ride
+back here with me!
 
 1279
 01:14:45,448 --> 01:14:48,117
-YOU GUYS KNOW ANY CAMP SONGS?
+You guys know any camp songs?
 
 1280
 01:14:48,117 --> 01:14:50,419
-[HUMMING]
+[Humming]
 
 1281
 01:14:53,856 --> 01:14:55,458
-UH, SIR, YOU KNOW,
-MAYBE IF YOU GOT RID OF
+Uh, sir, you know,
+maybe if you got rid of
 
 1282
 01:14:55,458 --> 01:14:58,194
-THAT HUGE GUNNYSACK
-OF GROUND PORK AND--
+that huge gunnysack
+of ground pork and--
 
 1283
 01:14:58,194 --> 01:15:02,331
-OH, THAT’S YOUR BUTT.
-I’M SORRY.
+oh, that’s your butt.
+I’m sorry.
 
 1284
 01:15:02,331 --> 01:15:06,635
-EXCUSE ME A MOMENT.
-PLOP, PLOP, PLOP, PLOP. AH.
+Excuse me a moment.
+Plop, plop, plop, plop. Ah.
 
 1285
 01:15:08,270 --> 01:15:10,873
-MEAT. TA-DA.
+Meat. Ta-da.
 
 1286
 01:15:12,842 --> 01:15:16,145
-WHY COULDN’T I HAVE BEEN BOUGHT
-BY A SEVENTH-GRADE GIRL?
+Why couldn’t I have been bought
+by a seventh-grade girl?
 
 1287
 01:15:18,714 --> 01:15:21,684
-HANG ON NOW,
-IT’S MY TURN TO RIDE YOU.
+Hang on now,
+it’s my turn to ride you.
 
 1288
 01:15:24,687 --> 01:15:28,724
-LADIES AND GENTLEMEN,
-MR. ALAN JACKSON.
+Ladies and gentlemen,
+mr. Alan jackson.
 
 1289
 01:15:31,427 --> 01:15:35,331
-ERICH VON STROHEIM
-HITCHES ACROSS AMERICA.
+Erich von stroheim
+hitches across america.
 
 1290
 01:15:41,170 --> 01:15:45,775
-MY GLEE-CLUB
-WILL BE LOOKING FOR ME.
+My glee-club
+will be looking for me.
 
 1291
 01:15:45,775 --> 01:15:50,613
-AND FOR YOUR FRIEND ROWSDOWER,
-I HOPE HE’S NOT LATE.
+And for your friend rowsdower,
+I hope he’s not late.
 
 1292
 01:15:50,613 --> 01:15:53,182
-ELSE WE SHALL HAVE TO
-START WITHOUT HIM.
+Else we shall have to
+start without him.
 
 1293
 01:15:53,182 --> 01:15:54,550
-HE’LL BE HERE...
+He’ll be here...
 
 1294
 01:15:54,550 --> 01:15:57,219
-TO STOP YOU.
+To stop you.
 
 1295
 01:15:57,219 --> 01:16:00,523
-[LAUGHS]
-YOU PUSSES MAKE ME LAUGH.
+[Laughs]
+You pusses make me laugh.
 
 1296
 01:16:00,523 --> 01:16:03,325
-- I LIKE YOU, TROY.
-- EW.
+- I like you, troy.
+- Ew.
 
 1297
 01:16:03,325 --> 01:16:06,328
-IT IS A PITY
-YOU HAVE TO DIE SO SOON.
+It is a pity
+you have to die so soon.
 
 1298
 01:16:06,328 --> 01:16:08,898
-YOU ARE SO MUCH
-LIKE YOUR FATHER.
+You are so much
+like your father.
 
 1299
 01:16:08,898 --> 01:16:10,266
-BRIGHT, STUBBORN...
+Bright, stubborn...
 
 1300
 01:16:10,266 --> 01:16:13,235
-WELL, STUBBORN ANYWAY.
+Well, stubborn anyway.
 
 1301
 01:16:13,235 --> 01:16:15,337
-AND IN MY WAY.
+And in my way.
 
 1302
 01:16:15,337 --> 01:16:17,673
-HANG ON, I GOTTA TINKLE.
+Hang on, I gotta tinkle.
 
 1303
 01:16:17,673 --> 01:16:19,942
-WHO KILLED MY FATHER?
+Who killed my father?
 
 1304
 01:16:19,942 --> 01:16:22,978
-WHY DON’T YOU ASK YOUR FRIEND
-WHEN HE ARRIVES?
+Why don’t you ask your friend
+when he arrives?
 
 1305
 01:16:22,978 --> 01:16:26,015
-HA-HA! THE JOKES ON YOU.
-I DON’T HAVE ANY FRIENDS.
+Ha-ha! The jokes on you.
+I don’t have any friends.
 
 1306
 01:16:29,652 --> 01:16:31,854
-HEY, HOW DID HE GET
-GET HIS PANTS CLEAN?
+Hey, how did he get
+get his pants clean?
 
 1307
 01:16:31,854 --> 01:16:33,422
-SAY WHAT YOU WANT
-ABOUT THE FILTHY, GRIZZLED GUY,
+Say what you want
+about the filthy, grizzled guy,
 
 1308
 01:16:33,422 --> 01:16:35,858
-HE DOES A GOOD LOAD
-OF LAUNDRY.
+he does a good load
+of laundry.
 
 1309
 01:16:37,660 --> 01:16:41,430
-[HUMMING, BEATBOXING]
+[Humming, beatboxing]
 
 1310
 01:16:42,865 --> 01:16:46,368
-♪ YOU GOT MUD ON YOUR FACE,
-YOU BIG DISGRACE ♪
+♪ You got mud on your face,
+you big disgrace ♪
 
 1311
 01:16:46,368 --> 01:16:49,104
-♪ SHOVING THOSE SANDWICHES
-INTO YOUR FACE ♪
+♪ shoving those sandwiches
+into your face ♪
 
 1312
 01:16:49,104 --> 01:16:53,209
-♪ SINGING WE WILL,
-WE WILL ROWSDOWER ♪
+♪ singing we will,
+we will rowsdower ♪
 
 1313
 01:16:54,410 --> 01:16:55,478
-SING IT!
+Sing it!
 
 1314
 01:16:55,478 --> 01:16:58,314
-♪ WE WILL, WE WILL... ♪
+♪ We will, we will... ♪
 
 1315
 01:16:58,314 --> 01:17:00,749
-ROWSDOWER.
-I GUESS THAT’S OVER.
+Rowsdower.
+I guess that’s over.
 
 1316
 01:17:02,551 --> 01:17:06,789
-HELLO? HAVE YOU SEEN
-THE OTHER HOODED THUGS?
+Hello? Have you seen
+the other hooded thugs?
 
 1317
 01:17:06,789 --> 01:17:09,391
-AH, HE SPLASHED AROUND
-A LITTLE THUG MUSK
+Ah, he splashed around
+a little thug musk
 
 1318
 01:17:09,391 --> 01:17:10,693
-IN THE AREA TO LURE THEM.
+in the area to lure them.
 
 1319
 01:17:10,693 --> 01:17:12,094
-AH.
+Ah.
 
 1320
 01:17:12,094 --> 01:17:13,095
-[GUNSHOT]
+[Gunshot]
 
 1321
 01:17:13,095 --> 01:17:14,463
-OH, I SHOT
-RIGHT IN BETWEEN THEM.
+Oh, I shot
+right in between them.
 
 1322
 01:17:14,463 --> 01:17:16,699
-I GOT CONFUSED.
+I got confused.
 
 1323
 01:17:16,699 --> 01:17:19,902
-[HUMMING FIGARO’S ARIA]
+[Humming figaro’s aria]
 
 1324
 01:17:19,902 --> 01:17:22,004
-BALANCHINE.
+Balanchine.
 
 1325
 01:17:26,342 --> 01:17:29,678
-GERARD, GO THAT WAY.
-ROBERT, FOLLOW ME.
+Gerard, go that way.
+Robert, follow me.
 
 1326
 01:17:31,847 --> 01:17:34,683
-OH, MICHELLE,
-THIERRY, HELP ME!
+Oh, michelle,
+thierry, help me!
 
 1327
 01:17:38,020 --> 01:17:40,489
-SMELL MY FINGERS!
+Smell my fingers!
 
 1328
 01:17:43,025 --> 01:17:46,629
-♪♪ [SINGING FIGARO]
+♪♪ [Singing figaro]
 
 1329
 01:17:51,500 --> 01:17:56,238
-A HORSE!
-MY SIX-PACK FOR A HORSE.
+A horse!
+My six-pack for a horse.
 
 1330
 01:17:56,238 --> 01:17:57,973
-HEY IT TURNS OUT
-TO BE MOUNT PINATUBO,
+Hey it turns out
+to be mount pinatubo,
 
 1331
 01:17:57,973 --> 01:17:59,408
-THEY ALL FALL IN.
-THE END. BYE!
+they all fall in.
+The end. Bye!
 
 1332
 01:17:59,408 --> 01:18:01,377
-NO, NO, NO,
-NO YOU DON’T JUNIOR.
+No, no, no,
+no you don’t junior.
 
 1333
 01:18:01,377 --> 01:18:03,512
-- GET IN HERE.
-- OH.
+- Get in here.
+- Oh.
 
 1334
 01:18:09,785 --> 01:18:12,187
-[GASPING, CHOKING]
+[Gasping, choking]
 
 1335
 01:18:13,822 --> 01:18:16,625
-MY HEART!
+My heart!
 
 1336
 01:18:19,562 --> 01:18:21,497
@@ -6085,95 +6085,95 @@ MY HEART!
 
 1337
 01:18:26,502 --> 01:18:31,273
-OH, WOW. IT'S
-A STUART ANDERSON'S
-CATTLE COMPANY CULT.
+Oh, wow. It's
+a stuart anderson's
+cattle company cult.
 
 1338
 01:18:31,273 --> 01:18:34,443
-- KEEP QUIET.
-- MY ROWSDOWER’S COME FOR ME.
+- Keep quiet.
+- My rowsdower’s come for me.
 
 1339
 01:18:38,814 --> 01:18:42,384
-MAMMY! AAH.
+Mammy! Aah.
 
 1340
 01:18:42,384 --> 01:18:46,255
-[LAUGHS]
-I’M JUST REMEMBERING
-A SCENE FROM BIO-DOME.
+[Laughs]
+I’m just remembering
+a scene from bio-dome.
 
 1341
 01:18:48,857 --> 01:18:52,995
-CUT YOURSELF LOOSE.
-HURRY UP.
+Cut yourself loose.
+Hurry up.
 
 1342
 01:18:52,995 --> 01:18:54,964
-I DROPPED IT.
+I dropped it.
 
 1343
 01:18:58,400 --> 01:19:01,670
-MY MEN WILL NOT DISTURB US.
+My men will not disturb us.
 
 1344
 01:19:01,670 --> 01:19:04,540
-THEY’RE CLOSING OFF
-ALL AVENUES OF ESCAPE.
+They’re closing off
+all avenues of escape.
 
 1345
 01:19:04,540 --> 01:19:08,010
-DON’T WORRY,
-WE WON’T HURT YOU.
+Don’t worry,
+we won’t hurt you.
 
 1346
 01:19:08,010 --> 01:19:10,245
-YOU FEAR ME.
+You fear me.
 
 1347
 01:19:10,245 --> 01:19:13,115
-PERHAPS YOU REMEMBER
-YOUR LAST DEFEAT.
+Perhaps you remember
+your last defeat.
 
 1348
 01:19:13,115 --> 01:19:14,383
-AAH!
+Aah!
 
 1349
 01:19:14,383 --> 01:19:17,853
-HEY, I WASN’T DONE.
+Hey, I wasn’t done.
 
 1350
 01:19:17,853 --> 01:19:20,422
-OW!
+Ow!
 
 1351
 01:19:20,422 --> 01:19:23,459
-WHAT IS THIS, A GRAPPLING HOOK
-DUMPING GROUND?
+What is this, a grappling hook
+dumping ground?
 
 1352
 01:19:26,128 --> 01:19:28,364
-FIRE BETTER NOT
-GET NEAR HIS MOUSSE.
+Fire better not
+get near his mousse.
 
 1353
 01:19:30,933 --> 01:19:35,537
-WHICH IS THE SHARP SIDE?
+Which is the sharp side?
 
 1354
 01:19:35,537 --> 01:19:36,872
-HEY, THIS IS IT.
+Hey, this is it.
 
 1355
 01:19:36,872 --> 01:19:40,542
- THIS IS THE ACTUAL
- CRAZY WORLD OF ARTHUR BROWN.
+This is the actual
+crazy world of arthur brown.
 
 1356
 01:19:40,542 --> 01:19:42,845
-UM, I CUT BOTH MY WRISTS.
+Um, I cut both my wrists.
 
 1357
 01:19:42,845 --> 01:19:46,348
@@ -6182,27 +6182,27 @@ TRYING TO SAVE THOMAS McGREGGOR.
 
 1358
 01:19:46,348 --> 01:19:48,284
-NOW YOU FIGHT
-TO SAVE HIS SON.
+Now you fight
+to save his son.
 
 1359
 01:19:48,284 --> 01:19:49,652
-WELL, YOU STARTED IT!
+Well, you started it!
 
 1360
 01:19:49,652 --> 01:19:51,020
-YOU KILLED HIM,
-AND LEFT ME ALIVE
+You killed him,
+and left me alive
 
 1361
 01:19:51,020 --> 01:19:52,855
-TO TORMENT
-FOR THE REST OF MY LIFE.
+to torment
+for the rest of my life.
 
 1362
 01:19:52,855 --> 01:19:54,023
-- HM?
-- WHAT?
+- Hm?
+- What?
 
 1363
 01:19:54,023 --> 01:19:56,291
@@ -6211,703 +6211,703 @@ TO COOPERATE.
 
 1364
 01:19:56,291 --> 01:19:58,193
-HE HAD TO DIE.
+He had to die.
 
 1365
 01:19:58,193 --> 01:20:01,563
-YOU WERE GUILTY OF A CRIME
-MUCH WORSE THAN HIS.
+You were guilty of a crime
+much worse than his.
 
 1366
 01:20:01,563 --> 01:20:04,066
-YOU BROKE THE SOLE LAW
-OF OUR SOCIETY.
+You broke the sole law
+of our society.
 
 1367
 01:20:04,066 --> 01:20:06,035
-YOU LEFT.
+You left.
 
 1368
 01:20:06,035 --> 01:20:10,539
-DEATH WOULD BE TOO MERCIFUL
-FOR YOU, ZAP ROWSDOWER.
+Death would be too merciful
+for you, zap rowsdower.
 
 1369
 01:20:10,539 --> 01:20:11,874
-ZAP!
+Zap!
 
 1370
 01:20:11,874 --> 01:20:15,511
-I CHOSE TO LET YOU LIVE
-TO BE TORMENTED BY OUR DRUMS
+I chose to let you live
+to be tormented by our drums
 
 1371
 01:20:15,511 --> 01:20:18,414
-UNTIL THE END
-OF YOUR MISERABLE LIFE.
+until the end
+of your miserable life.
 
 1372
 01:20:18,414 --> 01:20:21,817
-AAH!
+Aah!
 
 1373
 01:20:21,817 --> 01:20:24,687
-UH, I SOMEHOW
-SWALLOWED THE KNIFE!
+Uh, I somehow
+swallowed the knife!
 
 1374
 01:20:28,624 --> 01:20:30,993
-AND I’M REALLY MAD
-THAT YOU NEVER DO THE DISHES
+And i’m really mad
+that you never do the dishes
 
 1375
 01:20:30,993 --> 01:20:33,128
-WHEN IT’S YOUR TURN!
+when it’s your turn!
 
 1376
 01:20:37,499 --> 01:20:41,503
-OH, NICE, ARE THOSE TOTES?
-OH, HEY, THEY ARE!
+Oh, nice, are those totes?
+Oh, hey, they are!
 
 1377
 01:20:42,871 --> 01:20:45,340
-YOU ARE MINE.
+You are mine.
 
 1378
 01:20:45,340 --> 01:20:47,409
-[GUNSHOT]
+[Gunshot]
 
 1379
 01:20:47,409 --> 01:20:50,412
-OW. YOU SHOT MY BUTT.
-WHAT THE HELL?
+Ow. You shot my butt.
+What the hell?
 
 1380
 01:20:50,412 --> 01:20:54,783
-YOU SHOT ME IN THE BUTT!
+You shot me in the butt!
 
 1381
 01:20:54,783 --> 01:20:58,120
-YOU WILL BE
-THE LAST SACRIFICE.
+You will be
+the last sacrifice.
 
 1382
 01:20:58,120 --> 01:21:00,656
-THE LAST ONE BETWEEN ME
+The last one between me
 
 1383
 01:21:00,656 --> 01:21:02,925
-AND ULTIMATE POWER
-OVER THE EARTH.
+and ultimate power
+over the earth.
 
 1384
 01:21:02,925 --> 01:21:04,493
-OH, WAIT,
-THERE’S ONE GUY AFTER YOU.
+Oh, wait,
+there’s one guy after you.
 
 1385
 01:21:04,493 --> 01:21:06,895
-SO YOU’RE--
-YOU’RE SECOND TO LAST.
+So you’re--
+you’re second to last.
 
 1386
 01:21:10,733 --> 01:21:14,002
-[GROWLING]
+[Growling]
 
 1387
 01:21:14,002 --> 01:21:16,305
-[YAWNS]
+[Yawns]
 
 1388
 01:21:21,710 --> 01:21:24,179
-SO, MIKE, MOST HUMANS,
-WHEN YOU SHOOT THEM IN THE BUTT,
+So, mike, most humans,
+when you shoot them in the butt,
 
 1389
 01:21:24,179 --> 01:21:25,614
-THEY BURST INTO FLAMES?
+they burst into flames?
 
 1390
 01:21:25,614 --> 01:21:27,082
-WELL, I DON’T KNOW.
+Well, I don’t know.
 
 1391
 01:21:27,082 --> 01:21:29,017
-- CAN WE TRY IT? TURN AROUND.
-- YEAH, COME ON.
+- Can we try it? Turn around.
+- Yeah, come on.
 
 1392
 01:21:29,017 --> 01:21:32,121
-NO.
+No.
 
 1393
 01:21:32,121 --> 01:21:33,522
-YOU ALL RIGHT, KID?
+You all right, kid?
 
 1394
 01:21:33,522 --> 01:21:35,324
-WELL, I DON’T HAVE MANY FRIENDS,
-GIRLS DON’T LIKE ME,
+Well, I don’t have many friends,
+girls don’t like me,
 
 1395
 01:21:35,324 --> 01:21:38,594
-AND MY TEACHERS ABSOLUTELY
-HATE-- OH, YEAH I’M FINE.
+and my teachers absolutely
+hate-- oh, yeah i’m fine.
 
 1396
 01:21:41,463 --> 01:21:43,031
-[THUNDER CLAPS]
+[Thunder claps]
 
 1397
 01:21:43,031 --> 01:21:47,302
-SOMEWHERE, LEE TREVINO
-SCURRIES FOR COVER.
+Somewhere, lee trevino
+scurries for cover.
 
 1398
 01:21:47,302 --> 01:21:50,339
-[MOOING]
+[Mooing]
 
 1399
 01:21:53,475 --> 01:21:57,379
-THE LEGEND GOES,
-IF THE IDOL IS EVER DESTROYED,
+The legend goes,
+if the idol is ever destroyed,
 
 1400
 01:21:57,379 --> 01:22:00,516
-THEN THE CITY WILL RETURN
-TO ITS FORMER GLORY.
+then the city will return
+to its former glory.
 
 1401
 01:22:00,516 --> 01:22:01,617
-UH-HUH.
+Uh-huh.
 
 1402
 01:22:01,617 --> 01:22:03,218
-IT’S A SYMBOL OF GOOD,
+It’s a symbol of good,
 
 1403
 01:22:03,218 --> 01:22:06,155
-AND WILL MEAN
-THE END OF SATORIS.
+and will mean
+the end of satoris.
 
 1404
 01:22:06,155 --> 01:22:08,590
-AND REMEMBER, IF THE LADIES
-DON’T FIND YOUR HANDSOME,
+And remember, if the ladies
+don’t find your handsome,
 
 1405
 01:22:08,590 --> 01:22:11,827
-AT LEAST YOU SHOULD BE HANDY.
+at least you should be handy.
 
 1406
 01:22:11,827 --> 01:22:14,329
-STAY WITH ME, TROY,
-AND I’LL GUIDE YOU IN THE WAYS
+Stay with me, troy,
+and i’ll guide you in the ways
 
 1407
 01:22:14,329 --> 01:22:17,933
-OF ALCOHOL,
-CIGARETTES, AND MEAT.
+of alcohol,
+cigarettes, and meat.
 
 1408
 01:22:17,933 --> 01:22:19,301
-WELL, IT WAS A PRETTY GOOD CULT,
+Well, it was a pretty good cult,
 
 1409
 01:22:19,301 --> 01:22:22,104
-BUT HOCKEY’S SEASON’S
-STARTING AND ALL.
+but hockey’s season’s
+starting and all.
 
 1410
 01:22:24,373 --> 01:22:26,742
-OKAY, HOOD-WASHING TIME GUYS.
+Okay, hood-washing time guys.
 
 1411
 01:22:26,742 --> 01:22:27,943
-LET’S JUST DO THEM
-ALL IN ONE LOAD.
+Let’s just do them
+all in one load.
 
 1412
 01:22:27,943 --> 01:22:30,379
-THEY’RE ALL THE SAME COLOR.
+They’re all the same color.
 
 1413
 01:22:34,316 --> 01:22:37,486
-SO, TED, YOU THINK WE’RE GOING
-TO GET PAID FOR THIS WEEK?
+So, ted, you think we’re going
+to get paid for this week?
 
 1414
 01:22:42,791 --> 01:22:44,426
-[CHUCKLES]
+[Chuckles]
 
 1415
 01:22:44,426 --> 01:22:46,995
-SOMEBODY REBOOT THE KID.
+Somebody reboot the kid.
 
 1416
 01:22:50,632 --> 01:22:54,002
-THE LOVE CANAL STATE FOREST.
+The love canal state forest.
 
 1417
 01:22:57,406 --> 01:22:58,740
-[CREAKING]
+[Creaking]
 
 1418
 01:22:58,740 --> 01:23:02,711
-HEY, I’M IN A SNOWMOBILE CLUB
-WITH THAT ONE GUY.
+Hey, i’m in a snowmobile club
+with that one guy.
 
 1419
 01:23:05,080 --> 01:23:08,817
-ROWSDOWER!
+Rowsdower!
 
 1420
 01:23:08,817 --> 01:23:11,753
-SO THEIR CITY’S
-A POP-OUT GREETING CARD.
+So their city’s
+a pop-out greeting card.
 
 1421
 01:23:14,189 --> 01:23:17,993
-THAT’S NOT ACTUALLY A LOST CITY,
-IT WAS JUST UNCLAIMED.
+That’s not actually a lost city,
+it was just unclaimed.
 
 1422
 01:23:22,598 --> 01:23:24,066
-ROWSDOWER.
+Rowsdower.
 
 1423
 01:23:24,066 --> 01:23:28,370
-WOW, IT’S EXPO ’67.
+Wow, it’s expo ’67.
 
 1424
 01:23:28,370 --> 01:23:30,105
-ROWSDOWER.
+Rowsdower.
 
 1425
 01:23:30,105 --> 01:23:34,343
-A WHOLE NOTHER CITY
-TO FAIL IN.
+A whole nother city
+to fail in.
 
 1426
 01:23:34,343 --> 01:23:38,146
-I WONDER IF THEY NEED
-SNOW PLOWING SERVICES.
+I wonder if they need
+snow plowing services.
 
 1427
 01:23:38,146 --> 01:23:41,016
-AUDREY HEPBURN--
-OH, IT’S TROY.
+Audrey hepburn--
+oh, it’s troy.
 
 1428
 01:23:45,621 --> 01:23:49,291
-WELL, SON OF A BUCK,
-THAT JUST FLEW UP THERE.
+Well, son of a buck,
+that just flew up there.
 
 1429
 01:23:52,694 --> 01:23:56,632
-LUKE, IT IS YOUR DESTINY.
+Luke, it is your destiny.
 
 1430
 01:24:01,570 --> 01:24:02,704
-HM?
+Hm?
 
 1431
 01:24:02,704 --> 01:24:06,575
-SUSAN DEY!
-OH, NO, IT’S TROY. SORRY.
+Susan dey!
+Oh, no, it’s troy. Sorry.
 
 1432
 01:24:06,575 --> 01:24:08,944
-HE’S GONNA TURN
-INTO A WAR-WILF.
+He’s gonna turn
+into a war-wilf.
 
 1433
 01:24:08,944 --> 01:24:11,780
-HOW ABOUT A SMOKE, KID?
+How about a smoke, kid?
 
 1434
 01:24:14,082 --> 01:24:16,518
-HEY, THE NEOSPORIN
-REALLY WORKED.
+Hey, the neosporin
+really worked.
 
 1435
 01:24:16,518 --> 01:24:17,886
-ALL RIGHT!
+All right!
 
 1436
 01:24:17,886 --> 01:24:22,658
-MY DRINKIN’ ARM’S HEALED!
+My drinkin’ arm’s healed!
 
 1437
 01:24:22,658 --> 01:24:24,860
-UH, ROWSDOWER,
-YOU’RE SQUEEZING MY--
+Uh, rowsdower,
+you’re squeezing my--
 
 1438
 01:24:24,860 --> 01:24:27,529
-ROW-- [CRACKING SOUNDS]
-ROWSDOWER. ROW...
+row-- [cracking sounds]
+Rowsdower. Row...
 
 1439
 01:24:28,797 --> 01:24:31,733
-OOH, THAT SHOT
-CONTAINS TOO MUCH NOSTRIL.
+Ooh, that shot
+contains too much nostril.
 
 1440
 01:24:33,969 --> 01:24:35,671
-OH, HECK, I CAN’T BELIEVE
-THE ANCIENT CITY
+Oh, heck, I can’t believe
+the ancient city
 
 1441
 01:24:35,671 --> 01:24:39,608
-KICKED US OUT ALREADY.
+kicked us out already.
 
 1442
 01:24:39,608 --> 01:24:42,244
-JOIN US NEXT WEEK
-WHEN TROY AND ZAP BATTLE
+Join us next week
+when troy and zap battle
 
 1443
 01:24:42,244 --> 01:24:45,347
-AN ARMY OF EVIL ACADIAN ROBOTS
-ON CAPE BRETON.
+an army of evil acadian robots
+on cape breton.
 
 1444
 01:24:45,347 --> 01:24:47,149
-THEN IN UPCOMING WEEKS,
-THEY’LL TAKE ON
+Then in upcoming weeks,
+they’ll take on
 
 1445
 01:24:47,149 --> 01:24:49,651
-A BAND OF ZOMBIE FUR TRAPPERS
-IN MEDICINE HAT.
+a band of zombie fur trappers
+in medicine hat.
 
 1446
 01:24:49,651 --> 01:24:53,221
-THAT’S ON ZAP AND TROY,
-THE LEGENDARY JOURNEYS.
+That’s on zap and troy,
+the legendary journeys.
 
 1447
 01:24:54,823 --> 01:24:57,960
-[HUMMING]
+[Humming]
 
 1448
 01:25:01,463 --> 01:25:05,367
-♪ OH, BABY,
-ROWSDOWER SAVES US ♪
+♪ Oh, baby,
+rowsdower saves us ♪
 
 1449
 01:25:05,367 --> 01:25:08,837
-♪ AND SAVES ALL THE WORLD ♪
+♪ and saves all the world ♪
 
 1450
 01:25:11,173 --> 01:25:14,609
-♪ HE COMES TO SAVE THE DAY
-IN A BROKEN TRUCK ♪
+♪ he comes to save the day
+in a broken truck ♪
 
 1451
 01:25:14,609 --> 01:25:18,747
-♪ WITH A STINKY DENIM JACKET
-ON HIS BACK ♪
+♪ with a stinky denim jacket
+on his back ♪
 
 1452
 01:25:18,747 --> 01:25:22,284
-♪ HE COULDN’T HELP THIS MOVIE
-WHICH REALLY SUCKED ♪
+♪ he couldn’t help this movie
+which really sucked ♪
 
 1453
 01:25:22,284 --> 01:25:26,488
-♪ BUT AT LEAST WE DIDN’T HAVE TO
-SEE HIM PLAY HACKEYSACK ♪
+♪ but at least we didn’t have to
+see him play hackeysack ♪
 
 1454
 01:25:26,488 --> 01:25:27,823
-WHAT?
+What?
 
 1455
 01:25:27,823 --> 01:25:28,924
-I’M SORRY, I PANICKED.
+I’m sorry, I panicked.
 
 1456
 01:25:28,924 --> 01:25:30,726
-WAKE UP. THIS IS
-IMPORTANT TO ME DAMNIT.
+Wake up. This is
+important to me damnit.
 
 1457
 01:25:30,726 --> 01:25:32,427
-WELL, I’LL TRY TO DO BETTER.
+Well, i’ll try to do better.
 
 1458
 01:25:32,427 --> 01:25:34,029
-SSH, HERE IT COMES. LISTEN.
+Ssh, here it comes. Listen.
 
 1459
 01:25:34,029 --> 01:25:36,898
-♪ ROWSDOWER SAVES US ♪
+♪ Rowsdower saves us ♪
 
 1460
 01:25:36,898 --> 01:25:41,403
-♪ AND SAVES ALL THE WORLD ♪
+♪ and saves all the world ♪
 
 1461
 01:25:41,403 --> 01:25:43,705
-♪ ROWSDOWER SAVES-- ♪
+♪ rowsdower saves-- ♪
 
 1462
 01:25:43,705 --> 01:25:44,906
-NO, NO, NO, MIKE,
-THAT SECTION’S OVER,
+No, no, no, mike,
+that section’s over,
 
 1463
 01:25:44,906 --> 01:25:46,141
-YOU NON-MUSICAL MOOK.
+you non-musical mook.
 
 1464
 01:25:46,141 --> 01:25:47,743
-- WELL, SORRY.
-- NEVER MIND.
+- Well, sorry.
+- Never mind.
 
 1465
 01:25:47,743 --> 01:25:49,177
-I’LL HANDLE
-THIS SECTION MYSELF.
+I’ll handle
+this section myself.
 
 1466
 01:25:49,177 --> 01:25:51,179
-TALK QUIETLY
-AMONGST YOURSELVES.
+Talk quietly
+amongst yourselves.
 
 1467
 01:25:51,179 --> 01:25:52,914
-♪ DANNY ELFMAN,
-DANNY ELFMAN ♪
+♪ Danny elfman,
+danny elfman ♪
 
 1468
 01:25:52,914 --> 01:25:54,516
-♪ THIS SONG SOUNDS
-LIKE DANNY ELFMAN ♪
+♪ this song sounds
+like danny elfman ♪
 
 1469
 01:25:54,516 --> 01:25:56,918
-♪ IT JUST SOUNDS
-LIKE DANNY ELFMAN
-DANNY ELFMAN ♪
+♪ it just sounds
+like danny elfman
+danny elfman ♪
 
 1470
 01:25:56,918 --> 01:26:00,155
-♪ HE’S THE DAD OF JENNA ELFMAN,
-JENNA ELFMAN, JENNA ELFMAN ♪
+♪ he’s the dad of jenna elfman,
+jenna elfman, jenna elfman ♪
 
 1471
 01:26:00,155 --> 01:26:01,590
-♪ HE’S THE DAUGHTER
-OF DANNY ELFMAN ♪
+♪ he’s the daughter
+of danny elfman ♪
 
 1472
 01:26:01,590 --> 01:26:03,425
-♪ DANNY ELFMAN,
-DANNY ELFMAN ♪
+♪ danny elfman,
+danny elfman ♪
 
 1473
 01:26:03,425 --> 01:26:05,260
-SAY, MIKE, YOU KNOW,
-I DIDN’T THINK THIS MOVIE
+Say, mike, you know,
+I didn’t think this movie
 
 1474
 01:26:05,260 --> 01:26:06,862
-WAS AS BAD AS THE USUAL FARE.
+was as bad as the usual fare.
 
 1475
 01:26:06,862 --> 01:26:08,530
-YOU’RE JOKING I HOPE.
+You’re joking I hope.
 
 1476
 01:26:08,530 --> 01:26:11,033
-NO, NO, NO.
-ADMITTEDLY IT HAD SOME FLAWS.
+No, no, no.
+Admittedly it had some flaws.
 
 1477
 01:26:11,033 --> 01:26:13,001
-IT WAS A LITTLE OVERZEALOUS
-PURSUING SOME OF ITS IDEAS,
+It was a little overzealous
+pursuing some of its ideas,
 
 1478
 01:26:13,001 --> 01:26:16,038
-GRANTED, BUT I THINK IT WAS
-MORE OF A PROBLEM OF FORM.
+granted, but I think it was
+more of a problem of form.
 
 1479
 01:26:16,038 --> 01:26:17,606
-A MOVIE IS JUST NOT
-THE RIGHT MEDIUM
+A movie is just not
+the right medium
 
 1480
 01:26:17,606 --> 01:26:18,840
-FOR THIS MATERIAL.
+for this material.
 
 1481
 01:26:18,840 --> 01:26:21,476
-IT NEEDS TV.
-IT NEEDS TO BE A SERIES.
+It needs tv.
+It needs to be a series.
 
 1482
 01:26:21,476 --> 01:26:23,278
-HM, I DON’T KNOW.
+Hm, I don’t know.
 
 1483
 01:26:23,278 --> 01:26:24,880
-JUST LET ME
-PITCH THIS TO YOU.
+Just let me
+pitch this to you.
 
 1484
 01:26:24,880 --> 01:26:26,782
-UH, OKAY, I’M LISTENING. GO.
+Uh, okay, i’m listening. Go.
 
 1485
 01:26:26,782 --> 01:26:28,450
-GREAT, GREAT,
-THANKS FOR HEARING ME OUT.
+Great, great,
+thanks for hearing me out.
 
 1486
 01:26:28,450 --> 01:26:30,819
- OKAY, THE FINAL SACRIFICE,
- THE SERIES.
+Okay, the final sacrifice,
+the series.
 
 1487
 01:26:30,819 --> 01:26:32,654
-- THE NAME GOES.
-- WHAT?
+- The name goes.
+- What?
 
 1488
 01:26:32,654 --> 01:26:35,323
-NEVER LIKED THE NAME.
-THE NAME GOES. IT’S BANAL.
+Never liked the name.
+The name goes. It’s banal.
 
 1489
 01:26:35,323 --> 01:26:37,759
-BUT IF YOU’RE HOPING
-TO CONNECT THE SERIES
-WITH THE MOVIE, MIKE--
+But if you’re hoping
+to connect the series
+with the movie, mike--
 
 1490
 01:26:37,759 --> 01:26:39,861
-WE NEED SOMETHING LIKE,
-OH, NIGHT MISTRESS.
+we need something like,
+oh, night mistress.
 
 1491
 01:26:39,861 --> 01:26:41,229
-NIGHT MISTRESS?
+Night mistress?
 
 1492
 01:26:41,229 --> 01:26:42,731
-YEAH, OR CLOOTCHI
-AND THE LIEUTENANT.
+Yeah, or clootchi
+and the lieutenant.
 
 1493
 01:26:42,731 --> 01:26:44,366
-YOU KNOW, SOMETHING
-THAT’S GOING TO SEDUCE PEOPLE.
+You know, something
+that’s going to seduce people.
 
 1494
 01:26:44,366 --> 01:26:46,201
-REALLY CONNECT WITH THEM.
-WE’LL WORK ON THAT.
+Really connect with them.
+We’ll work on that.
 
 1495
 01:26:46,201 --> 01:26:47,969
-OKAY. OKAY...
+Okay. Okay...
 
 1496
 01:26:47,969 --> 01:26:50,505
-SO YOU GOT ROWSDOWER,
-AND HE ROAMS THROUGH CANADA,
+So you got rowsdower,
+and he roams through canada,
 
 1497
 01:26:50,505 --> 01:26:52,040
-AND HE’S GOT
-HIS LITTLE PAL TROY,
+and he’s got
+his little pal troy,
 
 1498
 01:26:52,040 --> 01:26:53,809
-AND THEY ALL GET INTO
-ALL KINDS OF SCRAPES.
+and they all get into
+all kinds of scrapes.
 
 1499
 01:26:53,809 --> 01:26:55,444
-- BUT THEY HELP PEOPLE--
-- ALABAMA.
+- But they help people--
+- alabama.
 
 1500
 01:26:55,444 --> 01:26:58,313
-- WHAT?
-- ALABAMA, CHICAGO, CLEVELAND.
+- What?
+- Alabama, chicago, cleveland.
 
 1501
 01:26:58,313 --> 01:27:00,315
-NO, I LIKE ALABAMA.
-YOU LIKE ALABAMA? 
+No, I like alabama.
+You like alabama?
 
 1502
 01:27:00,315 --> 01:27:01,616
-IT’S YOUR SHOW.
+It’s your show.
 
 1503
 01:27:01,616 --> 01:27:03,118
-WELL, TO ME,
-CANADA IS THE ESSENCE--
+Well, to me,
+canada is the essence--
 
 1504
 01:27:03,118 --> 01:27:05,020
-PITTSBURGH, WE’LL DO IT
-IN PITTSBURGH.
+pittsburgh, we’ll do it
+in pittsburgh.
 
 1505
 01:27:05,020 --> 01:27:07,489
-WELL, I SUPPOSE IF YOU ACTUALLY
-FILM IT IN PITTSBURGH--
+Well, I suppose if you actually
+film it in pittsburgh--
 
 1506
 01:27:07,489 --> 01:27:09,558
-NO, NO, NO, WE FILM IN CANADA.
-HAVE TO.
+no, no, no, we film in canada.
+Have to.
 
 1507
 01:27:09,558 --> 01:27:10,692
-[BEEP]
+[Beep]
 
 1508
 01:27:10,692 --> 01:27:13,428
-HOLD ON. YEAH, JUDY.
-OKAY, THANKS.
+Hold on. Yeah, judy.
+Okay, thanks.
 
 1509
 01:27:13,428 --> 01:27:14,529
-YOU GOT TWO MINUTES.
+You got two minutes.
 
 1510
 01:27:14,529 --> 01:27:16,031
-GUTTENBERG’S PEOPLE
-ARE COMING IN.
+Guttenberg’s people
+are coming in.
 
 1511
 01:27:16,031 --> 01:27:18,133
-WHAT DO YOU MEAN
-GUTTENBERG’S PEOPLE
-ARE COMING IN?
+What do you mean
+guttenberg’s people
+are coming in?
 
 1512
 01:27:18,133 --> 01:27:20,135
-WHAT I MEAN IS
-YOU JUST LOST A MINUTE. GO.
+What I mean is
+you just lost a minute. Go.
 
 1513
 01:27:20,135 --> 01:27:21,503
-WHOA, SORRY, SORRY.
+Whoa, sorry, sorry.
 
 1514
 01:27:21,503 --> 01:27:24,139
-SO, THE LEAD CHARACTER
-IS ROWSDOWER, OF COURSE.
+So, the lead character
+is rowsdower, of course.
 
 1515
 01:27:24,139 --> 01:27:26,241
@@ -6916,245 +6916,245 @@ SPARKY McHOOLIHAN
 
 1516
 01:27:26,241 --> 01:27:27,375
-OR WHATEVER THE HELL
-HIS NAME WAS.
+or whatever the hell
+his name was.
 
 1517
 01:27:27,375 --> 01:27:28,910
-YOU LIKE THAT NAME?
-I NEVER LIKED THAT NAME.
+You like that name?
+I never liked that name.
 
 1518
 01:27:28,910 --> 01:27:30,512
-WELL, THAT’S NOT HIS NAME.
-I MEAN...
+Well, that’s not his name.
+I mean...
 
 1519
 01:27:30,512 --> 01:27:33,415
-BUT I LIKE ALL THAT
-FUNNY BEER STUFF YOU GET
-WITH THAT ROWSDOWER GUY.
+But I like all that
+funny beer stuff you get
+with that rowsdower guy.
 
 1520
 01:27:33,415 --> 01:27:34,850
-HIM BEING A HOPELESS DRUNK
-AND ALL THAT.
+Him being a hopeless drunk
+and all that.
 
 1521
 01:27:34,850 --> 01:27:37,352
-HE’S LOVEABLE, YOU KNOW?
-HE FALLS DOWN, HE’S SICK A LOT,
+He’s loveable, you know?
+He falls down, he’s sick a lot,
 
 1522
 01:27:37,352 --> 01:27:38,487
-BUT HE’S LOVEABLE.
+but he’s loveable.
 
 1523
 01:27:38,487 --> 01:27:40,489
-AND THE KID,
-THE KID WORKS IN A BREWERY.
+And the kid,
+the kid works in a brewery.
 
 1524
 01:27:40,489 --> 01:27:42,858
-I ACTUALLY HAD
-AN HOUR-LONG DRAMA IN MIND.
+I actually had
+an hour-long drama in mind.
 
 1525
 01:27:42,858 --> 01:27:44,793
-WHAT ARE YOU, ONE OF THOSE
-DENNIS FRANZ FREAKS, HUH?
+What are you, one of those
+dennis franz freaks, huh?
 
 1526
 01:27:44,793 --> 01:27:46,128
-NOW, WAIT A MINUTE--
+Now, wait a minute--
 
 1527
 01:27:46,128 --> 01:27:47,596
-WAIT, WAIT, WAIT, YEAH,
-GIVE ME A SECOND HERE.
+wait, wait, wait, yeah,
+give me a second here.
 
 1528
 01:27:47,596 --> 01:27:48,930
-I’M GOING SOMEWHERE.
-I’M THERE, I’M THERE.
+I’m going somewhere.
+I’m there, i’m there.
 
 1529
 01:27:48,930 --> 01:27:51,199
-THIS ROWSDOWER GUY,
-FULL FRONTAL, YOU KNOW?
+This rowsdower guy,
+full frontal, you know?
 
 1530
 01:27:51,199 --> 01:27:52,567
-COUPLE TIMES A SEASON.
+Couple times a season.
 
 1531
 01:27:52,567 --> 01:27:54,402
-TASTEFUL, LOW LIGHTS,
-JUST A HINT.
+Tasteful, low lights,
+just a hint.
 
 1532
 01:27:54,402 --> 01:27:56,471
-[BEEP]
-HOLD ON. YES, JUDY.
+[Beep]
+Hold on. Yes, judy.
 
 1533
 01:27:56,471 --> 01:27:57,939
-I KNOW. YOU GOT 30 SECONDS.
+I know. You got 30 seconds.
 
 1534
 01:27:57,939 --> 01:28:00,542
-OKAY, WELL THIS MAIN CHARACTER,
-UM, SPARKY--
+Okay, well this main character,
+um, sparky--
 
 1535
 01:28:00,542 --> 01:28:01,977
-HAS A FRIEND, A GIRL.
+has a friend, a girl.
 
 1536
 01:28:01,977 --> 01:28:03,545
-HELL, HE’S A GIRL TOO.
-THERE ARE A LOT OF GIRLS.
+Hell, he’s a girl too.
+There are a lot of girls.
 
 1537
 01:28:03,545 --> 01:28:04,713
-THEY’RE ALL ROOMMATES.
+They’re all roommates.
 
 1538
 01:28:04,713 --> 01:28:06,081
-THERE’S A GOOFY GIRL,
-A SERIOUS GIRL,
+There’s a goofy girl,
+a serious girl,
 
 1539
 01:28:06,081 --> 01:28:07,482
-A CHEERLEADER,
-THE LOOSE GIRL.
+a cheerleader,
+the loose girl.
 
 1540
 01:28:07,482 --> 01:28:09,451
-EVERYBODY IN THE DAMN SERIES
-IS A DAMN GIRL!
+Everybody in the damn series
+is a damn girl!
 
 1541
 01:28:09,451 --> 01:28:11,753
-- YEAH, BUT ROWSDOWER--
-- A BIG, HAIRY GIRL!
+- Yeah, but rowsdower--
+- a big, hairy girl!
 
 1542
 01:28:11,753 --> 01:28:13,054
-[BEEP]
-YES, JUDY. I’LL TELL YOU WHAT.
+[Beep]
+Yes, judy. I’ll tell you what.
 
 1543
 01:28:13,054 --> 01:28:14,689
-I GOT A SHOW IDEA FOR YOU.
+I got a show idea for you.
 
 1544
 01:28:14,689 --> 01:28:16,725
-YOU GET OUT OF MY OFFICE
-UNTIL YOU GIVE ME SOMETHING
-I CAN USE.
+You get out of my office
+until you give me something
+I can use.
 
 1545
 01:28:16,725 --> 01:28:18,527
--NOW I GOTTA GO MEET
-GUTENBERG’S PEOPLE.
-- WHOA!
+-Now I gotta go meet
+gutenberg’s people.
+- Whoa!
 
 1546
 01:28:18,527 --> 01:28:20,128
-GEE WHIZ.
+Gee whiz.
 
 1547
 01:28:20,128 --> 01:28:22,197
-[HUMMING CONTINUES]
+[Humming continues]
 
 1548
 01:28:25,534 --> 01:28:27,135
-HEY, WHERE’S THE MUSIC?
+Hey, where’s the music?
 
 1549
 01:28:27,135 --> 01:28:29,804
-YOU GUYS!
+You guys!
 
 1550
 01:28:29,804 --> 01:28:31,673
-THE END!
+The end!
 
 1551
 01:28:43,051 --> 01:28:45,220
-WE SHALL MEET AT MIDNIGHT,
-AND THEN--
+We shall meet at midnight,
+and then--
 
 1552
 01:28:45,220 --> 01:28:47,622
-- HELLO, MIKE.
-- HI, FELLAS. HOW’S IT GOING?
+- hello, mike.
+- Hi, fellas. How’s it going?
 
 1553
 01:28:47,622 --> 01:28:49,824
-- NICE FLOWERS.
-- THANKS.
+- Nice flowers.
+- Thanks.
 
 1554
 01:28:49,824 --> 01:28:53,461
-HEY! YOU GUYS DIDN’T TAKE AND GO
-AND START A CULT, DID YOU?
+Hey! You guys didn’t take and go
+and start a cult, did you?
 
 1555
 01:28:53,461 --> 01:28:54,729
-[COUGHS] 
-A CULT?
+[Coughs]
+A cult?
 
 1556
 01:28:54,729 --> 01:28:56,598
-A CULT? NO, OF COURSE NOT.
+A cult? No, of course not.
 
 1557
 01:28:56,598 --> 01:28:59,401
-THAT IS THE MOST ABSURD THING--
-WELL, YEAH WE DID.
+That is the most absurd thing--
+well, yeah we did.
 
 1558
 01:28:59,401 --> 01:29:00,468
-YEAH, YOU WANT TO JOIN?
+Yeah, you want to join?
 
 1559
 01:29:00,468 --> 01:29:01,803
-NO, I DON’T WANT TO JOIN.
+No, I don’t want to join.
 
 1560
 01:29:01,803 --> 01:29:03,939
-YOU’LL PROBABLY BE SACRIFICING
-BLACK PULLETS,
+You’ll probably be sacrificing
+black pullets,
 
 1561
 01:29:03,939 --> 01:29:05,240
-AND WEARING GOAT HEADS
-AND THINGS.
+and wearing goat heads
+and things.
 
 1562
 01:29:05,240 --> 01:29:06,341
-WELL, YOU KNOW,
-WE THOUGHT ABOUT ALL THAT,
+Well, you know,
+we thought about all that,
 
 1563
 01:29:06,341 --> 01:29:07,976
-BUT IT JUST SEEMED
-LIKE A LOT OF WORK.
+but it just seemed
+like a lot of work.
 
 1564
 01:29:07,976 --> 01:29:09,411
-ACTUALLY WE JUST
-LIKE TO BAKE MUFFINS.
+Actually we just
+like to bake muffins.
 
 1565
 01:29:09,411 --> 01:29:10,779
-LOTS OF DIFFERENT KINDS.
+Lots of different kinds.
 
 1566
 01:29:10,779 --> 01:29:11,947
-YEAH, THEN WE GET TOGETHER
-AT EACH OTHER’S HOUSES,
+Yeah, then we get together
+at each other’s houses,
 
 1567
 01:29:11,947 --> 01:29:13,415
@@ -7162,199 +7162,199 @@ AND WATCH ALLY McBEAL.
 
 1568
 01:29:13,415 --> 01:29:15,717
-OR ONE OF OUR COLLECTION
-OF TAPED  SISTERS  EPISODES.
+Or one of our collection
+of taped sisters episodes.
 
 1569
 01:29:15,717 --> 01:29:17,385
-YEAH, WE’RE KIND OF
-A MUFFINEY,
+Yeah, we’re kind of
+a muffiney,
 
 1570
 01:29:17,385 --> 01:29:19,821
-CALISTA FLOCKHEART,
-SWOOSIE KURTZ KIND OF CULT.
+calista flockheart,
+swoosie kurtz kind of cult.
 
 1571
 01:29:19,821 --> 01:29:21,556
-YEAH.
+Yeah.
 
 1572
 01:29:21,556 --> 01:29:22,824
-UM, MIKE?
+Um, mike?
 
 1573
 01:29:22,824 --> 01:29:24,626
-OH, BOY.
-I THINK WE FREAKED HIM OUT.
+Oh, boy.
+I think we freaked him out.
 
 1574
 01:29:24,626 --> 01:29:26,294
-WHOA. OKAY, MIKE.
+Whoa. Okay, mike.
 
 1575
 01:29:26,294 --> 01:29:28,863
-WE STRIP TO THE WAIST,
-WORSHIP AN EVIL EMANATION,
+We strip to the waist,
+worship an evil emanation,
 
 1576
 01:29:28,863 --> 01:29:30,865
-AND LOP PEOPLE’S HEADS OFF
-FOR FUN.
+and lop people’s heads off
+for fun.
 
 1577
 01:29:30,865 --> 01:29:31,967
-IS THAT LESS WEIRD?
+Is that less weird?
 
 1578
 01:29:31,967 --> 01:29:33,568
-AH, YEAH, THAT’S
-A LITTLE EASIER TO TAKE.
+Ah, yeah, that’s
+a little easier to take.
 
 1579
 01:29:33,568 --> 01:29:35,303
-- GOOD.
-- OH, UH, PEARL’S CALLING.
+- Good.
+- Oh, uh, pearl’s calling.
 
 1580
 01:29:35,303 --> 01:29:36,338
-[GROWLING]
+[Growling]
 
 1581
 01:29:36,338 --> 01:29:38,340
-AH, NELSON.
+Ah, nelson.
 
 1582
 01:29:38,340 --> 01:29:40,575
-SO GLAD WE COULD JOIN YOU.
+So glad we could join you.
 
 1583
 01:29:40,575 --> 01:29:43,645
-FOR, YOU SEE, I AM ABOUT TO TAKE
-A GIANT STEP FORWARD
+For, you see, I am about to take
+a giant step forward
 
 1584
 01:29:43,645 --> 01:29:45,580
-IN MY PROGRAM
-TO TAKE OVER THE WORLD,
+in my program
+to take over the world,
 
 1585
 01:29:45,580 --> 01:29:47,649
-ONE PERSON AT A TIME.
+one person at a time.
 
 1586
 01:29:47,649 --> 01:29:49,918
-AFTER HOURS
-OF TOUGH NEGOTIATION,
+After hours
+of tough negotiation,
 
 1587
 01:29:49,918 --> 01:29:52,354
-I AM ABOUT TO POSSESS
-THE MIND,
+I am about to possess
+the mind,
 
 1588
 01:29:52,354 --> 01:29:54,489
-THE SOUL, THE VERY WILL
+the soul, the very will
 
 1589
 01:29:54,489 --> 01:29:56,958
-OF THIS MAN HERE.
+of this man here.
 
 1590
 01:29:56,958 --> 01:29:58,426
-WHAT WAS YOUR NAME AGAIN?
+What was your name again?
 
 1591
 01:29:58,426 --> 01:29:59,661
-CARL.
+Carl.
 
 1592
 01:29:59,661 --> 01:30:00,895
-ALL RIGHT, CARL.
+All right, carl.
 
 1593
 01:30:00,895 --> 01:30:02,764
-YOU’VE COWERED
-AT MY THREATS,
+You’ve cowered
+at my threats,
 
 1594
 01:30:02,764 --> 01:30:04,900
-YOU’VE RELISHED MY REWARDS,
+you’ve relished my rewards,
 
 1595
 01:30:04,900 --> 01:30:06,601
-YOU’VE EATEN ME OUT
-OF HOUSE AND HOME,
+you’ve eaten me out
+of house and home,
 
 1596
 01:30:06,601 --> 01:30:07,969
-NOW SIGN.
+now sign.
 
 1597
 01:30:07,969 --> 01:30:09,271
-CERTAINLY, MY LIEGE.
+Certainly, my liege.
 
 1598
 01:30:09,271 --> 01:30:14,009
- [PHONE RINGING]
- HANG ON. LET ME GET THIS.
+[Phone ringing]
+Hang on. Let me get this.
 
 1599
 01:30:14,009 --> 01:30:16,511
-YEAH. REALLY?
+Yeah. Really?
 
 1600
 01:30:16,511 --> 01:30:18,046
-HOW MUCH?
+How much?
 
 1601
 01:30:18,046 --> 01:30:19,748
-SOUNDS GOOD. THANKS.
+Sounds good. Thanks.
 
 1602
 01:30:19,748 --> 01:30:20,949
-I’M SORRY, LADY.
+I’m sorry, lady.
 
 1603
 01:30:20,949 --> 01:30:22,484
-I WAS JUST TAKEN OVER
-BY THE TRAVELERS GROUP.
+I was just taken over
+by the travelers group.
 
 1604
 01:30:22,484 --> 01:30:23,652
-GOTTA RUN. BYE.
+Gotta run. Bye.
 
 1605
 01:30:23,652 --> 01:30:26,855
-- MONKEY, WHITEY...
-- WE’RE ON IT.
+- Monkey, whitey...
+- We’re on it.
 
 1606
 01:30:26,855 --> 01:30:31,559
-I GUESS THE MRS. MR. NICE GUY
-APPROACH JUST AIN’T MY STYLE.
+I guess the mrs. Mr. Nice guy
+approach just ain’t my style.
 
 1607
 01:30:31,559 --> 01:30:34,562
-[CACKLES]
+[Cackles]
 
 1608
 01:30:34,562 --> 01:30:38,933
-SO VERY SHORTLY NOW, NELSON,
-I WILL RULE CARL!
+So very shortly now, nelson,
+I will rule carl!
 
 1609
 01:30:38,933 --> 01:30:41,703
-UNTIE ME OR YOU’LL HAVE TO
-ANSWER TO THE TRAVELERS GROUP!
+Untie me or you’ll have to
+answer to the travelers group!
 
 1610
 01:30:41,703 --> 01:30:43,071
-GIVE ME BACK MY FOOD!
+Give me back my food!
 
 1611
 01:30:43,071 --> 01:30:45,607
-NO! UGH!
+No! Ugh!
 
 1612
 01:30:45,607 --> 01:30:47,542
@@ -7362,4 +7362,5 @@ NO! UGH!
 
 1613
 01:31:49,104 --> 01:31:51,906
-ROWSDOWER.
+Rowsdower.
+

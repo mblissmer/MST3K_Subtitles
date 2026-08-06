@@ -1,4 +1,4 @@
-1
+﻿1
 00:00:05,005 --> 00:00:07,008
 THEME SONG: In the
 not-too-distant future--
@@ -457,7 +457,7 @@ Think about it, won't you?
 
 105
 00:03:55,737 --> 00:03:56,537
--(COUGHING).
+-(Coughing).
 
 106
 00:03:56,570 --> 00:03:57,538
@@ -474,7 +474,7 @@ robotic arm wrestling!
 
 109
 00:04:02,043 --> 00:04:03,043
-[WHISTLE TOOT]
+[Whistle toot]
 
 110
 00:04:06,013 --> 00:04:07,548
@@ -482,7 +482,7 @@ robotic arm wrestling!
 
 111
 00:04:07,582 --> 00:04:15,457
-[PAINED GRUNTING]
+[Pained grunting]
 
 112
 00:04:15,490 --> 00:04:16,190
@@ -506,7 +506,7 @@ Whoo-hoo!
 
 117
 00:04:18,827 --> 00:04:19,693
-[GRUNTING]
+[Grunting]
 
 118
 00:04:19,727 --> 00:04:20,695
@@ -550,7 +550,7 @@ Whoo!
 
 128
 00:04:33,607 --> 00:04:34,575
-[GRUNTING]
+[Grunting]
 
 129
 00:04:34,608 --> 00:04:35,142
@@ -562,7 +562,7 @@ Yes!
 
 131
 00:04:38,680 --> 00:04:39,813
-[WHISTLE BLOWS]
+[Whistle blows]
 
 132
 00:04:39,847 --> 00:04:46,120
@@ -618,8 +618,8 @@ lasts, Astro Boy Toy.
 
 143
 00:05:07,675 --> 00:05:11,045
-[ALARM SOUNDS, JOEL
-AND ROBOTS SHOUTING]
+[Alarm sounds, joel
+and robots shouting]
 
 144
 00:05:24,658 --> 00:05:25,593
@@ -822,8 +822,8 @@ they have glaucoma right now.
 
 190
 00:07:19,907 --> 00:07:22,377
-[HUMMING ALONG WITH
-BACKGROUND MUSIC]
+[Humming along with
+background music]
 
 191
 00:07:22,410 --> 00:07:24,945
@@ -831,7 +831,7 @@ BACKGROUND MUSIC]
 
 192
 00:07:24,978 --> 00:07:29,117
-[STILL HUMMING]
+[Still humming]
 
 193
 00:07:29,150 --> 00:07:31,952
@@ -844,7 +844,7 @@ and adding some Romano cheese.
 
 195
 00:07:37,525 --> 00:07:39,393
-[SLURPING SOUNDS]
+[Slurping sounds]
 
 196
 00:07:39,427 --> 00:07:42,028
@@ -852,7 +852,7 @@ and adding some Romano cheese.
 
 197
 00:07:42,062 --> 00:07:44,965
-[MORE SLURPING SOUNDS]
+[More slurping sounds]
 
 198
 00:07:44,998 --> 00:07:47,000
@@ -939,7 +939,7 @@ hunchback, it's Org!
 
 216
 00:08:27,040 --> 00:08:30,912
-[SINGING AND WHISTLING]
+[Singing and whistling]
 
 217
 00:08:30,945 --> 00:08:32,347
@@ -1035,7 +1035,7 @@ invented the wedgie.
 
 238
 00:09:09,083 --> 00:09:09,617
-[APPLAUDS]
+[Applauds]
 
 239
 00:09:09,650 --> 00:09:11,018
@@ -1133,7 +1133,7 @@ Come on.
 
 261
 00:10:09,343 --> 00:10:09,710
-[WHISTLES]
+[Whistles]
 
 262
 00:10:09,743 --> 00:10:12,078
@@ -1839,7 +1839,7 @@ with vegetables.
 
 421
 00:16:30,357 --> 00:16:33,093
--OK.
+-Ok.
 
 422
 00:16:33,127 --> 00:16:34,293
@@ -1847,7 +1847,7 @@ Oh, not done yet.
 
 423
 00:16:34,327 --> 00:16:35,095
-[FIGHT SOUNDS]
+[Fight sounds]
 
 424
 00:16:39,833 --> 00:16:43,503
@@ -1880,7 +1880,7 @@ That'll do it.
 
 431
 00:16:52,847 --> 00:16:54,848
-[INAUDIBLE]
+[Inaudible]
 
 432
 00:16:54,882 --> 00:16:55,348
@@ -1888,7 +1888,7 @@ That'll do it.
 
 433
 00:16:55,382 --> 00:16:56,083
-[SURPRISED GASP]
+[Surprised gasp]
 
 434
 00:16:56,117 --> 00:16:59,252
@@ -2034,11 +2034,11 @@ Mario Brothers.
 
 466
 00:18:04,452 --> 00:18:07,453
-[GRUNTING]
+[Grunting]
 
 467
 00:18:07,487 --> 00:18:09,055
-[MIMICKING HORSE NEIGHS]
+[Mimicking horse neighs]
 
 468
 00:18:09,088 --> 00:18:10,057
@@ -2076,7 +2076,7 @@ Which-- oh-- that-- oh, OK.
 
 476
 00:18:30,077 --> 00:18:32,312
-[CLEARING THROAT, WHISTLING]
+[Clearing throat, whistling]
 
 477
 00:18:32,345 --> 00:18:34,113
@@ -2113,7 +2113,7 @@ Well, a little nip won't hurt.
 
 485
 00:18:51,365 --> 00:18:55,102
-[SHOUTING AND GRUNTING]
+[Shouting and grunting]
 
 486
 00:18:55,135 --> 00:18:57,037
@@ -2169,8 +2169,8 @@ The road's long and hard--
 
 498
 00:19:28,268 --> 00:19:29,502
-[MIMICKING PNUEMATIC
-TUBE HISSING SOUND]
+[mimicking pnuematic
+tube hissing sound]
 
 499
 00:19:31,272 --> 00:19:33,707
@@ -2232,7 +2232,7 @@ And be back by 10!
 
 512
 00:19:57,697 --> 00:20:00,533
-[GRUNTING]
+[Grunting]
 
 513
 00:20:00,567 --> 00:20:01,868
@@ -2244,7 +2244,7 @@ And be back by 10!
 
 515
 00:20:03,337 --> 00:20:07,140
-[GRUNTING CONTINUES]
+[Grunting continues]
 
 516
 00:20:07,173 --> 00:20:07,573
@@ -2265,7 +2265,7 @@ on him, you mangy dogs!
 
 520
 00:20:15,848 --> 00:20:17,083
-[MIMICKING DOG BARKS]
+[Mimicking dog barks]
 
 521
 00:20:17,117 --> 00:20:20,153
@@ -2421,11 +2421,11 @@ pauses than a Pinter play!
 
 555
 00:22:03,557 --> 00:22:08,962
-[MOVIE SOUNDS FADE OUT]
+[Movie sounds fade out]
 
 556
 00:22:18,805 --> 00:22:20,040
-[LAUGHTER]
+[Laughter]
 
 557
 00:22:20,073 --> 00:22:20,473
@@ -2584,7 +2584,7 @@ There we go.
 
 593
 00:24:59,098 --> 00:25:01,233
-[FIGHTING SOUNDS]
+[Fighting sounds]
 
 594
 00:25:01,267 --> 00:25:02,268
@@ -2616,7 +2616,7 @@ ends of the earth.
 
 600
 00:25:15,482 --> 00:25:15,982
-[SCREAMS]
+[Screams]
 
 601
 00:25:16,015 --> 00:25:18,017
@@ -2780,11 +2780,11 @@ head of Gallagher.
 
 638
 00:26:42,035 --> 00:26:49,008
-[BIRD NOISES]
+[Bird noises]
 
 639
 00:26:49,042 --> 00:26:53,547
-[RANDOM NOISES]
+[Random noises]
 
 640
 00:26:53,580 --> 00:26:55,348
@@ -2885,7 +2885,7 @@ there, I just mopped.
 
 663
 00:28:01,113 --> 00:28:05,252
-[PANTING]
+[Panting]
 
 664
 00:28:05,285 --> 00:28:06,252
@@ -2928,7 +2928,7 @@ Bad dog!
 
 673
 00:28:22,402 --> 00:28:24,803
-[WHIMPER]
+[Whimper]
 
 674
 00:28:24,837 --> 00:28:26,572
@@ -3271,7 +3271,7 @@ know what to do.
 
 752
 00:31:58,483 --> 00:32:00,387
--OK.
+-Ok.
 
 753
 00:32:00,420 --> 00:32:03,588
@@ -3280,7 +3280,7 @@ Affair," women behind bars!
 
 754
 00:32:03,623 --> 00:32:08,728
-[HUMMING "CURRENT AFFAIR" THEME]
+[Humming "current affair" theme]
 
 755
 00:32:08,762 --> 00:32:09,862
@@ -3368,7 +3368,7 @@ powder from her own filth.
 
 775
 00:32:43,930 --> 00:32:45,832
-[VOMIT NOISES]
+[Vomit noises]
 
 776
 00:32:50,770 --> 00:32:52,705
@@ -3524,7 +3524,7 @@ The occult.
 
 811
 00:34:35,307 --> 00:34:36,742
-[SNORING]
+[Snoring]
 
 812
 00:34:36,775 --> 00:34:38,343
@@ -3554,7 +3554,7 @@ him slow down, Joel.
 
 818
 00:34:50,155 --> 00:34:50,557
--[INAUDIBLE].
+-[Inaudible].
 
 819
 00:34:50,590 --> 00:34:51,657
@@ -3631,7 +3631,7 @@ I want neutralized.
 
 836
 00:35:25,390 --> 00:35:26,792
--[INAUDIBLE].
+-[Inaudible].
 
 837
 00:35:26,825 --> 00:35:28,260
@@ -3814,7 +3814,7 @@ Paging Mr. Ator.
 
 879
 00:37:12,732 --> 00:37:14,633
-[COUGHING]
+[Coughing]
 
 880
 00:37:14,667 --> 00:37:18,003
@@ -3843,7 +3843,7 @@ Echo!
 
 886
 00:37:25,010 --> 00:37:28,080
-[MYSTERIOUS SOUND]
+[Mysterious sound]
 
 887
 00:37:28,113 --> 00:37:29,415
@@ -3855,7 +3855,7 @@ Listen.
 
 889
 00:37:30,750 --> 00:37:32,250
-[MYSTERIOUS SOUND AGAIN]
+[Mysterious sound again]
 
 890
 00:37:32,285 --> 00:37:33,585
@@ -3955,7 +3955,7 @@ Let's move on now.
 
 912
 00:38:30,777 --> 00:38:31,443
-[MYSTERIOUS SOUND]
+[Mysterious sound]
 
 913
 00:38:31,477 --> 00:38:32,077
@@ -3972,7 +3972,7 @@ hitting yourself?
 
 916
 00:38:41,187 --> 00:38:42,688
-[SHOUTS]
+[Shouts]
 
 917
 00:38:42,722 --> 00:38:43,555
@@ -4000,7 +4000,7 @@ It's really funny!
 
 923
 00:38:51,563 --> 00:38:52,798
-[GROWLING]
+[Growling]
 
 924
 00:38:52,832 --> 00:38:54,533
@@ -4078,7 +4078,7 @@ to sample Giorgio.
 
 941
 00:39:41,013 --> 00:39:45,785
-[GRUNTING]
+[Grunting]
 
 942
 00:39:45,818 --> 00:39:46,652
@@ -4177,7 +4177,7 @@ I invented a word!
 
 963
 00:40:33,732 --> 00:40:39,605
-[INDISTINCT SHOUTING]
+[Indistinct shouting]
 
 964
 00:40:39,638 --> 00:40:41,607
@@ -4240,7 +4240,7 @@ It's a little rare.
 
 978
 00:41:39,498 --> 00:41:40,198
-[SLURPING SOUNDS]
+[Slurping sounds]
 
 979
 00:41:40,232 --> 00:41:43,102
@@ -4252,7 +4252,7 @@ It's a little rare.
 
 981
 00:41:49,742 --> 00:41:50,977
--[SNIFFING]
+-[Sniffing]
 
 982
 00:41:51,010 --> 00:41:52,545
@@ -5929,7 +5929,7 @@ of you will be left alive.
 
 1366
 00:58:23,300 --> 00:58:24,235
-[STUPID LAUGHTER]
+[Stupid laughter]
 
 1367
 00:58:27,838 --> 00:58:29,007
@@ -6201,7 +6201,7 @@ better than sheep--
 
 1429
 01:00:16,047 --> 01:00:17,815
-[BLEATING]
+[bleating]
 
 1430
 01:00:17,848 --> 01:00:18,750
@@ -6304,7 +6304,7 @@ prosperity, and liberty--
 
 1453
 01:01:06,063 --> 01:01:07,598
-[GIGGLES]
+[Giggles]
 
 1454
 01:01:07,632 --> 01:01:09,633
@@ -6352,7 +6352,7 @@ some sleep, Quentin.
 
 1464
 01:01:34,625 --> 01:01:35,292
-OK?
+Ok?
 
 1465
 01:01:35,325 --> 01:01:36,793
@@ -6377,7 +6377,7 @@ so the maid makes the room?
 
 1470
 01:01:46,870 --> 01:01:47,538
-OK.
+Ok.
 
 1471
 01:01:47,572 --> 01:01:51,275
@@ -6624,7 +6624,7 @@ must be dead by now.
 
 1526
 01:04:00,070 --> 01:04:01,038
-[YELLING]
+[Yelling]
 
 1527
 01:04:01,072 --> 01:04:02,940
@@ -6708,7 +6708,7 @@ sacrifice to your serpent god.
 
 1545
 01:04:41,112 --> 01:04:43,413
-[SHOUTING]
+[Shouting]
 
 1546
 01:04:43,447 --> 01:04:44,048
@@ -6776,7 +6776,7 @@ lot at Universal.
 
 1561
 01:05:35,800 --> 01:05:38,168
-[GASPING]
+[Gasping]
 
 1562
 01:05:38,202 --> 01:05:41,472
@@ -7205,7 +7205,7 @@ tape's not queued up!
 
 1659
 01:09:47,483 --> 01:09:55,158
-[SOBBING]
+[Sobbing]
 
 1660
 01:09:55,192 --> 01:09:58,795
@@ -7295,7 +7295,7 @@ favor us, and we can--
 
 1680
 01:10:38,068 --> 01:10:40,972
-[SCREAMING]
+[Screaming]
 
 1681
 01:10:41,005 --> 01:10:43,673
@@ -7430,7 +7430,7 @@ No!
 
 1711
 01:12:00,850 --> 01:12:05,788
-[SCREAMING]
+[Screaming]
 
 1712
 01:12:05,822 --> 01:12:09,793
@@ -7469,7 +7469,7 @@ adjustable bed.
 
 1720
 01:12:24,273 --> 01:12:31,748
-[SCREAMING, SNAKES HISSING]
+[Screaming, snakes hissing]
 
 1721
 01:12:31,782 --> 01:12:33,417
@@ -7504,11 +7504,11 @@ her home for later.
 
 1728
 01:12:59,008 --> 01:12:59,943
--[INAUDIBLE].
+-[Inaudible].
 
 1729
 01:12:59,977 --> 01:13:01,245
-[SCREAMING]
+[Screaming]
 
 1730
 01:13:01,278 --> 01:13:03,247
@@ -7587,7 +7587,7 @@ my eight-sided dice.
 
 1747
 01:13:37,882 --> 01:13:39,983
-[GROANING]
+[Groaning]
 
 1748
 01:13:40,017 --> 01:13:41,185
@@ -7727,7 +7727,7 @@ should humor me.
 
 1780
 01:14:45,415 --> 01:14:45,982
--OK.
+-Ok.
 
 1781
 01:14:46,015 --> 01:14:46,450
@@ -7889,7 +7889,7 @@ Add your own grunts.
 
 1816
 01:15:48,745 --> 01:15:51,515
-[GRUNTING]
+[Grunting]
 
 1817
 01:15:51,548 --> 01:15:52,415
@@ -7968,7 +7968,7 @@ Make sure it's fresh.
 
 1835
 01:16:19,208 --> 01:16:21,512
-[GRUNTING]
+[Grunting]
 
 1836
 01:16:21,545 --> 01:16:23,580
@@ -8130,7 +8130,7 @@ Oh, help me!
 
 1873
 01:17:26,042 --> 01:17:27,477
-[INTERPOSING VOICES]
+[interposing voices]
 
 1874
 01:17:27,510 --> 01:17:28,578
@@ -8138,7 +8138,7 @@ Oh, help me!
 
 1875
 01:17:41,392 --> 01:17:42,792
-[SHOUTING]
+[Shouting]
 
 1876
 01:17:42,825 --> 01:17:44,360
@@ -8364,7 +8364,7 @@ I swear I heard something.
 
 1927
 01:20:00,630 --> 01:20:05,102
-[MANIACAL LAUGHTER]
+[Maniacal laughter]
 
 1928
 01:20:05,135 --> 01:20:07,703
@@ -8397,7 +8397,7 @@ Oh.
 
 1935
 01:20:19,348 --> 01:20:20,283
-[LAUGHTER]
+[Laughter]
 
 1936
 01:20:20,317 --> 01:20:21,150
@@ -8465,7 +8465,7 @@ doesn't it?
 
 1950
 01:20:54,885 --> 01:20:55,985
-[HUMMING ALONG WITH MUSIC]
+[Humming along with music]
 
 1951
 01:20:56,018 --> 01:20:58,153
@@ -8483,7 +8483,7 @@ string and sticks and bamboo--
 
 1954
 01:21:11,067 --> 01:21:11,568
-[SOBBING]
+[sobbing]
 
 1955
 01:21:11,602 --> 01:21:13,337
@@ -8823,7 +8823,7 @@ castle right there.
 
 2033
 01:24:27,163 --> 01:24:30,200
-[SPITTING SOUNDS]
+[Spitting sounds]
 
 2034
 01:24:30,233 --> 01:24:31,200
@@ -8835,7 +8835,7 @@ castle right there.
 
 2036
 01:24:37,507 --> 01:24:40,477
-[SHOUTING]
+[Shouting]
 
 2037
 01:24:40,510 --> 01:24:42,778
@@ -8866,7 +8866,7 @@ says Merry Christmas!
 
 2043
 01:24:51,653 --> 01:24:52,622
-[WHISTLING]
+[Whistling]
 
 2044
 01:24:55,592 --> 01:24:56,558
@@ -8905,7 +8905,7 @@ want to get carried away.
 
 2052
 01:25:08,472 --> 01:25:09,538
--OK.
+-Ok.
 
 2053
 01:25:09,572 --> 01:25:14,210
@@ -8919,7 +8919,7 @@ old pal, Melvin Laird!
 
 2055
 01:25:20,583 --> 01:25:23,218
-[WHISTLE]
+[Whistle]
 
 2056
 01:25:23,252 --> 01:25:25,422
@@ -8928,7 +8928,7 @@ Charlie McCarthy.
 
 2057
 01:25:31,160 --> 01:25:34,497
-[SPITTING SOUNDS]
+[Spitting sounds]
 
 2058
 01:25:34,530 --> 01:25:36,265
@@ -8946,7 +8946,7 @@ Saturday night thing.
 
 2061
 01:25:44,607 --> 01:25:50,413
-[HUMMING ALONG WITH MUSIC]
+[Humming along with music]
 
 2062
 01:25:50,447 --> 01:25:53,517
@@ -9048,11 +9048,11 @@ You can't miss it.
 
 2084
 01:26:41,863 --> 01:26:44,667
-[CHOKING SOUNDS]
+[Choking sounds]
 
 2085
 01:26:44,700 --> 01:26:45,668
--[INAUDIBLE].
+-[Inaudible].
 
 2086
 01:26:45,702 --> 01:26:46,668
@@ -9117,7 +9117,7 @@ ignorant man's weapon.
 
 2100
 01:27:16,532 --> 01:27:18,467
-[GRUNTING]
+[Grunting]
 
 2101
 01:27:22,372 --> 01:27:24,807
@@ -9236,7 +9236,7 @@ it's a graphic novel!
 
 2128
 01:28:34,943 --> 01:28:36,512
-[LAUGHS]
+[Laughs]
 
 2129
 01:28:41,150 --> 01:28:44,820
@@ -9400,7 +9400,7 @@ Thanks for showing up.
 
 2166
 01:29:57,727 --> 01:29:58,360
--[INAUDIBLE].
+-[Inaudible].
 
 2167
 01:29:58,393 --> 01:30:02,198
@@ -9810,7 +9810,7 @@ production of
 
 2260
 01:33:25,768 --> 01:33:27,437
-[BEATBOXING]
+[beatboxing]
 
 2261
 01:33:27,470 --> 01:33:30,272
@@ -9832,7 +9832,7 @@ a bath brush, too.
 
 2265
 01:33:34,610 --> 01:33:39,482
-[BEATBOXING]
+[Beatboxing]
 
 2266
 01:33:39,515 --> 01:33:41,117
@@ -9874,7 +9874,7 @@ Franciscus and Charlton Heston.
 
 2275
 01:34:01,470 --> 01:34:11,413
-[BEATBOXING]
+[Beatboxing]
 
 2276
 01:34:11,447 --> 01:34:14,283
@@ -9940,7 +9940,7 @@ Come on.
 
 2291
 01:34:47,182 --> 01:34:51,387
-[GROWLING]
+[Growling]
 
 2292
 01:34:51,420 --> 01:34:54,190
@@ -9967,7 +9967,7 @@ watching the film.
 
 2297
 01:35:02,798 --> 01:35:04,533
-[SIGH]
+[Sigh]
 
 2298
 01:35:04,567 --> 01:35:07,168
@@ -10131,8 +10131,9 @@ savings on to you.
 
 2333
 01:36:23,745 --> 01:36:29,218
-[THEME MUSIC]
+[Theme music]
 
 2334
 01:37:27,508 --> 01:37:30,745
 -Thong, the fish is ready.
+

@@ -1,4 +1,4 @@
-1
+﻿1
 00:00:01,335 --> 00:00:04,672
 ♪ In the
 not-too-distant future ♪
@@ -6275,7 +6275,7 @@ and Robin Williams.
 
 1375
 00:49:08,547 --> 00:49:10,215
-SERVO: B-29.
+Servo: B-29.
 
 1376
 00:49:10,248 --> 00:49:12,417
@@ -11614,3 +11614,4 @@ Extra, paper,
 2559
 01:32:06,988 --> 01:32:09,358
 America invaded. Read all about it!
+

@@ -1,4 +1,4 @@
-1
+﻿1
 00:00:01,000 --> 00:00:03,667
 ♪ In the not too
 distant future ♪
@@ -3018,7 +3018,7 @@ takes pretty good pictures.
 
 675
 00:31:54,567 --> 00:31:56,033
-- THANATOS?
+- Thanatos?
 
 676
 00:31:56,033 --> 00:31:57,300
@@ -3863,7 +3863,7 @@ Who sent you here?
 
 865
 00:39:19,800 --> 00:39:20,733
-THANATOS?
+Thanatos?
 
 866
 00:39:20,733 --> 00:39:22,033
@@ -9111,3 +9111,4 @@ Joel, auf wiedersehen.
 2054
 01:31:00,267 --> 01:31:03,067
 (mysterious music)
+

@@ -1,4 +1,4 @@
-1
+﻿1
 00:00:01,233 --> 00:00:03,267
 - [Narrator] Mystery
 Science Theater 3000,
@@ -9698,3 +9698,4 @@ some raking to do.
 2088
 01:32:02,033 --> 01:32:02,933
 - Hercules!
+

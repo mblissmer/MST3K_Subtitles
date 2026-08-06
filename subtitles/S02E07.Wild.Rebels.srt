@@ -1,4 +1,4 @@
-1
+﻿1
 00:00:04,733 --> 00:00:07,600
 ♪ In the not-to-distant future ♪
 
@@ -11029,3 +11029,4 @@ Until next time.
 01:36:26,367 --> 01:36:31,367
 ("The Love Theme from Mystery
 Science Theater 3000")
+

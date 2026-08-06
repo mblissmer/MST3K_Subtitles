@@ -1,4 +1,4 @@
-1
+﻿1
 00:00:01,000 --> 00:00:03,505
 - ♪ In the not
 too distant future ♪
@@ -551,7 +551,7 @@ Haha, haha!
 
 116
 00:04:53,127 --> 00:04:55,062
-[GO-GO MUSIC PLAYING]
+[Go-go music playing]
 
 117
 00:04:55,095 --> 00:04:56,430
@@ -664,7 +664,7 @@ makes you more musical.
 
 141
 00:05:45,713 --> 00:05:47,582
-[GO-GO MUSIC PLAYING]
+[Go-go music playing]
 
 142
 00:05:47,615 --> 00:05:49,883
@@ -3441,7 +3441,7 @@ biggest in the business I guess.
 
 729
 00:28:51,297 --> 00:28:53,467
-- Y-yeah, you ought to see
+- Y-Yeah, you ought to see
 the size of his place, God.
 
 730
@@ -6923,7 +6923,7 @@ to wait here.
 
 1462
 00:58:45,188 --> 00:58:46,790
-- W-what?
+- W-What?
 - They're coming.
 
 1463
@@ -7583,7 +7583,7 @@ in the town brought here.
 
 1601
 01:03:55,600 --> 01:03:58,235
-- W-what?!
+- W-What?!
 - We'll take care of her.
 
 1602
@@ -10821,3 +10821,4 @@ You were enjoyed.
 01:31:55,277 --> 01:31:58,180
 ♪ Nothing but
 sweet loving Frank ♪♪
+

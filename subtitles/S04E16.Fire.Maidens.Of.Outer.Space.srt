@@ -5572,11 +5572,11 @@ My eyes.
 
 1394
 01:08:37,600 --> 01:08:39,600
-(MUSIC PLAYING)
+(Music playing)
 
 1395
 01:08:39,600 --> 01:08:42,600
-(HUMMING)
+(Humming)
 
 1396
 01:08:42,600 --> 01:08:44,600
@@ -5596,7 +5596,7 @@ Jill, do a slant left and hut hut.
 
 1400
 01:08:49,600 --> 01:08:50,600
-(SCREAMS)
+(Screams)
 
 1401
 01:08:50,600 --> 01:08:51,600
@@ -5688,7 +5688,7 @@ Help!
 
 1423
 01:09:31,600 --> 01:09:33,600
-(SOBBING)
+(Sobbing)
 
 1424
 01:09:34,600 --> 01:09:37,600
@@ -5720,7 +5720,7 @@ Come on, we're coming, Savannah!
 
 1431
 01:10:02,600 --> 01:10:03,600
-(GROANING)
+(Groaning)
 
 1432
 01:10:03,600 --> 01:10:05,600
@@ -5920,11 +5920,11 @@ Yeah, come on.
 
 1481
 01:11:23,600 --> 01:11:26,600
-[MUSIC PLAYING]
+[Music playing]
 
 1482
 01:11:26,600 --> 01:11:32,600
-[LAUGHTER]
+[Laughter]
 
 1483
 01:11:32,600 --> 01:11:35,600
@@ -5984,7 +5984,7 @@ Whoa.
 
 1497
 01:12:10,600 --> 01:12:11,600
-[APPLAUSE]
+[Applause]
 
 1498
 01:12:11,600 --> 01:12:12,600
@@ -6000,11 +6000,11 @@ Whatever Lola wants, Lola gets, for at all that Broadway rhythm.
 
 1501
 01:12:26,600 --> 01:12:27,600
-[WHISTLING]
+[Whistling]
 
 1502
 01:12:27,600 --> 01:12:30,600
-[HUMMING]
+[Humming]
 
 1503
 01:12:30,600 --> 01:12:36,600
@@ -6024,7 +6024,7 @@ Oh, I love it.
 
 1507
 01:12:42,600 --> 01:12:43,600
-[LAUGHS]
+[Laughs]
 
 1508
 01:12:43,600 --> 01:12:46,600
@@ -7392,7 +7392,7 @@ Hey, you don't have to be Freud to figure that one out.
 
 1849
 01:27:42,600 --> 01:27:45,600
-[MUSIC PLAYING]
+[Music playing]
 
 1850
 01:27:45,600 --> 01:27:58,600
@@ -7416,7 +7416,7 @@ If I could just make sense of it in my own mind, I could--
 
 1855
 01:28:08,600 --> 01:28:10,600
-[MUMBLING]
+[mumbling]
 
 1856
 01:28:10,600 --> 01:28:11,600

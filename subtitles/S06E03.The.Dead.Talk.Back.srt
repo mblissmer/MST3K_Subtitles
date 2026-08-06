@@ -1,4 +1,4 @@
-1
+﻿1
 00:00:00,900 --> 00:00:03,333
 ♪ In the not to distant future ♪
 
@@ -2445,7 +2445,7 @@ at an accident scene.
 
 544
 00:22:13,333 --> 00:22:14,767
-- What am i working on now?
+- What am I working on now?
 
 545
 00:22:14,767 --> 00:22:16,333
@@ -8490,3 +8490,4 @@ never you big diaper heads.
 1885
 01:30:59,433 --> 01:31:02,467
 (funky guitar music)
+

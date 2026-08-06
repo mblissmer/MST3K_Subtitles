@@ -1,4 +1,4 @@
-1
+﻿1
 00:00:00,668 --> 00:00:03,472
 ♪ In the not-too-distant
 Future ♪
@@ -213,7 +213,7 @@ were going back to school.
 
 46
 00:01:58,352 --> 00:02:00,020
-( CHUCKLES )
+( Chuckles )
 
 47
 00:02:00,087 --> 00:02:02,357
@@ -232,7 +232,7 @@ all the scenes of Congress.
 
 50
 00:02:07,328 --> 00:02:08,763
-( CHUCKLES )
+( Chuckles )
 
 51
 00:02:08,830 --> 00:02:10,232
@@ -281,7 +281,7 @@ Hey.
 
 60
 00:02:25,913 --> 00:02:28,850
-( THEME MUSIC PLAYING )
+( Theme music playing )
 
 61
 00:02:31,452 --> 00:02:34,122
@@ -391,7 +391,7 @@ The cholester-do-all.
 
 84
 00:03:25,240 --> 00:03:26,873
-( CHUCKLING )
+( Chuckling )
 
 85
 00:03:26,942 --> 00:03:28,777
@@ -436,7 +436,7 @@ and a toothbrush,
 
 94
 00:03:49,197 --> 00:03:50,532
-( MOTOR WHIRRING )
+( motor whirring )
 
 95
 00:03:50,598 --> 00:03:53,533
@@ -475,7 +475,7 @@ does this work great.
 
 103
 00:04:10,217 --> 00:04:11,385
-( CHUCKLING )
+( Chuckling )
 
 104
 00:04:11,452 --> 00:04:13,587
@@ -552,7 +552,7 @@ some nice, pleasant music.
 
 119
 00:04:44,552 --> 00:04:45,620
-( MUSIC PLAYING )
+( Music playing )
 
 120
 00:04:45,687 --> 00:04:46,988
@@ -610,7 +610,7 @@ Try it, Tom.
 
 132
 00:05:10,612 --> 00:05:14,348
-- ( SPEAKING BACKWARDS )
+- ( Speaking backwards )
 
 133
 00:05:14,415 --> 00:05:17,385
@@ -677,7 +677,7 @@ hardware stores--
 
 146
 00:05:42,343 --> 00:05:44,278
-( FRANK CHOKING )
+( frank choking )
 
 147
 00:05:52,553 --> 00:05:55,055
@@ -728,15 +728,15 @@ Dr. F is a butthead.
 
 157
 00:06:19,080 --> 00:06:22,517
-( BUZZER )
+( Buzzer )
 
 158
 00:06:31,892 --> 00:06:33,193
-( MUSIC PLAYING )
+( Music playing )
 
 159
 00:06:33,260 --> 00:06:34,395
-( CHUCKLING )
+( Chuckling )
 
 160
 00:06:34,462 --> 00:06:35,563
@@ -788,7 +788,7 @@ is so popular.
 
 171
 00:06:52,480 --> 00:06:55,048
-( MUSIC PLAYING )
+( Music playing )
 
 172
 00:06:55,115 --> 00:06:56,417
@@ -841,7 +841,7 @@ when flowers bloom.
 
 183
 00:07:20,307 --> 00:07:22,343
-( CHUCKLING )
+( Chuckling )
 
 184
 00:07:22,410 --> 00:07:24,412
@@ -1007,7 +1007,7 @@ But wait a minute.
 
 219
 00:08:33,180 --> 00:08:38,052
-- ( SPEAKING BACKWARDS )
+- ( Speaking backwards )
 
 220
 00:08:38,118 --> 00:08:39,387
@@ -1309,7 +1309,7 @@ and dropping off--
 
 283
 00:10:49,917 --> 00:10:52,387
-( CHEERING )
+( Cheering )
 
 284
 00:10:52,453 --> 00:10:54,355
@@ -1512,7 +1512,7 @@ individual openings or pores.
 
 326
 00:12:25,612 --> 00:12:27,915
-( SLURPING NOISES )
+( Slurping noises )
 
 327
 00:12:29,817 --> 00:12:33,153
@@ -1754,8 +1754,8 @@ invigorating workout.
 
 378
 00:14:21,128 --> 00:14:22,630
-( BOTS MAKING SOUNDS
-FROM "PSYCHO" SHOWER SCENE )
+( Bots making sounds
+from "psycho" shower scene )
 
 379
 00:14:22,697 --> 00:14:25,032
@@ -2009,7 +2009,7 @@ these guys.
 
 431
 00:16:23,683 --> 00:16:26,620
-( THEME MUSIC PLAYING )
+( Theme music playing )
 
 432
 00:16:30,190 --> 00:16:34,027
@@ -2043,7 +2043,7 @@ true bored men after this.
 
 438
 00:16:49,677 --> 00:16:51,345
-( CHUCKLING )
+( Chuckling )
 
 439
 00:16:51,412 --> 00:16:53,047
@@ -2175,7 +2175,7 @@ and live in these hills.
 
 467
 00:17:48,102 --> 00:17:51,172
-( MUSIC/WHISTLING )
+( Music/whistling )
 
 468
 00:17:51,238 --> 00:17:56,343
@@ -2202,7 +2202,7 @@ Hello!
 
 473
 00:18:05,318 --> 00:18:07,653
-( BOT MAKING WOLF SOUNDS )
+( Bot making wolf sounds )
 
 474
 00:18:07,720 --> 00:18:09,657
@@ -2230,7 +2230,7 @@ I’m posing here.
 
 479
 00:18:17,563 --> 00:18:18,532
-( SHEP BARKING )
+( Shep barking )
 
 480
 00:18:18,598 --> 00:18:20,500
@@ -2387,7 +2387,7 @@ he’s a millionaire.
 
 514
 00:19:26,867 --> 00:19:28,635
-( MUSIC PLAYING )
+( Music playing )
 
 515
 00:19:28,702 --> 00:19:30,170
@@ -2415,8 +2415,8 @@ there’s a speed trap here.
 
 520
 00:19:37,743 --> 00:19:40,447
-( SHEP BARKING )
-( CHILDREN SHOUTING )
+( Shep barking )
+( Children shouting )
 
 521
 00:19:40,513 --> 00:19:42,815
@@ -2878,7 +2878,7 @@ like an old pretzel.
 
 621
 00:22:52,472 --> 00:22:55,275
-( SAD MUSIC PLAYING )
+( Sad music playing )
 
 622
 00:22:59,278 --> 00:23:02,515
@@ -3176,7 +3176,7 @@ a bother to me.
 
 687
 00:25:17,250 --> 00:25:18,183
-( SHEP WHINING )
+( Shep whining )
 
 688
 00:25:18,252 --> 00:25:19,852
@@ -3442,7 +3442,7 @@ Hey, knock it off. Hey!
 
 744
 00:27:20,573 --> 00:27:24,043
-( THEME MUSIC PLAYING )
+( Theme music playing )
 
 745
 00:27:28,948 --> 00:27:30,850
@@ -3550,7 +3550,7 @@ eaten all those socks, ugh.
 
 768
 00:28:24,337 --> 00:28:26,505
-( THUNDERING )
+( Thundering )
 
 769
 00:28:26,572 --> 00:28:28,708
@@ -3562,8 +3562,8 @@ Arf!
 
 771
 00:28:31,443 --> 00:28:34,413
-( HUMMING TUNE FROM
-"THE GREAT ESCAPE" )
+( Humming tune from
+"the great escape" )
 
 772
 00:28:37,350 --> 00:28:39,752
@@ -3629,7 +3629,7 @@ TOMMY: What’s wrong?
 
 785
 00:29:04,510 --> 00:29:07,447
-( SPEAKING NATIVE LANGUAGE )
+( Speaking native language )
 
 786
 00:29:09,048 --> 00:29:10,583
@@ -3651,7 +3651,7 @@ of my life.
 
 790
 00:29:19,492 --> 00:29:23,830
-( SPEAKING NATIVE LANGUAGE )
+( Speaking native language )
 
 791
 00:29:23,897 --> 00:29:25,265
@@ -3682,7 +3682,7 @@ Thanks.
 
 797
 00:29:37,110 --> 00:29:38,343
-( SPEAKING NATIVE LANGUAGE )
+( Speaking native language )
 
 798
 00:29:38,410 --> 00:29:40,980
@@ -3791,7 +3791,7 @@ and watch "That Girl."
 
 820
 00:30:29,595 --> 00:30:30,863
-( SHEP BARKING )
+( Shep barking )
 
 821
 00:30:30,930 --> 00:30:32,465
@@ -3815,7 +3815,7 @@ the incredible journey, is it?
 
 825
 00:30:40,773 --> 00:30:41,908
-( SHEP BARKING )
+( Shep barking )
 
 826
 00:30:41,975 --> 00:30:43,042
@@ -4286,7 +4286,7 @@ we’re doing again?
 
 929
 00:34:25,197 --> 00:34:28,300
-( MUSIC PLAYING )
+( Music playing )
 
 930
 00:34:29,635 --> 00:34:32,272
@@ -4319,7 +4319,7 @@ strikes it rich!
 
 937
 00:34:47,587 --> 00:34:50,523
-( MUSIC PLAYING )
+( Music playing )
 
 938
 00:34:52,525 --> 00:34:55,495
@@ -4328,7 +4328,7 @@ finally blew over.
 
 939
 00:34:55,562 --> 00:34:58,865
-( THEME MUSIC PLAYING )
+( Theme music playing )
 
 940
 00:35:01,133 --> 00:35:03,568
@@ -4350,7 +4350,7 @@ by Tom Bombadil.
 
 944
 00:35:12,845 --> 00:35:14,480
-( HUMMING "BOMBADIL" )
+( Humming "bombadil" )
 
 945
 00:35:14,547 --> 00:35:17,015
@@ -4610,7 +4610,7 @@ Here, lady!
 
 1001
 00:37:21,540 --> 00:37:23,042
-( BOT GROWLING )
+( Bot growling )
 
 1002
 00:37:23,108 --> 00:37:25,077
@@ -4985,8 +4985,8 @@ No, Lassie, it’s more of a--
 
 1082
 00:40:49,815 --> 00:40:51,850
-( BOT IMITATING
-FIERCE GROWLING )
+( bot imitating
+fierce growling )
 
 1083
 00:40:53,918 --> 00:40:56,655
@@ -5076,7 +5076,7 @@ that matte painting.
 
 1102
 00:41:46,372 --> 00:41:48,907
-( SUSPENSEFUL MUSIC )
+( Suspenseful music )
 
 1103
 00:41:48,973 --> 00:41:52,210
@@ -5103,7 +5103,7 @@ go the way you know."
 
 1108
 00:42:02,888 --> 00:42:06,392
-( SUSPENSEFUL MUSIC )
+( Suspenseful music )
 
 1109
 00:42:06,458 --> 00:42:07,392
@@ -5115,7 +5115,7 @@ go the way you know."
 
 1111
 00:42:09,795 --> 00:42:12,732
-( SUSPENSEFUL MUSIC )
+( Suspenseful music )
 
 1112
 00:42:14,098 --> 00:42:18,370
@@ -5128,7 +5128,7 @@ to get to the fourth tee!
 
 1114
 00:42:20,072 --> 00:42:23,508
-( SUSPENSEFUL MUSIC )
+( Suspenseful music )
 
 1115
 00:42:25,210 --> 00:42:27,012
@@ -5142,7 +5142,7 @@ he’d never make.
 
 1117
 00:42:29,147 --> 00:42:32,050
-( SUSPENSEFUL MUSIC )
+( Suspenseful music )
 
 1118
 00:42:32,117 --> 00:42:34,320
@@ -5180,7 +5180,7 @@ Why am I doing this?
 
 1126
 00:42:57,175 --> 00:43:00,145
-( THEME MUSIC PLAYING )
+( Theme music playing )
 
 1127
 00:43:03,115 --> 00:43:05,217
@@ -5477,7 +5477,7 @@ of New York in 1919.
 
 1189
 00:45:07,705 --> 00:45:08,973
-( CLEARING THROAT )
+( Clearing throat )
 
 1190
 00:45:09,040 --> 00:45:11,610
@@ -5588,8 +5588,8 @@ Can I have my same desk?
 
 1212
 00:45:53,252 --> 00:45:56,488
-( ALARM GOING OFF )
-( SHOUTING )
+( Alarm going off )
+( Shouting )
 
 1213
 00:45:56,555 --> 00:45:58,890
@@ -5636,7 +5636,7 @@ in their own name.
 
 1222
 00:46:21,045 --> 00:46:21,980
-( BOTS WHISPERING )
+( Bots whispering )
 
 1223
 00:46:22,047 --> 00:46:23,215
@@ -5724,7 +5724,7 @@ I’m your total slave.
 
 1241
 00:47:05,923 --> 00:47:09,662
-( SHEP BARKING )
+( Shep barking )
 
 1242
 00:47:09,728 --> 00:47:11,863
@@ -5826,7 +5826,7 @@ keep a secret.
 
 1263
 00:47:45,997 --> 00:47:48,800
-( SHEP BARKING )
+( Shep barking )
 
 1264
 00:47:48,867 --> 00:47:52,037
@@ -5835,7 +5835,7 @@ this crazy thing?
 
 1265
 00:47:52,103 --> 00:47:54,272
-( SUSPENSEFUL MUSIC )
+( Suspenseful music )
 
 1266
 00:47:54,338 --> 00:47:56,508
@@ -5844,7 +5844,7 @@ are you feeling today?
 
 1267
 00:47:58,843 --> 00:47:59,778
-( SHEP BARKING )
+( Shep barking )
 
 1268
 00:47:59,845 --> 00:48:01,012
@@ -5923,7 +5923,7 @@ are really soft.
 
 1284
 00:48:45,190 --> 00:48:46,692
-( SHEP BARKING )
+( Shep barking )
 
 1285
 00:48:46,758 --> 00:48:49,393
@@ -5971,7 +5971,7 @@ work for his death.
 
 1295
 00:49:31,670 --> 00:49:34,873
-( SUSPENSEFUL MUSIC )
+( Suspenseful music )
 
 1296
 00:49:38,110 --> 00:49:39,043
@@ -6059,7 +6059,7 @@ Remember, Jonathan?
 
 1315
 00:50:27,358 --> 00:50:28,593
-( JONATHAN SCREAMING )
+( Jonathan screaming )
 
 1316
 00:50:28,660 --> 00:50:31,162
@@ -6081,7 +6081,7 @@ Oh, boy.
 
 1320
 00:50:39,237 --> 00:50:42,707
-( SUSPENSEFUL MUSIC )
+( Suspenseful music )
 
 1321
 00:50:46,645 --> 00:50:48,413
@@ -6221,7 +6221,7 @@ no, please, no.
 
 1351
 00:52:24,008 --> 00:52:25,577
-( SHOUTING/APPLAUSE )
+( Shouting/applause )
 
 1352
 00:52:25,643 --> 00:52:26,678
@@ -6229,7 +6229,7 @@ no, please, no.
 
 1353
 00:52:26,745 --> 00:52:27,812
-( SNIFFING )
+( Sniffing )
 
 1354
 00:52:27,878 --> 00:52:29,413
@@ -6242,7 +6242,7 @@ What the?
 
 1356
 00:52:31,382 --> 00:52:32,950
-( SHEP SNIFFING )
+( Shep sniffing )
 
 1357
 00:52:33,017 --> 00:52:35,087
@@ -6361,7 +6361,7 @@ and I’m never coming back.
 
 1382
 00:53:48,627 --> 00:53:50,828
-( WOLF HOWLING )
+( Wolf howling )
 
 1383
 00:53:50,895 --> 00:53:53,197
@@ -6373,7 +6373,7 @@ and I’m never coming back.
 
 1385
 00:53:54,565 --> 00:53:56,500
-( WOLF HOWLING )
+( Wolf howling )
 
 1386
 00:53:56,567 --> 00:53:58,970
@@ -6399,7 +6399,7 @@ clean that up later.
 
 1391
 00:54:12,550 --> 00:54:15,620
-( BOT HUMMING )
+( Bot humming )
 
 1392
 00:54:15,687 --> 00:54:18,423
@@ -6425,7 +6425,7 @@ Come on.
 
 1397
 00:54:27,098 --> 00:54:28,065
-( SHEP GROWLING )
+( Shep growling )
 
 1398
 00:54:28,132 --> 00:54:29,968
@@ -6453,7 +6453,7 @@ but I get the gold.
 
 1403
 00:54:38,810 --> 00:54:41,145
-( SHEP GROWLING )
+( Shep growling )
 
 1404
 00:54:41,212 --> 00:54:42,347
@@ -6466,7 +6466,7 @@ guy and his hat separately.
 
 1406
 00:54:46,117 --> 00:54:50,022
-( SHEP GROWLING )
+( Shep growling )
 
 1407
 00:54:50,088 --> 00:54:52,790
@@ -6475,7 +6475,7 @@ the forbidden dance.
 
 1408
 00:54:52,857 --> 00:54:55,760
-( LIN SCREAMING )
+( Lin screaming )
 
 1409
 00:54:55,827 --> 00:54:56,862
@@ -6510,7 +6510,7 @@ right past me.
 
 1416
 00:55:24,788 --> 00:55:26,457
-( SHEP WHINING )
+( Shep whining )
 
 1417
 00:55:26,523 --> 00:55:30,962
@@ -6537,7 +6537,7 @@ I’m sorry.
 
 1422
 00:55:44,642 --> 00:55:45,943
-( SHEP WHINING )
+( Shep whining )
 
 1423
 00:55:46,010 --> 00:55:47,878
@@ -6629,7 +6629,7 @@ He’s eating Kal Kan!
 
 1442
 00:56:39,630 --> 00:56:40,965
-( SHEP WHINING )
+( Shep whining )
 
 1443
 00:56:41,032 --> 00:56:42,167
@@ -6660,7 +6660,7 @@ Oh, I can’t stay mad at you.
 
 1449
 00:56:53,945 --> 00:56:56,213
-( SHEP BARKING )
+( Shep barking )
 
 1450
 00:56:59,317 --> 00:57:00,818
@@ -6677,7 +6677,7 @@ it is, huh?
 
 1453
 00:57:03,955 --> 00:57:05,890
-( SHEP BARKING )
+( Shep barking )
 
 1454
 00:57:11,662 --> 00:57:13,732
@@ -6690,7 +6690,7 @@ it is, huh?
 
 1456
 00:57:15,167 --> 00:57:16,567
-( SHEP BARKING )
+( Shep barking )
 
 1457
 00:57:16,633 --> 00:57:20,805
@@ -6766,7 +6766,7 @@ It’s more my pride that hurts.
 
 1473
 00:57:52,970 --> 00:57:54,905
-( SHEP WHINING )
+( Shep whining )
 
 1474
 00:57:54,972 --> 00:57:56,707
@@ -6817,7 +6817,7 @@ I’d feel better.
 
 1484
 00:58:17,762 --> 00:58:18,697
-( SHEP WHINING )
+( Shep whining )
 
 1485
 00:58:18,763 --> 00:58:19,797
@@ -6835,7 +6835,7 @@ of the kitchen cabinet.
 
 1488
 00:58:23,935 --> 00:58:24,868
-( CHUCKLING )
+( Chuckling )
 
 1489
 00:58:24,935 --> 00:58:25,970
@@ -6880,12 +6880,12 @@ Crawl!
 
 1498
 00:58:45,590 --> 00:58:51,528
-( MAKING SILLY SOUNDS LIKE
-CURLY OF THE THREE STOOGES )
+( Making silly sounds like
+curly of the three stooges )
 
 1499
 00:58:51,595 --> 00:58:55,132
-( SHEP WHINING/BARKING )
+( Shep whining/barking )
 
 1500
 00:58:55,198 --> 00:58:58,803
@@ -6909,7 +6909,7 @@ that little puppy’s dead, too.
 
 1504
 00:59:09,280 --> 00:59:10,348
-( SHEP WHINING )
+( Shep whining )
 
 1505
 00:59:10,415 --> 00:59:12,617
@@ -6991,7 +6991,7 @@ Come on!
 
 1522
 00:59:59,930 --> 01:00:02,867
-( SMALL DOG BARKING )
+( Small dog barking )
 
 1523
 01:00:04,268 --> 01:00:06,870
@@ -7000,12 +7000,12 @@ her heart, oh.
 
 1524
 01:00:06,937 --> 01:00:09,873
-( SMALL DOG BARKING )
+( Small dog barking )
 
 1525
 01:00:13,043 --> 01:00:15,212
-- ( SPEAKING IN
-NATIVE LANGUAGE )
+- ( Speaking in
+native language )
 
 1526
 01:00:15,278 --> 01:00:16,780
@@ -7019,8 +7019,8 @@ all right.
 
 1528
 01:00:18,615 --> 01:00:21,685
-- ( SPEAKING IN
-NATIVE LANGUAGE )
+- ( Speaking in
+native language )
 
 1529
 01:00:21,752 --> 01:00:23,655
@@ -7066,11 +7066,11 @@ Pippi Longstockings.
 
 1538
 01:00:47,845 --> 01:00:51,048
-( SHOUTING )
+( Shouting )
 
 1539
 01:00:51,115 --> 01:00:54,185
-( BOT WHISTLING LIKE SIREN )
+( Bot whistling like siren )
 
 1540
 01:00:55,787 --> 01:00:57,155
@@ -7083,7 +7083,7 @@ sobbin’ women ♪
 
 1542
 01:00:59,423 --> 01:01:02,260
-( SHOUTING )
+( Shouting )
 
 1543
 01:01:02,327 --> 01:01:04,028
@@ -7096,12 +7096,12 @@ are coming to help him.
 
 1545
 01:01:07,965 --> 01:01:11,902
-( BOT HUMMING EXCITEDLY )
+( Bot humming excitedly )
 
 1546
 01:01:11,968 --> 01:01:13,738
-- ( SPEAKING IN
-NATIVE LANGUAGE )
+- ( Speaking in
+native language )
 
 1547
 01:01:13,805 --> 01:01:15,607
@@ -7119,8 +7119,8 @@ at the post office.
 
 1550
 01:01:18,508 --> 01:01:21,212
-- ( SPEAKING IN
-NATIVE LANGUAGE )
+- ( Speaking in
+native language )
 
 1551
 01:01:23,213 --> 01:01:24,948
@@ -7138,8 +7138,8 @@ Oh, no, poison souvlaki.
 
 1554
 01:01:36,660 --> 01:01:38,897
-- ( SPEAKING IN
-NATIVE LANGUAGE )
+- ( Speaking in
+native language )
 
 1555
 01:01:46,603 --> 01:01:49,040
@@ -7153,7 +7153,7 @@ Wait a minute!
 
 1557
 01:01:52,943 --> 01:01:55,880
-( THEME MUSIC PLAYING )
+( Theme music playing )
 
 1558
 01:02:00,418 --> 01:02:02,320
@@ -7162,8 +7162,8 @@ a feather in a dilly bar.
 
 1559
 01:02:02,387 --> 01:02:04,288
-- ( SPEAKING IN
-NATIVE LANGUAGE )
+- ( Speaking in
+native language )
 
 1560
 01:02:04,355 --> 01:02:08,025
@@ -7200,8 +7200,8 @@ you can do?
 
 1567
 01:02:26,210 --> 01:02:28,980
-( MAKING SILLY SOUNDS LIKE
-CURLY OF THE THREE STOOGES )
+( Making silly sounds like
+curly of the three stooges )
 
 1568
 01:02:29,047 --> 01:02:30,982
@@ -7219,7 +7219,7 @@ over there?
 
 1571
 01:02:38,022 --> 01:02:39,190
-( SHEP WHINING )
+( Shep whining )
 
 1572
 01:02:39,257 --> 01:02:41,758
@@ -7236,7 +7236,7 @@ Thanks--
 
 1575
 01:02:45,630 --> 01:02:49,700
-( SPEAKING NATIVE LANGUAGE )
+( speaking native language )
 
 1576
 01:02:49,767 --> 01:02:50,702
@@ -7249,7 +7249,7 @@ an itemized bill!
 
 1578
 01:02:52,603 --> 01:02:53,872
-- ( SPEAKING NATIVE LANGUAGE )
+- ( Speaking native language )
 
 1579
 01:02:53,938 --> 01:02:56,140
@@ -7290,7 +7290,7 @@ Nothing’s gonna stop me
 
 1587
 01:03:11,522 --> 01:03:14,458
-( RUMBLING THUNDER )
+( Rumbling thunder )
 
 1588
 01:03:19,463 --> 01:03:22,500
@@ -7332,7 +7332,7 @@ It’s not fair.
 
 1596
 01:03:36,247 --> 01:03:39,517
-( RUMBLE OF ROCKS SLIDING )
+( Rumble of rocks sliding )
 
 1597
 01:03:41,818 --> 01:03:43,753
@@ -7340,7 +7340,7 @@ It’s not fair.
 
 1598
 01:03:43,820 --> 01:03:45,288
-( RUMBLE OF ROCKS SLIDING )
+( Rumble of rocks sliding )
 
 1599
 01:03:47,592 --> 01:03:49,893
@@ -7349,7 +7349,7 @@ Am I making that sound?
 
 1600
 01:03:54,365 --> 01:03:55,867
-( RUMBLING THUNDER )
+( Rumbling thunder )
 
 1601
 01:03:55,933 --> 01:03:58,302
@@ -7393,12 +7393,12 @@ Hey, divinity.
 
 1610
 01:04:21,825 --> 01:04:26,963
-( BOT HUMMING THEME SONG FROM
-"2001: A SPACE ODYSSEY" )
+( Bot humming theme song from
+"2001: A space odyssey" )
 
 1611
 01:04:27,030 --> 01:04:29,533
-( SUSPENSEFUL MUSIC )
+( Suspenseful music )
 
 1612
 01:04:34,305 --> 01:04:35,573
@@ -7465,7 +7465,7 @@ to breathe with.
 
 1626
 01:05:01,698 --> 01:05:04,835
-( SUSPENSEFUL MUSIC )
+( Suspenseful music )
 
 1627
 01:05:04,902 --> 01:05:05,837
@@ -7491,7 +7491,7 @@ your checkbook, believe me.
 
 1632
 01:05:15,178 --> 01:05:16,113
-( WOLF HOWLING )
+( Wolf howling )
 
 1633
 01:05:16,180 --> 01:05:18,248
@@ -7521,7 +7521,7 @@ a Lilt home perm.
 
 1639
 01:05:47,678 --> 01:05:50,613
-( BOTS WHISTLING )
+( Bots whistling )
 
 1640
 01:05:53,317 --> 01:05:55,252
@@ -7539,12 +7539,12 @@ nervously.
 
 1643
 01:06:04,362 --> 01:06:05,797
-( WHISTLING THEME FROM
-"LASSIE" TV SHOW )
+( Whistling theme from
+"lassie" tv show )
 
 1644
 01:06:05,863 --> 01:06:07,732
-( SHEP BARKING )
+( Shep barking )
 
 1645
 01:06:07,798 --> 01:06:08,732
@@ -7556,7 +7556,7 @@ nervously.
 
 1647
 01:06:10,400 --> 01:06:13,337
-( SHEP BARKING )
+( Shep barking )
 
 1648
 01:06:14,472 --> 01:06:17,307
@@ -7746,7 +7746,7 @@ Oh, boy.
 
 1688
 01:07:41,358 --> 01:07:44,362
-( SINISTER LAUGHING )
+( Sinister laughing )
 
 1689
 01:07:46,897 --> 01:07:48,198
@@ -7786,7 +7786,7 @@ excuse to leave, Mr. Taylor.
 
 1697
 01:08:08,952 --> 01:08:11,455
-( SHEP WHINING )
+( Shep whining )
 
 1698
 01:08:11,522 --> 01:08:14,658
@@ -7818,7 +7818,7 @@ this is the grave. Come on.
 
 1704
 01:08:23,200 --> 01:08:25,068
-( SHEP WHINING )
+( Shep whining )
 
 1705
 01:08:25,135 --> 01:08:27,037
@@ -7840,7 +7840,7 @@ Come on!
 
 1709
 01:08:38,482 --> 01:08:40,383
-( SHEP BARKING )
+( Shep barking )
 
 1710
 01:08:40,450 --> 01:08:41,685
@@ -7854,7 +7854,7 @@ buried everywhere!
 
 1712
 01:08:43,820 --> 01:08:44,755
-( SHEP BARKING )
+( Shep barking )
 
 1713
 01:08:44,822 --> 01:08:46,323
@@ -7914,7 +7914,7 @@ Tommy!
 
 1726
 01:09:10,547 --> 01:09:12,783
-( SUSPENSEFUL MUSIC )
+( Suspenseful music )
 
 1727
 01:09:16,253 --> 01:09:18,555
@@ -7928,7 +7928,7 @@ by a doughboy.
 
 1729
 01:09:20,223 --> 01:09:21,158
-( CHUCKLING )
+( Chuckling )
 
 1730
 01:09:23,627 --> 01:09:26,197
@@ -7952,8 +7952,8 @@ behind enemy lines.
 
 1734
 01:09:33,537 --> 01:09:35,472
-( HUMMING THEM FROM
-"THE GREAT ESCAPE" )
+( Humming them from
+"the great escape" )
 
 1735
 01:09:45,950 --> 01:09:47,283
@@ -7980,7 +7980,7 @@ Our very own Crow.
 
 1740
 01:09:56,593 --> 01:09:58,828
-( SINISTER LAUGHING )
+( Sinister laughing )
 
 1741
 01:09:58,895 --> 01:10:03,100
@@ -8071,7 +8071,7 @@ he’s gold, and he’s mine.
 
 1760
 01:10:40,570 --> 01:10:41,638
-( SINISTER LAUGHING )
+( Sinister laughing )
 
 1761
 01:10:41,705 --> 01:10:43,840
@@ -8080,7 +8080,7 @@ I can rule the world!
 
 1762
 01:10:43,907 --> 01:10:46,243
-( SINISTER LAUGHING )
+( Sinister laughing )
 
 1763
 01:10:46,310 --> 01:10:48,112
@@ -8111,7 +8111,7 @@ it’s time to extrude you.
 
 1769
 01:11:00,690 --> 01:11:03,627
-( THEME MUSIC PLAYING )
+( Theme music playing )
 
 1770
 01:11:07,998 --> 01:11:09,165
@@ -8200,7 +8200,7 @@ tell anybody that.
 
 1788
 01:11:41,298 --> 01:11:42,532
-( SHEP BARKING )
+( Shep barking )
 
 1789
 01:11:42,598 --> 01:11:44,835
@@ -8213,7 +8213,7 @@ I’m outta here. Good luck!
 
 1791
 01:11:48,372 --> 01:11:50,607
-( SHEP BARKING )
+( Shep barking )
 
 1792
 01:11:53,377 --> 01:11:55,412
@@ -8309,7 +8309,7 @@ or his heart has stopped.
 
 1812
 01:12:35,318 --> 01:12:37,120
-( SUSPENSEFUL MUSIC )
+( Suspenseful music )
 
 1813
 01:12:37,187 --> 01:12:39,423
@@ -8339,8 +8339,8 @@ He can’t be.
 
 1819
 01:12:56,340 --> 01:12:57,842
-( BOTS MAKING SOUNDS
-LIKE HORSE GALLOPING )
+( bots making sounds
+like horse galloping )
 
 1820
 01:12:57,908 --> 01:13:01,278
@@ -8658,7 +8658,7 @@ in the morning.
 
 1888
 01:15:32,195 --> 01:15:35,332
-( SINISTER LAUGHING )
+( Sinister laughing )
 
 1889
 01:15:41,170 --> 01:15:44,240
@@ -8677,7 +8677,7 @@ Ho!
 
 1892
 01:15:50,913 --> 01:15:54,083
-( BOTS YELLING LIKE TARZAN )
+( Bots yelling like tarzan )
 
 1893
 01:15:54,150 --> 01:15:57,053
@@ -8874,7 +8874,7 @@ in the missing man formation.
 
 1935
 01:17:24,607 --> 01:17:26,643
-( BOT MAKING JET SOUNDS )
+( Bot making jet sounds )
 
 1936
 01:17:29,145 --> 01:17:31,415
@@ -9231,7 +9231,7 @@ We’re talking money.
 
 2012
 01:19:59,695 --> 01:20:02,632
-( MUSIC PLAYING )
+( Music playing )
 
 2013
 01:20:05,968 --> 01:20:07,203
@@ -9268,11 +9268,11 @@ PETE: Lady, come on.
 
 2020
 01:20:25,255 --> 01:20:28,157
-( THEME MUSIC PLAYING )
+( Theme music playing )
 
 2021
 01:20:30,660 --> 01:20:31,828
-( SHEP GROWLING )
+( Shep growling )
 
 2022
 01:20:31,895 --> 01:20:33,797
@@ -9295,7 +9295,7 @@ starts early.
 
 2026
 01:20:43,540 --> 01:20:46,543
-( SHEP BARKING )
+( Shep barking )
 
 2027
 01:20:47,943 --> 01:20:50,680
@@ -9309,7 +9309,7 @@ out nice and easy.
 
 2029
 01:20:58,922 --> 01:21:01,023
-( GUNSHOT )
+( Gunshot )
 
 2030
 01:21:01,090 --> 01:21:03,158
@@ -9437,11 +9437,11 @@ it doesn’t matter.
 
 2057
 01:22:29,312 --> 01:22:31,347
-( SHEP BARKING )
+( Shep barking )
 
 2058
 01:22:32,582 --> 01:22:33,950
-( BOT MAKING SPITTING SOUNDS )
+( Bot making spitting sounds )
 
 2059
 01:22:34,017 --> 01:22:36,452
@@ -9455,7 +9455,7 @@ the meaning of arf.
 
 2061
 01:22:40,957 --> 01:22:42,225
-( LAUGHING )
+( Laughing )
 
 2062
 01:22:44,960 --> 01:22:46,595
@@ -9463,7 +9463,7 @@ the meaning of arf.
 
 2063
 01:22:46,663 --> 01:22:48,365
-( GUNSHOTS )
+( Gunshots )
 
 2064
 01:22:49,898 --> 01:22:52,568
@@ -9480,7 +9480,7 @@ The most tedious game.
 
 2067
 01:22:56,973 --> 01:23:00,610
-( SUSPENSEFUL MUSIC )
+( Suspenseful music )
 
 2068
 01:23:00,677 --> 01:23:02,545
@@ -9594,8 +9594,8 @@ make your move.
 
 2091
 01:24:01,670 --> 01:24:04,607
-( BOT WHISTLING
-AND SUSPENSEFUL MUSIC )
+( Bot whistling
+and suspenseful music )
 
 2092
 01:24:10,080 --> 01:24:12,115
@@ -9625,7 +9625,7 @@ You stepped in my pee!
 
 2098
 01:24:25,095 --> 01:24:26,128
-( SINISTER LAUGHING )
+( Sinister laughing )
 
 2099
 01:24:28,330 --> 01:24:30,367
@@ -9726,7 +9726,7 @@ some prime butt to bite.
 
 2121
 01:25:26,488 --> 01:25:30,092
-( SUSPENSEFUL MUSIC )
+( Suspenseful music )
 
 2122
 01:25:32,428 --> 01:25:34,763
@@ -9767,7 +9767,7 @@ all the way into Lon Chaney, Jr.
 
 2130
 01:25:50,347 --> 01:25:53,950
-( SUSPENSEFUL MUSIC )
+( Suspenseful music )
 
 2131
 01:25:54,017 --> 01:25:56,887
@@ -9950,7 +9950,7 @@ Let’s see, what can I say?
 
 2170
 01:27:41,190 --> 01:27:44,193
-( WIND HOWLING )
+( Wind howling )
 
 2171
 01:27:45,562 --> 01:27:49,365
@@ -10342,4 +10342,5 @@ I’ve gotta do around here.
 
 2253
 01:30:59,788 --> 01:31:02,725
-( THEME MUSIC PLAYING )
+( Theme music playing )
+

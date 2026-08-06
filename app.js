@@ -27,10 +27,11 @@ function searchSubtitles() {
         results.innerHTML = "";
         return;
     }
+    results.innerHTML = "Searching...";
     const grouped = new Map();
     for (const result of fuse.search(query)) {   
         if (result.score > 0.4) {
-            return;
+            continue;
         }
         const item = result.item;
         const key = item.file;
@@ -80,7 +81,11 @@ function searchSubtitles() {
             `;
         }
     }
-    results.innerHTML = html;
+    if (html == "") {
+        results.innerHTML = "No results.";
+    } else {
+        results.innerHTML = html;
+    }
 }
 
 loadSearchIndex();

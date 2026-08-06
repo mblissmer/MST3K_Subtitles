@@ -1,4 +1,4 @@
-1
+﻿1
 00:00:05,307 --> 00:00:07,475
 ♪ In the not too
 distant future ♪
@@ -1468,7 +1468,7 @@ trying to shoot me.
 
 329
 00:12:44,998 --> 00:12:47,067
-S-H-O-O-T.
+S-h-o-o-t.
 
 330
 00:12:47,067 --> 00:12:48,935
@@ -11376,3 +11376,4 @@ brothers are so headstrong ♪
 01:37:40,122 --> 01:37:41,823
 - To them, it's
 some kind of ritual.
+
