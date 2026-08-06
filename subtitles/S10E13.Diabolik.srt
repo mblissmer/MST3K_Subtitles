@@ -1,0 +1,9456 @@
+﻿1
+00:00:01,560 --> 00:00:04,560
+♪ In the not-too-distant future
+
+2
+00:00:04,570 --> 00:00:08,070
+♪ Somewhere in time and space
+
+3
+00:00:08,070 --> 00:00:11,080
+♪ Mike Nelson and his robot pals
+
+4
+00:00:11,070 --> 00:00:14,070
+♪ Are caught in a nasty place
+
+5
+00:00:14,080 --> 00:00:17,080
+♪ They try to survive
+the wrath of Pearl
+
+6
+00:00:17,080 --> 00:00:20,090
+♪ Just an evil gal who
+wants to rule the world
+
+7
+00:00:20,080 --> 00:00:23,080
+♪ From her castle below
+she sets her sights above
+
+8
+00:00:23,090 --> 00:00:26,590
+♪ Just to torture
+all the captives on
+the Satellite of Love
+
+9
+00:00:26,590 --> 00:00:28,590
+- [Mike] Get me down!
+
+10
+00:00:29,590 --> 00:00:32,600
+♪ I'll send them cheesy movies
+
+11
+00:00:32,600 --> 00:00:35,100
+♪ The worst I can find
+
+12
+00:00:35,100 --> 00:00:36,100
+♪ La-la-la
+
+13
+00:00:36,100 --> 00:00:38,600
+♪ They'll have to sit
+and watch them all
+
+14
+00:00:38,600 --> 00:00:41,110
+♪ And the monitor is mine
+
+15
+00:00:41,100 --> 00:00:42,600
+♪ La-la-la
+
+16
+00:00:42,610 --> 00:00:45,110
+♪ Now keep in mind
+Mike can't control
+
+17
+00:00:45,110 --> 00:00:47,610
+♪ Where the movies begin or end
+
+18
+00:00:47,610 --> 00:00:48,610
+♪ La-la-la
+
+19
+00:00:48,610 --> 00:00:51,120
+♪ He'll try to keep his sanity
+
+20
+00:00:51,110 --> 00:00:55,110
+♪ With the help of
+his robot friends
+
+21
+00:00:56,620 --> 00:00:57,620
+♪ Robot roll call
+
+22
+00:00:57,620 --> 00:00:59,620
+♪ Cambot
+- You're on.
+
+23
+00:00:59,620 --> 00:01:00,630
+♪ Gypsy
+- Oh my stars!
+
+24
+00:01:00,620 --> 00:01:02,620
+♪ Tom Servo
+- Check me out.
+
+25
+00:01:02,630 --> 00:01:03,630
+♪ Croooow
+- I'm different.
+
+26
+00:01:03,630 --> 00:01:07,130
+♪ If you're wondering
+how he eats and breathes
+
+27
+00:01:07,130 --> 00:01:09,130
+♪ And other science facts
+
+28
+00:01:09,130 --> 00:01:10,640
+♪ La-la-la
+
+29
+00:01:10,630 --> 00:01:13,130
+♪ Just repeat to
+yourself, it's just a show
+
+30
+00:01:13,140 --> 00:01:16,140
+♪ I should really just relax
+
+31
+00:01:16,140 --> 00:01:20,150
+♪ For Mystery
+Science Theater 3000
+
+32
+00:01:23,650 --> 00:01:26,150
+(doors slamming)
+
+33
+00:01:35,420 --> 00:01:36,920
+- Son of a--
+
+34
+00:01:36,930 --> 00:01:37,930
+Mike!
+
+35
+00:01:37,930 --> 00:01:39,430
+Crow, a little help?
+
+36
+00:01:39,430 --> 00:01:40,430
+I can't==
+
+37
+00:01:40,430 --> 00:01:41,430
+- What's the matter, Servo?
+
+38
+00:01:41,430 --> 00:01:42,430
+- I was cleaning out my room,
+
+39
+00:01:42,430 --> 00:01:43,940
+and something got stuck
+in my hover skirt,
+
+40
+00:01:43,930 --> 00:01:45,430
+and now I'm not
+getting any lift.
+
+41
+00:01:45,430 --> 00:01:46,930
+- Oh, let's get out of it.
+
+42
+00:01:46,940 --> 00:01:47,940
+- Whoa!
+
+43
+00:01:47,940 --> 00:01:49,440
+There.
+
+44
+00:01:49,440 --> 00:01:50,440
+- Well, look at this.
+
+45
+00:01:50,440 --> 00:01:52,440
+It's an SOL Employee Handbook.
+
+46
+00:01:52,440 --> 00:01:53,440
+- Huh, what do you know?
+
+47
+00:01:53,440 --> 00:01:54,950
+- I've never seen this before.
+
+48
+00:01:54,940 --> 00:01:57,440
+"Welcome to the Forrester
+Family of Hostages.
+
+49
+00:01:57,450 --> 00:01:59,450
+"Making your life miserable
+for over nine years."
+
+50
+00:01:59,450 --> 00:02:00,450
+- Wow.
+- Nice.
+
+51
+00:02:00,450 --> 00:02:01,450
+- It covers everything.
+
+52
+00:02:01,450 --> 00:02:02,950
+Discrimination policy.
+
+53
+00:02:02,950 --> 00:02:04,460
+"I reserve the right
+to discriminate
+
+54
+00:02:04,450 --> 00:02:06,450
+"against anyone I
+want, especially Mike."
+
+55
+00:02:06,460 --> 00:02:07,460
+- Figures.
+
+56
+00:02:07,460 --> 00:02:08,960
+- Benefits package.
+
+57
+00:02:08,960 --> 00:02:10,960
+"All employees are entitled
+to smooch my backside."
+
+58
+00:02:10,960 --> 00:02:12,960
+- What does it say
+about grievances?
+
+59
+00:02:12,960 --> 00:02:13,970
+- Hmm, let me see here.
+
+60
+00:02:13,960 --> 00:02:15,460
+Oh, grievance procedures.
+
+61
+00:02:15,460 --> 00:02:16,960
+"Make your hand
+into a hard fist,
+
+62
+00:02:16,970 --> 00:02:19,470
+"drawing as far away from
+your face as possible,
+
+63
+00:02:19,470 --> 00:02:21,470
+"and keep your hand in place.
+
+64
+00:02:21,470 --> 00:02:24,480
+"Quickly and forcefully
+run toward your hand."
+
+65
+00:02:24,470 --> 00:02:26,470
+- Well, we'll be right back.
+
+66
+00:02:26,480 --> 00:02:26,980
+- Hey!
+- Yeah.
+
+67
+00:02:26,980 --> 00:02:28,480
+- Heh.
+
+68
+00:02:28,480 --> 00:02:31,980
+(Mystery Science
+Theater 3000 theme)
+
+69
+00:02:34,520 --> 00:02:37,020
+- Does it say anything
+about our dental coverage?
+
+70
+00:02:37,020 --> 00:02:39,020
+- "Shut up, you have
+no right to ask!"
+
+71
+00:02:39,020 --> 00:02:41,030
+- Sorry, Mike, I didn't think
+you'd take it so personally!
+
+72
+00:02:41,020 --> 00:02:43,020
+- No, no, that's what
+it says in the...
+
+73
+00:02:43,030 --> 00:02:44,030
+(loud creaking)
+
+74
+00:02:44,030 --> 00:02:45,530
+- Whoa, whoa, whoa!
+- Hey, hey!
+
+75
+00:02:45,530 --> 00:02:46,530
+- What the heck?
+
+76
+00:02:46,530 --> 00:02:47,530
+- What the hell?
+
+77
+00:02:47,530 --> 00:02:48,530
+What's going on here?
+
+78
+00:02:48,530 --> 00:02:49,030
+- We better find
+out what's going on!
+
+79
+00:02:49,030 --> 00:02:50,540
+Hey, Pearl's up!
+
+80
+00:02:51,530 --> 00:02:53,530
+- Oh, hi, Nike Melson.
+
+81
+00:02:53,540 --> 00:02:55,540
+How do you like my new joystick?
+
+82
+00:02:55,540 --> 00:02:57,040
+Got it at Radio Shack.
+
+83
+00:02:57,040 --> 00:02:58,540
+Say, I was wondering,
+
+84
+00:02:58,540 --> 00:03:01,050
+what does a high-speed
+tumble do to your stomach?
+
+85
+00:03:01,040 --> 00:03:05,040
+(everyone groaning)
+
+86
+00:03:05,050 --> 00:03:07,550
+I am just messing
+with everybody today!
+
+87
+00:03:07,550 --> 00:03:10,050
+(nefarious giggling)
+
+88
+00:03:10,050 --> 00:03:12,060
+What'd I do?
+
+89
+00:03:12,050 --> 00:03:13,050
+What'd I do?
+
+90
+00:03:14,560 --> 00:03:17,060
+- Hang on now!
+- Feel sick.
+
+91
+00:03:18,060 --> 00:03:19,060
+- Oh, boy!
+
+92
+00:03:19,060 --> 00:03:21,570
+- Hey, you guys, the
+retrofire has been activated,
+
+93
+00:03:21,560 --> 00:03:24,060
+and the ship's initiating
+a reentry protocol!
+
+94
+00:03:24,070 --> 00:03:25,570
+- What?
+
+95
+00:03:25,570 --> 00:03:27,070
+- Prepare for
+gravitational reinsertion!
+
+96
+00:03:27,070 --> 00:03:28,070
+- Mike!
+
+97
+00:03:28,070 --> 00:03:31,080
+This means we're
+headed to Earth!
+
+98
+00:03:31,070 --> 00:03:32,070
+- Earth, that's my home!
+
+99
+00:03:32,070 --> 00:03:33,070
+- Yes, yes!
+
+100
+00:03:33,080 --> 00:03:34,580
+- Isn't it?
+- Yes.
+
+101
+00:03:34,580 --> 00:03:35,580
+- Earth!
+- To Earth!
+
+102
+00:03:35,580 --> 00:03:37,580
+(joyous laughter)
+
+103
+00:03:37,580 --> 00:03:39,080
+(Crow vomiting)
+
+104
+00:03:39,080 --> 00:03:40,590
+Crow, you're
+wrecking the moment!
+
+105
+00:03:40,580 --> 00:03:42,080
+- [Crow] I'm sorry!
+
+106
+00:03:42,080 --> 00:03:44,080
+(frustrated groan)
+
+107
+00:03:44,090 --> 00:03:45,590
+- Apparently, you initiated
+
+108
+00:03:45,590 --> 00:03:47,590
+reentry protocol
+for the satellite.
+
+109
+00:03:47,590 --> 00:03:50,600
+- Well, make it not
+protocol to reentry!
+
+110
+00:03:50,590 --> 00:03:51,590
+Make it better!
+
+111
+00:03:51,590 --> 00:03:53,590
+- Well, you broke
+off the stick of joy.
+
+112
+00:03:53,600 --> 00:03:56,100
+It's irreversible and wet bread.
+
+113
+00:03:57,100 --> 00:03:58,100
+- You're omnipotent!
+
+114
+00:03:58,100 --> 00:03:59,600
+Do something!
+
+115
+00:03:59,600 --> 00:04:01,610
+- Pearl, the Mountain Dew
+you so playfully poured
+
+116
+00:04:01,600 --> 00:04:04,100
+into my brain pan took
+my gravitational control
+
+117
+00:04:04,110 --> 00:04:06,110
+as well as my speech centers.
+
+118
+00:04:06,110 --> 00:04:08,110
+Table-dog-purple-liquefy.
+
+119
+00:04:08,110 --> 00:04:09,610
+- No, damn it, no!
+
+120
+00:04:09,610 --> 00:04:11,620
+They will not escape me!
+
+121
+00:04:11,610 --> 00:04:14,110
+I'll see them dead first!
+
+122
+00:04:14,120 --> 00:04:15,620
+- Hey, Lawgiver, why
+don't you just take
+
+123
+00:04:15,620 --> 00:04:17,620
+and use the Satellite's
+self-destruct mechanism?
+
+124
+00:04:17,620 --> 00:04:19,620
+- We have one?
+- Yeah, right there.
+
+125
+00:04:19,620 --> 00:04:21,130
+- Bobo, I'm a genius!
+
+126
+00:04:21,120 --> 00:04:22,620
+Take this, losers!
+
+127
+00:04:23,630 --> 00:04:25,130
+- Chili squint!
+
+128
+00:04:25,130 --> 00:04:26,630
+(Bobo growling)
+
+129
+00:04:26,630 --> 00:04:28,130
+(rapid beeping)
+
+130
+00:04:28,130 --> 00:04:29,130
+- This is it, I love you, Crow,
+
+131
+00:04:29,130 --> 00:04:30,640
+I love you, Servo,
+I love you, Gypsy.
+
+132
+00:04:30,630 --> 00:04:33,130
+- I love you, Mike, I love
+you, Servo, I love you, Crow.
+
+133
+00:04:33,140 --> 00:04:35,140
+- I love you, Gypsy, I love
+you, Mike, I love you, Servo.
+
+134
+00:04:35,140 --> 00:04:37,140
+- I love you, Gypsy,
+I love you, Mike.
+
+135
+00:04:37,140 --> 00:04:39,140
+(extended beep)
+(tiny explosion)
+
+136
+00:04:39,140 --> 00:04:40,140
+- Oh.
+
+137
+00:04:40,140 --> 00:04:41,650
+- Um, Servo, do you wanna--
+
+138
+00:04:41,640 --> 00:04:42,640
+- I was gonna say it!
+
+139
+00:04:42,640 --> 00:04:44,140
+I just couldn't
+think of your name!
+
+140
+00:04:44,150 --> 00:04:45,650
+- Yeah, right.
+
+141
+00:04:45,650 --> 00:04:49,650
+- Well, the Satellite of
+Love is headed back to Earth.
+
+142
+00:04:49,650 --> 00:04:51,660
+Paper, northbound, feet.
+
+143
+00:04:51,650 --> 00:04:55,150
+- It's as good as
+done, Lawgiver.
+
+144
+00:04:55,160 --> 00:04:55,660
+- Nooooo!
+
+145
+00:04:57,160 --> 00:04:58,660
+No!
+
+146
+00:04:58,660 --> 00:05:00,160
+(furious sobbing)
+
+147
+00:05:00,160 --> 00:05:01,670
+No!
+
+148
+00:05:01,660 --> 00:05:04,160
+(furious sobbing)
+
+149
+00:05:05,670 --> 00:05:06,170
+- Oh!
+
+150
+00:05:07,170 --> 00:05:08,670
+- This can't be good for us!
+
+151
+00:05:08,670 --> 00:05:09,670
+- No.
+
+152
+00:05:09,670 --> 00:05:10,680
+(furious sobbing)
+
+153
+00:05:10,670 --> 00:05:11,670
+(loud smack)
+- See?
+
+154
+00:05:11,670 --> 00:05:13,170
+- [Pearl] Oh, god!
+
+155
+00:05:15,180 --> 00:05:16,680
+- Raging clip art.
+
+156
+00:05:18,680 --> 00:05:20,180
+- Reentry commencing!
+
+157
+00:05:20,180 --> 00:05:22,190
+Entering low orbit.
+
+158
+00:05:22,180 --> 00:05:25,180
+We'll be landing in one
+hour and 55 minutes.
+
+159
+00:05:25,190 --> 00:05:26,190
+- Hooray!
+- Yay!
+
+160
+00:05:27,190 --> 00:05:28,190
+- We did it!
+
+161
+00:05:28,190 --> 00:05:29,690
+We did it!
+
+162
+00:05:29,690 --> 00:05:31,200
+- Well, I mean, we didn't
+really do it, but...
+
+163
+00:05:31,190 --> 00:05:32,690
+- Well, it was done by someone!
+
+164
+00:05:32,690 --> 00:05:34,190
+- Yes, someone did it!
+
+165
+00:05:34,200 --> 00:05:36,200
+- It was done!
+- Yay!
+
+166
+00:05:36,200 --> 00:05:37,700
+- Woooooo!
+- Hurrah!
+
+167
+00:05:37,700 --> 00:05:39,700
+- Hoo, hoo, hoo, hoo!
+
+168
+00:05:40,700 --> 00:05:42,200
+- There, there.
+
+169
+00:05:44,210 --> 00:05:44,710
+Ooh.
+
+170
+00:05:46,210 --> 00:05:47,210
+- Oh.
+
+171
+00:05:48,210 --> 00:05:51,720
+So you're coming
+back to Earth, huh?
+
+172
+00:05:51,710 --> 00:05:53,210
+So I failed, huh?
+
+173
+00:05:55,220 --> 00:05:58,220
+(primal scream)
+(panicked scream)
+
+174
+00:05:58,220 --> 00:05:59,220
+That's fine!
+
+175
+00:06:00,220 --> 00:06:01,230
+It's okay!
+
+176
+00:06:01,220 --> 00:06:02,720
+Good for you!
+
+177
+00:06:03,730 --> 00:06:05,730
+But there's still one
+button that works,
+
+178
+00:06:05,730 --> 00:06:09,230
+so you're still getting
+your final movie.
+
+179
+00:06:09,230 --> 00:06:10,230
+I give you...
+
+180
+00:06:11,730 --> 00:06:12,230
+Diabolik!
+
+181
+00:06:14,240 --> 00:06:16,740
+If it gives you half the hell
+
+182
+00:06:17,740 --> 00:06:20,750
+I have had to endure
+keeping you captive,
+
+183
+00:06:20,740 --> 00:06:23,240
+it will have all been worth it.
+
+184
+00:06:25,750 --> 00:06:28,250
+(quiet sobbing)
+
+185
+00:06:31,250 --> 00:06:32,250
+(alarm buzzing)
+
+186
+00:06:32,250 --> 00:06:34,250
+- Oh, movie sign, let's go!
+
+187
+00:06:34,260 --> 00:06:36,760
+- Boy, we're not gonna be
+hearing that back on Earth.
+
+188
+00:06:36,760 --> 00:06:39,260
+- Yeah, let's enjoy it.
+- Yeah.
+
+189
+00:06:39,260 --> 00:06:40,770
+- Will you get in there, please?
+
+190
+00:06:40,760 --> 00:06:42,760
+- Boy, we're not gonna
+be hearing that either.
+
+191
+00:06:42,760 --> 00:06:43,760
+- Wow.
+- Let's enjoy it.
+
+192
+00:06:43,770 --> 00:06:44,770
+- Come on!
+
+193
+00:06:44,770 --> 00:06:47,770
+(puzzled groan)
+
+194
+00:06:47,770 --> 00:06:50,270
+(doors opening)
+
+195
+00:06:53,780 --> 00:06:56,780
+(sonar beeping)
+
+196
+00:06:59,480 --> 00:07:00,990
+- [Mike] Oh, my.
+
+197
+00:07:00,980 --> 00:07:02,480
+Two Fat Ladies have
+their own gang now.
+
+198
+00:07:02,480 --> 00:07:03,980
+(sirens wailing)
+
+199
+00:07:03,990 --> 00:07:06,490
+- [Servo] Uh, the
+hyena is stuck on.
+
+200
+00:07:08,490 --> 00:07:12,500
+- [Crow] Oh no, is this
+a Pink Floyd video?
+
+201
+00:07:16,500 --> 00:07:20,510
+- [Mike] Dr. Pepper formula
+requires very high security.
+
+202
+00:07:22,000 --> 00:07:26,000
+- [Servo] At least it's a
+nice orderly bank robbery.
+
+203
+00:07:28,510 --> 00:07:30,010
+- Alright, how are we doing?
+
+204
+00:07:30,010 --> 00:07:32,020
+- Well, last bag.
+
+205
+00:07:32,010 --> 00:07:33,510
+- [Crow] Uniforms designed
+by William Rehnquist.
+
+206
+00:07:33,520 --> 00:07:35,020
+- All plain paper.
+
+207
+00:07:36,520 --> 00:07:38,020
+Wonder how those guys
+would feel if they knew
+
+208
+00:07:38,020 --> 00:07:39,520
+they were guarding
+all this wastepaper
+
+209
+00:07:39,520 --> 00:07:41,530
+instead of $10
+million, huh, sir?
+
+210
+00:07:41,520 --> 00:07:43,520
+- [Mike] They'd feel hurt, sir.
+
+211
+00:07:43,530 --> 00:07:45,030
+- Well, that's it.
+
+212
+00:07:46,530 --> 00:07:49,530
+- [Servo] Sergeant
+Sideburns reporting.
+
+213
+00:07:49,530 --> 00:07:51,040
+(shrill whistling)
+
+214
+00:07:51,030 --> 00:07:52,030
+- [Crow] Just watching you film.
+
+215
+00:07:52,030 --> 00:07:53,530
+Don't worry about me.
+
+216
+00:07:55,040 --> 00:07:56,540
+- [Servo] If Hitler had won
+
+217
+00:07:56,540 --> 00:08:00,040
+and hired Stu Sutcliffe
+as a fashion designer.
+
+218
+00:08:01,540 --> 00:08:06,040
+- [Mike] Malcolm Forbes
+and friends go camping.
+
+219
+00:08:06,050 --> 00:08:10,050
+- [Crow] Good luck with
+the movie, you guys.
+
+220
+00:08:10,050 --> 00:08:12,060
+- [Mike] Mike Brady
+World Headquarters.
+
+221
+00:08:12,050 --> 00:08:13,550
+- We're ready.
+
+222
+00:08:13,560 --> 00:08:15,060
+- [Servo] We need your
+desk to make sandwiches.
+
+223
+00:08:15,060 --> 00:08:19,060
+(motorcycle engines roaring)
+
+224
+00:08:20,060 --> 00:08:21,070
+- [Crow] Spring Break!
+
+225
+00:08:21,060 --> 00:08:22,560
+- [Servo] Woo-hoo!
+
+226
+00:08:24,070 --> 00:08:26,570
+- This is the largest single
+shipment of dollars ever made
+
+227
+00:08:26,570 --> 00:08:28,570
+at six o'clock in the morning.
+
+228
+00:08:28,570 --> 00:08:31,580
+- [Mike] There was a
+larger one at 7 a.m. once.
+
+229
+00:08:31,570 --> 00:08:33,570
+- Would you please
+sign here, inspector?
+
+230
+00:08:33,580 --> 00:08:35,080
+- Right.
+
+231
+00:08:35,080 --> 00:08:38,080
+- I've never seen
+such precautions just
+to reach the port.
+
+232
+00:08:38,080 --> 00:08:40,590
+- The whole underworld worries
+me less than a single man.
+
+233
+00:08:40,580 --> 00:08:41,580
+- [Servo] Michael Jeter.
+
+234
+00:08:41,580 --> 00:08:42,580
+- Diabolik?
+
+235
+00:08:44,090 --> 00:08:45,090
+(dramatic music)
+- Excuse me.
+
+236
+00:08:45,090 --> 00:08:48,090
+They're waiting
+for you, inspector.
+
+237
+00:08:48,090 --> 00:08:49,090
+- Good luck.
+
+238
+00:08:49,090 --> 00:08:51,100
+- Ah, hah.
+
+239
+00:08:51,090 --> 00:08:53,090
+- [Mike] Well, that was
+an inappropriate response.
+
+240
+00:08:53,100 --> 00:08:53,600
+- [Crow] Yeah.
+
+241
+00:08:53,600 --> 00:08:55,100
+(dramatic music)
+
+242
+00:08:55,100 --> 00:08:57,100
+A Scrooge McDuck fortune.
+
+243
+00:08:58,600 --> 00:09:01,110
+- [Servo] Boy, Lech
+Walesa is rich!
+
+244
+00:09:01,100 --> 00:09:03,600
+- Well, that makes
+exactly $10 million.
+
+245
+00:09:03,610 --> 00:09:05,610
+Alright, you can take that away.
+
+246
+00:09:05,610 --> 00:09:07,110
+Here.
+
+247
+00:09:07,110 --> 00:09:11,120
+- [Mike] Oh, I'm gonna
+feed this bag to the dog.
+
+248
+00:09:14,120 --> 00:09:16,620
+(upbeat music)
+
+249
+00:09:16,620 --> 00:09:19,120
+- [Crow] Mmm, I
+really do have a cud!
+
+250
+00:09:19,120 --> 00:09:20,630
+(chewing noises)
+
+251
+00:09:20,620 --> 00:09:22,620
+(Servo humming)
+
+252
+00:09:22,620 --> 00:09:26,120
+- [Mike] Oh, there it goes, the
+liquid center just exploded.
+
+253
+00:09:26,130 --> 00:09:27,630
+Oh.
+
+254
+00:09:27,630 --> 00:09:30,640
+- [Servo] The Young
+Mr. Boston Story.
+
+255
+00:09:32,630 --> 00:09:36,630
+- [Mike] Sir, are you
+trying to seduce me?
+
+256
+00:09:36,640 --> 00:09:38,140
+(Servo humming music)
+
+257
+00:09:38,140 --> 00:09:39,640
+- [Crow] Ah, there's
+some crap all over me!
+
+258
+00:09:39,640 --> 00:09:42,150
+What the hell is this stuff?
+
+259
+00:09:43,650 --> 00:09:45,150
+- Well.
+
+260
+00:09:45,150 --> 00:09:46,150
+- [Servo] When I said
+dress up real tough,
+
+261
+00:09:46,150 --> 00:09:47,650
+this is what you come up with?
+
+262
+00:09:47,650 --> 00:09:50,150
+- [Ginko] This is wonderful.
+
+263
+00:09:50,150 --> 00:09:51,660
+Just splendid.
+
+264
+00:09:51,650 --> 00:09:52,650
+- [Mike] Duh, anyone
+want to marry me?
+
+265
+00:09:52,650 --> 00:09:54,650
+- And dignified, too.
+
+266
+00:09:55,660 --> 00:09:57,660
+Are they meant to be diplomats?
+
+267
+00:09:57,660 --> 00:09:59,160
+- They're the best men we have.
+
+268
+00:09:59,160 --> 00:10:00,160
+- Uh-huh.
+
+269
+00:10:00,160 --> 00:10:01,670
+- We did this.
+
+270
+00:10:01,660 --> 00:10:03,660
+- You're a diplomat?
+
+271
+00:10:03,670 --> 00:10:05,670
+Look sophisticated.
+
+272
+00:10:05,670 --> 00:10:08,670
+- [Crow] Sophisticated, not gay!
+
+273
+00:10:08,670 --> 00:10:10,170
+- You're a man of the world.
+
+274
+00:10:10,170 --> 00:10:12,180
+Polished, witty, bored.
+
+275
+00:10:13,180 --> 00:10:14,180
+What's that?
+
+276
+00:10:14,180 --> 00:10:15,680
+- [Mike] You have a chili stain!
+
+277
+00:10:15,680 --> 00:10:17,680
+- Here, put it in your hat.
+
+278
+00:10:17,680 --> 00:10:18,680
+And these.
+
+279
+00:10:23,190 --> 00:10:24,690
+(Servo belching)
+
+280
+00:10:24,690 --> 00:10:26,190
+Alright, let's go.
+
+281
+00:10:27,190 --> 00:10:29,690
+(uptempo surf music)
+
+282
+00:10:29,690 --> 00:10:32,200
+♪ Driving off to the store
+
+283
+00:10:32,190 --> 00:10:34,190
+♪ Gonna pick up some bread
+
+284
+00:10:34,200 --> 00:10:36,700
+♪ Maybe stop by the post office
+
+285
+00:10:36,700 --> 00:10:38,700
+♪ Meet Dolores for lunch
+
+286
+00:10:38,700 --> 00:10:43,710
+♪ Hope they're serving
+that ham, oh yeah
+
+287
+00:10:43,710 --> 00:10:47,710
+- [Servo] Each seagull
+has its own parking space.
+
+288
+00:10:50,710 --> 00:10:53,210
+- [Mike] Michael, we're lost.
+
+289
+00:10:57,220 --> 00:10:58,720
+- [Crow] This music
+would work better
+
+290
+00:10:58,720 --> 00:11:01,730
+with women in bikinis
+shaking all over the place.
+
+291
+00:11:01,720 --> 00:11:05,220
+I think that's true
+of any music, really.
+
+292
+00:11:07,730 --> 00:11:08,730
+- [Mike] They're going over to
+
+293
+00:11:08,730 --> 00:11:11,240
+John Steed's house for a kegger.
+
+294
+00:11:12,730 --> 00:11:13,730
+(dramatic music)
+
+295
+00:11:13,740 --> 00:11:14,740
+- [Servo] Wild thing!
+
+296
+00:11:14,740 --> 00:11:18,240
+- [Mike] Doo doo
+doo-doo doo, doo-doo.
+
+297
+00:11:21,740 --> 00:11:24,240
+Man, that is one Europey road.
+
+298
+00:11:25,250 --> 00:11:27,750
+- [Man] This is Air
+Surveillance Ship Number One.
+
+299
+00:11:27,750 --> 00:11:29,250
+Now over port zone.
+
+300
+00:11:29,250 --> 00:11:32,260
+Nothing suspicious,
+repeat, nothing suspicious.
+
+301
+00:11:32,250 --> 00:11:34,250
+Embarkation to
+proceed as scheduled.
+
+302
+00:11:34,260 --> 00:11:35,260
+Over.
+
+303
+00:11:35,260 --> 00:11:36,260
+- [Ginko] Ginko here.
+
+304
+00:11:36,260 --> 00:11:37,760
+Have received.
+
+305
+00:11:39,760 --> 00:11:41,270
+(horn whooping)
+
+306
+00:11:41,260 --> 00:11:44,760
+- [Crow] Would somebody shut
+those howler monkeys up?
+
+307
+00:11:44,770 --> 00:11:47,270
+(horn blowing)
+
+308
+00:11:50,270 --> 00:11:53,780
+- [Servo]
+Beeeeeeeeeeeeeeeee-ohhhhhhhhh!
+
+309
+00:11:55,280 --> 00:11:56,280
+(horn whooping)
+
+310
+00:11:56,280 --> 00:11:58,280
+- [Crow] Whooping.
+
+311
+00:11:58,280 --> 00:11:58,780
+Cranes.
+
+312
+00:12:00,280 --> 00:12:00,790
+What?
+
+313
+00:12:04,290 --> 00:12:07,290
+- [Mike] Dah, giant
+robotic seahorses!
+
+314
+00:12:09,790 --> 00:12:11,300
+- [Servo] Some movies
+just won't stop
+
+315
+00:12:11,290 --> 00:12:12,790
+and ask for directions.
+
+316
+00:12:14,300 --> 00:12:15,300
+(gas hissing)
+
+317
+00:12:15,300 --> 00:12:16,800
+- [Mike] Clown gas.
+
+318
+00:12:16,800 --> 00:12:20,300
+(ethereal music)
+
+319
+00:12:20,300 --> 00:12:22,310
+- [Crow] Joni Mitchell
+must be nearby.
+
+320
+00:12:22,300 --> 00:12:24,300
+(tires screeching)
+
+321
+00:12:24,310 --> 00:12:25,310
+- What the?
+
+322
+00:12:26,310 --> 00:12:27,310
+- [Man] Inspector?
+
+323
+00:12:27,310 --> 00:12:28,310
+What's happening?
+
+324
+00:12:28,310 --> 00:12:29,310
+Inspector!
+
+325
+00:12:29,310 --> 00:12:30,820
+Inspector!
+
+326
+00:12:30,810 --> 00:12:33,310
+- [Mike] It's the Dick
+Butkus newspaper grill!
+
+327
+00:12:33,320 --> 00:12:35,320
+- [Man] Stay with
+the Rolls Royce!
+
+328
+00:12:35,320 --> 00:12:40,320
+- [Servo] Boy, Ted, when you
+let one, you don't kid around!
+
+329
+00:12:40,320 --> 00:12:41,830
+- [Crow] Hey, you're
+having sex with me!
+
+330
+00:12:41,820 --> 00:12:42,820
+Now cut that out!
+
+331
+00:12:42,820 --> 00:12:43,820
+- [Mike] Sorry!
+
+332
+00:12:43,830 --> 00:12:45,330
+- [Ginko] Oh, no.
+
+333
+00:12:45,330 --> 00:12:46,830
+Where's the Rolls?
+
+334
+00:12:46,830 --> 00:12:48,330
+- [Man] It disappeared!
+
+335
+00:12:48,330 --> 00:12:49,830
+- [Ginko] What's
+that, you moron?
+
+336
+00:12:49,830 --> 00:12:52,840
+- [Man] Inspector, we
+tried (coughing)...
+
+337
+00:12:52,830 --> 00:12:54,830
+And it was gone just like that!
+
+338
+00:12:54,840 --> 00:12:56,340
+- [Man] There it is!
+
+339
+00:12:57,840 --> 00:12:59,340
+- [Mike] The Rolls
+is going to heaven.
+
+340
+00:12:59,340 --> 00:13:00,850
+Another great car.
+
+341
+00:13:03,350 --> 00:13:07,350
+- [Servo] They're downwind
+of the Rainbow Gathering.
+
+342
+00:13:08,850 --> 00:13:09,850
+- [Crow] And still,
+Union Carbide claims
+
+343
+00:13:09,850 --> 00:13:11,860
+they're meeting all guidelines.
+
+344
+00:13:11,850 --> 00:13:13,850
+- [Men] Diabolik!
+
+345
+00:13:13,860 --> 00:13:16,860
+(ethereal music)
+
+346
+00:13:16,860 --> 00:13:18,360
+- [Mike] Starring
+this Muslim woman.
+
+347
+00:13:18,360 --> 00:13:19,860
+- [Servo] When he takes
+that mask off later,
+
+348
+00:13:19,860 --> 00:13:21,370
+his weird tan will
+give him away.
+
+349
+00:13:21,360 --> 00:13:24,360
+(diabolic laughter)
+
+350
+00:13:24,370 --> 00:13:27,870
+- [Crow] Okay, yeah,
+it's not that funny.
+
+351
+00:13:27,870 --> 00:13:29,370
+(rapid gunshots)
+
+352
+00:13:29,370 --> 00:13:31,880
+- [Mike] Here's
+all your laundry.
+
+353
+00:13:31,870 --> 00:13:32,870
+(rapid gunshots)
+
+354
+00:13:32,870 --> 00:13:34,370
+♪ Deep, deep, down
+
+355
+00:13:34,380 --> 00:13:36,380
+- [Servo] Uh-oh,
+it's getting groovy.
+
+356
+00:13:36,380 --> 00:13:37,380
+- [Crow] Oh god, is
+someone gonna tell us
+
+357
+00:13:37,380 --> 00:13:39,380
+that something is
+shagadelic, man?
+
+358
+00:13:39,380 --> 00:13:40,890
+- [Servo] Oh, no, no.
+
+359
+00:13:42,380 --> 00:13:44,380
+♪ Deep, deep, down
+
+360
+00:13:44,390 --> 00:13:46,890
+- [Mike] A-wheel of fortuna.
+
+361
+00:13:47,890 --> 00:13:49,890
+- [Servo] Uh-oh.
+
+362
+00:13:49,890 --> 00:13:51,900
+Mike, I need my Dramamine.
+
+363
+00:13:52,890 --> 00:13:54,890
+- [Crow] Mario Donen.
+
+364
+00:13:54,900 --> 00:13:55,900
+Renzo Palmer.
+
+365
+00:13:58,900 --> 00:13:59,900
+- [Mike] Never start a movie
+
+366
+00:13:59,900 --> 00:14:02,410
+in the middle of the spin cycle.
+
+367
+00:14:04,910 --> 00:14:08,910
+- [Crow] Starring a bunch
+of vowels and Terry Thomas.
+
+368
+00:14:11,410 --> 00:14:12,910
+- [Mike] Well, thank goodness
+
+369
+00:14:12,910 --> 00:14:15,410
+they had three
+people on soggetto.
+
+370
+00:14:17,420 --> 00:14:20,420
+- [Crow] The true
+story of Spin Art.
+
+371
+00:14:21,920 --> 00:14:23,420
+- [Mike] Man, I feel
+sicker than when I went
+
+372
+00:14:23,430 --> 00:14:26,430
+on the tilt-a-whirl
+10 times in a row.
+
+373
+00:14:26,430 --> 00:14:27,430
+- [Servo] Movie just started,
+
+374
+00:14:27,430 --> 00:14:29,930
+it's already circling the drain.
+
+375
+00:14:31,430 --> 00:14:35,430
+- [Crow] I must agree, by the
+way, dee-dee-dah, absolutely.
+
+376
+00:14:41,940 --> 00:14:43,440
+- [Servo] Slam enough espresso,
+
+377
+00:14:43,450 --> 00:14:44,450
+and you'll see the
+world like this.
+
+378
+00:14:44,450 --> 00:14:47,450
+♪ Deep down, he
+might love deep down
+
+379
+00:14:47,450 --> 00:14:48,950
+♪ Very deep, deep down
+
+380
+00:14:48,950 --> 00:14:50,450
+- [Crow] This must be from
+
+381
+00:14:50,450 --> 00:14:52,960
+the point of view of
+a Scrubbing Bubble.
+
+382
+00:14:52,950 --> 00:14:54,450
+♪ No, womp-ba-doo
+
+383
+00:14:54,460 --> 00:14:56,960
+(Servo scatting)
+
+384
+00:14:58,460 --> 00:14:59,960
+- [Mike] The wall,
+I are, deep down.
+
+385
+00:14:59,960 --> 00:15:03,470
+♪ Very deep, deep down
+
+386
+00:15:05,470 --> 00:15:07,470
+♪ You, only you, deep down
+
+387
+00:15:07,470 --> 00:15:09,970
+- [Servo] A French-Italian
+co-production, so I'm guessing
+
+388
+00:15:09,970 --> 00:15:11,980
+there's gonna be a lot
+of cheese involved here.
+
+389
+00:15:11,970 --> 00:15:13,970
+♪ Keep my heart deep down
+
+390
+00:15:13,980 --> 00:15:15,980
+- [Mike] Keep my potty down?
+
+391
+00:15:15,980 --> 00:15:18,480
+Women and their
+toilet seat issues.
+
+392
+00:15:20,480 --> 00:15:24,990
+- [Servo] Under his firm and
+visionary diretto, I feel safe.
+
+393
+00:15:24,990 --> 00:15:26,490
+- [Crow] Gentlemen,
+let's open our movie
+
+394
+00:15:26,490 --> 00:15:29,990
+with a 10-minute shot
+of a spinning radish.
+
+395
+00:15:30,990 --> 00:15:33,490
+- [Mike] Reverse Raccoon Man!
+
+396
+00:15:34,000 --> 00:15:37,000
+♪ All I want is you
+
+397
+00:15:37,000 --> 00:15:38,000
+- [Servo] I can't breathe.
+
+398
+00:15:38,000 --> 00:15:41,010
+(muffled breathing)
+
+399
+00:15:45,010 --> 00:15:49,510
+(Mystery Science
+Theater 3000 theme)
+
+400
+00:15:51,480 --> 00:15:52,480
+- [Crow] I never should have let
+
+401
+00:15:52,480 --> 00:15:54,990
+that balloon melt on my face.
+
+402
+00:15:55,980 --> 00:15:59,480
+- [Mike] Diabolik
+is late for daycare.
+
+403
+00:16:01,990 --> 00:16:05,500
+- [Servo] Honey, you
+forgot your lunch!
+
+404
+00:16:11,500 --> 00:16:14,000
+(muffled speech)
+
+405
+00:16:17,510 --> 00:16:18,510
+(rapid gunfire)
+
+406
+00:16:18,510 --> 00:16:20,010
+- [Mike] Wisconsin
+kill speeders.
+
+407
+00:16:20,010 --> 00:16:23,010
+(tires screeching)
+
+408
+00:16:23,010 --> 00:16:26,520
+- [Servo] Run that
+metered ramp, will ya?
+
+409
+00:16:28,020 --> 00:16:29,020
+- [Crow] Is this
+the one circumstance
+
+410
+00:16:29,020 --> 00:16:32,020
+where driving drunk
+is actually safer?
+
+411
+00:16:36,020 --> 00:16:39,020
+- [Mike] They have a bowling
+ball glued to their runner.
+
+412
+00:16:39,030 --> 00:16:41,530
+(tires screeching)
+
+413
+00:16:41,530 --> 00:16:42,530
+- [Crow] Whoa,
+where are we going?!
+
+414
+00:16:42,530 --> 00:16:44,030
+Hey, look out!
+
+415
+00:16:44,030 --> 00:16:46,040
+- [Mike] Hey, we're
+going in (vomits).
+
+416
+00:16:46,030 --> 00:16:47,530
+- Hey, helicopter one
+through to Coast Patrol.
+
+417
+00:16:47,540 --> 00:16:49,540
+Helicopter one through
+to Coast Patrol.
+
+418
+00:16:49,540 --> 00:16:50,540
+Attention, attention.
+
+419
+00:16:50,540 --> 00:16:52,040
+Jaguar spotted.
+
+420
+00:16:52,040 --> 00:16:54,550
+Turned off main highway headed
+towards senior district.
+
+421
+00:16:54,540 --> 00:16:56,040
+- Roger, affirmative.
+
+422
+00:16:56,040 --> 00:16:57,540
+- [Crow] Do something
+affirmative, Roger.
+
+423
+00:16:57,550 --> 00:17:00,550
+(helicopter whirring)
+
+424
+00:17:04,050 --> 00:17:07,560
+- [Mike]
+Da-da-da-da-da-da-da-da,
+this guy!
+
+425
+00:17:09,560 --> 00:17:12,560
+- [Servo] Hey look,
+that's pretty.
+
+426
+00:17:14,560 --> 00:17:16,560
+- [Mike] Oh, a lot of drift
+on this steering wheel.
+
+427
+00:17:16,560 --> 00:17:18,060
+(rapid gunfire)
+
+428
+00:17:18,070 --> 00:17:20,070
+(bullets ricocheting)
+
+429
+00:17:20,070 --> 00:17:22,070
+- [Crow] Ah, this is a metaphor
+
+430
+00:17:22,070 --> 00:17:24,580
+for arterial plaque reduction.
+
+431
+00:17:30,080 --> 00:17:32,080
+(tires screeching)
+
+432
+00:17:32,080 --> 00:17:33,580
+- [Mike] Good thing Britt
+Ekland is waiting for him.
+
+433
+00:17:33,580 --> 00:17:36,590
+(tires screeching)
+
+434
+00:17:36,580 --> 00:17:39,080
+- [Servo] Ah-ha, my
+licorice suit held up well.
+
+435
+00:17:39,090 --> 00:17:40,590
+- Eva.
+
+436
+00:17:40,590 --> 00:17:43,590
+- [Crow] Thanks for
+helping me, Mom.
+
+437
+00:17:43,590 --> 00:17:45,600
+(helicopter whirring)
+
+438
+00:17:45,590 --> 00:17:47,590
+- [Servo] Hey, dammit.
+
+439
+00:17:50,100 --> 00:17:51,100
+- [Crow] Make the
+tunnel entrance
+
+440
+00:17:51,100 --> 00:17:53,600
+look like a slice of bread.
+
+441
+00:17:56,100 --> 00:17:57,600
+(rapid gunfire)
+
+442
+00:17:57,610 --> 00:18:00,110
+(tires screeching)
+
+443
+00:18:00,110 --> 00:18:03,110
+- [Mike] George
+Jones tours Italy.
+
+444
+00:18:04,110 --> 00:18:07,120
+- [Servo] Uh,
+you're flooding it.
+
+445
+00:18:07,120 --> 00:18:09,620
+(ethereal music)
+
+446
+00:18:09,620 --> 00:18:13,620
+- [Crow] Tar fashions never
+really took off, did they?
+
+447
+00:18:13,620 --> 00:18:16,130
+- [Mike] Owwww,
+that was my skin!
+
+448
+00:18:16,120 --> 00:18:18,120
+♪ Deep, deep, down
+
+449
+00:18:18,130 --> 00:18:20,630
+- [Crow] Deep, deep tongue.
+
+450
+00:18:23,130 --> 00:18:26,140
+- [Servo] I'm driving
+with my whipper.
+
+451
+00:18:31,640 --> 00:18:34,140
+- [Crow] Hmm, I don't know, a
+white car before Memorial Day?
+
+452
+00:18:34,140 --> 00:18:36,150
+- [Servo] Risky, huh?
+
+453
+00:18:37,650 --> 00:18:38,650
+(high-pitched squeaking)
+
+454
+00:18:38,650 --> 00:18:39,650
+Stop playing with that balloon.
+
+455
+00:18:39,650 --> 00:18:42,650
+(high-pitched squeaking)
+
+456
+00:18:42,650 --> 00:18:47,160
+- [Mike] Ah, a giant earth
+clam is attacking them!
+
+457
+00:18:48,660 --> 00:18:50,160
+- [Servo] This will fool
+them unless they look at it.
+
+458
+00:18:50,160 --> 00:18:53,660
+(midtempo mysterious music)
+
+459
+00:18:53,660 --> 00:18:55,670
+- [Crow] You know, it's
+hard to get contractors
+
+460
+00:18:55,660 --> 00:18:57,160
+who will do this kind of work,
+
+461
+00:18:57,170 --> 00:18:59,170
+signing the complete
+secrecy agreement
+
+462
+00:18:59,170 --> 00:19:01,670
+on pain of death and all.
+
+463
+00:19:01,670 --> 00:19:03,670
+(engine revving)
+
+464
+00:19:03,670 --> 00:19:04,680
+- [Servo] You may get nauseous
+
+465
+00:19:04,670 --> 00:19:06,170
+and light-headed froe
+the exhaust fumes,
+
+466
+00:19:06,170 --> 00:19:08,670
+but still, pretty cool, huh?
+
+467
+00:19:10,680 --> 00:19:12,180
+- [Crow] Great
+hideout, but it's hard
+
+468
+00:19:12,180 --> 00:19:14,690
+to get your Sunday
+paper delivered.
+
+469
+00:19:18,190 --> 00:19:22,690
+- [Mike] They had Willy Wonka's
+contractor do this part.
+
+470
+00:19:23,690 --> 00:19:24,700
+- [Crow] Yeah, you go
+through Mop and Glo
+
+471
+00:19:24,690 --> 00:19:27,690
+by the case keeping
+this place shiny.
+
+472
+00:19:29,700 --> 00:19:30,700
+- [Servo] Did you really
+need this much stuff
+
+473
+00:19:30,700 --> 00:19:31,700
+to get some tail in the '60s?
+
+474
+00:19:31,700 --> 00:19:33,200
+I thought a hi-fi
+would do the job.
+
+475
+00:19:33,200 --> 00:19:35,210
+♪ Deep, deep down
+
+476
+00:19:35,200 --> 00:19:37,200
+♪ Deep, deep down
+
+477
+00:19:37,210 --> 00:19:39,210
+♪ Deep, deep down
+
+478
+00:19:39,210 --> 00:19:40,710
+♪ Deep, deep down
+
+479
+00:19:40,710 --> 00:19:42,210
+- [Mike] I have an
+awning over my cyke.
+
+480
+00:19:42,210 --> 00:19:42,710
+Like it?
+
+481
+00:19:45,210 --> 00:19:46,710
+♪ Deep, deep down
+
+482
+00:19:46,710 --> 00:19:48,210
+- [Servo] A tanning
+lamp works better
+
+483
+00:19:48,220 --> 00:19:51,220
+if you get out of the car.
+
+484
+00:19:51,220 --> 00:19:52,720
+♪ Deep, deep down
+
+485
+00:19:52,720 --> 00:19:55,230
+- [Mike] We're out of gas.
+
+486
+00:19:56,220 --> 00:19:58,220
+- [Crow] Mmm-hmm, mmm-hmm, good.
+
+487
+00:19:58,230 --> 00:19:59,730
+Okay, okay, okay.
+
+488
+00:19:59,730 --> 00:20:01,230
+Alright, and you
+have those, too.
+
+489
+00:20:01,230 --> 00:20:02,230
+That's fine.
+
+490
+00:20:02,230 --> 00:20:03,230
+Pretty good.
+
+491
+00:20:04,730 --> 00:20:08,230
+- [Servo] Let's have
+a tantric quickie.
+
+492
+00:20:09,240 --> 00:20:12,740
+- [Mike] Oh, you smell
+like a tire store.
+
+493
+00:20:15,740 --> 00:20:17,240
+- [Servo] This is
+just a Good Samaritan
+
+494
+00:20:17,250 --> 00:20:18,250
+he met in the tunnel.
+
+495
+00:20:18,250 --> 00:20:21,250
+- [Crow] She's a
+Great Samaritan!
+
+496
+00:20:24,750 --> 00:20:29,750
+- [Servo] You don't mind if
+I swallow your face, do you?
+
+497
+00:20:29,760 --> 00:20:31,260
+- [Mike] Oh, oh.
+
+498
+00:20:31,260 --> 00:20:35,770
+Sorry, some unexpected rubbing
+in the outfit, so I, well...
+
+499
+00:20:35,760 --> 00:20:38,760
+(engine droning)
+
+500
+00:20:39,770 --> 00:20:44,270
+- [Crow] Pretty fancy-schmancy
+Jiffy Lube they go to.
+
+501
+00:20:45,770 --> 00:20:48,770
+- [Servo] This is
+just my mud room.
+
+502
+00:20:49,780 --> 00:20:51,280
+- [Mike] Wow.
+
+503
+00:20:51,280 --> 00:20:53,280
+Occasionally, a spelunker
+just wanders in.
+
+504
+00:20:53,280 --> 00:20:55,290
+"Hey, what the hell?"
+
+505
+00:20:57,290 --> 00:21:00,290
+- [Crow] Let me just go and
+have really quick lousy sex.
+
+506
+00:21:00,290 --> 00:21:01,290
+(sensual mysterious music)
+
+507
+00:21:01,290 --> 00:21:03,790
+(Servo humming)
+
+508
+00:21:06,790 --> 00:21:07,790
+(sniffing air)
+
+509
+00:21:07,800 --> 00:21:10,300
+- [Mike] Oh, you have cats, huh?
+
+510
+00:21:15,800 --> 00:21:19,800
+- [Servo] You gonna help me
+with the groceries, or...
+
+511
+00:21:22,810 --> 00:21:23,810
+- [Mike] He loves her so much,
+
+512
+00:21:23,810 --> 00:21:26,320
+he bought her a walk-in diamond.
+
+513
+00:21:27,820 --> 00:21:31,820
+- [Crow] Hmmm, I
+love your Habitrail.
+
+514
+00:21:31,820 --> 00:21:33,820
+- [Servo] You need
+some baseboard heaters
+in this tunnel.
+
+515
+00:21:33,820 --> 00:21:35,330
+It's freezing in here!
+
+516
+00:21:39,330 --> 00:21:43,330
+- [Mike] Please get Ravi
+Shankar out of the living room!
+
+517
+00:21:43,330 --> 00:21:44,840
+- [Crow] Oh, I
+need to get out of
+
+518
+00:21:44,830 --> 00:21:46,330
+these bulky,
+restricting clothes.
+
+519
+00:21:46,330 --> 00:21:49,330
+I am so bunched
+up in this thing.
+
+520
+00:21:53,340 --> 00:21:55,850
+- [Mike] Wow,
+dangerously steep stairs.
+
+521
+00:21:55,840 --> 00:21:57,340
+- [Servo] You're
+watching the stairs?
+
+522
+00:21:57,350 --> 00:21:58,350
+Poor Mike.
+- Oh, Mike.
+
+523
+00:21:58,350 --> 00:21:59,350
+Gee whiz.
+- What?
+
+524
+00:22:01,850 --> 00:22:03,350
+- [Crow] I oughta take
+down that Simon game
+
+525
+00:22:03,350 --> 00:22:05,860
+I superglued on the ceiling.
+
+526
+00:22:08,860 --> 00:22:09,860
+- [Servo] Considering the
+guy who owned it before
+
+527
+00:22:09,860 --> 00:22:11,360
+had a North Woods theme going,
+
+528
+00:22:11,360 --> 00:22:14,870
+I think he's done pretty well.
+
+529
+00:22:14,860 --> 00:22:17,860
+(electronic beep)
+
+530
+00:22:17,870 --> 00:22:19,870
+(electronic droning)
+
+531
+00:22:19,870 --> 00:22:22,370
+- [Mike] High-tech
+for a bathroom fan.
+
+532
+00:22:22,370 --> 00:22:25,380
+(electronic droning)
+
+533
+00:22:26,870 --> 00:22:27,870
+- [Crow] Really makes the hall
+
+534
+00:22:27,880 --> 00:22:30,380
+to our theater look efficient.
+
+535
+00:22:36,380 --> 00:22:37,880
+- [Servo] Might as well throw
+
+536
+00:22:37,890 --> 00:22:40,890
+these Hardee's wrappers
+away now I'm here.
+
+537
+00:22:42,390 --> 00:22:43,390
+- [Crow] Oh, I can't
+wait to get into
+
+538
+00:22:43,390 --> 00:22:45,900
+my loose-fitting latex sweats.
+
+539
+00:22:49,400 --> 00:22:51,900
+(Servo humming)
+
+540
+00:22:51,900 --> 00:22:53,400
+- [Servo] Turns out
+he's just house-sitting.
+
+541
+00:22:53,400 --> 00:22:54,910
+- [Crow] Yeah, he
+actually lives in
+
+542
+00:22:54,900 --> 00:22:58,400
+an efficiency over at the
+campus with some guys.
+
+543
+00:23:02,910 --> 00:23:05,420
+- [Mike] Well, my cherry
+tomato detector's operational.
+
+544
+00:23:05,410 --> 00:23:06,410
+Good.
+
+545
+00:23:09,420 --> 00:23:10,420
+(air hissing)
+
+546
+00:23:10,420 --> 00:23:11,420
+- [Servo] Oh, damn,
+blew the place up again.
+
+547
+00:23:11,420 --> 00:23:13,920
+Gotta learn the combination.
+
+548
+00:23:14,920 --> 00:23:16,920
+- [Crow] I went out
+to get something.
+
+549
+00:23:16,920 --> 00:23:17,920
+What was it...
+
+550
+00:23:17,930 --> 00:23:18,930
+Oh, bread!
+
+551
+00:23:18,930 --> 00:23:19,930
+Dammit.
+
+552
+00:23:21,430 --> 00:23:25,440
+- [Mike] He's pretending
+to be The Pretender.
+
+553
+00:23:30,440 --> 00:23:34,440
+- [Crow] I really should
+get a checking account.
+
+554
+00:23:34,440 --> 00:23:35,950
+- [Mike] Well, I'm just
+delaying the moment
+
+555
+00:23:35,940 --> 00:23:38,440
+she finds out I have an
+undescended testicle.
+
+556
+00:23:38,450 --> 00:23:41,450
+(engine turning)
+
+557
+00:23:44,450 --> 00:23:45,960
+(upbeat sensual music)
+
+558
+00:23:45,950 --> 00:23:46,950
+- [Servo] Ugh, they're
+really gonna have
+
+559
+00:23:46,950 --> 00:23:49,450
+to get their money laundered.
+
+560
+00:23:50,460 --> 00:23:53,460
+- [Crow] Steve
+Forbes and his wife.
+
+561
+00:23:55,960 --> 00:23:56,960
+- [Mike] With my budget,
+
+562
+00:23:56,960 --> 00:24:00,960
+I'd be rolling around
+in a handful of change.
+
+563
+00:24:00,970 --> 00:24:04,980
+- [Servo] Oh, the
+paper cuts are brutal.
+
+564
+00:24:04,970 --> 00:24:08,970
+- [Mike] (gagging) I have
+100 caught in my throat.
+
+565
+00:24:10,480 --> 00:24:13,480
+- [Crow] A young Alan Greenspan.
+
+566
+00:24:17,490 --> 00:24:18,490
+- [Servo] They got
+pretty badly injured
+
+567
+00:24:18,490 --> 00:24:21,490
+when they tried
+this with gold bars.
+
+568
+00:24:26,490 --> 00:24:27,990
+- [Mike] When they make
+love in English pound notes,
+
+569
+00:24:28,000 --> 00:24:30,500
+the sex is 50% better.
+
+570
+00:24:35,000 --> 00:24:37,000
+- [Servo] Oh, you're
+the friendliest
+teller I've ever met.
+
+571
+00:24:37,000 --> 00:24:40,500
+Last time, I just got a toaster.
+
+572
+00:24:40,510 --> 00:24:42,010
+- [Crow] Y'know, if he'd
+stolen just a little less,
+
+573
+00:24:42,010 --> 00:24:44,510
+I could see her ass right now.
+
+574
+00:24:47,010 --> 00:24:48,010
+Good grief.
+
+575
+00:24:48,020 --> 00:24:52,020
+- [Servo] Member,
+FDIC, heh-heh-heh-heh.
+
+576
+00:24:52,020 --> 00:24:55,030
+(doors slamming)
+
+577
+00:24:55,020 --> 00:24:57,520
+(sonar beeping)
+
+578
+00:25:05,430 --> 00:25:07,430
+- Well, I'm all
+packed and ready.
+
+579
+00:25:07,440 --> 00:25:08,440
+- Nice suitcase.
+
+580
+00:25:08,440 --> 00:25:09,940
+Monogrammed and everything.
+
+581
+00:25:09,940 --> 00:25:12,440
+- Actually, I got it at
+Mojo Nixon's garage sale.
+
+582
+00:25:12,440 --> 00:25:13,940
+- Ah.
+
+583
+00:25:13,940 --> 00:25:15,450
+You got nothing but
+bags of rice in here!
+
+584
+00:25:15,440 --> 00:25:17,440
+- Yup, sure is good for ya.
+
+585
+00:25:17,450 --> 00:25:18,950
+It's bleached and enriched.
+
+586
+00:25:18,950 --> 00:25:19,950
+- I'll bleach and enrich you.
+
+587
+00:25:19,950 --> 00:25:21,450
+Say, Mike, could you
+grab my bag here?
+
+588
+00:25:21,450 --> 00:25:22,950
+- Sure.
+
+589
+00:25:22,950 --> 00:25:23,950
+- Just put my stuff in
+a bunch of these babies.
+
+590
+00:25:23,950 --> 00:25:24,960
+- Ah, I see.
+
+591
+00:25:24,950 --> 00:25:26,950
+You've got your dirty laundry,
+
+592
+00:25:26,950 --> 00:25:29,450
+and a Schmidt Beer sign.
+- Of course.
+
+593
+00:25:29,460 --> 00:25:30,460
+- And a whoopee cushion.
+
+594
+00:25:30,460 --> 00:25:32,460
+- Yep, and the food I
+cleaned out of the fridge.
+
+595
+00:25:32,460 --> 00:25:34,460
+- Oh, an opened tin
+of smoked oysters.
+
+596
+00:25:34,460 --> 00:25:35,970
+- And there's some loose
+paella on the bottom there,
+
+597
+00:25:35,960 --> 00:25:37,460
+if you want to dig in.
+
+598
+00:25:37,470 --> 00:25:38,470
+- You're not my new best friend.
+
+599
+00:25:38,470 --> 00:25:39,470
+Stop pestering me!
+
+600
+00:25:39,470 --> 00:25:40,470
+Scram, would ya?
+
+601
+00:25:40,470 --> 00:25:41,970
+Oh, for cryin' out loud...
+
+602
+00:25:41,970 --> 00:25:43,470
+- So, Tom, what are you gonna do
+
+603
+00:25:43,470 --> 00:25:45,480
+with all the spare yous you've
+collected over the years?
+
+604
+00:25:45,470 --> 00:25:46,970
+- Oh, you know, I
+just did a head count,
+
+605
+00:25:46,970 --> 00:25:48,470
+an boy, I've made
+quite a few of me.
+
+606
+00:25:48,480 --> 00:25:49,980
+517 at the last count.
+
+607
+00:25:49,980 --> 00:25:51,480
+- Wow, yeah, that's
+far too much you.
+
+608
+00:25:51,480 --> 00:25:53,980
+You should be limited
+to one or less.
+
+609
+00:25:53,980 --> 00:25:55,490
+- Exactly.
+
+610
+00:25:55,480 --> 00:25:57,480
+So I'm just gonna enact
+a self-destruct mechanism
+
+611
+00:25:57,490 --> 00:25:58,990
+I planted in all the mes, ha-ha!
+
+612
+00:25:58,990 --> 00:26:00,490
+Here goes!
+
+613
+00:26:00,490 --> 00:26:00,990
+(electronic beep)
+(loud explosions)
+
+614
+00:26:00,990 --> 00:26:02,990
+Oh, oh, oh, oh, oh boy.
+
+615
+00:26:02,990 --> 00:26:05,000
+Oh, what the?
+
+616
+00:26:04,990 --> 00:26:05,490
+(loud explosion)
+
+617
+00:26:05,490 --> 00:26:06,490
+- Wow.
+- Dah!
+
+618
+00:26:07,500 --> 00:26:08,500
+Servo?
+
+619
+00:26:08,500 --> 00:26:10,500
+- He done blowed hisself up!
+
+620
+00:26:10,500 --> 00:26:12,500
+Well, more Earth
+for us, I guess.
+
+621
+00:26:12,500 --> 00:26:13,500
+- What the?
+
+622
+00:26:13,500 --> 00:26:15,010
+- Oh, there's my remote!
+
+623
+00:26:15,000 --> 00:26:16,000
+Figures.
+
+624
+00:26:16,000 --> 00:26:17,000
+One of those dumb
+mes got a hold of it
+
+625
+00:26:17,000 --> 00:26:18,500
+and started playing me.
+
+626
+00:26:18,510 --> 00:26:21,010
+- Well, are you sure you're you?
+
+627
+00:26:21,010 --> 00:26:22,510
+- Of course I am!
+
+628
+00:26:22,510 --> 00:26:24,010
+You could tell right
+away if I wasn't.
+
+629
+00:26:24,010 --> 00:26:26,020
+Well, I better clear out the
+rest of the mes before I go.
+
+630
+00:26:26,010 --> 00:26:27,510
+(electronic beep)
+(loud explosion)
+
+631
+00:26:27,520 --> 00:26:29,020
+- Dah!
+
+632
+00:26:29,020 --> 00:26:30,520
+Servo?
+
+633
+00:26:30,520 --> 00:26:32,020
+- Right here, Mike.
+
+634
+00:26:32,020 --> 00:26:33,520
+Say, have you seen my
+remote detonating device?
+
+635
+00:26:33,520 --> 00:26:35,030
+- Oh, man.
+
+636
+00:26:35,020 --> 00:26:36,020
+This may take a
+while to sort out.
+
+637
+00:26:36,020 --> 00:26:37,020
+We'll be right back.
+
+638
+00:26:37,020 --> 00:26:38,020
+- Ah, there it is!
+
+639
+00:26:38,030 --> 00:26:39,030
+Well, here goes!
+
+640
+00:26:39,030 --> 00:26:40,030
+- Dahh!
+(electronic beep)
+
+641
+00:26:40,030 --> 00:26:43,030
+(loud explosions)
+
+642
+00:26:45,900 --> 00:26:48,410
+- Your government, ever
+vigilant, determined--
+
+643
+00:26:48,400 --> 00:26:49,900
+- [Mike] Terry, yech!
+
+644
+00:26:49,900 --> 00:26:54,400
+- To stamp out, to crush
+the current crime wave,
+
+645
+00:26:54,410 --> 00:26:56,910
+has restored the death penalty.
+
+646
+00:26:58,410 --> 00:26:59,910
+- [Mike] And so
+Sister Helen Prejean
+
+647
+00:26:59,910 --> 00:27:01,910
+pulls out a rifle and shoots.
+
+648
+00:27:01,920 --> 00:27:03,920
+- As a temporary
+measure, of course.
+
+649
+00:27:03,920 --> 00:27:04,920
+(goofy sounds)
+
+650
+00:27:04,920 --> 00:27:08,430
+- Faced with this extreme
+form of punishment,
+
+651
+00:27:08,420 --> 00:27:10,920
+the socially sick
+elements of our society...
+
+652
+00:27:10,930 --> 00:27:12,930
+- [Servo] Look who's talking.
+
+653
+00:27:12,930 --> 00:27:14,430
+- By that, I mean criminals.
+
+654
+00:27:14,430 --> 00:27:16,930
+- Do you mean Diabolik?
+
+655
+00:27:16,930 --> 00:27:18,440
+- Diabolik?
+
+656
+00:27:18,430 --> 00:27:22,430
+I assure you this
+individual whose very name
+
+657
+00:27:22,440 --> 00:27:25,940
+reveals his antagonism
+to the established values
+
+658
+00:27:25,940 --> 00:27:29,950
+of our society will soon
+be brought to justice!
+
+659
+00:27:30,950 --> 00:27:32,450
+- [Man] Finally!
+
+660
+00:27:32,450 --> 00:27:33,450
+We agree!
+
+661
+00:27:33,450 --> 00:27:34,950
+- [Crow] Who the?
+
+662
+00:27:34,950 --> 00:27:37,450
+- The criminal paranoid seems
+to have dedicated himself
+
+663
+00:27:37,450 --> 00:27:39,960
+to a one-man fight
+against our society.
+
+664
+00:27:39,950 --> 00:27:40,950
+(goofy laughter)
+
+665
+00:27:40,960 --> 00:27:43,460
+This black mark,
+this manifestation
+
+666
+00:27:43,460 --> 00:27:44,960
+of exaggerated delinquency...
+
+667
+00:27:44,960 --> 00:27:46,460
+- [Mike] Dorothy!
+
+668
+00:27:46,460 --> 00:27:48,470
+- Has exceeded the boundaries
+of rational behavior.
+
+669
+00:27:48,460 --> 00:27:49,460
+(mocking mumbling)
+
+670
+00:27:49,460 --> 00:27:51,460
+- Within or without
+the beaten structure
+
+671
+00:27:51,470 --> 00:27:54,970
+that is the very basis of
+our freedom and way of life.
+
+672
+00:27:54,970 --> 00:27:57,970
+- [Crow] (coughing) Awesome
+press conference, man.
+
+673
+00:27:57,970 --> 00:28:02,980
+- He also seems to derive a
+great of pleasure from me.
+
+674
+00:28:02,980 --> 00:28:03,980
+- [Servo] Here's the gap.
+
+675
+00:28:03,980 --> 00:28:06,980
+- Making fun of our
+entire police force.
+
+676
+00:28:07,980 --> 00:28:10,990
+You certainly are not
+gonna make a fool of me.
+
+677
+00:28:10,990 --> 00:28:11,490
+(man laughing)
+
+678
+00:28:11,490 --> 00:28:13,490
+- [Mike] Nice teeth!
+
+679
+00:28:13,490 --> 00:28:15,490
+- [Crow] What are you, British?
+
+680
+00:28:15,490 --> 00:28:16,990
+- [Servo] Take it off!
+
+681
+00:28:16,990 --> 00:28:20,000
+(woman laughing)
+
+682
+00:28:19,990 --> 00:28:22,490
+- [Crow] I really should
+get a line of dialogue soon.
+
+683
+00:28:22,500 --> 00:28:26,500
+(reporters laughing)
+
+684
+00:28:26,500 --> 00:28:29,010
+- [Servo] Dan Quayle
+announces his candidacy.
+
+685
+00:28:29,000 --> 00:28:32,000
+(obnoxious laughter)
+
+686
+00:28:35,010 --> 00:28:38,520
+- [Mike] He temporarily
+turned lizard!
+
+687
+00:28:39,510 --> 00:28:43,510
+- [Servo] C'mon, more, we
+haven't seen his epiglottis yet.
+
+688
+00:28:45,520 --> 00:28:49,530
+- [Crow] Well, it's their
+mess, so they should.
+
+689
+00:28:52,030 --> 00:28:53,030
+(sirens wailing)
+
+690
+00:28:53,030 --> 00:28:56,030
+- [Mike] Gerrymandering,
+actual footage.
+
+691
+00:28:56,030 --> 00:28:57,530
+- [Man] Inspector,
+we've discovered
+
+692
+00:28:57,530 --> 00:28:59,040
+the center of the drug traffic.
+
+693
+00:28:59,030 --> 00:29:00,530
+It's one of Valmont's
+night clubs.
+
+694
+00:29:00,530 --> 00:29:02,530
+We have it surrounded.
+
+695
+00:29:02,540 --> 00:29:05,040
+- [Servo] Sorry, I'm
+having hallucinations here.
+
+696
+00:29:05,040 --> 00:29:06,540
+(psychedelic music)
+
+697
+00:29:06,540 --> 00:29:07,040
+Woooooo!
+
+698
+00:29:09,540 --> 00:29:10,540
+- [Mike] Whoa.
+
+699
+00:29:10,540 --> 00:29:13,040
+Uh, Gary, you're
+trying too hard.
+
+700
+00:29:13,050 --> 00:29:14,550
+- [Man] The police, the police!
+
+701
+00:29:14,550 --> 00:29:16,050
+(sirens wailing)
+
+702
+00:29:16,050 --> 00:29:17,050
+- Cops!
+
+703
+00:29:17,050 --> 00:29:18,560
+It's all over, boys!
+
+704
+00:29:18,550 --> 00:29:19,550
+The club is surrounded.
+
+705
+00:29:19,550 --> 00:29:20,550
+You're all under arrest!
+
+706
+00:29:20,550 --> 00:29:22,550
+- [Crow] Even you
+giant juice glasses!
+
+707
+00:29:22,560 --> 00:29:25,560
+(mysterious music)
+
+708
+00:29:25,560 --> 00:29:26,560
+- [Servo] Oh no,
+abandoned ships!
+
+709
+00:29:26,560 --> 00:29:29,570
+Sebastian Junger
+wrote a book about us!
+
+710
+00:29:30,560 --> 00:29:33,060
+- [Crow] Hey look,
+it's my nest up there.
+
+711
+00:29:33,070 --> 00:29:36,070
+- [Mike] Oh yeah, I see it.
+
+712
+00:29:36,070 --> 00:29:38,070
+- [Servo] Cute.
+
+713
+00:29:38,070 --> 00:29:39,580
+- [Man] You promised
+us the drugs!
+
+714
+00:29:39,570 --> 00:29:40,570
+- [Man] Yeah, where is it?
+
+715
+00:29:40,570 --> 00:29:41,570
+- [Man] I run the best...
+
+716
+00:29:41,580 --> 00:29:42,580
+- [Mike] Yeah, whoa!
+
+717
+00:29:42,580 --> 00:29:45,080
+Fishing has been good today.
+
+718
+00:29:45,080 --> 00:29:46,580
+- [Crow] It's too
+rough to feed you!
+
+719
+00:29:46,580 --> 00:29:48,080
+Oh wait, you're
+models, never mind.
+
+720
+00:29:48,080 --> 00:29:49,590
+You don't eat.
+
+721
+00:29:49,580 --> 00:29:52,080
+- They've been inside for hours.
+
+722
+00:29:52,090 --> 00:29:54,090
+Such a waste of us.
+
+723
+00:29:54,090 --> 00:29:56,090
+- [Man] Your opinion is--
+
+724
+00:29:57,590 --> 00:30:01,100
+- [Servo] Burt Bacharach's
+put on some weight.
+
+725
+00:30:02,100 --> 00:30:06,100
+- [Mike] Ah, just surveying
+my girl kingdom here.
+
+726
+00:30:07,600 --> 00:30:11,110
+- If you're not gonna
+back us, Valmont,
+
+727
+00:30:11,110 --> 00:30:13,610
+we'll have to withdraw
+form the syndicate.
+
+728
+00:30:13,610 --> 00:30:15,610
+- I'm sorry to hear
+you say that, Frank.
+
+729
+00:30:15,610 --> 00:30:17,110
+- [Crow] You have a
+terribly annoying voice.
+
+730
+00:30:17,110 --> 00:30:18,620
+- I said sorry.
+
+731
+00:30:20,610 --> 00:30:23,110
+What flowers would
+you like me to order?
+
+732
+00:30:23,120 --> 00:30:26,120
+- [Servo] How about
+Wayland Flowers, boss?
+
+733
+00:30:26,120 --> 00:30:28,120
+- No, no, really.
+
+734
+00:30:28,120 --> 00:30:29,130
+What flowers?
+
+735
+00:30:30,120 --> 00:30:31,120
+Frank?
+
+736
+00:30:31,130 --> 00:30:32,130
+- [Mike] Yeah, lilacs?
+
+737
+00:30:32,130 --> 00:30:32,630
+- You boys.
+
+738
+00:30:34,130 --> 00:30:35,630
+You don't know when to
+put your heads down.
+
+739
+00:30:35,630 --> 00:30:38,130
+- [Servo] After
+the test is done?
+
+740
+00:30:38,130 --> 00:30:39,640
+- We just wait for now.
+
+741
+00:30:42,140 --> 00:30:44,640
+We're outside of the
+three-mile limit, luckily.
+
+742
+00:30:44,640 --> 00:30:46,640
+(siren blaring)
+
+743
+00:30:46,640 --> 00:30:49,150
+- [Mike] The SS Jo Anne Worley!
+
+744
+00:30:49,140 --> 00:30:50,640
+- [Valmont] Is that Stud coming?
+
+745
+00:30:50,640 --> 00:30:51,640
+- [Crow] I beg your pardon?
+
+746
+00:30:51,650 --> 00:30:54,150
+(sinister music)
+
+747
+00:30:54,150 --> 00:30:57,650
+- [Servo] Can I
+have another Ho Ho?
+
+748
+00:30:57,650 --> 00:30:59,160
+- When?
+- Last night.
+
+749
+00:31:00,650 --> 00:31:02,650
+- You say all the narcotics?
+
+750
+00:31:02,660 --> 00:31:05,660
+- [Mike] Are in
+Keith Richards, yes.
+
+751
+00:31:08,660 --> 00:31:12,660
+- [Crow] Do you want to,
+like, look at us or something?
+
+752
+00:31:14,170 --> 00:31:18,170
+- [Servo] Every one of
+these guys is in sanitation.
+
+753
+00:31:20,670 --> 00:31:21,670
+(hard smack)
+
+754
+00:31:21,680 --> 00:31:22,680
+- [Mike] Fresh!
+
+755
+00:31:22,680 --> 00:31:24,680
+I saw you undressing
+me with your eyes.
+
+756
+00:31:24,680 --> 00:31:28,180
+- It seems that you
+brought bad news.
+
+757
+00:31:28,180 --> 00:31:30,190
+- [Crow] Girls, I'm about
+to sweat through my suit,
+
+758
+00:31:30,180 --> 00:31:31,180
+if you want to watch.
+
+759
+00:31:31,190 --> 00:31:33,690
+(nail file shaving)
+
+760
+00:31:33,690 --> 00:31:35,190
+- Shut up!
+
+761
+00:31:35,190 --> 00:31:38,700
+- [Servo] Wow, he can
+afford white owls.
+
+762
+00:31:38,690 --> 00:31:40,690
+- That's enough, Ginko.
+
+763
+00:31:43,200 --> 00:31:45,200
+- [Mike] Oh man, gotta go.
+
+764
+00:31:45,200 --> 00:31:48,710
+Oh, don't be occupied,
+don't be occupied...
+
+765
+00:31:48,700 --> 00:31:49,700
+- Get lost.
+
+766
+00:31:54,210 --> 00:31:56,210
+- [Crow] Could you tell me
+what floor housewares is on?
+
+767
+00:31:56,210 --> 00:31:58,210
+(electronic squealing)
+
+768
+00:31:58,210 --> 00:32:02,220
+- [Servo] Mmm, mmm, boy,
+pencils are good, mmm.
+
+769
+00:32:02,220 --> 00:32:04,720
+(alarm buzzing)
+
+770
+00:32:07,220 --> 00:32:08,730
+- Ginko here.
+
+771
+00:32:08,720 --> 00:32:09,720
+- [Mike] Huge Tanhead here.
+
+772
+00:32:09,720 --> 00:32:11,220
+- This is Valmont.
+
+773
+00:32:11,230 --> 00:32:12,730
+- [Ginko] Valmont?
+
+774
+00:32:12,730 --> 00:32:14,230
+I have nothing to say to you.
+
+775
+00:32:14,230 --> 00:32:18,740
+- I'm calling you, inspector,
+on behalf of law and order.
+
+776
+00:32:20,230 --> 00:32:21,730
+- Good.
+- I love Jerry Orbach!
+
+777
+00:32:21,740 --> 00:32:26,740
+- I would like us to make a
+little bargain, inspector.
+
+778
+00:32:26,740 --> 00:32:28,750
+- You know how I
+bargain with your kind.
+
+779
+00:32:28,740 --> 00:32:30,240
+First, I put you in cages.
+
+780
+00:32:30,240 --> 00:32:32,240
+Then I teach you to
+sing beautifully.
+
+781
+00:32:32,250 --> 00:32:34,250
+For once, we've
+got special powers.
+
+782
+00:32:34,250 --> 00:32:35,250
+- [Servo] Zing.
+
+783
+00:32:35,250 --> 00:32:36,750
+- By getting you Diabolik alive,
+
+784
+00:32:36,750 --> 00:32:38,760
+and then you can arrest him.
+
+785
+00:32:38,750 --> 00:32:42,750
+- [Ginko] Well, well, at
+last you got the idea.
+
+786
+00:32:42,760 --> 00:32:46,760
+(Mystery Science
+Theater 3000 theme)
+
+787
+00:32:49,360 --> 00:32:52,360
+- Joe, give me the tape
+recording of the meeting.
+
+788
+00:32:52,370 --> 00:32:53,870
+- [Servo] Our Promise
+Keepers meeting.
+
+789
+00:32:53,870 --> 00:32:56,870
+- We've taken a democratic vote.
+
+790
+00:32:56,870 --> 00:32:58,880
+Five in favor of my plan.
+
+791
+00:32:59,870 --> 00:33:01,870
+And three against it.
+
+792
+00:33:03,380 --> 00:33:05,380
+(loud gunshots)
+
+793
+00:33:05,380 --> 00:33:06,380
+- I will throw my vote!
+
+794
+00:33:06,380 --> 00:33:07,880
+Don't shoot, please!
+
+795
+00:33:07,880 --> 00:33:09,390
+- [Crow] I'm gonna put a
+piece of my tongue in there.
+
+796
+00:33:09,380 --> 00:33:11,880
+- DOn't shoot, don't shoot!
+
+797
+00:33:11,890 --> 00:33:14,890
+- Since you said
+please, I won't shoot.
+
+798
+00:33:18,890 --> 00:33:19,890
+- Ahh!
+
+799
+00:33:19,890 --> 00:33:22,390
+- [Mike] Extreme
+organized crime!
+
+800
+00:33:23,400 --> 00:33:25,400
+- [Valmont] Clean up.
+
+801
+00:33:27,400 --> 00:33:31,910
+- [Servo] If Northwest flight
+attendants had their way...
+
+802
+00:33:31,910 --> 00:33:32,910
+- Oh, Ralph!
+
+803
+00:33:33,410 --> 00:33:34,910
+How nice.
+
+804
+00:33:34,910 --> 00:33:35,910
+- [Mike] Toni, get dressed.
+
+805
+00:33:35,910 --> 00:33:37,410
+- Fresh air--
+- Scram.
+
+806
+00:33:38,910 --> 00:33:39,910
+- Sure.
+
+807
+00:33:43,420 --> 00:33:45,420
+- Now it's unanimous.
+
+808
+00:33:45,420 --> 00:33:48,420
+- [Servo] Cavernous
+noses are the best.
+
+809
+00:33:51,930 --> 00:33:52,930
+- So...
+
+810
+00:33:52,930 --> 00:33:53,930
+- [Mike] Should
+we watch Sounder?
+
+811
+00:33:53,930 --> 00:33:56,930
+- These new emergency powers.
+
+812
+00:33:56,930 --> 00:33:59,940
+Ginko is really
+putting the heat on us.
+
+813
+00:33:59,930 --> 00:34:02,430
+If we don't play ball with him,
+
+814
+00:34:02,440 --> 00:34:03,940
+we all wind up behind bars.
+
+815
+00:34:03,940 --> 00:34:05,440
+- [Crow] Or waiting tables.
+
+816
+00:34:05,440 --> 00:34:06,940
+- So we play ball, but how?
+
+817
+00:34:06,940 --> 00:34:09,450
+- We catch Diabolik for him.
+
+818
+00:34:09,440 --> 00:34:11,940
+We got the know-how
+that the cops don't.
+
+819
+00:34:11,950 --> 00:34:16,450
+- No one's ever seen
+Diabolik or his girl.
+
+820
+00:34:16,450 --> 00:34:19,460
+No one's ever seen
+them and lived.
+
+821
+00:34:19,450 --> 00:34:21,450
+- So what?
+(hoarse wheezing)
+
+822
+00:34:21,460 --> 00:34:22,960
+We got connections.
+
+823
+00:34:22,960 --> 00:34:25,460
+We all know squealers.
+
+824
+00:34:25,460 --> 00:34:27,960
+If all of us work
+together on this...
+
+825
+00:34:27,960 --> 00:34:29,470
+- [Mike] We can wipe out litter.
+
+826
+00:34:29,460 --> 00:34:30,960
+- So long, Diabolik.
+
+827
+00:34:33,470 --> 00:34:35,470
+- [Crow] Just airing
+out the little sizzler.
+
+828
+00:34:35,470 --> 00:34:37,970
+(sensual music)
+
+829
+00:34:37,970 --> 00:34:39,980
+- [Servo] Phyllis
+Diller dropped by.
+
+830
+00:34:39,970 --> 00:34:43,470
+(stifling sneeze)
+
+831
+00:34:43,480 --> 00:34:47,480
+- [Mike] Plumber pulled
+this out of the tub drain.
+
+832
+00:34:47,480 --> 00:34:49,990
+♪ Dee dee dah
+
+833
+00:34:51,490 --> 00:34:53,490
+- [Crow] Diabol-lick.
+
+834
+00:34:56,990 --> 00:34:58,490
+- [Servo] Honey,
+I'm out of cash.
+
+835
+00:34:58,490 --> 00:35:02,500
+Wanna roll around in
+some savings bonds?
+
+836
+00:35:02,500 --> 00:35:04,500
+- You've been
+asleep for 20 hours.
+
+837
+00:35:04,500 --> 00:35:05,500
+- 20 hours?
+
+838
+00:35:07,000 --> 00:35:09,510
+- I slipped you a sleeping pill.
+
+839
+00:35:09,500 --> 00:35:10,000
+- Why?
+
+840
+00:35:10,000 --> 00:35:11,500
+- [Crow] When you're asleep,
+
+841
+00:35:11,510 --> 00:35:14,010
+you don't talk to
+me or touch me.
+
+842
+00:35:15,510 --> 00:35:19,020
+- When you're not planning,
+I'm afraid you get restless.
+
+843
+00:35:19,010 --> 00:35:21,510
+I'd rather have you sleep.
+
+844
+00:35:22,520 --> 00:35:25,520
+- [Servo] Hey, her
+hair has a navel!
+
+845
+00:35:28,020 --> 00:35:29,530
+- [Mike] Ah,
+they're co-gargling.
+
+846
+00:35:29,520 --> 00:35:31,020
+(machine buzzing)
+
+847
+00:35:31,020 --> 00:35:32,520
+- Excuse me, dear, I'm
+expecting something.
+
+848
+00:35:32,530 --> 00:35:34,030
+- What?
+
+849
+00:35:34,030 --> 00:35:35,030
+- Watch.
+
+850
+00:35:37,030 --> 00:35:39,540
+- [Crow] Hef taught
+me that move.
+
+851
+00:35:41,540 --> 00:35:43,540
+- The Foreign Office
+today confirmed
+
+852
+00:35:43,540 --> 00:35:45,040
+the upcoming official visit of
+
+853
+00:35:45,040 --> 00:35:48,040
+British Finance Minister,
+Sir Harold Clark.
+
+854
+00:35:48,040 --> 00:35:50,050
+Sir Harold and his
+charming wife, Lady Clark,
+
+855
+00:35:50,040 --> 00:35:53,040
+will arrive here on
+Thursday, May 5th.
+
+856
+00:35:53,050 --> 00:35:55,050
+- May 5th.
+
+857
+00:35:55,050 --> 00:35:56,550
+Isn't the 6th your birthday?
+
+858
+00:35:56,550 --> 00:35:59,060
+- [Servo] We're going over
+to the Andersons for dinner.
+
+859
+00:35:59,050 --> 00:36:01,550
+- What would you
+like me to give you?
+
+860
+00:36:01,560 --> 00:36:04,560
+- [Mike] Hmmm,
+something non-penis.
+
+861
+00:36:04,560 --> 00:36:07,060
+- There must be
+something I haven't got.
+
+862
+00:36:07,060 --> 00:36:09,070
+- [Reporter] A reception
+is planned in their honor
+
+863
+00:36:09,060 --> 00:36:11,060
+in historic St. Just Castle.
+
+864
+00:36:11,060 --> 00:36:14,560
+Lady Clark will wear the
+famous Aksand necklace
+
+865
+00:36:14,570 --> 00:36:16,570
+which is comprised
+of 11 emeralds,
+
+866
+00:36:16,570 --> 00:36:19,580
+the most perfect in the world.
+
+867
+00:36:19,570 --> 00:36:21,070
+- Those emeralds.
+
+868
+00:36:23,080 --> 00:36:26,080
+- [Servo] Typical guy,
+doesn't pick up the hint.
+
+869
+00:36:26,080 --> 00:36:28,580
+(mysterious jingle)
+
+870
+00:36:28,580 --> 00:36:30,090
+- [Man] You've arrived.
+
+871
+00:36:30,080 --> 00:36:33,580
+- [Mike] Wow, the
+addition blends right in.
+
+872
+00:36:35,090 --> 00:36:36,090
+- [Crow] Got tickets?
+
+873
+00:36:36,090 --> 00:36:37,090
+Need two.
+
+874
+00:36:43,600 --> 00:36:46,100
+- You got the time, baby?
+
+875
+00:36:46,100 --> 00:36:48,100
+- Depends, handsome.
+
+876
+00:36:48,100 --> 00:36:51,610
+So far I've turned
+down all offers.
+
+877
+00:36:51,610 --> 00:36:53,110
+- Why?
+
+878
+00:36:53,110 --> 00:36:54,110
+What's your price?
+
+879
+00:36:54,110 --> 00:36:58,110
+- [Servo] Are you planning
+to buy me in bulk?
+
+880
+00:36:59,610 --> 00:37:01,110
+- An emerald necklace.
+
+881
+00:37:01,110 --> 00:37:04,610
+- [Mike] You're not gonna
+give me the time, are you?
+
+882
+00:37:04,620 --> 00:37:05,620
+- You look worth it.
+
+883
+00:37:05,620 --> 00:37:06,620
+Hop in.
+
+884
+00:37:06,620 --> 00:37:07,620
+- [Crow] "You look weathered."
+
+885
+00:37:07,620 --> 00:37:09,130
+What a nice thing to say.
+
+886
+00:37:09,120 --> 00:37:10,620
+- [Servo] Look out!
+
+887
+00:37:13,630 --> 00:37:15,130
+- Well?
+
+888
+00:37:15,130 --> 00:37:16,630
+- [Mike] A young Sam
+Donaldson scores.
+
+889
+00:37:16,630 --> 00:37:18,630
+- Lady Clark's room is...
+
+890
+00:37:19,630 --> 00:37:21,630
+Is the highest window,
+the one that's lit up.
+
+891
+00:37:21,640 --> 00:37:23,140
+- And?
+
+892
+00:37:23,140 --> 00:37:24,640
+- [Crow] That building
+looks like us.
+
+893
+00:37:24,640 --> 00:37:27,140
+- I saw a truck delivering
+some television equipment.
+
+894
+00:37:27,140 --> 00:37:29,150
+- Closed-circuit TV.
+
+895
+00:37:29,140 --> 00:37:30,640
+- [Servo] Ali/Spinks tonight.
+
+896
+00:37:30,640 --> 00:37:32,140
+- Many police?
+
+897
+00:37:32,150 --> 00:37:34,150
+- About 50 outside.
+
+898
+00:37:34,150 --> 00:37:36,150
+And 30 inside
+dressed as waiters.
+
+899
+00:37:36,150 --> 00:37:38,650
+- Hmm, and Ginko's the chef.
+
+900
+00:37:38,650 --> 00:37:39,660
+- I didn't see Ginko.
+
+901
+00:37:39,650 --> 00:37:41,650
+- [Mike] That squares my chin.
+
+902
+00:37:41,660 --> 00:37:44,160
+- If you didn't see
+him, he's there.
+
+903
+00:37:44,160 --> 00:37:45,160
+- Huh?
+- Huh?
+
+904
+00:37:45,160 --> 00:37:47,160
+- Anyone notice you?
+
+905
+00:37:47,160 --> 00:37:48,660
+- Oh, one of the
+girls on the sidewalk
+
+906
+00:37:48,660 --> 00:37:50,670
+asked me a few questions.
+
+907
+00:37:50,660 --> 00:37:53,660
+She thought I was trying
+to move in on her beat.
+
+908
+00:37:53,670 --> 00:37:56,670
+- I figured Diabolik would
+make a play for those emeralds.
+
+909
+00:37:56,670 --> 00:37:57,670
+- Who wouldn't?
+
+910
+00:37:57,670 --> 00:37:59,180
+They're beautiful!
+
+911
+00:38:00,170 --> 00:38:02,170
+- Dry up, stupid!
+
+912
+00:38:02,180 --> 00:38:03,180
+- (laughing) Sure.
+
+913
+00:38:03,180 --> 00:38:04,180
+- [Crow] She's a sex clown.
+
+914
+00:38:04,180 --> 00:38:06,680
+- This might be our big chance.
+
+915
+00:38:06,680 --> 00:38:09,690
+If you're right, I'll
+take care of you, sweetie.
+
+916
+00:38:09,680 --> 00:38:12,180
+- Want me to describe her?
+
+917
+00:38:12,190 --> 00:38:13,190
+- [Servo] Who's
+straight in this scene?
+
+918
+00:38:13,190 --> 00:38:14,690
+- Not to me, to Tony.
+
+919
+00:38:16,190 --> 00:38:17,690
+Tell him!
+
+920
+00:38:17,690 --> 00:38:19,200
+- [Mike] Time for blood
+pressure check, gentlemen.
+
+921
+00:38:19,190 --> 00:38:22,190
+- [Woman] Well, look at that.
+
+922
+00:38:22,200 --> 00:38:23,700
+That's a funny-looking thing.
+
+923
+00:38:23,700 --> 00:38:24,700
+(goofy laughter)
+
+924
+00:38:24,700 --> 00:38:25,700
+What is it?
+
+925
+00:38:26,700 --> 00:38:27,700
+Hey, I'm talking to you!
+
+926
+00:38:27,700 --> 00:38:29,210
+What is it?
+
+927
+00:38:29,200 --> 00:38:31,700
+- You'll see, and
+don't touch it.
+
+928
+00:38:31,710 --> 00:38:32,710
+- [Mike] Guys, he sees us!
+
+929
+00:38:32,710 --> 00:38:34,710
+- Whoa, hey!
+- Did she have a face...
+
+930
+00:38:34,710 --> 00:38:35,210
+- Huh?
+
+931
+00:38:36,710 --> 00:38:37,710
+- Like this?
+
+932
+00:38:37,710 --> 00:38:38,710
+Was her face like this?
+
+933
+00:38:38,710 --> 00:38:40,220
+- No, like this.
+
+934
+00:38:40,210 --> 00:38:41,710
+- Okay, let's go on, her eyes?
+
+935
+00:38:41,720 --> 00:38:44,720
+(mysterious music)
+
+936
+00:38:44,720 --> 00:38:46,720
+- [Crow] No, no, stop
+there, stop there.
+
+937
+00:38:46,720 --> 00:38:47,720
+No, no, wait, go back.
+
+938
+00:38:47,720 --> 00:38:49,230
+Go back.
+
+939
+00:38:49,220 --> 00:38:50,720
+No, it was not like
+that, what'd'ya doin'?
+
+940
+00:38:50,720 --> 00:38:52,220
+No, no, that one, that one.
+
+941
+00:38:52,230 --> 00:38:52,730
+D'oh!
+
+942
+00:38:55,230 --> 00:38:58,730
+- [Servo] No, she wasn't Hitler!
+
+943
+00:38:58,730 --> 00:39:00,240
+- [Mike] This is actually
+Electric Ladyland.
+
+944
+00:39:00,230 --> 00:39:02,730
+- Yeah, yeah, that's her!
+
+945
+00:39:02,740 --> 00:39:04,240
+Just like real.
+
+946
+00:39:04,240 --> 00:39:07,740
+- Get 5,000 copies of this
+printed and circulate them.
+
+947
+00:39:07,740 --> 00:39:09,750
+She will not get away!
+
+948
+00:39:10,740 --> 00:39:13,740
+- [Crow] Cleopatra
+drives a Jaguar.
+
+949
+00:39:17,750 --> 00:39:20,260
+- Good night.
+- Good night.
+
+950
+00:39:20,250 --> 00:39:22,250
+- Good night, so
+nice to see you.
+
+951
+00:39:22,260 --> 00:39:24,260
+- [Servo] Thanks
+for helping us move.
+
+952
+00:39:24,260 --> 00:39:26,260
+- Good night.
+- Good night.
+
+953
+00:39:27,260 --> 00:39:28,760
+Good night.
+
+954
+00:39:28,760 --> 00:39:30,270
+- [Mike] I finished
+the magic flute.
+
+955
+00:39:30,260 --> 00:39:32,260
+- Boy, glad that's over.
+
+956
+00:39:32,270 --> 00:39:33,770
+- I hope it's not.
+
+957
+00:39:33,770 --> 00:39:36,770
+Why do you think I gave the
+necklace all that publicity?
+
+958
+00:39:36,770 --> 00:39:39,280
+He'll never be able to
+resist those emeralds.
+
+959
+00:39:39,270 --> 00:39:43,270
+Now we'll sit back and
+wait to spring the trap.
+
+960
+00:39:45,280 --> 00:39:46,780
+- [Crow] Oh, can't
+the Navy SEALs
+
+961
+00:39:46,780 --> 00:39:49,790
+ever just come in
+the front door?
+
+962
+00:39:50,780 --> 00:39:54,780
+- [Servo] Wife
+drops her earring...
+
+963
+00:39:54,790 --> 00:39:55,790
+- [Mike] Clunk.
+
+964
+00:39:58,290 --> 00:39:59,300
+- [Crow] Let's go
+security guarding now,
+
+965
+00:39:59,290 --> 00:40:00,790
+where everybody's learning how.
+
+966
+00:40:00,790 --> 00:40:03,790
+Come on and security
+guard with me!
+
+967
+00:40:07,300 --> 00:40:08,800
+- [Servo] I'm a Nazi,
+but I love color!
+
+968
+00:40:08,800 --> 00:40:09,810
+What can I do?
+
+969
+00:40:10,800 --> 00:40:14,300
+(waves splashing)
+
+970
+00:40:14,310 --> 00:40:16,810
+- [Mike] I hurl my
+skinniness at you!
+
+971
+00:40:16,810 --> 00:40:18,810
+- [Crow] Stupid jerk!
+
+972
+00:40:22,820 --> 00:40:25,820
+- [Servo] Wait, I'm
+just the postman!
+
+973
+00:40:29,320 --> 00:40:32,320
+- [Mike] I exfoliate
+while I creep.
+
+974
+00:40:36,330 --> 00:40:38,830
+- [Crow] Omaha Beach, June 5th.
+
+975
+00:40:38,830 --> 00:40:39,840
+I was early.
+
+976
+00:40:45,840 --> 00:40:47,340
+- [Mike] Look at that,
+
+977
+00:40:47,340 --> 00:40:50,350
+he's got knives stuck
+in every cranny.
+
+978
+00:40:50,340 --> 00:40:52,840
+- [Servo] I'm just a neighbor!
+
+979
+00:40:55,350 --> 00:40:58,850
+- [Mike] You gotta
+get rid of that cyst.
+
+980
+00:41:00,850 --> 00:41:02,350
+- Sir Harold...
+- Are you dead?
+
+981
+00:41:02,360 --> 00:41:04,360
+- If you don't mind, I'd like
+to check your room again.
+
+982
+00:41:04,360 --> 00:41:05,360
+- Please do.
+
+983
+00:41:05,360 --> 00:41:06,860
+- How romantic.
+
+984
+00:41:06,860 --> 00:41:07,860
+It makes me feel I'm living
+
+985
+00:41:07,860 --> 00:41:10,370
+in the days of highway robbers.
+
+986
+00:41:10,360 --> 00:41:12,360
+- [Mike] Hang on (snoring).
+
+987
+00:41:12,370 --> 00:41:13,870
+- When I return to London,
+
+988
+00:41:13,870 --> 00:41:17,370
+I will have such exciting
+things to tell to my friends.
+
+989
+00:41:17,370 --> 00:41:19,380
+- [Crow] C'mon, honey,
+I want you, baby!
+
+990
+00:41:19,370 --> 00:41:20,370
+Get moving!
+
+991
+00:41:23,380 --> 00:41:25,380
+- [Servo] My butt is weird.
+
+992
+00:41:29,380 --> 00:41:33,380
+- [Mike] Now for my
+ACME Giant Pogo Stick.
+
+993
+00:41:33,390 --> 00:41:34,890
+- [Crow] I hate when
+the party is done
+
+994
+00:41:34,890 --> 00:41:38,390
+and you just got a couple
+old people left over.
+
+995
+00:41:41,390 --> 00:41:42,390
+(Servo vomiting)
+
+996
+00:41:42,400 --> 00:41:43,900
+- [Crow] Look out!
+
+997
+00:41:47,400 --> 00:41:48,900
+- No danger on this side.
+
+998
+00:41:48,900 --> 00:41:50,910
+Slippery wall straight down.
+
+999
+00:41:50,900 --> 00:41:52,900
+A fly couldn't climb it.
+
+1000
+00:41:52,910 --> 00:41:55,410
+Lady Clark, may I ask you
+to leave your necklace
+
+1001
+00:41:55,410 --> 00:41:56,910
+on this table all night?
+
+1002
+00:41:56,910 --> 00:41:59,420
+Part of our security
+arrangements.
+
+1003
+00:41:59,410 --> 00:42:02,410
+- Why, of course, inspector,
+anything you'd like.
+
+1004
+00:42:02,420 --> 00:42:04,420
+- Now I wish you
+both good night.
+
+1005
+00:42:04,420 --> 00:42:05,420
+- Bye-bye, to you.
+
+1006
+00:42:05,420 --> 00:42:07,420
+- Good night.
+- Good night.
+
+1007
+00:42:07,420 --> 00:42:09,930
+- [Mike] Come along, Vivaldi.
+
+1008
+00:42:11,420 --> 00:42:15,920
+- [Servo] You're gonna play
+the Montgolfier brothers.
+
+1009
+00:42:16,930 --> 00:42:20,440
+- [Mike] Hey, he's
+double-bagging himself.
+
+1010
+00:42:20,430 --> 00:42:22,930
+- [Crow] Now I'm gonna put a
+nice red one over this one.
+
+1011
+00:42:22,940 --> 00:42:25,440
+(tense music)
+
+1012
+00:42:29,440 --> 00:42:31,440
+- [Servo] Brought his Lars
+Tetens cigars with him.
+
+1013
+00:42:31,440 --> 00:42:32,440
+That's good.
+
+1014
+00:42:37,450 --> 00:42:39,460
+- [Mike] Oh boy, this is
+gonna take a long time.
+
+1015
+00:42:39,450 --> 00:42:40,450
+- [Crow] Yup.
+
+1016
+00:42:41,960 --> 00:42:45,960
+Ah, he's just skittering
+up the wall, isn't he?
+
+1017
+00:42:47,460 --> 00:42:50,970
+- [Servo] He needs
+Wallace's trousers.
+
+1018
+00:42:50,960 --> 00:42:53,960
+- [Mike] I'm getting
+a funny feeling.
+
+1019
+00:42:56,970 --> 00:43:00,980
+- [Crow] Scraping
+sounds reverberate
+throughout the castle.
+
+1020
+00:43:02,980 --> 00:43:05,980
+(helicopter whirring)
+
+1021
+00:43:05,980 --> 00:43:06,980
+- [Servo] Help?
+
+1022
+00:43:08,980 --> 00:43:10,990
+- How amusing they are.
+
+1023
+00:43:10,980 --> 00:43:11,980
+- They're the police!
+
+1024
+00:43:11,990 --> 00:43:12,990
+- I know, dear.
+
+1025
+00:43:12,990 --> 00:43:15,990
+- [Servo] Are you nude yet?
+
+1026
+00:43:15,990 --> 00:43:18,990
+- [Lady Clark] Oh, I feel
+so marvelously attractive!
+
+1027
+00:43:18,990 --> 00:43:21,000
+I did do good, didn't I, dear?
+
+1028
+00:43:20,990 --> 00:43:22,490
+- [Harold] Yes, dear.
+
+1029
+00:43:22,500 --> 00:43:23,500
+- It was a nice
+evening after all.
+
+1030
+00:43:23,500 --> 00:43:26,500
+- [Crow] That's right, be old.
+
+1031
+00:43:26,500 --> 00:43:29,000
+- He never took his eyes
+off my decollete once
+
+1032
+00:43:29,000 --> 00:43:30,010
+the entire evening.
+
+1033
+00:43:30,000 --> 00:43:32,000
+- [Servo] Howells
+got a spin-off.
+
+1034
+00:43:32,010 --> 00:43:33,010
+- [Lady Clark] Don't be nasty.
+
+1035
+00:43:33,010 --> 00:43:37,510
+(Mystery Science
+Theater 3000 theme)
+
+1036
+00:43:43,050 --> 00:43:44,050
+- Huh?
+
+1037
+00:43:46,550 --> 00:43:47,550
+Oh.
+
+1038
+00:43:47,550 --> 00:43:49,050
+- Hey, Mike!
+
+1039
+00:43:49,060 --> 00:43:51,060
+Does Pearl offer any kind
+of a severance package?
+
+1040
+00:43:51,060 --> 00:43:52,560
+'Cause as soon as we
+get down to Earth,
+
+1041
+00:43:52,560 --> 00:43:54,060
+I'm gonna need to buy a
+blue suit for interviews,
+
+1042
+00:43:54,060 --> 00:43:55,560
+and I'll probably want to blow
+
+1043
+00:43:55,560 --> 00:43:57,570
+15 large on off-track betting!
+
+1044
+00:43:57,560 --> 00:43:59,060
+- Oh, hang on.
+
+1045
+00:43:59,070 --> 00:44:00,070
+Hey, Pearl?
+
+1046
+00:44:01,070 --> 00:44:03,070
+(shredder whirring)
+
+1047
+00:44:03,070 --> 00:44:04,070
+- Can it wait?
+
+1048
+00:44:04,070 --> 00:44:06,080
+I have to explode
+the nuclear core,
+
+1049
+00:44:06,070 --> 00:44:07,570
+release all the mutants,
+
+1050
+00:44:07,570 --> 00:44:09,570
+and fill out the change
+of address cards.
+
+1051
+00:44:09,580 --> 00:44:11,080
+Oh, oh, hey, Brain Guy.
+
+1052
+00:44:11,080 --> 00:44:13,580
+Start pitching viruses
+while I shred documents.
+
+1053
+00:44:13,580 --> 00:44:15,080
+- I've got a million things to--
+
+1054
+00:44:15,080 --> 00:44:17,090
+Oh, very well.
+
+1055
+00:44:17,080 --> 00:44:19,080
+- Yes, sir, Nelson.
+
+1056
+00:44:19,090 --> 00:44:21,590
+I don't even care that
+you're coming back to Earth.
+
+1057
+00:44:21,590 --> 00:44:25,590
+I took me a sweet job as
+dictator for life of Qatar.
+
+1058
+00:44:25,590 --> 00:44:27,600
+Now, they've been
+courting me for some time.
+
+1059
+00:44:27,590 --> 00:44:32,090
+They've even sent me
+this beautiful basket
+of flavored sand.
+
+1060
+00:44:32,100 --> 00:44:34,100
+Look at that, Qatar!
+
+1061
+00:44:34,100 --> 00:44:37,110
+My first act is to
+get these idiots a U!
+
+1062
+00:44:37,100 --> 00:44:38,600
+And, Brain Guy?
+
+1063
+00:44:38,610 --> 00:44:40,110
+Brain Guy could care less, too.
+
+1064
+00:44:40,110 --> 00:44:43,110
+He's got lots of stuff
+going on, right, snow crab?
+
+1065
+00:44:43,110 --> 00:44:44,610
+- Oh, yeah.
+
+1066
+00:44:44,610 --> 00:44:46,620
+Hell yeah, in fact.
+
+1067
+00:44:46,610 --> 00:44:49,110
+I've got lots of stuff going on.
+
+1068
+00:44:49,120 --> 00:44:50,620
+- Yes, see, lots of stuff.
+
+1069
+00:44:50,620 --> 00:44:53,620
+Big white guy like
+him, you kidding me?
+
+1070
+00:44:53,620 --> 00:44:54,620
+- Actually, though,
+I was wondering
+
+1071
+00:44:54,620 --> 00:44:56,130
+if you guys would be interested
+
+1072
+00:44:56,120 --> 00:44:58,120
+in getting a place
+together after this?
+
+1073
+00:44:58,120 --> 00:44:59,620
+- Ooh, sorry, I actually have to
+
+1074
+00:44:59,630 --> 00:45:02,130
+live in Qatar to rule over it.
+
+1075
+00:45:02,130 --> 00:45:04,130
+Oh, plus, you smell,
+and I don't like you?
+
+1076
+00:45:04,130 --> 00:45:05,130
+- Naturally.
+
+1077
+00:45:05,130 --> 00:45:06,640
+Bobo, what about you?
+
+1078
+00:45:06,630 --> 00:45:08,630
+- Oh, you see, that's not
+gonna work out for me.
+
+1079
+00:45:08,640 --> 00:45:12,640
+I just took myself an
+important position at the zoo.
+
+1080
+00:45:12,640 --> 00:45:14,640
+Yup, had me a killer interview,
+
+1081
+00:45:14,640 --> 00:45:16,150
+although I thought I'd blown it
+
+1082
+00:45:16,140 --> 00:45:17,640
+when I charged the nice lady
+
+1083
+00:45:17,640 --> 00:45:20,140
+and relieved myself on her desk.
+
+1084
+00:45:20,150 --> 00:45:22,150
+But it turns out they want
+me to start right away.
+
+1085
+00:45:22,150 --> 00:45:24,150
+In fact, they pursued me.
+
+1086
+00:45:24,150 --> 00:45:26,160
+Nets and stun guns, and
+I had to lightly maul
+
+1087
+00:45:26,150 --> 00:45:29,150
+one of my new coworkers.
+
+1088
+00:45:29,160 --> 00:45:30,660
+Anyway, it's free
+room and board.
+
+1089
+00:45:30,660 --> 00:45:33,160
+Besides, I'm too
+important for you now!
+
+1090
+00:45:33,160 --> 00:45:34,660
+Ha, hahaha!
+
+1091
+00:45:34,660 --> 00:45:36,670
+- I guess I'll have
+to take that position
+
+1092
+00:45:36,660 --> 00:45:39,160
+as the all-knowing eternal
+and universal consciousness
+
+1093
+00:45:39,170 --> 00:45:41,670
+over in Rylos-14, then.
+
+1094
+00:45:41,670 --> 00:45:43,670
+- What a loser!
+
+1095
+00:45:43,670 --> 00:45:46,680
+Oh, anyway, Mike, you were
+asking me about severance.
+
+1096
+00:45:46,670 --> 00:45:50,170
+That's on page 74
+of your handbook.
+
+1097
+00:45:50,180 --> 00:45:52,680
+- Oh, okay, I see, got it.
+
+1098
+00:45:52,680 --> 00:45:55,680
+(alarm buzzing)
+We got Movie Sign!
+
+1099
+00:45:55,680 --> 00:45:58,690
+(doors opening)
+
+1100
+00:46:02,690 --> 00:46:05,190
+(sonar beeping)
+
+1101
+00:46:09,630 --> 00:46:11,130
+- [Servo] Choke.
+
+1102
+00:46:14,130 --> 00:46:17,130
+Whoa, leave me alone,
+you horny old goat!
+
+1103
+00:46:18,640 --> 00:46:20,640
+- [Mike] Hello?
+
+1104
+00:46:20,640 --> 00:46:21,640
+(dramatic music)
+
+1105
+00:46:21,640 --> 00:46:24,150
+- [Crow] There are no coasters!
+
+1106
+00:46:26,650 --> 00:46:29,150
+- [Servo] Happy Halloween,
+I came as Powder.
+
+1107
+00:46:29,150 --> 00:46:32,150
+(mysterious music)
+
+1108
+00:46:33,150 --> 00:46:34,650
+- [Mike] After this score,
+
+1109
+00:46:34,650 --> 00:46:37,650
+I'll be able to
+reupholster myself.
+
+1110
+00:46:37,660 --> 00:46:39,660
+- [Crow] Hmm, subtle!
+
+1111
+00:46:43,660 --> 00:46:46,160
+- [Servo] It takes
+a buto dancer.
+
+1112
+00:46:50,670 --> 00:46:55,180
+- [Mike] The inside of his suit
+is just filthy with bronzer.
+
+1113
+00:46:58,180 --> 00:46:59,680
+- [Servo] Man, I hope
+my nougat coating
+
+1114
+00:46:59,680 --> 00:47:02,680
+doesn't wash off
+on the trip back.
+
+1115
+00:47:07,190 --> 00:47:08,190
+- [Mike] I'll take the picture
+
+1116
+00:47:08,190 --> 00:47:11,190
+using the largest
+camera in the world.
+
+1117
+00:47:15,190 --> 00:47:16,690
+- [Lady Clark]
+Harold, do you think
+
+1118
+00:47:16,700 --> 00:47:19,200
+perhaps you should take a tonic?
+
+1119
+00:47:20,200 --> 00:47:22,200
+- [Crow] 11, Mississippi.
+
+1120
+00:47:22,200 --> 00:47:23,210
+12, Mississippi.
+
+1121
+00:47:25,710 --> 00:47:26,710
+- [Mike] That's this room!
+
+1122
+00:47:26,710 --> 00:47:28,210
+I'd know it anywhere.
+
+1123
+00:47:30,710 --> 00:47:31,210
+- What?
+
+1124
+00:47:31,210 --> 00:47:32,710
+- [Servo] Wa-wa.
+
+1125
+00:47:32,710 --> 00:47:33,720
+- What is it?
+
+1126
+00:47:33,710 --> 00:47:34,710
+- Went blank!
+
+1127
+00:47:36,220 --> 00:47:37,220
+- [Harold] Do you
+think the frowst
+
+1128
+00:47:37,220 --> 00:47:38,220
+would have had the rhubarb?
+
+1129
+00:47:38,220 --> 00:47:40,220
+- [Lady Clark] Oh,
+rhubarb, rhubarb, rhubarb!
+
+1130
+00:47:40,220 --> 00:47:42,220
+That's all you think about!
+
+1131
+00:47:42,220 --> 00:47:44,230
+Harold, don't be ridiculous
+and do come to bed.
+
+1132
+00:47:44,220 --> 00:47:45,720
+- [Harold] I think I
+need a new pair of pumps.
+
+1133
+00:47:45,730 --> 00:47:47,730
+I think my feet must be growing.
+
+1134
+00:47:47,730 --> 00:47:49,230
+(shrill scream)
+
+1135
+00:47:49,230 --> 00:47:50,730
+- [Crow] Salieri, Mozart,
+Scarlatti, you're with me!
+
+1136
+00:47:50,730 --> 00:47:51,730
+Come on.
+
+1137
+00:47:53,730 --> 00:47:56,730
+- My necklace, my beautiful,
+beautiful emeralds.
+
+1138
+00:47:56,740 --> 00:47:58,240
+- [Servo] Diabolik's only
+two feet down the tower,
+
+1139
+00:47:58,240 --> 00:48:00,240
+going as fast as he can.
+
+1140
+00:48:06,750 --> 00:48:09,750
+- [Crow] The camera adds
+10 pounds to a room.
+
+1141
+00:48:09,750 --> 00:48:11,750
+(loud gunshots)
+
+1142
+00:48:11,750 --> 00:48:13,760
+- [Servo] The old couple's
+finally having it out.
+
+1143
+00:48:13,750 --> 00:48:14,750
+(loud gunshot)
+
+1144
+00:48:14,750 --> 00:48:15,750
+- Diabolik!
+
+1145
+00:48:18,760 --> 00:48:20,760
+- [Mike] Left my
+suction cups in the can.
+
+1146
+00:48:20,760 --> 00:48:22,260
+What was I thinking?
+
+1147
+00:48:23,760 --> 00:48:25,260
+(loud gunshot)
+
+1148
+00:48:25,260 --> 00:48:29,260
+- [Crow] He has got to
+be a bag of sweat by now.
+
+1149
+00:48:30,270 --> 00:48:32,770
+(door slams)
+
+1150
+00:48:32,770 --> 00:48:36,280
+- [Servo] Oh, this is what
+they apult their cats with.
+
+1151
+00:48:36,280 --> 00:48:37,280
+(rapid gunfire)
+
+1152
+00:48:37,280 --> 00:48:41,280
+- [Crow] Kapellmeister,
+break the door!
+
+1153
+00:48:41,280 --> 00:48:43,790
+(loud gunshot)
+
+1154
+00:48:45,280 --> 00:48:47,280
+(dramatic music)
+
+1155
+00:48:47,290 --> 00:48:48,790
+- [Mike] I guess they like
+
+1156
+00:48:48,790 --> 00:48:51,290
+to launch their
+fruit occasionally.
+
+1157
+00:48:53,290 --> 00:48:54,790
+- [Crow] Step aside, Voltaire.
+
+1158
+00:48:54,790 --> 00:48:57,790
+(loud gunshot)
+
+1159
+00:49:00,300 --> 00:49:02,300
+- [Servo] A flying mummy!
+
+1160
+00:49:03,300 --> 00:49:04,800
+(loud gunshots)
+
+1161
+00:49:04,800 --> 00:49:05,800
+I got him!
+
+1162
+00:49:05,810 --> 00:49:06,810
+I know I did!
+
+1163
+00:49:06,810 --> 00:49:08,310
+- Let's go and see.
+
+1164
+00:49:08,310 --> 00:49:11,310
+- [Mike] If you got
+him, you get a pistol.
+
+1165
+00:49:11,310 --> 00:49:14,820
+(ethereal music)
+
+1166
+00:49:14,810 --> 00:49:17,810
+- [Crow] Okay, I'm nude and I'm
+still trapped in the castle.
+
+1167
+00:49:17,820 --> 00:49:18,820
+Hmm.
+
+1168
+00:49:20,320 --> 00:49:22,320
+(waves splashing)
+
+1169
+00:49:22,320 --> 00:49:23,330
+- [Mike] Could you hold my hand
+
+1170
+00:49:23,320 --> 00:49:24,820
+while we watch the sunset, sir?
+
+1171
+00:49:24,820 --> 00:49:26,820
+- We've been had again.
+
+1172
+00:49:26,830 --> 00:49:28,330
+We must get word to all patrols.
+
+1173
+00:49:28,330 --> 00:49:32,830
+If he's escaping by car, they'll
+stop him at the roadblocks.
+
+1174
+00:49:34,830 --> 00:49:37,830
+- They'll never expect
+us to double back.
+
+1175
+00:49:37,840 --> 00:49:39,340
+We've done it again.
+
+1176
+00:49:41,340 --> 00:49:42,840
+You are hurt.
+
+1177
+00:49:42,840 --> 00:49:44,850
+Have Doc Vernier look
+at that tomorrow.
+
+1178
+00:49:44,840 --> 00:49:46,340
+- [Servo] But I'm
+bleeding pretty bad now.
+
+1179
+00:49:46,350 --> 00:49:48,850
+- [Mike] No, wait 'til tomorrow.
+
+1180
+00:49:51,850 --> 00:49:52,850
+- What'll it be, ma'am?
+
+1181
+00:49:52,850 --> 00:49:53,860
+- Fill it up, please.
+
+1182
+00:49:53,850 --> 00:49:54,850
+- Sure thing.
+
+1183
+00:49:54,850 --> 00:49:57,350
+- [Crow] Okay, Mr. Diabolik!
+
+1184
+00:50:01,860 --> 00:50:05,870
+- [Servo] She's dressed
+like Sheridan Liqueur.
+
+1185
+00:50:08,370 --> 00:50:12,370
+- [Mike] So, Europe just looks
+like Hampshire, Illinois.
+
+1186
+00:50:13,870 --> 00:50:14,870
+- [Crow] Take that little
+thing on the roads, pal,
+
+1187
+00:50:14,870 --> 00:50:16,370
+you'll be in the grill of an SUV
+
+1188
+00:50:16,380 --> 00:50:18,380
+before you can say buongiorno!
+
+1189
+00:50:18,380 --> 00:50:19,880
+- [Servo] Stupid cop.
+
+1190
+00:50:23,380 --> 00:50:26,880
+- [Mike] I'm beginning
+to doubt my comb-over.
+
+1191
+00:50:30,390 --> 00:50:34,400
+- [Crow] Hmm, I think
+I'll get a teriyaki jerky.
+
+1192
+00:50:37,900 --> 00:50:41,900
+- [Servo] Well, I'm done
+showing men what worms they are.
+
+1193
+00:50:43,400 --> 00:50:44,900
+- The tiger's in
+the tank, ma'am.
+
+1194
+00:50:44,900 --> 00:50:46,400
+- Keep the change.
+- Thanks.
+
+1195
+00:50:46,410 --> 00:50:47,910
+Would you like a
+tail for good luck?
+
+1196
+00:50:47,910 --> 00:50:50,410
+- Oh no, thank you,
+I'm not superstitious.
+
+1197
+00:50:50,410 --> 00:50:52,910
+(engine revving)
+
+1198
+00:50:52,910 --> 00:50:54,420
+- [Mike] I should rub myself
+
+1199
+00:50:54,410 --> 00:50:56,910
+with new car scent
+and ask her out.
+
+1200
+00:50:58,920 --> 00:50:59,920
+- [Servo] She's getting away!
+
+1201
+00:50:59,920 --> 00:51:00,920
+What'll I do?
+
+1202
+00:51:03,420 --> 00:51:05,420
+- [Crow] He's wearing
+his tropical tweets.
+
+1203
+00:51:05,420 --> 00:51:07,920
+(birds tweeting)
+
+1204
+00:51:12,930 --> 00:51:13,940
+- [Servo] Oh man
+(chewing noises),
+
+1205
+00:51:13,930 --> 00:51:15,930
+swimming is great exercise.
+
+1206
+00:51:15,940 --> 00:51:17,440
+- Hey, you!
+
+1207
+00:51:17,440 --> 00:51:19,940
+Dang, knock it off, will ya?
+
+1208
+00:51:19,940 --> 00:51:22,940
+- [Mike] Ah, we are
+having fun, aren't we?
+
+1209
+00:51:22,940 --> 00:51:25,450
+- [Crow] (chewing
+noises) Gimme more.
+
+1210
+00:51:25,440 --> 00:51:29,440
+- [Servo] The pool's
+all cluttered with
+Sociables and dip.
+
+1211
+00:51:29,450 --> 00:51:30,450
+- Ralph!
+
+1212
+00:51:31,450 --> 00:51:32,450
+Phone.
+
+1213
+00:51:32,450 --> 00:51:35,460
+- [Mike] I'm coming, Alice.
+
+1214
+00:51:35,450 --> 00:51:36,450
+- Ralph!
+
+1215
+00:51:36,460 --> 00:51:39,960
+- [Crow] I need you to
+razor my corns again!
+
+1216
+00:51:42,460 --> 00:51:43,970
+- It's about time.
+
+1217
+00:51:43,960 --> 00:51:44,960
+- [Servo] You shouldn't
+get out of the pool
+
+1218
+00:51:44,960 --> 00:51:47,460
+until an hour after he's eaten.
+
+1219
+00:51:47,470 --> 00:51:48,970
+- It's a man.
+
+1220
+00:51:48,970 --> 00:51:49,970
+- Shut up.
+
+1221
+00:51:49,970 --> 00:51:50,970
+- [Mike] You're welcome.
+
+1222
+00:51:50,970 --> 00:51:52,470
+- Who is it?
+
+1223
+00:51:52,470 --> 00:51:53,480
+- It's Rudy.
+
+1224
+00:51:53,470 --> 00:51:56,470
+The girl you're after
+is at Vernier's.
+
+1225
+00:51:56,480 --> 00:51:58,980
+- Don't let her
+out of your sight.
+
+1226
+00:51:58,980 --> 00:52:00,980
+- Are you sure no one
+followed you here?
+
+1227
+00:52:00,980 --> 00:52:01,980
+- [Servo] Who's who?
+
+1228
+00:52:01,980 --> 00:52:03,490
+- Why do you ask?
+
+1229
+00:52:03,480 --> 00:52:06,980
+- Listen to me, don't
+come here again, ever.
+
+1230
+00:52:06,990 --> 00:52:08,490
+- [Crow] Or I'll thrust
+my forehead at you.
+
+1231
+00:52:08,490 --> 00:52:10,490
+- What are you
+trying to tell me?
+
+1232
+00:52:10,490 --> 00:52:12,490
+- You came here
+for medical advice.
+
+1233
+00:52:12,490 --> 00:52:15,500
+I'm telling you this for
+your health, and mine.
+
+1234
+00:52:15,490 --> 00:52:16,490
+- [Servo] Eat more vegetables.
+
+1235
+00:52:16,500 --> 00:52:17,500
+- Nurse?
+
+1236
+00:52:17,500 --> 00:52:19,500
+- [Nurse] Yes, doctor?
+
+1237
+00:52:19,500 --> 00:52:22,000
+- Take her along to
+the infrared room.
+
+1238
+00:52:22,000 --> 00:52:23,000
+- [Mike] Oh, and
+do all the work,
+
+1239
+00:52:23,000 --> 00:52:24,510
+and make all the hard decisions
+
+1240
+00:52:24,500 --> 00:52:27,000
+at one-fourth my salary.
+
+1241
+00:52:27,010 --> 00:52:29,010
+- [Crow] Infrared room.
+
+1242
+00:52:30,510 --> 00:52:32,010
+Mike, I beg you to get
+us an infrared room, now!
+
+1243
+00:52:32,010 --> 00:52:33,010
+- [Servo] Please,
+please, please?
+
+1244
+00:52:33,010 --> 00:52:34,020
+- [Crow] Please!
+
+1245
+00:52:34,010 --> 00:52:35,510
+Infrared room?
+
+1246
+00:52:35,510 --> 00:52:39,010
+- [Servo] Ma'am, you
+want me to pop this?
+
+1247
+00:52:40,520 --> 00:52:42,520
+- Now just relax.
+
+1248
+00:52:42,520 --> 00:52:46,030
+I'm going to give you
+the infrared treatment.
+
+1249
+00:52:46,030 --> 00:52:49,030
+- [Mike] It's actually kind
+of a infra-burnt orange.
+
+1250
+00:52:49,030 --> 00:52:50,030
+- Excuse me.
+
+1251
+00:52:50,030 --> 00:52:52,030
+The fuse must have blown.
+
+1252
+00:52:52,030 --> 00:52:55,040
+- [Crow] I don't
+blame it, mmm-hmm.
+
+1253
+00:53:00,040 --> 00:53:04,050
+- [Servo] Would you like
+a sample of Giorgio?
+
+1254
+00:53:04,040 --> 00:53:07,040
+(sinister music)
+
+1255
+00:53:07,050 --> 00:53:11,050
+- [Mike] The bunchy diety
+look, sweeping Europe!
+
+1256
+00:53:12,050 --> 00:53:14,560
+- [Crow] The death
+of Gregg Allman.
+
+1257
+00:53:17,060 --> 00:53:18,560
+- Well, he should
+have called by now!
+
+1258
+00:53:18,560 --> 00:53:19,560
+- Relax.
+
+1259
+00:53:19,560 --> 00:53:20,560
+- [Crow] Don't do it.
+
+1260
+00:53:20,560 --> 00:53:22,560
+- We've got him in a box.
+
+1261
+00:53:22,560 --> 00:53:25,070
+He's too far gone on the girl.
+
+1262
+00:53:25,060 --> 00:53:26,560
+- Is she very beautiful?
+
+1263
+00:53:26,570 --> 00:53:27,570
+- Yeah.
+- Ooh!
+
+1264
+00:53:29,570 --> 00:53:32,070
+- You're too smart to
+ask stupid questions.
+
+1265
+00:53:32,070 --> 00:53:34,080
+- [Servo] No, I'm not!
+
+1266
+00:53:34,070 --> 00:53:35,570
+- Hold it.
+
+1267
+00:53:35,570 --> 00:53:36,570
+- [Mike] Glad I
+paneled the basement.
+
+1268
+00:53:36,580 --> 00:53:39,580
+Now I can finally entertain.
+
+1269
+00:53:39,580 --> 00:53:41,580
+(telephone ringing)
+
+1270
+00:53:41,580 --> 00:53:42,580
+- [Crow] He's stringing
+up some speakers.
+
+1271
+00:53:42,580 --> 00:53:44,090
+It's gonna be great.
+
+1272
+00:53:47,090 --> 00:53:48,090
+- [Servo] Bad guy.
+
+1273
+00:53:48,090 --> 00:53:51,090
+- Enterprise one,
+three-three-three.
+
+1274
+00:53:52,590 --> 00:53:55,100
+- I saw your ad
+regarding white Jaguar.
+
+1275
+00:53:55,090 --> 00:53:56,090
+- [Mike] How new are the tires?
+
+1276
+00:53:56,100 --> 00:53:57,600
+- What's your price?
+
+1277
+00:53:57,600 --> 00:53:59,100
+- $10 million.
+
+1278
+00:54:00,100 --> 00:54:01,100
+Plus...
+
+1279
+00:54:01,100 --> 00:54:02,100
+- [Crow] Dealer and prep.
+
+1280
+00:54:02,100 --> 00:54:03,610
+- An emerald necklace.
+
+1281
+00:54:03,600 --> 00:54:04,600
+- Right.
+
+1282
+00:54:06,110 --> 00:54:08,610
+- And don't try to pull any
+of the funny stuff, huh?
+
+1283
+00:54:08,610 --> 00:54:11,610
+I've got a couple of experts
+at dealing with women here.
+
+1284
+00:54:11,610 --> 00:54:13,110
+- [Servo] Dudley
+Moore and Rick James.
+
+1285
+00:54:13,110 --> 00:54:14,120
+- You might not find it too easy
+
+1286
+00:54:14,110 --> 00:54:16,110
+to recognize her afterwards.
+
+1287
+00:54:16,120 --> 00:54:18,620
+- [Mike] No, I was calling
+about a white Jaguar?
+
+1288
+00:54:18,620 --> 00:54:21,620
+- I accept your conditions.
+
+1289
+00:54:21,620 --> 00:54:23,120
+- That's what I like to hear.
+
+1290
+00:54:23,120 --> 00:54:24,130
+- [Crow] He has a
+pillow top face.
+
+1291
+00:54:24,120 --> 00:54:25,120
+- Yes.
+
+1292
+00:54:26,130 --> 00:54:29,630
+Meet me at Sibby's at
+the Break-In Airport.
+
+1293
+00:54:31,130 --> 00:54:34,140
+- [Servo] He sounded nice.
+
+1294
+00:54:34,130 --> 00:54:37,130
+- Get me Inspector Ginko.
+
+1295
+00:54:37,140 --> 00:54:39,140
+- [Mike] Welcome, Dr. Meacham.
+
+1296
+00:54:39,140 --> 00:54:41,640
+(foreboding music)
+
+1297
+00:54:41,640 --> 00:54:45,650
+- [Crow] So you like my
+cool conversion plane?
+
+1298
+00:54:45,640 --> 00:54:47,140
+- [Servo] Ah,
+they're gonna put him
+
+1299
+00:54:47,150 --> 00:54:50,650
+over the trap door and
+drop him three feet.
+
+1300
+00:54:52,150 --> 00:54:56,660
+- [Mike] You had more than
+one carry-on, you bastard.
+
+1301
+00:54:58,160 --> 00:54:59,660
+- [Servo] I have a
+flashing appointment.
+
+1302
+00:54:59,660 --> 00:55:01,660
+Is this gonna take long?
+
+1303
+00:55:01,660 --> 00:55:03,670
+(engine turning)
+
+1304
+00:55:03,660 --> 00:55:05,160
+- Go check them.
+
+1305
+00:55:07,170 --> 00:55:11,170
+- [Mike] It's full of Jean
+Nate Friction Pour Le Bain!
+
+1306
+00:55:12,670 --> 00:55:16,680
+- [Crow] We're seeing the
+plane's private parts!
+
+1307
+00:55:18,680 --> 00:55:20,180
+- It all seems to be here.
+
+1308
+00:55:20,180 --> 00:55:22,180
+- [Servo] And I'm
+a cartoon walrus!
+
+1309
+00:55:22,180 --> 00:55:23,690
+- The necklace.
+
+1310
+00:55:23,680 --> 00:55:25,180
+- When I've got Eva back.
+
+1311
+00:55:25,180 --> 00:55:27,180
+- No necklace, no Eva.
+
+1312
+00:55:28,190 --> 00:55:30,190
+That's the deal.
+
+1313
+00:55:30,190 --> 00:55:33,700
+- Is that the only deal you've
+got going today, Valmont?
+
+1314
+00:55:33,690 --> 00:55:35,190
+- I don't have to talk.
+
+1315
+00:55:35,190 --> 00:55:36,690
+- [Mike] I'd rather just cuddle.
+
+1316
+00:55:36,700 --> 00:55:38,700
+I could kill you instead.
+
+1317
+00:55:40,200 --> 00:55:41,700
+- Go ahead.
+
+1318
+00:55:41,700 --> 00:55:44,210
+All you've got to do
+is push that button.
+
+1319
+00:55:44,200 --> 00:55:49,200
+- [Crow] That didn't have
+the impact I'd hoped for.
+
+1320
+00:55:49,210 --> 00:55:52,710
+- Valmont, this is
+most unprofessional.
+
+1321
+00:55:52,710 --> 00:55:54,720
+- [Henchman] Boss, we're
+over the target now.
+
+1322
+00:55:54,710 --> 00:55:56,210
+- [Servo] We need
+any discount items?
+
+1323
+00:55:56,220 --> 00:55:57,720
+- Circle this spot.
+
+1324
+00:55:57,720 --> 00:55:58,720
+- [Henchman] Gotcha.
+
+1325
+00:55:58,720 --> 00:55:59,720
+(intercom buzzing)
+
+1326
+00:55:59,720 --> 00:56:01,220
+- [Crow] Excuse me.
+
+1327
+00:56:05,220 --> 00:56:06,720
+- That's where Eva is.
+
+1328
+00:56:06,730 --> 00:56:10,230
+- [Mike] Boss, you look
+chilly, so I brought you this.
+
+1329
+00:56:10,230 --> 00:56:12,230
+- [Valmont] Ever jumped before?
+
+1330
+00:56:12,230 --> 00:56:13,740
+- [Servo] Once, from
+the teeter-totter, yeah.
+
+1331
+00:56:13,730 --> 00:56:14,730
+- [Valmont] Nope.
+
+1332
+00:56:14,730 --> 00:56:16,230
+First, the necklace.
+
+1333
+00:56:18,240 --> 00:56:19,740
+Hold it.
+
+1334
+00:56:19,740 --> 00:56:21,240
+I'll take it.
+
+1335
+00:56:21,240 --> 00:56:22,240
+- [Mike] Well, I
+was just reaching
+
+1336
+00:56:22,240 --> 00:56:25,250
+for my snotty Kleenex, but sure.
+
+1337
+00:56:25,240 --> 00:56:26,740
+- [Valmont] Now.
+
+1338
+00:56:32,250 --> 00:56:34,760
+- [Crow] Eww, it's all
+warm from your pocket!
+
+1339
+00:56:34,750 --> 00:56:37,750
+(dramatic music)
+
+1340
+00:56:38,760 --> 00:56:42,760
+- [Mike] Like I quickly showed
+all three of your faces?
+
+1341
+00:56:48,770 --> 00:56:51,770
+- [Servo] But I'm
+an evil mastermind!
+
+1342
+00:56:55,270 --> 00:56:58,770
+(everyone laughing)
+
+1343
+00:56:58,780 --> 00:57:01,280
+- [Mike] Ha ha ha, this is fun!
+
+1344
+00:57:03,280 --> 00:57:06,290
+- [Crow] My leg is
+turning one-dimensional!
+
+1345
+00:57:06,290 --> 00:57:06,790
+(loud explosion)
+
+1346
+00:57:06,790 --> 00:57:08,790
+- [Servo] Peanut dust!
+
+1347
+00:57:10,290 --> 00:57:12,290
+- I almost forgot.
+
+1348
+00:57:12,290 --> 00:57:13,290
+When I stumbled,
+
+1349
+00:57:13,290 --> 00:57:15,800
+I attached a magnetic
+capsule to your plane.
+
+1350
+00:57:15,790 --> 00:57:16,790
+- Who cares?
+
+1351
+00:57:16,800 --> 00:57:17,800
+Pull the cord!
+
+1352
+00:57:19,300 --> 00:57:20,300
+Pull the cord!
+
+1353
+00:57:20,300 --> 00:57:21,800
+- [Mike] No, it's
+"pull the string!"
+
+1354
+00:57:21,800 --> 00:57:23,810
+- I know it's a trap, Valmont!
+
+1355
+00:57:23,800 --> 00:57:25,800
+Is Eva down there or only Ginko?
+
+1356
+00:57:25,800 --> 00:57:27,300
+- Yeah, yeah!
+
+1357
+00:57:27,310 --> 00:57:28,810
+She's there, in the cabin!
+
+1358
+00:57:28,810 --> 00:57:30,810
+- And Ginko, is Ginko
+down there, too?
+
+1359
+00:57:30,810 --> 00:57:32,310
+- Yeah, yeah!
+
+1360
+00:57:32,310 --> 00:57:34,820
+- [Crow] Like whoa, man, yeah!
+
+1361
+00:57:35,810 --> 00:57:38,810
+- [Servo] Great, it's
+a picnic umbrella.
+
+1362
+00:57:40,320 --> 00:57:40,820
+D'oh!
+
+1363
+00:57:42,320 --> 00:57:45,330
+- [Mike] Wow, I really
+missed Yankee Stadium.
+
+1364
+00:57:45,320 --> 00:57:48,820
+(hard thud)
+(guttural groan)
+
+1365
+00:57:48,830 --> 00:57:52,330
+- [Crow] Ow, I crushed
+all my Pringles.
+
+1366
+00:57:53,830 --> 00:57:54,830
+- It's a trap.
+
+1367
+00:57:54,830 --> 00:57:56,830
+Valmont's made a
+deal with Ginko.
+
+1368
+00:57:56,840 --> 00:57:58,340
+Are you all right?
+
+1369
+00:57:58,340 --> 00:58:01,840
+- [Servo] If my wig
+is straight, I'm fine.
+
+1370
+00:58:01,840 --> 00:58:03,340
+- Damn you, Ginko.
+
+1371
+00:58:05,340 --> 00:58:09,340
+- [Mike] There's people
+coming, I gotta straighten up.
+
+1372
+00:58:09,350 --> 00:58:10,850
+- [Crow] Rat Patrol, too?
+
+1373
+00:58:10,850 --> 00:58:11,350
+Man!
+
+1374
+00:58:13,850 --> 00:58:17,850
+- [Servo] Oh, they're
+trucking in Nittany Lions.
+
+1375
+00:58:19,360 --> 00:58:22,360
+- [Crow] Is it too
+windy back there?
+
+1376
+00:58:25,860 --> 00:58:29,360
+- [Mike] Next birthday, I'm
+taking you to Olive Garden.
+
+1377
+00:58:29,370 --> 00:58:31,370
+(heavy breathing)
+
+1378
+00:58:31,370 --> 00:58:32,370
+- You hide back in the cabin.
+
+1379
+00:58:32,370 --> 00:58:34,380
+I'll draw their fire.
+
+1380
+00:58:34,370 --> 00:58:35,870
+If they get me, you
+know what to do.
+
+1381
+00:58:35,870 --> 00:58:36,870
+- [Crow] Hook up with
+some other idiot?
+
+1382
+00:58:36,880 --> 00:58:37,880
+- But--
+
+1383
+00:58:41,380 --> 00:58:43,380
+- Run, or they get us both.
+
+1384
+00:58:45,880 --> 00:58:47,380
+- [Servo] Okay,
+I'll go find Nova
+
+1385
+00:58:47,390 --> 00:58:49,890
+and hang with her for a while.
+
+1386
+00:58:52,390 --> 00:58:54,900
+(tires screeching)
+
+1387
+00:58:54,890 --> 00:58:56,390
+- [Mike] Thought you guys were
+gonna take the coast road.
+
+1388
+00:58:56,400 --> 00:58:57,900
+Where'd you go?
+
+1389
+00:58:57,900 --> 00:58:59,400
+- Inspector, we've
+got him this time.
+
+1390
+00:58:59,400 --> 00:59:00,900
+He's surrounded.
+
+1391
+00:59:00,900 --> 00:59:03,400
+- [Crow] Ha, they don't know
+about my pencil-thin arms!
+
+1392
+00:59:03,400 --> 00:59:05,410
+(rhythmic primal music)
+
+1393
+00:59:05,400 --> 00:59:07,400
+- [Servo] George, George,
+George of the Jungle!
+
+1394
+00:59:07,410 --> 00:59:09,410
+Strong as he can be.
+
+1395
+00:59:14,410 --> 00:59:15,410
+- [Mike] Good job, tree.
+
+1396
+00:59:15,410 --> 00:59:16,410
+Take it easy.
+
+1397
+00:59:19,420 --> 00:59:20,920
+(rapid gunfire)
+
+1398
+00:59:20,920 --> 00:59:21,920
+- [Crow] Ah-ha, I'll
+give away my position!
+
+1399
+00:59:21,920 --> 00:59:22,920
+Heh heh heh.
+
+1400
+00:59:22,920 --> 00:59:25,930
+(rapid gunfire)
+
+1401
+00:59:25,920 --> 00:59:28,420
+- [Servo] I was
+cleaning the erasers!
+
+1402
+00:59:28,430 --> 00:59:30,930
+(loud gunfire)
+
+1403
+00:59:30,930 --> 00:59:32,930
+(loud gunfire)
+
+1404
+00:59:32,930 --> 00:59:34,440
+(loud gunfire)
+
+1405
+00:59:34,430 --> 00:59:35,930
+- [Mike] Hey, and I let
+your ride on my parachute!
+
+1406
+00:59:35,930 --> 00:59:38,430
+(loud gunfire)
+
+1407
+00:59:39,940 --> 00:59:43,950
+- [Crow] I must remember to
+have my face resharpened.
+
+1408
+00:59:43,940 --> 00:59:45,440
+(ethereal music)
+
+1409
+00:59:45,440 --> 00:59:47,940
+- [Servo] Damn,
+I'm out of staples.
+
+1410
+00:59:47,950 --> 00:59:50,950
+- I've got you, Diabolik.
+
+1411
+00:59:50,950 --> 00:59:51,950
+Come on out.
+
+1412
+00:59:51,950 --> 00:59:53,450
+- Valmont!
+
+1413
+00:59:53,450 --> 00:59:54,960
+Don't play the hero!
+
+1414
+00:59:54,950 --> 00:59:56,450
+- [Mike] Oh, Valmont
+playing the hero.
+
+1415
+00:59:56,460 --> 00:59:58,960
+Why does that not surprise me?
+
+1416
+00:59:59,960 --> 01:00:01,960
+- [Servo] Your pacing is...
+
+1417
+01:00:01,960 --> 01:00:02,960
+so...
+
+1418
+01:00:04,460 --> 01:00:05,960
+important to a...
+
+1419
+01:00:06,470 --> 01:00:07,470
+movie.
+
+1420
+01:00:12,970 --> 01:00:15,480
+- [Crow] Eh, I'll
+just try this again.
+
+1421
+01:00:15,470 --> 01:00:16,970
+- [Servo] D'oh!
+
+1422
+01:00:16,980 --> 01:00:17,980
+D'oh, d'oh, god,
+gotta play the hero.
+
+1423
+01:00:17,980 --> 01:00:19,980
+D'oh, oh, d'oh!
+
+1424
+01:00:19,980 --> 01:00:21,480
+D'oh, ow!
+
+1425
+01:00:21,480 --> 01:00:23,480
+(rapid gunfire)
+
+1426
+01:00:23,480 --> 01:00:23,990
+- Now.
+
+1427
+01:00:29,490 --> 01:00:31,490
+Diabolik!
+
+1428
+01:00:31,490 --> 01:00:31,990
+Give up!
+
+1429
+01:00:32,990 --> 01:00:35,000
+- [Mike] Yeah,
+yeah, yeah, hang on.
+
+1430
+01:00:34,990 --> 01:00:36,990
+I gotta get a Sen-Sen.
+
+1431
+01:00:39,500 --> 01:00:42,500
+- [Crow] Damn
+child-proof spy stuff!
+
+1432
+01:00:45,500 --> 01:00:48,500
+- [Servo] My steel
+reusable Fleet.
+
+1433
+01:00:50,010 --> 01:00:54,020
+- [Mike] Maybe I can run real
+fast and push it into him.
+
+1434
+01:00:55,510 --> 01:00:56,510
+- [Crow] I wasn't
+getting enough iron.
+
+1435
+01:00:56,520 --> 01:00:59,520
+(mechanical click)
+
+1436
+01:01:02,020 --> 01:01:03,520
+- [Servo] He swallowed
+the silver thing.
+
+1437
+01:01:03,520 --> 01:01:04,030
+We're sunk.
+
+1438
+01:01:08,530 --> 01:01:10,530
+- [Mike] This could
+be a long stand off.
+
+1439
+01:01:10,530 --> 01:01:13,030
+I'd better take
+care of, you know.
+
+1440
+01:01:15,030 --> 01:01:18,530
+- [Crow] Uh, Spock,
+are you going back?
+
+1441
+01:01:22,040 --> 01:01:26,050
+- [Servo] Wonder if I can
+see my backyard from up here?
+
+1442
+01:01:27,550 --> 01:01:28,550
+- [Mike] Ah-ha!
+
+1443
+01:01:28,550 --> 01:01:29,550
+Oh.
+
+1444
+01:01:34,050 --> 01:01:37,550
+- [Servo] It's been
+a hard day's night.
+
+1445
+01:01:39,060 --> 01:01:41,060
+- [Crow] Diabol?
+
+1446
+01:01:41,060 --> 01:01:43,060
+Diab, how you doing?
+
+1447
+01:01:45,060 --> 01:01:46,560
+- [Servo] He's dead, I
+have a huge forehead.
+
+1448
+01:01:46,570 --> 01:01:48,570
+What else can go wrong?
+
+1449
+01:01:53,570 --> 01:01:55,580
+- [Mike] Good night,
+sweet thin guy.
+
+1450
+01:01:55,570 --> 01:01:59,570
+- [Crow] A flight of Jaguars
+sing thee to thy rest.
+
+1451
+01:02:05,580 --> 01:02:07,580
+- [Servo] Oh, I suppose
+he's young and has hair.
+
+1452
+01:02:07,590 --> 01:02:09,590
+That means I'm just crap.
+
+1453
+01:02:10,590 --> 01:02:13,090
+- [Doctor] So, this is
+the famous Diabolik?
+
+1454
+01:02:13,090 --> 01:02:15,100
+- [Assistant] Yes, doctor.
+
+1455
+01:02:15,090 --> 01:02:16,090
+- Get him ready.
+
+1456
+01:02:16,090 --> 01:02:16,590
+- Yes, sir.
+
+1457
+01:02:16,600 --> 01:02:19,600
+(busy chatter)
+
+1458
+01:02:19,600 --> 01:02:20,600
+- Is it true he's dead.
+- Yes.
+
+1459
+01:02:20,600 --> 01:02:22,600
+- Was he poisoned?
+
+1460
+01:02:22,600 --> 01:02:26,110
+- Dr. Ferrara is
+performing the autopsy.
+
+1461
+01:02:26,100 --> 01:02:27,600
+- [Servo] I'm playing gearshift.
+
+1462
+01:02:27,610 --> 01:02:29,110
+Vroom, vroom, heh heh.
+
+1463
+01:02:31,110 --> 01:02:33,110
+- We'll begin with
+a circular incision.
+
+1464
+01:02:33,110 --> 01:02:34,120
+Scalpel.
+
+1465
+01:02:34,110 --> 01:02:36,610
+(instruments jingling)
+
+1466
+01:02:36,620 --> 01:02:37,620
+- [Crow] Oh, that's a scalpel?
+
+1467
+01:02:37,620 --> 01:02:39,120
+Oh, I'll use that.
+
+1468
+01:02:42,120 --> 01:02:44,130
+- [Mike] Ugh, let me get
+that nose out of the way.
+
+1469
+01:02:44,120 --> 01:02:47,120
+Just give me a
+little room to work.
+
+1470
+01:02:48,630 --> 01:02:51,630
+(dramatic music)
+
+1471
+01:02:51,630 --> 01:02:56,140
+- [Crow] Here, I'll do
+my own autopsy, thanks.
+
+1472
+01:02:56,130 --> 01:02:57,130
+- [Servo] I'm not
+Werner Klemperer!
+
+1473
+01:02:57,140 --> 01:02:59,140
+Please don't hurt me!
+
+1474
+01:03:01,140 --> 01:03:03,140
+- [Mike] You know, Quincy
+wouldn't take crap like this.
+
+1475
+01:03:03,140 --> 01:03:04,650
+- [Servo] Right.
+
+1476
+01:03:07,150 --> 01:03:09,150
+- Krushan, doctor.
+
+1477
+01:03:09,150 --> 01:03:13,150
+The Tibetan lamas have
+used it for 3,000 years.
+
+1478
+01:03:13,150 --> 01:03:17,160
+It brings on a
+state of suspended
+animation for 12 hours.
+
+1479
+01:03:17,160 --> 01:03:18,660
+But if you're not
+given the antidote,
+
+1480
+01:03:18,660 --> 01:03:20,660
+the apparent death becomes real.
+
+1481
+01:03:20,660 --> 01:03:22,160
+- [Servo] Anyway, I'll
+get back on the table.
+
+1482
+01:03:22,160 --> 01:03:23,660
+- How long's it been, Eva?
+
+1483
+01:03:23,660 --> 01:03:25,170
+- [Crow] Well, it
+shrank when you died--
+
+1484
+01:03:25,160 --> 01:03:26,160
+Oh.
+
+1485
+01:03:28,670 --> 01:03:30,670
+- 11 hours and 57 minutes.
+
+1486
+01:03:30,670 --> 01:03:32,170
+- [Mike] Give or take 11 hours.
+
+1487
+01:03:32,170 --> 01:03:36,180
+(Mystery Science
+Theater 3000 theme)
+
+1488
+01:03:38,480 --> 01:03:40,480
+- Sergeant.
+- Lick me.
+
+1489
+01:03:40,480 --> 01:03:42,480
+- This is our friend
+Valmont's certificate.
+
+1490
+01:03:42,480 --> 01:03:44,990
+- [Mike] He completed
+Piano Book One.
+
+1491
+01:03:44,980 --> 01:03:48,480
+- Cause of death, 11
+machine gun shots.
+
+1492
+01:03:49,490 --> 01:03:50,490
+11 emeralds.
+
+1493
+01:03:51,490 --> 01:03:51,990
+- [Servo] And one pimple.
+
+1494
+01:03:51,990 --> 01:03:53,490
+- 11 bullets.
+
+1495
+01:03:53,490 --> 01:03:54,500
+To the morgue!
+
+1496
+01:03:54,490 --> 01:03:56,490
+- [Crow] I'm really hungry.
+
+1497
+01:03:56,500 --> 01:03:59,000
+- There, Ralph Valmont.
+
+1498
+01:03:59,000 --> 01:04:01,500
+If you'll just sign this here,
+
+1499
+01:04:01,500 --> 01:04:03,500
+here, here, and here.
+
+1500
+01:04:03,500 --> 01:04:04,510
+- Four times.
+
+1501
+01:04:04,500 --> 01:04:06,000
+- Four times, yes.
+
+1502
+01:04:07,510 --> 01:04:10,510
+- [Mike] See,
+Anonymous P. Hancock.
+
+1503
+01:04:13,010 --> 01:04:15,520
+- [Crow] I'll take a
+pack of Marlboros, too.
+
+1504
+01:04:15,510 --> 01:04:18,010
+- He was basically a good boy.
+
+1505
+01:04:18,020 --> 01:04:20,520
+Always sent money to mama.
+
+1506
+01:04:20,520 --> 01:04:22,520
+- [Servo] Hang on, pig oyster.
+
+1507
+01:04:22,520 --> 01:04:24,530
+- There there, buck up.
+
+1508
+01:04:24,520 --> 01:04:28,020
+- [Crow] I'll see if I
+have this in your size.
+
+1509
+01:04:31,030 --> 01:04:35,040
+- [Mike] Mmm, the
+baked beans are ready.
+
+1510
+01:04:35,030 --> 01:04:37,530
+- He'll soon be home at last.
+
+1511
+01:04:38,040 --> 01:04:39,540
+He's in peace now.
+
+1512
+01:04:41,040 --> 01:04:44,550
+Let's see whether
+he's ready yet.
+
+1513
+01:04:44,540 --> 01:04:46,040
+Please.
+
+1514
+01:04:46,040 --> 01:04:48,040
+- [Servo] I put some
+semolina flour in him,
+
+1515
+01:04:48,050 --> 01:04:51,050
+so he'll have a
+nice, crispy crust.
+
+1516
+01:04:52,050 --> 01:04:53,550
+- Yes, he's ready.
+
+1517
+01:04:53,550 --> 01:04:56,060
+- [Crow] For some football!
+
+1518
+01:04:56,050 --> 01:04:57,050
+- Every time...
+
+1519
+01:04:57,060 --> 01:04:58,560
+- [Mike] I'm about to close,
+
+1520
+01:04:58,560 --> 01:05:00,560
+some jerk wants to be cremated.
+
+1521
+01:05:00,560 --> 01:05:03,060
+- I reflect on man's insig--
+
+1522
+01:05:03,060 --> 01:05:06,570
+(sinister laughter)
+
+1523
+01:05:06,570 --> 01:05:07,570
+Have you ever seen a--
+
+1524
+01:05:07,570 --> 01:05:08,570
+(loud clang)
+
+1525
+01:05:08,570 --> 01:05:10,570
+- Excuse me, could
+you tell where the--
+
+1526
+01:05:10,570 --> 01:05:13,570
+- [Servo] So no, then, I guess?
+
+1527
+01:05:15,070 --> 01:05:16,570
+- [Crow] Let's face it,
+this guy operates on
+
+1528
+01:05:16,580 --> 01:05:18,580
+unbelievable luck
+and coincidence.
+
+1529
+01:05:18,580 --> 01:05:20,580
+- [Servo] Yep.
+
+1530
+01:05:20,580 --> 01:05:23,080
+- Excuse me, please, could you
+tell me where the doctor is?
+
+1531
+01:05:23,080 --> 01:05:24,590
+- He's in shock.
+
+1532
+01:05:24,580 --> 01:05:26,080
+- What?
+
+1533
+01:05:26,080 --> 01:05:29,080
+- [Mike] But I have an
+appointment to be cremated!
+
+1534
+01:05:29,090 --> 01:05:30,590
+(cane tumbling)
+
+1535
+01:05:30,590 --> 01:05:33,590
+- [Servo] Mein
+Fuhrer, I can walk!
+
+1536
+01:05:33,590 --> 01:05:35,600
+(sensual music)
+
+1537
+01:05:35,590 --> 01:05:37,090
+- Good.
+
+1538
+01:05:37,100 --> 01:05:38,100
+Don't look.
+
+1539
+01:05:38,100 --> 01:05:39,600
+- [Servo] Ooh hoo!
+
+1540
+01:05:39,600 --> 01:05:42,100
+- [Crow] You know,
+sometimes O-rings can twist
+
+1541
+01:05:42,100 --> 01:05:44,610
+and lose their
+structural integrity.
+
+1542
+01:05:44,600 --> 01:05:46,100
+Ah, who am I kidding?
+
+1543
+01:05:46,100 --> 01:05:47,600
+It's not gonna happen.
+
+1544
+01:05:50,610 --> 01:05:52,110
+- [Servo] No, that's all I got.
+
+1545
+01:05:52,110 --> 01:05:53,610
+- [Diabolik] Two.
+
+1546
+01:05:54,610 --> 01:05:57,110
+- [Mike] Two breast
+emeralds, ha-ha-ha!
+
+1547
+01:05:57,120 --> 01:05:58,620
+- [Diabolik] Three.
+
+1548
+01:06:00,620 --> 01:06:02,120
+Four, five, six.
+
+1549
+01:06:03,620 --> 01:06:05,630
+- [Crow] Right, right, seven,
+eight, right, right, right.
+
+1550
+01:06:05,620 --> 01:06:07,120
+- Eight.
+
+1551
+01:06:07,130 --> 01:06:08,130
+Nine.
+- Ten.
+
+1552
+01:06:10,130 --> 01:06:11,630
+- Happy birthday.
+
+1553
+01:06:11,630 --> 01:06:15,140
+- [Servo] Yeah, what
+else could he get me?
+
+1554
+01:06:16,130 --> 01:06:18,130
+- Oh, you shouldn't
+have, darling.
+
+1555
+01:06:18,140 --> 01:06:19,640
+- [Crow] Well, last year, he
+just went to the gas station
+
+1556
+01:06:19,640 --> 01:06:24,150
+and got some of those underpants
+folded up like a rose.
+
+1557
+01:06:26,650 --> 01:06:29,650
+- [Mike] World-record
+pencil eraser.
+
+1558
+01:06:31,650 --> 01:06:32,650
+- [Servo] I'll start
+my Russian dance
+
+1559
+01:06:32,650 --> 01:06:35,160
+as soon as you're done here.
+
+1560
+01:06:40,160 --> 01:06:42,660
+- Inspector, we followed your
+instructions to the letter.
+
+1561
+01:06:42,660 --> 01:06:46,670
+20 tons of gold melted
+into one big ingot.
+
+1562
+01:06:46,670 --> 01:06:49,170
+Nobody in the world
+could possibly steal it,
+
+1563
+01:06:49,170 --> 01:06:49,670
+considering the weight.
+
+1564
+01:06:49,670 --> 01:06:51,170
+- Uh-huh, yes.
+
+1565
+01:06:52,170 --> 01:06:54,680
+- [Mike] Whip it good, everyone.
+
+1566
+01:06:54,670 --> 01:06:57,670
+- You'd have to sweat for
+two days to open that.
+
+1567
+01:06:57,680 --> 01:06:59,680
+- [Crow] I remain
+cool and dry, sir.
+
+1568
+01:06:59,680 --> 01:07:01,680
+- Of course, our gold reserves
+
+1569
+01:07:01,680 --> 01:07:03,680
+certainly have
+dwindled recently.
+
+1570
+01:07:03,680 --> 01:07:05,190
+- [Servo] And someone's
+been taking paper clips.
+
+1571
+01:07:05,180 --> 01:07:08,680
+- Only since everyone
+stopped paying taxes.
+
+1572
+01:07:08,690 --> 01:07:11,690
+We have to sell the gold
+to get hard currency.
+
+1573
+01:07:11,690 --> 01:07:14,200
+- [Crow] Ooh, I'm glad
+he said "currency."
+
+1574
+01:07:14,190 --> 01:07:17,190
+- [Mike] Oh, don't say goodbye.
+
+1575
+01:07:20,200 --> 01:07:21,700
+- Arm the convoy!
+
+1576
+01:07:21,700 --> 01:07:24,710
+- [Servo] Chicken in the
+breadpan, pickin' up dough.
+
+1577
+01:07:24,700 --> 01:07:26,200
+- [Ginko] Operation Gold Van.
+
+1578
+01:07:26,200 --> 01:07:28,200
+Operation Gold Van.
+
+1579
+01:07:28,210 --> 01:07:30,210
+This is Inspector
+Ginko speaking.
+
+1580
+01:07:30,210 --> 01:07:30,710
+Can you read me?
+
+1581
+01:07:30,710 --> 01:07:32,210
+Over.
+
+1582
+01:07:32,210 --> 01:07:34,220
+- I read you loud
+and clear, over.
+
+1583
+01:07:34,210 --> 01:07:35,710
+- [Ginko] The trains left.
+
+1584
+01:07:35,710 --> 01:07:37,710
+I will be calling you
+at 10-minute intervals.
+
+1585
+01:07:37,720 --> 01:07:38,720
+Over and out.
+
+1586
+01:07:38,720 --> 01:07:41,720
+(train horn blowing)
+
+1587
+01:07:41,720 --> 01:07:45,730
+- [Mike] Sounds like my
+uncle blowing his noise.
+
+1588
+01:07:48,230 --> 01:07:49,230
+- Keep alert.
+
+1589
+01:07:49,230 --> 01:07:51,230
+- [Crow] Nazis commute to work.
+
+1590
+01:07:51,230 --> 01:07:52,730
+- Danek.
+
+1591
+01:07:52,730 --> 01:07:53,730
+- Yes, sir?
+- Take over up front.
+
+1592
+01:07:53,730 --> 01:07:55,240
+- Yes, sir.
+
+1593
+01:07:55,230 --> 01:07:56,230
+- [Servo] Yes, I'm king
+of the front of the train!
+
+1594
+01:07:56,230 --> 01:07:56,730
+Woo-hoo!
+
+1595
+01:07:58,740 --> 01:08:02,740
+- [Crow] Whew, I wish we
+Europeans believed in showering.
+
+1596
+01:08:06,240 --> 01:08:10,240
+- [Mike] How long does it
+take for breadsticks to bake?
+
+1597
+01:08:10,250 --> 01:08:11,250
+- [Servo] Would've thought
+one of these networks
+
+1598
+01:08:11,250 --> 01:08:15,260
+would have put the other
+out of business by now.
+
+1599
+01:08:19,760 --> 01:08:22,760
+- [Mike] Hey, Hans, crack
+that window, will ya?
+
+1600
+01:08:22,760 --> 01:08:23,760
+- Five.
+
+1601
+01:08:23,760 --> 01:08:26,270
+- [Crow] Crap, what's
+the next number, again?
+
+1602
+01:08:26,260 --> 01:08:27,260
+Five...
+
+1603
+01:08:27,270 --> 01:08:28,770
+- Attention.
+
+1604
+01:08:28,770 --> 01:08:29,770
+Attention.
+
+1605
+01:08:30,270 --> 01:08:31,770
+Operation Gold Van.
+
+1606
+01:08:31,770 --> 01:08:33,270
+- [Servo] Paging Mr. Herman.
+
+1607
+01:08:33,270 --> 01:08:35,780
+- [Ginko] To all patrols
+along the line, attention.
+
+1608
+01:08:35,770 --> 01:08:37,270
+Train is underway.
+
+1609
+01:08:37,280 --> 01:08:38,780
+Red flash alert.
+
+1610
+01:08:38,780 --> 01:08:42,280
+Report all suspicious movements
+in vicinity of right of way.
+
+1611
+01:08:42,280 --> 01:08:44,290
+Arrest all persons
+loitering along tracks as--
+
+1612
+01:08:44,280 --> 01:08:45,780
+- [Servo] We gotta do it.
+
+1613
+01:08:45,780 --> 01:08:47,280
+- [Mike] Don't loiter
+near the tracks.
+
+1614
+01:08:47,290 --> 01:08:48,290
+- [Crow] Nope.
+
+1615
+01:08:48,290 --> 01:08:49,290
+- [Servo] Attention.
+
+1616
+01:08:49,290 --> 01:08:50,790
+- [Ginko] DO you
+read me, Patrol 39?
+
+1617
+01:08:50,790 --> 01:08:53,290
+- Uh-huh, Patrol
+39 acknowledging.
+
+1618
+01:08:53,290 --> 01:08:54,800
+We're proceeding with plan.
+
+1619
+01:08:54,790 --> 01:08:56,290
+(doors slamming)
+
+1620
+01:08:56,290 --> 01:08:58,790
+(sonar beeping)
+
+1621
+01:09:06,600 --> 01:09:08,100
+- Hey, and there's me by
+
+1622
+01:09:08,110 --> 01:09:11,610
+the giant fiberglass muskie
+in Hayward, Wisconsin.
+
+1623
+01:09:11,610 --> 01:09:13,110
+- Wow, Mike, I can't wait to see
+
+1624
+01:09:13,110 --> 01:09:15,120
+all the wonders of
+your amazing planet.
+
+1625
+01:09:15,110 --> 01:09:16,110
+- Yeah, me neither.
+
+1626
+01:09:16,110 --> 01:09:17,110
+You know, Crow is gonna love--
+
+1627
+01:09:17,120 --> 01:09:17,620
+Hey, Crow!
+
+1628
+01:09:17,620 --> 01:09:18,620
+Cr--
+
+1629
+01:09:18,620 --> 01:09:20,120
+- Crow?
+- Crow?
+
+1630
+01:09:20,120 --> 01:09:21,620
+- (sobbing) Mike,
+I don't wanna go.
+
+1631
+01:09:21,620 --> 01:09:23,120
+I'm scared!
+
+1632
+01:09:23,120 --> 01:09:25,630
+- I think he wedged
+himself under the desk!
+
+1633
+01:09:25,620 --> 01:09:27,120
+- Oh, brother.
+
+1634
+01:09:27,130 --> 01:09:28,630
+Come on outta there, you big
+lily-livered scaredy Earth!
+
+1635
+01:09:28,630 --> 01:09:30,130
+- Hey, come on, take it easy.
+
+1636
+01:09:30,130 --> 01:09:31,630
+What's the matter, little pal?
+
+1637
+01:09:31,630 --> 01:09:33,630
+- Well, well, the
+Earth is so big,
+
+1638
+01:09:33,630 --> 01:09:34,640
+and there's traffic accidents,
+
+1639
+01:09:34,630 --> 01:09:36,130
+and all those open spaces,
+
+1640
+01:09:36,130 --> 01:09:37,630
+and there's wild pigs.
+
+1641
+01:09:37,640 --> 01:09:38,640
+I wanna stay here.
+
+1642
+01:09:38,640 --> 01:09:39,640
+- Yeah, I thought
+this might happen,
+
+1643
+01:09:39,640 --> 01:09:41,140
+so I wrote a little song.
+
+1644
+01:09:41,140 --> 01:09:43,640
+Kinda help with the jitters?
+
+1645
+01:09:43,640 --> 01:09:45,150
+Servo, Gypsy, will
+you help me out?
+
+1646
+01:09:45,140 --> 01:09:46,640
+- Well, lay on, Cole Porter!
+
+1647
+01:09:46,640 --> 01:09:47,640
+(gentle piano music)
+
+1648
+01:09:47,650 --> 01:09:50,150
+♪ I know it's hard to leave
+
+1649
+01:09:50,150 --> 01:09:52,650
+♪ This little satellite of ours
+
+1650
+01:09:52,650 --> 01:09:54,660
+♪ We've had some fine adventures
+
+1651
+01:09:54,650 --> 01:09:56,650
+♪ We danced among the stars
+
+1652
+01:09:56,650 --> 01:09:57,650
+- We did!
+
+1653
+01:09:57,660 --> 01:09:59,160
+♪ And though we're
+far-out space nuts
+
+1654
+01:09:59,160 --> 01:10:01,160
+♪ No matter where I roam
+
+1655
+01:10:01,160 --> 01:10:02,660
+♪ There's just no other planet
+
+1656
+01:10:02,660 --> 01:10:05,670
+♪ Like the planet I call home
+
+1657
+01:10:05,660 --> 01:10:07,160
+- Wisconsin?
+
+1658
+01:10:07,170 --> 01:10:09,670
+- No, actually, I was
+talking about this...
+
+1659
+01:10:09,670 --> 01:10:12,170
+♪ To Earth
+
+1660
+01:10:12,170 --> 01:10:16,180
+♪ The very birthplace
+of my birth
+
+1661
+01:10:16,170 --> 01:10:20,170
+♪ The thought of Earth
+fills me with mirth
+
+1662
+01:10:20,180 --> 01:10:22,680
+♪ Hey, maybe we'll
+meet Colin Firth
+
+1663
+01:10:22,680 --> 01:10:26,190
+♪ That is a possibility
+
+1664
+01:10:26,180 --> 01:10:28,180
+♪ See
+
+1665
+01:10:28,190 --> 01:10:32,690
+♪ The blossoms on an apple tree
+
+1666
+01:10:32,690 --> 01:10:34,700
+♪ To wander barefoot by the sea
+
+1667
+01:10:34,690 --> 01:10:38,690
+♪ And slice your heel upon a
+broken bottle of Lipton Ice Tea
+
+1668
+01:10:40,200 --> 01:10:41,700
+- C'mon, clam it, shorty,
+you're not helping.
+
+1669
+01:10:41,700 --> 01:10:44,200
+♪ The Earth's a
+big and scary place
+
+1670
+01:10:44,200 --> 01:10:45,710
+♪ With wars and crime and gas
+
+1671
+01:10:45,700 --> 01:10:47,200
+- It is?
+
+1672
+01:10:47,210 --> 01:10:49,210
+♪ They listen to Shawn
+Mullins and Alanis Morrissette
+
+1673
+01:10:49,210 --> 01:10:50,210
+- Oh no!
+
+1674
+01:10:50,210 --> 01:10:52,210
+♪ This satellite
+has been my home
+
+1675
+01:10:52,210 --> 01:10:53,710
+♪ I've never known another
+
+1676
+01:10:53,710 --> 01:10:55,220
+- Me either!
+
+1677
+01:10:55,210 --> 01:10:56,210
+♪ Where will I
+live, what will I do
+
+1678
+01:10:56,210 --> 01:10:58,210
+And can I keep my mother?
+
+1679
+01:10:58,220 --> 01:10:59,720
+- Absolutely
+
+1680
+01:10:59,720 --> 01:11:00,220
+- Mom!
+
+1681
+01:11:01,720 --> 01:11:03,720
+♪ Okay
+
+1682
+01:11:03,720 --> 01:11:04,730
+- Oh no!
+
+1683
+01:11:04,720 --> 01:11:08,720
+♪ Then it's to Earth
+we'll go to stay
+
+1684
+01:11:08,730 --> 01:11:11,230
+♪ Through sylvan glens
+we'll romp and play
+
+1685
+01:11:11,230 --> 01:11:12,730
+- Yeah!
+
+1686
+01:11:12,730 --> 01:11:16,240
+♪ Oh, but what if I
+get eaten by a dog
+
+1687
+01:11:16,230 --> 01:11:17,730
+♪ Or by a manta ray
+
+1688
+01:11:17,740 --> 01:11:19,240
+♪ Let's go
+
+1689
+01:11:19,240 --> 01:11:20,740
+♪ There's so much
+that we don't know
+
+1690
+01:11:20,740 --> 01:11:22,740
+♪ It's Gypsy, Servo,
+Mike, and Crow
+
+1691
+01:11:22,740 --> 01:11:24,750
+♪ I'm scared of water buffalo
+
+1692
+01:11:24,740 --> 01:11:27,240
+♪ Exotic lands
+we'll come to know
+
+1693
+01:11:27,250 --> 01:11:28,750
+♪ We'll all get
+mauled in Chicago
+
+1694
+01:11:28,750 --> 01:11:31,250
+♪ We'll bid the
+satellite farewell
+
+1695
+01:11:31,250 --> 01:11:34,760
+♪ And then we'll go to Earth
+
+1696
+01:11:34,750 --> 01:11:38,250
+♪ Well, now I think
+I'd rather stay
+
+1697
+01:11:38,260 --> 01:11:39,260
+♪ To Earth
+
+1698
+01:11:39,260 --> 01:11:42,260
+♪ I wish to hell
+you wouldn't say
+
+1699
+01:11:42,260 --> 01:11:44,260
+♪ To Earth
+
+1700
+01:11:45,760 --> 01:11:47,260
+- Well, now I can't wait to go!
+
+1701
+01:11:47,270 --> 01:11:49,770
+Show me that giant
+fiberglass muskie!
+
+1702
+01:11:49,770 --> 01:11:50,770
+- That's the spirit!
+
+1703
+01:11:50,770 --> 01:11:51,770
+Hey, Tom, where was that pic--
+
+1704
+01:11:51,770 --> 01:11:53,270
+Tom, Tom?
+
+1705
+01:11:53,270 --> 01:11:55,780
+- I think he wedged
+himself under the desk.
+
+1706
+01:11:55,770 --> 01:11:56,770
+- Uh-oh.
+- Great.
+
+1707
+01:11:56,770 --> 01:11:58,270
+Now I'm gonna have to
+write a whole new song.
+
+1708
+01:11:58,280 --> 01:11:59,280
+We'll be right back.
+
+1709
+01:11:59,280 --> 01:12:00,280
+- Help?
+
+1710
+01:12:02,280 --> 01:12:06,290
+(Mystery Science
+Theater 3000 theme)
+
+1711
+01:12:08,520 --> 01:12:10,520
+(upbeat music)
+
+1712
+01:12:10,520 --> 01:12:13,030
+(Servo humming)
+
+1713
+01:12:15,530 --> 01:12:18,530
+- [Crow] Sorry, ma'am, I'm gay.
+
+1714
+01:12:20,030 --> 01:12:22,540
+- [Mike] Oh, I wore
+that hitchhiking once.
+
+1715
+01:12:22,530 --> 01:12:23,530
+- [Crow] Yeesh.
+
+1716
+01:12:24,540 --> 01:12:26,540
+- Can I help you?
+
+1717
+01:12:26,540 --> 01:12:29,040
+- Oh, thanks, I
+could use a lift.
+
+1718
+01:12:29,040 --> 01:12:31,040
+- [Trucker] Yeah, sure!
+
+1719
+01:12:31,040 --> 01:12:33,050
+- [Servo] If I could
+borrow that belt.
+
+1720
+01:12:33,040 --> 01:12:34,540
+- I ran out of gas.
+
+1721
+01:12:36,550 --> 01:12:37,550
+Oh, I'm so tired.
+
+1722
+01:12:39,050 --> 01:12:42,560
+If you could just drop
+me at the motel, huh?
+
+1723
+01:12:42,550 --> 01:12:43,550
+- Yeah.
+
+1724
+01:12:43,550 --> 01:12:44,550
+- I'll worry about the
+car in the morning.
+
+1725
+01:12:44,560 --> 01:12:46,560
+- [Crow] In my skimpy nightie.
+
+1726
+01:12:46,560 --> 01:12:48,560
+- Oh, oh, my suitcase!
+
+1727
+01:12:48,560 --> 01:12:49,560
+- I'll get it.
+
+1728
+01:12:49,560 --> 01:12:52,570
+- [Servo] I borrowed
+Harvey Fierstein's voice.
+
+1729
+01:12:52,560 --> 01:12:54,060
+- Happy to get it.
+
+1730
+01:12:54,070 --> 01:12:55,570
+- Oh, you're so nice.
+
+1731
+01:12:55,570 --> 01:12:56,570
+(raspy croaking)
+
+1732
+01:12:56,570 --> 01:12:58,070
+- It's heavy.
+
+1733
+01:12:58,070 --> 01:13:01,070
+- Always glad to help
+a lady in distress.
+
+1734
+01:13:03,570 --> 01:13:07,570
+- [Mike] I bought the largest
+toddler jumper I could find.
+
+1735
+01:13:13,080 --> 01:13:14,080
+- [Servo] Would you
+stop being stealthy
+
+1736
+01:13:14,090 --> 01:13:16,590
+and just get in the truck?
+
+1737
+01:13:18,090 --> 01:13:22,100
+- [Crow] Turns out Diabolik
+can't drive a stick.
+
+1738
+01:13:23,590 --> 01:13:25,090
+- [Mike] I usually
+wear my driving thong.
+
+1739
+01:13:25,100 --> 01:13:26,600
+(engine turns)
+
+1740
+01:13:26,600 --> 01:13:28,600
+(upbeat music)
+
+1741
+01:13:28,600 --> 01:13:32,610
+♪ It's not unusual to
+steal trucks from anyone
+
+1742
+01:13:32,600 --> 01:13:36,100
+(musical scatting)
+
+1743
+01:13:36,110 --> 01:13:37,610
+- [Mike] This is so Mentos-y.
+
+1744
+01:13:37,610 --> 01:13:39,110
+- Stop it!
+
+1745
+01:13:39,110 --> 01:13:40,110
+Stop!
+
+1746
+01:13:41,610 --> 01:13:45,610
+- [Crow] Oh, crap, I'm
+supposed to be driving!
+
+1747
+01:13:45,620 --> 01:13:47,120
+- [Servo] Wa-ha!
+
+1748
+01:13:49,120 --> 01:13:51,120
+- [Mike] Ah, Diabolik
+adds to his trail
+
+1749
+01:13:51,120 --> 01:13:53,630
+of charred and
+dismembered bodies.
+
+1750
+01:13:53,620 --> 01:13:56,120
+(loud crash)
+
+1751
+01:13:56,130 --> 01:13:57,630
+- [Crow] George
+Jones drives a truck.
+
+1752
+01:13:57,630 --> 01:14:00,630
+(downtrodden music)
+
+1753
+01:14:01,630 --> 01:14:03,630
+(uptempo surf rock music)
+
+1754
+01:14:03,630 --> 01:14:07,130
+- [Servo] We're beautiful
+and you're a loser!
+
+1755
+01:14:07,140 --> 01:14:08,640
+- [Crow] Ah, it's
+delightful and charming
+
+1756
+01:14:08,640 --> 01:14:12,650
+that they triumphed
+again in the name of sex.
+
+1757
+01:14:14,150 --> 01:14:17,650
+- [Mike] Hey, can I get a
+ride with you, okay fine.
+
+1758
+01:14:17,650 --> 01:14:19,650
+(loud gunshots)
+
+1759
+01:14:19,650 --> 01:14:20,650
+- Requesting aid, repeat.
+
+1760
+01:14:20,650 --> 01:14:22,160
+- Ginko here.
+
+1761
+01:14:22,150 --> 01:14:22,650
+Ginko here!
+
+1762
+01:14:22,650 --> 01:14:23,650
+- [Servo] Ginko here!
+
+1763
+01:14:23,650 --> 01:14:24,650
+- What's happened?
+
+1764
+01:14:24,660 --> 01:14:26,660
+(brakes grinding)
+
+1765
+01:14:26,660 --> 01:14:29,160
+- [Crow] Reginald
+Perrin's on that train.
+
+1766
+01:14:29,160 --> 01:14:31,670
+- [Mike] Flaming truck at
+Brixton, 20 minutes late, Joan.
+
+1767
+01:14:31,660 --> 01:14:34,660
+- He's probably mined the
+entrances to the tunnel.
+
+1768
+01:14:34,670 --> 01:14:36,170
+We can't afford to take chances.
+
+1769
+01:14:36,170 --> 01:14:38,670
+- [Servo] We've drained
+the chances-taking budget.
+
+1770
+01:14:38,670 --> 01:14:40,170
+- We're backing out before--
+
+1771
+01:14:40,170 --> 01:14:41,170
+(loud explosion)
+
+1772
+01:14:41,170 --> 01:14:43,180
+- [Mike] Oh wait, no, we're not.
+
+1773
+01:14:43,170 --> 01:14:47,170
+(humming upbeat music)
+
+1774
+01:14:47,180 --> 01:14:48,680
+Just as I thought.
+
+1775
+01:14:48,680 --> 01:14:50,180
+The tunnel's been blocked
+by two explosions.
+
+1776
+01:14:50,180 --> 01:14:51,180
+Luckily, we're clear.
+
+1777
+01:14:51,180 --> 01:14:52,190
+- [Crow] Are we
+still on for dinner?
+
+1778
+01:14:52,180 --> 01:14:54,180
+- Danek's in pursuit.
+
+1779
+01:14:54,190 --> 01:14:56,190
+The train will have
+to be rerouted.
+
+1780
+01:14:56,190 --> 01:14:57,690
+- Wait.
+
+1781
+01:14:57,690 --> 01:15:00,190
+Three miles back, there's the
+Arleville marshaling yard.
+
+1782
+01:15:00,190 --> 01:15:01,700
+From there, take the unused line
+
+1783
+01:15:01,690 --> 01:15:04,690
+that crosses the bay
+on the Lawrence Bridge.
+
+1784
+01:15:04,700 --> 01:15:07,200
+- [Mike] I'll hit the
+slot machine first.
+
+1785
+01:15:07,200 --> 01:15:10,700
+(uptempo surf rock music)
+
+1786
+01:15:11,700 --> 01:15:14,200
+♪ I only learned one lick
+
+1787
+01:15:14,210 --> 01:15:16,210
+♪ Does it bug you at all
+
+1788
+01:15:16,210 --> 01:15:18,710
+♪ Gotta practice my lick
+
+1789
+01:15:18,710 --> 01:15:21,720
+♪ Only one hour more
+
+1790
+01:15:24,720 --> 01:15:27,220
+- [Servo] Listen, someone's
+beating up Doc Severinsen.
+
+1791
+01:15:27,220 --> 01:15:28,720
+- [Crow] Hey-oh!
+
+1792
+01:15:33,720 --> 01:15:36,720
+- [Mike] Ah, that
+was a great finch.
+
+1793
+01:15:37,730 --> 01:15:40,230
+- Perfect, Ginko, perfect.
+
+1794
+01:15:41,730 --> 01:15:42,730
+- [Servo] Whoopee!
+
+1795
+01:15:42,730 --> 01:15:45,730
+(tires screeching)
+
+1796
+01:15:52,740 --> 01:15:53,740
+- [Crow] Ah, should have
+gotten a sleeper car.
+
+1797
+01:15:53,740 --> 01:15:56,740
+I didn't know this movie
+would take so long!
+
+1798
+01:15:56,750 --> 01:15:59,750
+- [Servo] Man, Von
+Ryan really fell bad.
+
+1799
+01:15:59,750 --> 01:16:00,750
+- [Mike] Bye-bye, Von Ryan.
+
+1800
+01:16:00,750 --> 01:16:01,760
+- [Crow] Bye.
+
+1801
+01:16:03,250 --> 01:16:04,250
+(loud explosion)
+
+1802
+01:16:04,260 --> 01:16:05,760
+- [Mike] Oh, more
+innocent people killed
+
+1803
+01:16:05,760 --> 01:16:07,760
+because of Diabolik's whims.
+
+1804
+01:16:07,760 --> 01:16:09,760
+- [Servo] How wonderful.
+
+1805
+01:16:09,760 --> 01:16:12,270
+(loud splash)
+
+1806
+01:16:13,760 --> 01:16:15,260
+- Something happened?
+
+1807
+01:16:15,270 --> 01:16:16,270
+- [Servo] No.
+
+1808
+01:16:16,270 --> 01:16:17,770
+- Headquarters to
+Operation Gold Van.
+
+1809
+01:16:17,770 --> 01:16:19,770
+Headquarters to
+Operation Gold Van.
+
+1810
+01:16:19,770 --> 01:16:20,770
+I can't hear you.
+
+1811
+01:16:20,770 --> 01:16:21,780
+YOu're drowned out.
+
+1812
+01:16:21,770 --> 01:16:23,770
+- [Crow] The ocean is
+heavily chlorinated.
+
+1813
+01:16:23,770 --> 01:16:26,770
+(water splashing)
+
+1814
+01:16:29,280 --> 01:16:32,290
+(languid music)
+
+1815
+01:16:32,280 --> 01:16:36,280
+- [Mike] I put this rope up so
+the sharks stop bothering me.
+
+1816
+01:16:40,790 --> 01:16:42,300
+- [Servo] Wait, she's a man!
+
+1817
+01:16:42,290 --> 01:16:43,290
+Ugh, yuck.
+
+1818
+01:16:44,800 --> 01:16:46,300
+- [Crow] Ah, he found
+the ocean's plug.
+
+1819
+01:16:46,300 --> 01:16:48,300
+Now he's gonna drain it.
+
+1820
+01:16:51,300 --> 01:16:52,810
+- [Mike] And bring those
+paper towels over here.
+
+1821
+01:16:52,800 --> 01:16:54,300
+I spilled a little.
+
+1822
+01:16:59,810 --> 01:17:00,810
+- [Servo] I don't
+think the rain gear
+
+1823
+01:17:00,810 --> 01:17:02,820
+is gonna help at this point.
+
+1824
+01:17:07,320 --> 01:17:11,320
+- [Crow] My tanks are filled
+with Paul Mitchell products.
+
+1825
+01:17:12,320 --> 01:17:14,320
+(air hissing)
+
+1826
+01:17:14,330 --> 01:17:15,830
+- [Mike] Sorry.
+
+1827
+01:17:15,830 --> 01:17:18,830
+(air hissing)
+
+1828
+01:17:18,830 --> 01:17:21,330
+♪ La la la la
+
+1829
+01:17:22,830 --> 01:17:24,830
+♪ Wa wa wa wa
+
+1830
+01:17:24,840 --> 01:17:26,840
+- [Crow] Lyrics by Chachi.
+
+1831
+01:17:26,840 --> 01:17:28,840
+- [Mike] You know, I heard
+the song as wee-wee-wee.
+
+1832
+01:17:28,840 --> 01:17:31,340
+This is kind of an
+interesting interpretation.
+
+1833
+01:17:31,340 --> 01:17:33,850
+♪ Waa waa waa
+
+1834
+01:17:33,840 --> 01:17:34,840
+- [Servo] Woo!
+
+1835
+01:17:36,350 --> 01:17:39,850
+Man, I'm farting
+a mile a minute.
+
+1836
+01:17:39,850 --> 01:17:41,350
+- [Crow] You're a zero!
+
+1837
+01:17:45,360 --> 01:17:45,860
+- [Servo] Hey!
+
+1838
+01:17:45,860 --> 01:17:47,860
+- [Crow] What?
+
+1839
+01:17:47,860 --> 01:17:49,360
+- [Servo] Hey!
+
+1840
+01:17:49,360 --> 01:17:49,860
+- [Crow] What, Mike,
+what do you want?
+
+1841
+01:17:49,860 --> 01:17:51,360
+- [Mike] No, I...
+
+1842
+01:17:51,360 --> 01:17:52,870
+Nothing, never mind.
+
+1843
+01:17:55,870 --> 01:17:59,870
+- [Servo] Kinda hard to
+drive with fins on, isn't it?
+
+1844
+01:18:02,370 --> 01:18:05,870
+- [Crow] Uh, how do
+you start this thing?
+
+1845
+01:18:08,380 --> 01:18:10,380
+♪ Waa waa, waa waa
+
+1846
+01:18:10,380 --> 01:18:14,390
+- [Mike] Hey, that's Fonzie
+joining in with the whoa-whoa.
+
+1847
+01:18:17,390 --> 01:18:20,890
+- [Crow] Release
+baking soda, and away!
+
+1848
+01:18:23,390 --> 01:18:24,890
+- [Servo] Raising the
+Titanic would be a cinch!
+
+1849
+01:18:24,900 --> 01:18:27,900
+Just get a bunch
+of party balloons.
+
+1850
+01:18:29,400 --> 01:18:30,900
+- [Crow] You know,
+nobody goes through
+
+1851
+01:18:30,900 --> 01:18:34,410
+this kind of trouble any more
+for frankincense or myrrh.
+
+1852
+01:18:38,910 --> 01:18:39,910
+- [Servo] Oh.
+
+1853
+01:18:39,910 --> 01:18:41,410
+Ribbit, sir.
+
+1854
+01:18:41,410 --> 01:18:42,420
+- Well?
+
+1855
+01:18:42,410 --> 01:18:43,410
+- [Frogman] Nothing, inspector.
+
+1856
+01:18:43,410 --> 01:18:44,910
+The gold's not there.
+
+1857
+01:18:44,920 --> 01:18:46,920
+I searched everywhere.
+
+1858
+01:18:46,920 --> 01:18:48,920
+- Why, what do you
+mean it's not there?
+
+1859
+01:18:48,920 --> 01:18:50,420
+It weighs 20 tons!
+
+1860
+01:18:50,420 --> 01:18:52,430
+- [Mike] If it's heavy,
+it has to be there!
+
+1861
+01:18:52,420 --> 01:18:53,420
+- [Crow] What do you
+mean it's not there?
+
+1862
+01:18:53,420 --> 01:18:54,420
+It's blue!
+
+1863
+01:18:57,930 --> 01:19:01,940
+- [Servo] Diabolik really
+likes to tinker in his garage.
+
+1864
+01:19:01,930 --> 01:19:02,930
+- [Crow] Honey, are
+you gonna come up?
+
+1865
+01:19:02,930 --> 01:19:05,430
+I made you a ham sandwich.
+
+1866
+01:19:07,940 --> 01:19:11,440
+- [Mike] He's on the David
+Cassidy workout program.
+
+1867
+01:19:11,440 --> 01:19:15,950
+- [Crow] Boy, labelmakers
+have really come a long way.
+
+1868
+01:19:18,450 --> 01:19:20,950
+- Ahh, I'll put
+it right in here.
+
+1869
+01:19:22,450 --> 01:19:23,950
+- [Servo] I wish more gold
+would get this test done.
+
+1870
+01:19:23,950 --> 01:19:25,950
+It would save a lot of lives.
+
+1871
+01:19:25,960 --> 01:19:26,960
+- Good.
+
+1872
+01:19:26,960 --> 01:19:29,960
+This laser gun
+can melt anything.
+
+1873
+01:19:29,960 --> 01:19:31,460
+Except you, honey.
+
+1874
+01:19:31,460 --> 01:19:35,970
+Nice that gold melts at a
+lower temperature than steel.
+
+1875
+01:19:35,970 --> 01:19:37,470
+It's the only way we can get it.
+
+1876
+01:19:37,470 --> 01:19:39,470
+- [Mike] "Oh, I'm gold,
+I'm hard to steal."
+
+1877
+01:19:39,470 --> 01:19:40,970
+Well, eat me, gold!
+
+1878
+01:19:46,980 --> 01:19:48,980
+- [Crow] Can I get
+you a cappuccino, sir?
+
+1879
+01:19:48,980 --> 01:19:51,480
+(phone buzzing)
+
+1880
+01:19:52,480 --> 01:19:53,480
+- Ginko here.
+
+1881
+01:19:53,480 --> 01:19:54,480
+- Inspector.
+
+1882
+01:19:54,490 --> 01:19:55,990
+- [Servo] I'm Mr. Wilson.
+
+1883
+01:19:55,990 --> 01:19:57,990
+- We allowed you take all
+these extravagant measures
+
+1884
+01:19:57,990 --> 01:20:02,000
+so that the gold would reach
+its destination without fail!
+
+1885
+01:20:01,990 --> 01:20:03,490
+And now, what do I hear?
+
+1886
+01:20:03,490 --> 01:20:05,990
+What am I to report
+to the minister?
+
+1887
+01:20:06,000 --> 01:20:07,500
+What is he to tell
+to Parliament?
+
+1888
+01:20:07,500 --> 01:20:11,000
+That we are bunch of
+helpless jackasses?!
+
+1889
+01:20:12,000 --> 01:20:13,500
+- Let's not exaggerate.
+
+1890
+01:20:13,500 --> 01:20:15,000
+- Exaggerate?
+
+1891
+01:20:15,010 --> 01:20:16,510
+Don't be funny!
+
+1892
+01:20:16,510 --> 01:20:18,010
+- [Mike] Like Fred
+Travalena, sir?
+
+1893
+01:20:18,010 --> 01:20:20,010
+- Well, professor.
+
+1894
+01:20:20,010 --> 01:20:22,020
+- [Professor] Yes, yes?
+
+1895
+01:20:22,010 --> 01:20:23,510
+There are spots.
+
+1896
+01:20:23,510 --> 01:20:25,010
+- Good, there are traces.
+
+1897
+01:20:25,020 --> 01:20:26,020
+- Traces of what?
+
+1898
+01:20:26,020 --> 01:20:26,520
+- [Servo] Love?
+
+1899
+01:20:26,520 --> 01:20:28,020
+- Radioactivity.
+
+1900
+01:20:28,020 --> 01:20:29,520
+As a precaution, I had
+part of the container
+
+1901
+01:20:29,520 --> 01:20:31,520
+holding the gold radioactivated.
+
+1902
+01:20:31,520 --> 01:20:32,530
+- [Mike] Let's not talk.
+
+1903
+01:20:32,520 --> 01:20:34,020
+- Then there's a chance
+of recovering it!
+
+1904
+01:20:34,020 --> 01:20:38,520
+(Mystery Science
+Theater 3000 theme)
+
+1905
+01:20:40,530 --> 01:20:42,540
+- You be careful.
+
+1906
+01:20:42,530 --> 01:20:43,530
+- Don't worry.
+
+1907
+01:20:45,040 --> 01:20:47,540
+With this suit, I could swim
+through the center of the sun.
+
+1908
+01:20:47,540 --> 01:20:50,540
+- [Servo] Well, that's what it
+said in the catalog, anyway.
+
+1909
+01:20:50,540 --> 01:20:53,550
+- [Mike] Wow, that
+enhugens his face.
+
+1910
+01:20:57,050 --> 01:20:59,050
+- [Servo] Mmm, canker sore.
+
+1911
+01:21:00,550 --> 01:21:01,550
+- [Crow] Oh, wow,
+wow, turn it down!
+
+1912
+01:21:01,550 --> 01:21:04,060
+You're getting gold everywhere.
+
+1913
+01:21:09,560 --> 01:21:14,070
+- [Mike] The government's
+French dressing storehouse.
+
+1914
+01:21:17,070 --> 01:21:19,070
+- [Servo] Remember when I
+said that about the gold?
+
+1915
+01:21:19,070 --> 01:21:21,570
+Feels great, that's great.
+
+1916
+01:21:21,570 --> 01:21:22,580
+(diabolic laughter)
+
+1917
+01:21:22,570 --> 01:21:24,070
+- [Crow] Sorry,
+drank too much coffee
+
+1918
+01:21:24,070 --> 01:21:25,570
+and ate a lot of asparagus.
+
+1919
+01:21:25,580 --> 01:21:26,580
+(foreboding music)
+
+1920
+01:21:26,580 --> 01:21:27,580
+- [Servo] Ooh!
+
+1921
+01:21:27,580 --> 01:21:30,580
+- [Mike] Oh, Dr.
+Phibes is drunk again.
+
+1922
+01:21:35,090 --> 01:21:36,090
+- The alarm.
+
+1923
+01:21:36,090 --> 01:21:38,090
+- [Crow] The bed-wetting alarm.
+
+1924
+01:21:38,090 --> 01:21:39,590
+What does it mean?
+
+1925
+01:21:39,590 --> 01:21:40,590
+- Someone's broken in.
+
+1926
+01:21:40,590 --> 01:21:43,600
+- [Servo] Let's go
+swim through the sun.
+
+1927
+01:21:45,100 --> 01:21:49,600
+- [Mike] Kinda glad I didn't
+install a bagpipe alarm.
+
+1928
+01:21:52,100 --> 01:21:55,100
+- [Crow] I need to get
+out of this play suit.
+
+1929
+01:21:55,110 --> 01:21:56,110
+- Run.
+
+1930
+01:21:56,110 --> 01:21:57,110
+I'll meet you in
+tunnel number seven.
+
+1931
+01:21:57,110 --> 01:21:58,110
+They'll never find us there.
+
+1932
+01:21:58,110 --> 01:21:59,610
+- Why aren't you coming now?
+
+1933
+01:21:59,610 --> 01:22:00,110
+- I've got to open the locks.
+
+1934
+01:22:00,110 --> 01:22:01,610
+- [Mike] And bagels.
+
+1935
+01:22:01,610 --> 01:22:03,120
+- They'll drown like rats.
+
+1936
+01:22:03,110 --> 01:22:04,110
+- I'll wait for you.
+
+1937
+01:22:04,110 --> 01:22:05,110
+I'm not going alone!
+
+1938
+01:22:05,120 --> 01:22:07,620
+- [Servo] Who will
+inflate my lips?
+
+1939
+01:22:07,620 --> 01:22:08,620
+- You are.
+
+1940
+01:22:08,620 --> 01:22:10,620
+You'll not be
+alone while I live.
+
+1941
+01:22:10,620 --> 01:22:12,130
+- [Crow] You can
+stay with my mom.
+
+1942
+01:22:12,120 --> 01:22:13,120
+- Now go!
+
+1943
+01:22:17,130 --> 01:22:19,630
+- [Mike] Keep going.
+
+1944
+01:22:19,630 --> 01:22:20,630
+Keep--
+
+1945
+01:22:20,630 --> 01:22:22,140
+Keep going further.
+
+1946
+01:22:22,130 --> 01:22:23,130
+Go.
+
+1947
+01:22:28,140 --> 01:22:30,640
+- [Crow] A box of men got out.
+
+1948
+01:22:32,640 --> 01:22:34,640
+- [Servo] That suit has to
+be a little constricting.
+
+1949
+01:22:34,650 --> 01:22:36,650
+- [Crow] You know he's
+taping and tucking.
+
+1950
+01:22:36,650 --> 01:22:38,650
+- [Servo] He's gotta be.
+
+1951
+01:22:43,150 --> 01:22:44,650
+(loud gunshots)
+
+1952
+01:22:44,660 --> 01:22:45,660
+- [Mike] D'oh, my
+own shotgun trap!
+
+1953
+01:22:45,660 --> 01:22:47,160
+I keep forgetting.
+
+1954
+01:22:49,160 --> 01:22:50,160
+(loud gunshots)
+
+1955
+01:22:50,160 --> 01:22:51,160
+- [Crow] Okay, geez!
+
+1956
+01:22:51,160 --> 01:22:51,660
+I gotcha.
+
+1957
+01:22:51,660 --> 01:22:52,670
+(loud gunshots)
+
+1958
+01:22:52,660 --> 01:22:54,160
+- [Servo] Kato, no!
+
+1959
+01:22:54,160 --> 01:22:56,660
+(rapid gunshots)
+
+1960
+01:22:58,170 --> 01:23:00,670
+(rapid gunshots)
+
+1961
+01:23:00,670 --> 01:23:02,680
+(loud gunshots)
+
+1962
+01:23:02,670 --> 01:23:04,670
+- [Crow] Well, I'm
+sorry if you're offended
+
+1963
+01:23:04,680 --> 01:23:06,180
+by my random murders.
+
+1964
+01:23:06,180 --> 01:23:09,180
+(loud gunshots)
+
+1965
+01:23:11,180 --> 01:23:12,690
+- [Mike] No, it's boiling over.
+
+1966
+01:23:12,680 --> 01:23:14,680
+Now the house is gonna
+smell like burnt gold.
+
+1967
+01:23:14,690 --> 01:23:15,690
+- [Crow] Great.
+
+1968
+01:23:18,690 --> 01:23:20,190
+Ha ha, I'm useless
+against your weapons!
+
+1969
+01:23:20,190 --> 01:23:21,190
+I mean...
+
+1970
+01:23:21,190 --> 01:23:23,700
+(rapid gunshots)
+
+1971
+01:23:23,690 --> 01:23:25,190
+- Diabolik!
+
+1972
+01:23:25,200 --> 01:23:27,200
+You're finished!
+
+1973
+01:23:27,200 --> 01:23:29,700
+The exits are blocked!
+
+1974
+01:23:29,700 --> 01:23:31,700
+- [Servo] I'll bulge
+my eyes at you!
+
+1975
+01:23:31,700 --> 01:23:35,210
+(loud explosion)
+
+1976
+01:23:35,210 --> 01:23:36,210
+- [Mike] Help, I forgot to wear
+
+1977
+01:23:36,210 --> 01:23:39,710
+swimming-through-the-sun-proof
+socks!
+
+1978
+01:23:39,710 --> 01:23:41,210
+Ow!
+
+1979
+01:23:41,210 --> 01:23:42,720
+- [Servo] Some kids get
+covered with molten gold
+
+1980
+01:23:42,710 --> 01:23:44,710
+when they sit and spin...
+
+1981
+01:23:49,220 --> 01:23:53,730
+- [Crow] Suit didn't work
+as well as I thought.
+
+1982
+01:23:53,720 --> 01:23:55,720
+- [Mike] He's a golden Gumby.
+
+1983
+01:23:57,230 --> 01:24:00,230
+♪ Gold everything
+
+1984
+01:24:01,230 --> 01:24:03,240
+(general chatter)
+
+1985
+01:24:03,230 --> 01:24:06,230
+- [Crow] What is that,
+a pack of baboons?
+
+1986
+01:24:06,240 --> 01:24:08,740
+(Servo grunting)
+
+1987
+01:24:09,740 --> 01:24:11,240
+- Thank you very much.
+
+1988
+01:24:11,240 --> 01:24:14,250
+- [Mike] Sir, is it true
+you're dating Ben Affleck?
+
+1989
+01:24:14,240 --> 01:24:17,740
+- Barbaric, displaying the
+body of a fallen enemy.
+
+1990
+01:24:17,750 --> 01:24:18,750
+- The minister.
+
+1991
+01:24:18,750 --> 01:24:21,750
+Besides, it's good publicity.
+
+1992
+01:24:21,750 --> 01:24:24,260
+(general chatter)
+
+1993
+01:24:24,250 --> 01:24:26,250
+- [Servo] Isn't it cool?
+
+1994
+01:24:26,260 --> 01:24:27,260
+You guys.
+
+1995
+01:24:29,760 --> 01:24:34,270
+- [Crow] Kind of stupid to have
+an underground observatory.
+
+1996
+01:24:34,260 --> 01:24:35,760
+- Order this place
+to be cleared.
+
+1997
+01:24:35,770 --> 01:24:36,270
+- Yes, sir.
+
+1998
+01:24:36,270 --> 01:24:38,270
+- [Servo] I'll fart.
+
+1999
+01:24:40,270 --> 01:24:41,270
+- Everybody out, please.
+
+2000
+01:24:41,270 --> 01:24:42,280
+- [Servo] I took
+a Swizzle Stick.
+
+2001
+01:24:42,270 --> 01:24:43,770
+- Alright, gentlemen, leave.
+
+2002
+01:24:43,770 --> 01:24:45,270
+This way, please.
+
+2003
+01:24:46,280 --> 01:24:47,780
+- [Mike] Ah, there
+ain't no story here.
+
+2004
+01:24:47,780 --> 01:24:49,780
+I'm just gonna write
+about the Internet.
+
+2005
+01:24:49,780 --> 01:24:51,280
+(general chatter)
+
+2006
+01:24:51,280 --> 01:24:54,290
+- [Crow] These guys are
+part of the Rhythm Nation.
+
+2007
+01:24:54,280 --> 01:24:55,780
+Not entirely.
+
+2008
+01:24:55,790 --> 01:24:58,290
+(dull droning)
+
+2009
+01:24:59,790 --> 01:25:02,300
+(dramatic music)
+
+2010
+01:25:02,290 --> 01:25:05,790
+- [Servo] They're
+raiding my refrigerator!
+
+2011
+01:25:08,300 --> 01:25:12,810
+- [Mike] And the movie
+just kinds of peters out.
+
+2012
+01:25:12,800 --> 01:25:13,800
+- [Crow] Well, let's
+see if we can find
+
+2013
+01:25:13,800 --> 01:25:16,300
+another hero somewhere else.
+
+2014
+01:25:19,310 --> 01:25:21,810
+(melancholy music)
+
+2015
+01:25:21,810 --> 01:25:26,320
+- [Mike] I'll sneak out while
+he has no peripheral vision.
+
+2016
+01:25:27,320 --> 01:25:30,820
+- [Crow] Did she get
+stuck in a bear's behind?
+
+2017
+01:25:31,820 --> 01:25:33,330
+- [Servo] Hmm, I thought I heard
+
+2018
+01:25:33,320 --> 01:25:35,320
+someone laughing at my outfit.
+
+2019
+01:25:35,330 --> 01:25:35,830
+Oh, well.
+
+2020
+01:25:38,330 --> 01:25:40,330
+- [Crow] Well, this
+place looks cavernous,
+
+2021
+01:25:40,330 --> 01:25:42,840
+but it's only got a little
+cramped kitchenette.
+
+2022
+01:25:42,830 --> 01:25:43,830
+It's real pink.
+
+2023
+01:25:49,340 --> 01:25:53,350
+Shouldn't the Sandpipers
+start singing right about now?
+
+2024
+01:25:57,350 --> 01:26:00,350
+- [Crow] Well, I'm
+off to the Iditarod.
+
+2025
+01:26:01,850 --> 01:26:04,860
+- [Servo] What's
+that stain up there?
+
+2026
+01:26:07,860 --> 01:26:11,860
+- [Mike] If only he'd been
+drenched in zero coupon bonds.
+
+2027
+01:26:15,870 --> 01:26:18,870
+- [Crow] Oh, I know you
+stabilized our economy,
+
+2028
+01:26:18,870 --> 01:26:20,870
+but it's hard to accept.
+
+2029
+01:26:24,880 --> 01:26:27,380
+- [Servo] We had so many
+innocent people left to murder.
+
+2030
+01:26:27,380 --> 01:26:28,380
+Yeah.
+
+2031
+01:26:31,380 --> 01:26:32,390
+(sinister music)
+- Can You move your car?
+
+2032
+01:26:32,380 --> 01:26:33,880
+You parked me in.
+
+2033
+01:26:40,390 --> 01:26:42,400
+- I was expecting
+you, inspector.
+
+2034
+01:26:42,390 --> 01:26:43,390
+- [Servo] I wasn't
+expecting your expecting
+
+2035
+01:26:43,390 --> 01:26:47,390
+when I expectorated your
+injector, inspector.
+
+2036
+01:26:47,400 --> 01:26:50,400
+- I knew you wouldn't be
+able to resist seeing him.
+
+2037
+01:26:50,400 --> 01:26:51,400
+- Please...
+
+2038
+01:26:51,400 --> 01:26:53,410
+- [Mike] Get bent.
+
+2039
+01:26:53,400 --> 01:26:56,400
+- Give me a few seconds more.
+
+2040
+01:26:56,410 --> 01:26:57,410
+Alone.
+
+2041
+01:26:59,910 --> 01:27:02,420
+- [Crow] Oh, man,
+my nose itches.
+
+2042
+01:27:04,920 --> 01:27:06,920
+- [Mike] Well, you guys
+have never tricked me,
+
+2043
+01:27:06,920 --> 01:27:08,420
+so I guess it's okay.
+
+2044
+01:27:09,920 --> 01:27:11,920
+- [Servo] Oh, once this
+giant mink gives birth to me,
+
+2045
+01:27:11,920 --> 01:27:13,930
+I'll help you, honey.
+
+2046
+01:27:17,430 --> 01:27:19,430
+- [Mike] Invest me wisely.
+
+2047
+01:27:24,430 --> 01:27:26,430
+- [Crow] Hey, watch the hand!
+
+2048
+01:27:26,440 --> 01:27:28,940
+(dramatic music)
+
+2049
+01:27:28,940 --> 01:27:33,450
+- [Servo] (muffled) Woman, get
+this stupid thing off of me!
+
+2050
+01:27:33,440 --> 01:27:35,440
+- [Mike] Not to take
+anything away from Diabolik,
+
+2051
+01:27:35,450 --> 01:27:38,450
+but this guy was not the
+sharpest arch-nemesis.
+
+2052
+01:27:38,450 --> 01:27:39,950
+- [Crow] That's not to say
+anything bad about Diabolik--
+
+2053
+01:27:39,950 --> 01:27:43,460
+- [Mike] Not to take
+anything away from him.
+
+2054
+01:27:43,450 --> 01:27:45,450
+- Thank you, inspector.
+
+2055
+01:27:46,460 --> 01:27:48,460
+You don't know
+how grateful I am.
+
+2056
+01:27:48,460 --> 01:27:52,970
+- [Crow] He's basically an
+eyebrow delivery system.
+
+2057
+01:27:57,470 --> 01:28:01,470
+- [Servo] Man, there's a cold
+Heineken sitting right there!
+
+2058
+01:28:05,480 --> 01:28:06,980
+♪ Deep, deep down
+
+2059
+01:28:06,980 --> 01:28:09,480
+- [Mike] It doesn't really
+seem like he comes out ahead.
+
+2060
+01:28:09,480 --> 01:28:09,980
+- [Crow] Not really.
+
+2061
+01:28:09,980 --> 01:28:11,980
+♪ Deep, deep down
+
+2062
+01:28:11,980 --> 01:28:14,490
+(diabolic laughter)
+
+2063
+01:28:14,480 --> 01:28:17,480
+- [Crow] Hey, who
+turned off the lights?
+
+2064
+01:28:18,990 --> 01:28:23,000
+- [Servo] This has been the
+official biopic of Larry Fine.
+
+2065
+01:28:22,990 --> 01:28:24,990
+(doors slamming)
+
+2066
+01:28:25,000 --> 01:28:27,000
+(sonar beeping)
+
+2067
+01:28:27,000 --> 01:28:30,000
+(doors slamming)
+
+2068
+01:28:34,000 --> 01:28:36,470
+(alarm beeping)
+
+2069
+01:28:36,470 --> 01:28:37,970
+- Tom, what's our situation?
+
+2070
+01:28:37,980 --> 01:28:39,480
+- Beginning reentry, Mike!
+
+2071
+01:28:39,480 --> 01:28:40,480
+- Good.
+
+2072
+01:28:40,480 --> 01:28:41,980
+(loud explosion)
+- Ugh!
+
+2073
+01:28:41,980 --> 01:28:43,480
+Total heat shield failure, Mike!
+
+2074
+01:28:43,480 --> 01:28:44,980
+- Bad.
+
+2075
+01:28:44,980 --> 01:28:46,490
+What's going on?
+- Deck Three broken away!
+
+2076
+01:28:46,480 --> 01:28:46,980
+(loud explosion)
+
+2077
+01:28:46,980 --> 01:28:48,480
+Deck Four broken away!
+
+2078
+01:28:48,490 --> 01:28:49,990
+(loud explosion)
+
+2079
+01:28:49,990 --> 01:28:51,990
+- Oh my gosh, Cambot, give
+me Rocket Number Nine!
+
+2080
+01:28:51,990 --> 01:28:53,490
+- Whoa, Nelly!
+
+2081
+01:28:53,490 --> 01:28:56,000
+(loud explosions)
+Deck Five broken away!
+
+2082
+01:28:55,990 --> 01:28:57,490
+Deck Six, broken away!
+
+2083
+01:28:57,490 --> 01:28:58,490
+(loud explosion)
+
+2084
+01:28:58,500 --> 01:29:00,500
+Deck Seven, melting
+and broken away!
+
+2085
+01:29:00,500 --> 01:29:02,000
+- Gypsy, what do we do?
+
+2086
+01:29:02,000 --> 01:29:03,000
+- We burn up horribly.
+
+2087
+01:29:03,000 --> 01:29:05,000
+It's too dreadful
+to contemplate!
+
+2088
+01:29:05,000 --> 01:29:08,510
+Oh my god in heaven, please
+have mercy on our souls!
+
+2089
+01:29:08,510 --> 01:29:10,010
+- I'll call Pearl.
+
+2090
+01:29:10,010 --> 01:29:12,510
+- Uh-oh, toxic gas filling our
+lungs and our nasal passages!
+
+2091
+01:29:12,510 --> 01:29:14,010
+- [Mike] Pearl!
+
+2092
+01:29:14,010 --> 01:29:15,520
+- Now sing, dammit, sing!
+
+2093
+01:29:15,510 --> 01:29:20,010
+♪ It's a long way
+to tip a rare breed
+
+2094
+01:29:20,020 --> 01:29:23,020
+♪ It's a long way
+
+2095
+01:29:24,520 --> 01:29:26,030
+- Look, Nelson.
+
+2096
+01:29:26,020 --> 01:29:27,520
+Move on.
+
+2097
+01:29:27,520 --> 01:29:29,020
+I am.
+
+2098
+01:29:29,030 --> 01:29:31,030
+(electronic static)
+
+2099
+01:29:31,030 --> 01:29:34,030
+- Whoa, Deck Nine crashing
+through Deck 10 and 11!
+
+2100
+01:29:34,030 --> 01:29:35,030
+- This is it!
+
+2101
+01:29:35,030 --> 01:29:36,040
+We're going down!
+
+2102
+01:29:36,030 --> 01:29:36,530
+(loud explosion)
+
+2103
+01:29:36,530 --> 01:29:38,030
+- Brace for impact!
+
+2104
+01:29:38,040 --> 01:29:40,040
+- We're all gonna die!
+
+2105
+01:29:40,040 --> 01:29:42,040
+- Mike, have you seen
+my other sweater?
+
+2106
+01:29:42,040 --> 01:29:45,550
+(panicked screaming)
+
+2107
+01:29:45,540 --> 01:29:48,540
+(loud crash)
+
+2108
+01:29:48,550 --> 01:29:51,050
+(loud explosion)
+
+2109
+01:29:51,050 --> 01:29:53,550
+(light music)
+
+2110
+01:29:56,050 --> 01:30:00,050
+- Heh heh heh, boy, oh boy,
+this ConGypsCo stock is up!
+
+2111
+01:30:00,060 --> 01:30:01,560
+I mean, way up!
+
+2112
+01:30:01,560 --> 01:30:04,560
+- Well, Gypsy did want to let
+us in on her public offering,
+
+2113
+01:30:04,560 --> 01:30:05,570
+but we said no.
+
+2114
+01:30:05,560 --> 01:30:08,560
+- Well, if you remember,
+I made a fart noise.
+
+2115
+01:30:08,570 --> 01:30:10,570
+She only took it as a no.
+
+2116
+01:30:10,570 --> 01:30:12,570
+- Well, still, it
+all worked out.
+
+2117
+01:30:12,570 --> 01:30:15,070
+I mean, we were very fortunate
+to walk away from that crash.
+
+2118
+01:30:15,070 --> 01:30:16,580
+- I'll say.
+- Oh, yeah.
+
+2119
+01:30:16,570 --> 01:30:17,570
+- I guess if we were
+all multibillionaires,
+
+2120
+01:30:17,570 --> 01:30:19,070
+you guys wouldn't
+have moved in with me.
+
+2121
+01:30:19,080 --> 01:30:20,580
+- True.
+- Yeah, that's right.
+
+2122
+01:30:20,580 --> 01:30:22,080
+Sweet garden-level living.
+
+2123
+01:30:22,080 --> 01:30:25,080
+One bedroom, one half-bath,
+and on the bus line.
+
+2124
+01:30:25,080 --> 01:30:26,090
+- Sweet!
+
+2125
+01:30:26,080 --> 01:30:27,580
+- Hey, who's for rice?
+
+2126
+01:30:27,580 --> 01:30:28,580
+- Would you sit down?
+
+2127
+01:30:28,590 --> 01:30:29,590
+The movie's about to start!
+
+2128
+01:30:29,590 --> 01:30:31,090
+- Come here, dummy!
+
+2129
+01:30:32,090 --> 01:30:34,590
+- [Announcer] WTMJ TV
+in Milwaukee presents
+
+2130
+01:30:34,590 --> 01:30:37,100
+our Saturday afternoon
+movie, The Crawling Eye.
+
+2131
+01:30:37,090 --> 01:30:40,090
+(dramatic music)
+
+2132
+01:30:42,600 --> 01:30:47,110
+- The Crawling Eye, the
+Marty Feldman story.
+
+2133
+01:30:47,100 --> 01:30:48,600
+- [Mike] Oh, Forrest Tucker.
+
+2134
+01:30:48,610 --> 01:30:52,110
+He's the guy that makes sure
+the trees' shirt tails are in.
+
+2135
+01:30:53,610 --> 01:30:56,120
+- This movie looks kind
+of familiar, doesn't it?
+
+2136
+01:30:56,110 --> 01:30:57,610
+- [Servo] Hmm...
+
+2137
+01:30:58,850 --> 01:31:01,350
+(MST3K Love Theme)
+
+2138
+01:32:00,910 --> 01:32:03,420
+(siren whooping)
+
+2139
+01:32:03,410 --> 01:32:06,240
+- [Valmont] Is that Stud coming?
+

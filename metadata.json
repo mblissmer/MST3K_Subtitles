@@ -2,8 +2,8 @@
   {
     "season": 1,
     "episode": 1,
-    "title": "TheCrawlingEye",
-    "file": "subtitles/S01E01.TheCrawlingEye.srt",
+    "title": "The Crawling Eye",
+    "file": "subtitles/S01E01.The.Crawling.Eye.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -11,8 +11,8 @@
   {
     "season": 1,
     "episode": 2,
-    "title": "TheRobotVsTheAztecMummy",
-    "file": "subtitles/S01E02.TheRobotVsTheAztecMummy.srt",
+    "title": "The Robot Vs The Aztec Mummy",
+    "file": "subtitles/S01E02.The.Robot.Vs.The.Aztec.Mummy.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -20,8 +20,8 @@
   {
     "season": 1,
     "episode": 3,
-    "title": "TheMadMonster",
-    "file": "subtitles/S01E03.TheMadMonster.srt",
+    "title": "The Mad Monster",
+    "file": "subtitles/S01E03.The.Mad.Monster.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -29,8 +29,8 @@
   {
     "season": 1,
     "episode": 4,
-    "title": "WomenOfThePrehistoricPlanet",
-    "file": "subtitles/S01E04.WomenOfThePrehistoricPlanet.srt",
+    "title": "Women Of The Prehistoric Planet",
+    "file": "subtitles/S01E04.Women.Of.The.Prehistoric.Planet.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -38,8 +38,8 @@
   {
     "season": 1,
     "episode": 5,
-    "title": "TheCorpseVanishes",
-    "file": "subtitles/S01E05.TheCorpseVanishes.srt",
+    "title": "The Corpse Vanishes",
+    "file": "subtitles/S01E05.The.Corpse.Vanishes.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -47,8 +47,8 @@
   {
     "season": 1,
     "episode": 6,
-    "title": "TheCrawlingHand",
-    "file": "subtitles/S01E06.TheCrawlingHand.srt",
+    "title": "The Crawling Hand",
+    "file": "subtitles/S01E06.The.Crawling.Hand.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -56,8 +56,8 @@
   {
     "season": 1,
     "episode": 7,
-    "title": "RobotMonster",
-    "file": "subtitles/S01E07.RobotMonster.srt",
+    "title": "Robot Monster",
+    "file": "subtitles/S01E07.Robot.Monster.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -65,8 +65,8 @@
   {
     "season": 1,
     "episode": 8,
-    "title": "TheSlimePeople",
-    "file": "subtitles/S01E08.TheSlimePeople.srt",
+    "title": "The Slime People",
+    "file": "subtitles/S01E08.The.Slime.People.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -74,8 +74,8 @@
   {
     "season": 1,
     "episode": 9,
-    "title": "ProjectMoonBase",
-    "file": "subtitles/S01E09.ProjectMoonBase.srt",
+    "title": "Project Moon Base",
+    "file": "subtitles/S01E09.Project.Moon.Base.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -83,8 +83,8 @@
   {
     "season": 1,
     "episode": 10,
-    "title": "RobotHolocaust",
-    "file": "subtitles/S01E10.RobotHolocaust.srt",
+    "title": "Robot Holocaust",
+    "file": "subtitles/S01E10.Robot.Holocaust.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -92,8 +92,8 @@
   {
     "season": 1,
     "episode": 11,
-    "title": "MoonZeroTwo",
-    "file": "subtitles/S01E11.MoonZeroTwo.srt",
+    "title": "Moon Zero Two",
+    "file": "subtitles/S01E11.Moon.Zero.Two.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -101,8 +101,17 @@
   {
     "season": 1,
     "episode": 12,
-    "title": "UntamedYouth",
-    "file": "subtitles/S01E12.UntamedYouth.srt",
+    "title": "Untamed Youth",
+    "file": "subtitles/S01E12.Untamed.Youth.srt",
+    "source": "",
+    "quality": "",
+    "notes": ""
+  },
+  {
+    "season": 1,
+    "episode": 13,
+    "title": "The Black Scorpion",
+    "file": "subtitles/S01E13.The.Black.Scorpion.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -119,8 +128,8 @@
   {
     "season": 2,
     "episode": 2,
-    "title": "TheSidehackers",
-    "file": "subtitles/S02E02.TheSidehackers.srt",
+    "title": "The Sidehackers",
+    "file": "subtitles/S02E02.The.Sidehackers.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -128,8 +137,8 @@
   {
     "season": 2,
     "episode": 3,
-    "title": "JungleGoddess",
-    "file": "subtitles/S02E03.JungleGoddess.srt",
+    "title": "Jungle Goddess",
+    "file": "subtitles/S02E03.Jungle.Goddess.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -137,8 +146,8 @@
   {
     "season": 2,
     "episode": 4,
-    "title": "CatalinaCaper",
-    "file": "subtitles/S02E04.CatalinaCaper.srt",
+    "title": "Catalina Caper",
+    "file": "subtitles/S02E04.Catalina.Caper.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -146,8 +155,8 @@
   {
     "season": 2,
     "episode": 5,
-    "title": "RocketAttackUSA",
-    "file": "subtitles/S02E05.RocketAttackUSA.srt",
+    "title": "Rocket Attack USA",
+    "file": "subtitles/S02E05.Rocket.Attack.USA.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -155,8 +164,8 @@
   {
     "season": 2,
     "episode": 6,
-    "title": "RingOfTerror",
-    "file": "subtitles/S02E06.RingOfTerror.srt",
+    "title": "Ring Of Terror",
+    "file": "subtitles/S02E06.Ring.Of.Terror.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -164,8 +173,8 @@
   {
     "season": 2,
     "episode": 7,
-    "title": "WildRebels",
-    "file": "subtitles/S02E07.WildRebels.srt",
+    "title": "Wild Rebels",
+    "file": "subtitles/S02E07.Wild.Rebels.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -173,8 +182,8 @@
   {
     "season": 2,
     "episode": 8,
-    "title": "LostContinent",
-    "file": "subtitles/S02E08.LostContinent.srt",
+    "title": "Lost Continent",
+    "file": "subtitles/S02E08.Lost.Continent.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -182,8 +191,8 @@
   {
     "season": 2,
     "episode": 9,
-    "title": "TheHellcats",
-    "file": "subtitles/S02E09.TheHellcats.srt",
+    "title": "The Hellcats",
+    "file": "subtitles/S02E09.The.Hellcats.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -191,8 +200,8 @@
   {
     "season": 2,
     "episode": 10,
-    "title": "KingDinosaur",
-    "file": "subtitles/S02E10.KingDinosaur.srt",
+    "title": "King Dinosaur",
+    "file": "subtitles/S02E10.King.Dinosaur.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -200,8 +209,8 @@
   {
     "season": 2,
     "episode": 11,
-    "title": "FirstSpaceshipOnVenus",
-    "file": "subtitles/S02E11.FirstSpaceshipOnVenus.srt",
+    "title": "First Spaceship On Venus",
+    "file": "subtitles/S02E11.First.Spaceship.On.Venus.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -209,17 +218,8 @@
   {
     "season": 2,
     "episode": 12,
-    "title": "GodzillaVsMegalon en",
-    "file": "subtitles/S02E12.GodzillaVsMegalon.en.srt",
-    "source": "",
-    "quality": "",
-    "notes": ""
-  },
-  {
-    "season": 2,
-    "episode": 12,
-    "title": "GodzillaVsMegalon",
-    "file": "subtitles/S02E12.GodzillaVsMegalon.srt",
+    "title": "Godzilla Vs Megalon",
+    "file": "subtitles/S02E12.Godzilla.Vs.Megalon.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -236,8 +236,8 @@
   {
     "season": 3,
     "episode": 1,
-    "title": "CaveDwellers",
-    "file": "subtitles/S03E01.CaveDwellers.srt",
+    "title": "Cave Dwellers",
+    "file": "subtitles/S03E01.Cave.Dwellers.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -254,8 +254,8 @@
   {
     "season": 3,
     "episode": 3,
-    "title": "PodPeople",
-    "file": "subtitles/S03E03.PodPeople.srt",
+    "title": "Pod People",
+    "file": "subtitles/S03E03.Pod.People.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -263,8 +263,8 @@
   {
     "season": 3,
     "episode": 4,
-    "title": "GameraVsBarugon",
-    "file": "subtitles/S03E04.GameraVsBarugon.srt",
+    "title": "Gamera Vs Barugon",
+    "file": "subtitles/S03E04.Gamera.Vs.Barugon.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -272,8 +272,8 @@
   {
     "season": 3,
     "episode": 5,
-    "title": "StrandedInSpace",
-    "file": "subtitles/S03E05.StrandedInSpace.srt",
+    "title": "Stranded In Space",
+    "file": "subtitles/S03E05.Stranded.In.Space.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -281,8 +281,8 @@
   {
     "season": 3,
     "episode": 6,
-    "title": "TimeOfTheApes",
-    "file": "subtitles/S03E06.TimeOfTheApes.srt",
+    "title": "Time Of The Apes",
+    "file": "subtitles/S03E06.Time.Of.The.Apes.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -299,8 +299,8 @@
   {
     "season": 3,
     "episode": 8,
-    "title": "GameraVsGaos",
-    "file": "subtitles/S03E08.GameraVsGaos.srt",
+    "title": "Gamera Vs Gaos",
+    "file": "subtitles/S03E08.Gamera.Vs.Gaos.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -317,8 +317,8 @@
   {
     "season": 3,
     "episode": 10,
-    "title": "FugitiveAlien",
-    "file": "subtitles/S03E10.FugitiveAlien.srt",
+    "title": "Fugitive Alien",
+    "file": "subtitles/S03E10.Fugitive.Alien.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -335,8 +335,8 @@
   {
     "season": 3,
     "episode": 12,
-    "title": "GameraVsGuiron",
-    "file": "subtitles/S03E12.GameraVsGuiron.srt",
+    "title": "Gamera Vs Guiron",
+    "file": "subtitles/S03E12.Gamera.Vs.Guiron.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -344,8 +344,8 @@
   {
     "season": 3,
     "episode": 13,
-    "title": "EarthVsTheSpider",
-    "file": "subtitles/S03E13.EarthVsTheSpider.srt",
+    "title": "Earth Vs The Spider",
+    "file": "subtitles/S03E13.Earth.Vs.The.Spider.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -353,8 +353,8 @@
   {
     "season": 3,
     "episode": 14,
-    "title": "MightyJack",
-    "file": "subtitles/S03E14.MightyJack.srt",
+    "title": "Mighty Jack",
+    "file": "subtitles/S03E14.Mighty.Jack.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -362,8 +362,8 @@
   {
     "season": 3,
     "episode": 15,
-    "title": "TeenageCaveman",
-    "file": "subtitles/S03E15.TeenageCaveman.srt",
+    "title": "Teenage Caveman",
+    "file": "subtitles/S03E15.Teenage.Caveman.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -371,8 +371,8 @@
   {
     "season": 3,
     "episode": 16,
-    "title": "GameraVsZigra",
-    "file": "subtitles/S03E16.GameraVsZigra.srt",
+    "title": "Gamera Vs Zigra",
+    "file": "subtitles/S03E16.Gamera.Vs.Zigra.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -380,8 +380,8 @@
   {
     "season": 3,
     "episode": 17,
-    "title": "TheSagaOfTheVikingWomen",
-    "file": "subtitles/S03E17.TheSagaOfTheVikingWomen.srt",
+    "title": "The Saga Of The Viking Women",
+    "file": "subtitles/S03E17.The.Saga.Of.The.Viking.Women.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -389,8 +389,8 @@
   {
     "season": 3,
     "episode": 18,
-    "title": "StarForceFugitiveAlienII",
-    "file": "subtitles/S03E18.StarForceFugitiveAlienII.srt",
+    "title": "Star Force Fugitive Alien II",
+    "file": "subtitles/S03E18.Star.Force.Fugitive.Alien.II.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -398,8 +398,17 @@
   {
     "season": 3,
     "episode": 19,
-    "title": "WarOfTheColossalBeast",
-    "file": "subtitles/S03E19.WarOfTheColossalBeast.srt",
+    "title": "War Of The Colossal Beast",
+    "file": "subtitles/S03E19.War.Of.The.Colossal.Beast.srt",
+    "source": "",
+    "quality": "",
+    "notes": ""
+  },
+  {
+    "season": 3,
+    "episode": 20,
+    "title": "The Unearthly",
+    "file": "subtitles/S03E20.The.Unearthly.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -407,8 +416,8 @@
   {
     "season": 3,
     "episode": 21,
-    "title": "SantaClausConquersTheMartians",
-    "file": "subtitles/S03E21.SantaClausConquersTheMartians.srt",
+    "title": "Santa Claus Conquers The Martians",
+    "file": "subtitles/S03E21.Santa.Claus.Conquers.The.Martians.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -416,8 +425,8 @@
   {
     "season": 3,
     "episode": 22,
-    "title": "MasterNinjaI",
-    "file": "subtitles/S03E22.MasterNinjaI.srt",
+    "title": "Master Ninja I",
+    "file": "subtitles/S03E22.Master.Ninja.I.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -425,8 +434,8 @@
   {
     "season": 3,
     "episode": 23,
-    "title": "TheCastleOfFuManchu",
-    "file": "subtitles/S03E23.TheCastleOfFuManchu.srt",
+    "title": "The Castle Of Fu Manchu",
+    "file": "subtitles/S03E23.The.Castle.Of.Fu.Manchu.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -434,8 +443,8 @@
   {
     "season": 3,
     "episode": 24,
-    "title": "MasterNinjaII",
-    "file": "subtitles/S03E24.MasterNinjaII.srt",
+    "title": "Master Ninja II",
+    "file": "subtitles/S03E24.Master.Ninja.II.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -443,8 +452,8 @@
   {
     "season": 4,
     "episode": 1,
-    "title": "SpaceTravelers",
-    "file": "subtitles/S04E01.SpaceTravelers.srt",
+    "title": "Space Travelers",
+    "file": "subtitles/S04E01.Space.Travelers.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -452,8 +461,17 @@
   {
     "season": 4,
     "episode": 2,
-    "title": "TheGiantGilaMonster",
-    "file": "subtitles/S04E02.TheGiantGilaMonster.srt",
+    "title": "The Giant Gila Monster",
+    "file": "subtitles/S04E02.The.Giant.Gila.Monster.srt",
+    "source": "",
+    "quality": "",
+    "notes": ""
+  },
+  {
+    "season": 4,
+    "episode": 3,
+    "title": "City Limits",
+    "file": "subtitles/S04E03.City.Limits.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -461,8 +479,8 @@
   {
     "season": 4,
     "episode": 4,
-    "title": "TeenagersFromOuterSpace",
-    "file": "subtitles/S04E04.TeenagersFromOuterSpace.srt",
+    "title": "Teenagers From Outer Space",
+    "file": "subtitles/S04E04.Teenagers.From.Outer.Space.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -470,8 +488,8 @@
   {
     "season": 4,
     "episode": 5,
-    "title": "BeingFromAnotherPlanet",
-    "file": "subtitles/S04E05.BeingFromAnotherPlanet.srt",
+    "title": "Being From Another Planet",
+    "file": "subtitles/S04E05.Being.From.Another.Planet.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -479,8 +497,8 @@
   {
     "season": 4,
     "episode": 6,
-    "title": "AttackOfTheGiantLeeches",
-    "file": "subtitles/S04E06.AttackOfTheGiantLeeches.srt",
+    "title": "Attack Of The Giant Leeches",
+    "file": "subtitles/S04E06.Attack.Of.The.Giant.Leeches.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -488,8 +506,8 @@
   {
     "season": 4,
     "episode": 7,
-    "title": "TheKillerShrews",
-    "file": "subtitles/S04E07.TheKillerShrews.srt",
+    "title": "The Killer Shrews",
+    "file": "subtitles/S04E07.The.Killer.Shrews.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -497,8 +515,8 @@
   {
     "season": 4,
     "episode": 8,
-    "title": "HerculesUnchained",
-    "file": "subtitles/S04E08.HerculesUnchained.srt",
+    "title": "Hercules Unchained",
+    "file": "subtitles/S04E08.Hercules.Unchained.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -506,8 +524,8 @@
   {
     "season": 4,
     "episode": 9,
-    "title": "TheIndestructibleMan",
-    "file": "subtitles/S04E09.TheIndestructibleMan.srt",
+    "title": "The Indestructible Man",
+    "file": "subtitles/S04E09.The.Indestructible.Man.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -515,8 +533,8 @@
   {
     "season": 4,
     "episode": 10,
-    "title": "HerculesAgainstTheMoonMen",
-    "file": "subtitles/S04E10.HerculesAgainstTheMoonMen.srt",
+    "title": "Hercules Against The Moon Men",
+    "file": "subtitles/S04E10.Hercules.Against.The.Moon.Men.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -524,8 +542,8 @@
   {
     "season": 4,
     "episode": 11,
-    "title": "TheMagicSword",
-    "file": "subtitles/S04E11.TheMagicSword.srt",
+    "title": "The Magic Sword",
+    "file": "subtitles/S04E11.The.Magic.Sword.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -533,8 +551,8 @@
   {
     "season": 4,
     "episode": 12,
-    "title": "HerculesAndTheCaptiveWomen",
-    "file": "subtitles/S04E12.HerculesAndTheCaptiveWomen.srt",
+    "title": "Hercules And The Captive Women",
+    "file": "subtitles/S04E12.Hercules.And.The.Captive.Women.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -560,8 +578,8 @@
   {
     "season": 4,
     "episode": 15,
-    "title": "TheBeatniks",
-    "file": "subtitles/S04E15.TheBeatniks.srt",
+    "title": "The Beatniks",
+    "file": "subtitles/S04E15.The.Beatniks.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -578,8 +596,8 @@
   {
     "season": 4,
     "episode": 17,
-    "title": "CrashOfMoons",
-    "file": "subtitles/S04E17.CrashOfMoons.srt",
+    "title": "Crash Of Moons",
+    "file": "subtitles/S04E17.Crash.Of.Moons.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -596,8 +614,8 @@
   {
     "season": 4,
     "episode": 19,
-    "title": "TheRebelSet",
-    "file": "subtitles/S04E19.TheRebelSet.srt",
+    "title": "The Rebel Set",
+    "file": "subtitles/S04E19.The.Rebel.Set.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -605,8 +623,8 @@
   {
     "season": 4,
     "episode": 20,
-    "title": "TheHumanDuplicators",
-    "file": "subtitles/S04E20.TheHumanDuplicators.srt",
+    "title": "The Human Duplicators",
+    "file": "subtitles/S04E20.The.Human.Duplicators.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -614,8 +632,8 @@
   {
     "season": 4,
     "episode": 21,
-    "title": "MonsterA-GoGo",
-    "file": "subtitles/S04E21.MonsterA-GoGo.srt",
+    "title": "Monster A-Go Go",
+    "file": "subtitles/S04E21.Monster.A-Go.Go.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -623,8 +641,8 @@
   {
     "season": 4,
     "episode": 22,
-    "title": "TheDayTheEarthFroze",
-    "file": "subtitles/S04E22.TheDayTheEarthFroze.srt",
+    "title": "The Day The Earth Froze",
+    "file": "subtitles/S04E22.The.Day.The.Earth.Froze.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -632,8 +650,8 @@
   {
     "season": 4,
     "episode": 23,
-    "title": "BrideOfTheMonster",
-    "file": "subtitles/S04E23.BrideOfTheMonster.srt",
+    "title": "Bride Of The Monster",
+    "file": "subtitles/S04E23.Bride.Of.The.Monster.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -641,8 +659,8 @@
   {
     "season": 4,
     "episode": 24,
-    "title": "ManosTheHandsOfFate",
-    "file": "subtitles/S04E24.ManosTheHandsOfFate.srt",
+    "title": "Manos The Hands Of Fate",
+    "file": "subtitles/S04E24.Manos.The.Hands.Of.Fate.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -650,8 +668,17 @@
   {
     "season": 5,
     "episode": 1,
-    "title": "WarriorOfTheLostWorld",
-    "file": "subtitles/S05E01.WarriorOfTheLostWorld.srt",
+    "title": "Warrior Of The Lost World",
+    "file": "subtitles/S05E01.Warrior.Of.The.Lost.World.srt",
+    "source": "",
+    "quality": "",
+    "notes": ""
+  },
+  {
+    "season": 5,
+    "episode": 2,
+    "title": "Hercules",
+    "file": "subtitles/S05E02.Hercules.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -659,8 +686,8 @@
   {
     "season": 5,
     "episode": 3,
-    "title": "SwampDiamonds",
-    "file": "subtitles/S05E03.SwampDiamonds.srt",
+    "title": "Swamp Diamonds",
+    "file": "subtitles/S05E03.Swamp.Diamonds.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -668,8 +695,8 @@
   {
     "season": 5,
     "episode": 4,
-    "title": "SecretAgentSuperDragon",
-    "file": "subtitles/S05E04.SecretAgentSuperDragon.srt",
+    "title": "Secret Agent Super Dragon",
+    "file": "subtitles/S05E04.Secret.Agent.Super.Dragon.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -677,8 +704,8 @@
   {
     "season": 5,
     "episode": 5,
-    "title": "TheMagicVoyageOfSinbad",
-    "file": "subtitles/S05E05.TheMagicVoyageOfSinbad.srt",
+    "title": "The Magic Voyage Of Sinbad",
+    "file": "subtitles/S05E05.The.Magic.Voyage.Of.Sinbad.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -695,8 +722,8 @@
   {
     "season": 5,
     "episode": 7,
-    "title": "IAccuseMyParents",
-    "file": "subtitles/S05E07.IAccuseMyParents.srt",
+    "title": "IAccuse My Parents",
+    "file": "subtitles/S05E07.IAccuse.My.Parents.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -704,8 +731,8 @@
   {
     "season": 5,
     "episode": 8,
-    "title": "OperationDouble007",
-    "file": "subtitles/S05E08.OperationDouble007.srt",
+    "title": "Operation Double007",
+    "file": "subtitles/S05E08.Operation.Double007.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -713,8 +740,17 @@
   {
     "season": 5,
     "episode": 9,
-    "title": "TheGirlInLoversLane",
-    "file": "subtitles/S05E09.TheGirlInLoversLane.srt",
+    "title": "The Girl In Lovers Lane",
+    "file": "subtitles/S05E09.The.Girl.In.Lovers.Lane.srt",
+    "source": "",
+    "quality": "",
+    "notes": ""
+  },
+  {
+    "season": 5,
+    "episode": 10,
+    "title": "The Painted Hills",
+    "file": "subtitles/S05E10.The.Painted.Hills.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -740,8 +776,8 @@
   {
     "season": 5,
     "episode": 13,
-    "title": "TheBrainThatWouldntDie",
-    "file": "subtitles/S05E13.TheBrainThatWouldntDie.srt",
+    "title": "The Brain That Wouldnt Die",
+    "file": "subtitles/S05E13.The.Brain.That.Wouldnt.Die.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -749,8 +785,8 @@
   {
     "season": 5,
     "episode": 14,
-    "title": "Teen-AgeStrangler",
-    "file": "subtitles/S05E14.Teen-AgeStrangler.srt",
+    "title": "Teen-Age Strangler",
+    "file": "subtitles/S05E14.Teen-Age.Strangler.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -758,8 +794,8 @@
   {
     "season": 5,
     "episode": 15,
-    "title": "TheWildWorldOfBatwoman",
-    "file": "subtitles/S05E15.TheWildWorldOfBatwoman.srt",
+    "title": "The Wild World Of Batwoman",
+    "file": "subtitles/S05E15.The.Wild.World.Of.Batwoman.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -767,8 +803,8 @@
   {
     "season": 5,
     "episode": 16,
-    "title": "AlienFromLA",
-    "file": "subtitles/S05E16.AlienFromLA.srt",
+    "title": "Alien From LA",
+    "file": "subtitles/S05E16.Alien.From.LA.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -776,8 +812,35 @@
   {
     "season": 5,
     "episode": 17,
-    "title": "BeginningOfTheEnd",
-    "file": "subtitles/S05E17.BeginningOfTheEnd.srt",
+    "title": "Beginning Of The End",
+    "file": "subtitles/S05E17.Beginning.Of.The.End.srt",
+    "source": "",
+    "quality": "",
+    "notes": ""
+  },
+  {
+    "season": 5,
+    "episode": 18,
+    "title": "The Atomic Brain",
+    "file": "subtitles/S05E18.The Atomic.Brain.srt",
+    "source": "",
+    "quality": "",
+    "notes": ""
+  },
+  {
+    "season": 5,
+    "episode": 19,
+    "title": "Outlaw",
+    "file": "subtitles/S05E19.Outlaw.srt",
+    "source": "",
+    "quality": "",
+    "notes": ""
+  },
+  {
+    "season": 5,
+    "episode": 20,
+    "title": "Radar Secret Service",
+    "file": "subtitles/S05E20.Radar.Secret.Service.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -785,8 +848,8 @@
   {
     "season": 5,
     "episode": 21,
-    "title": "SantaClaus",
-    "file": "subtitles/S05E21.SantaClaus.srt",
+    "title": "Santa Claus",
+    "file": "subtitles/S05E21.Santa.Claus.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -794,8 +857,8 @@
   {
     "season": 5,
     "episode": 22,
-    "title": "Teen-AgeCrimeWave",
-    "file": "subtitles/S05E22.Teen-AgeCrimeWave.srt",
+    "title": "Teen-Age Crime Wave",
+    "file": "subtitles/S05E22.Teen-Age.Crime.Wave.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -803,8 +866,17 @@
   {
     "season": 5,
     "episode": 23,
-    "title": "VillageOfTheGiants",
-    "file": "subtitles/S05E23.VillageOfTheGiants.srt",
+    "title": "Village Of The Giants",
+    "file": "subtitles/S05E23.Village.Of.The.Giants.srt",
+    "source": "",
+    "quality": "",
+    "notes": ""
+  },
+  {
+    "season": 6,
+    "episode": 2,
+    "title": "Invasion U S A",
+    "file": "subtitles/S06E02.Invasion.U.S.A.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -812,8 +884,8 @@
   {
     "season": 6,
     "episode": 3,
-    "title": "TheDeadTalkBack",
-    "file": "subtitles/S06E03.TheDeadTalkBack.srt",
+    "title": "The Dead Talk Back",
+    "file": "subtitles/S06E03.The.Dead.Talk.Back.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -821,8 +893,8 @@
   {
     "season": 6,
     "episode": 4,
-    "title": "ZombieNightmar",
-    "file": "subtitles/S06E04.ZombieNightmar.srt",
+    "title": "Zombie Nightmar",
+    "file": "subtitles/S06E04.Zombie.Nightmar.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -830,8 +902,8 @@
   {
     "season": 6,
     "episode": 6,
-    "title": "TheCreepingTerror",
-    "file": "subtitles/S06E06.TheCreepingTerror.srt",
+    "title": "The Creeping Terror",
+    "file": "subtitles/S06E06.The.Creeping.Terror.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -848,8 +920,8 @@
   {
     "season": 6,
     "episode": 8,
-    "title": "CodeNameDiamondHead",
-    "file": "subtitles/S06E08.CodeNameDiamondHead.srt",
+    "title": "Code Name Diamond Head",
+    "file": "subtitles/S06E08.Code.Name.Diamond.Head.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -857,8 +929,8 @@
   {
     "season": 6,
     "episode": 9,
-    "title": "TheSkydivers",
-    "file": "subtitles/S06E09.TheSkydivers.srt",
+    "title": "The Skydivers",
+    "file": "subtitles/S06E09.The.Skydivers.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -866,8 +938,8 @@
   {
     "season": 6,
     "episode": 10,
-    "title": "TheViolentYear",
-    "file": "subtitles/S06E10.TheViolentYear.srt",
+    "title": "The Violent Year",
+    "file": "subtitles/S06E10.The.Violent.Year.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -875,8 +947,8 @@
   {
     "season": 6,
     "episode": 11,
-    "title": "LastOfTheWildHorse",
-    "file": "subtitles/S06E11.LastOfTheWildHorse.srt",
+    "title": "Last Of The Wild Horses",
+    "file": "subtitles/S06E11.Last.Of.The.Wild.Horses.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -884,8 +956,8 @@
   {
     "season": 6,
     "episode": 12,
-    "title": "TheStarfighters",
-    "file": "subtitles/S06E12.TheStarfighters.srt",
+    "title": "The Starfighters",
+    "file": "subtitles/S06E12.The.Starfighters.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -893,8 +965,8 @@
   {
     "season": 6,
     "episode": 13,
-    "title": "TheSinisterUrge",
-    "file": "subtitles/S06E13.TheSinisterUrge.srt",
+    "title": "The Sinister Urge",
+    "file": "subtitles/S06E13.The.Sinister.Urge.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -902,8 +974,8 @@
   {
     "season": 6,
     "episode": 15,
-    "title": "KittenWithAWhip",
-    "file": "subtitles/S06E15.KittenWithAWhip.srt",
+    "title": "Kitten With AWhip",
+    "file": "subtitles/S06E15.Kitten.With.AWhip.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -911,8 +983,8 @@
   {
     "season": 6,
     "episode": 16,
-    "title": "RacketGirl",
-    "file": "subtitles/S06E16.RacketGirl.srt",
+    "title": "Racket Girl",
+    "file": "subtitles/S06E16.Racket.Girl.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -920,8 +992,17 @@
   {
     "season": 6,
     "episode": 17,
-    "title": "TheSwordAndTheDragon",
-    "file": "subtitles/S06E17.TheSwordAndTheDragon.srt",
+    "title": "The Sword And The Dragon",
+    "file": "subtitles/S06E17.The.Sword.And.The.Dragon.srt",
+    "source": "",
+    "quality": "",
+    "notes": ""
+  },
+  {
+    "season": 6,
+    "episode": 18,
+    "title": "High School Big Shot",
+    "file": "subtitles/S06E18.High.School.Big.Shot.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -929,8 +1010,8 @@
   {
     "season": 6,
     "episode": 19,
-    "title": "RedZoneCuba",
-    "file": "subtitles/S06E19.RedZoneCuba.srt",
+    "title": "Red Zone Cuba",
+    "file": "subtitles/S06E19.Red.Zone.Cuba.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -938,8 +1019,8 @@
   {
     "season": 6,
     "episode": 20,
-    "title": "Danger!!DeathRay",
-    "file": "subtitles/S06E20.Danger!!DeathRay.srt",
+    "title": "Danger!!Death Ray",
+    "file": "subtitles/S06E20.Danger!!Death.Ray.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -947,8 +1028,26 @@
   {
     "season": 6,
     "episode": 21,
-    "title": "TheBeastOfYuccaFlats",
-    "file": "subtitles/S06E21.TheBeastOfYuccaFlats.srt",
+    "title": "The Beast Of Yucca Flats",
+    "file": "subtitles/S06E21.The.Beast.Of.Yucca.Flats.srt",
+    "source": "",
+    "quality": "",
+    "notes": ""
+  },
+  {
+    "season": 6,
+    "episode": 22,
+    "title": "Angels Revenge",
+    "file": "subtitles/S06E22.Angels.Revenge.srt",
+    "source": "",
+    "quality": "",
+    "notes": ""
+  },
+  {
+    "season": 6,
+    "episode": 23,
+    "title": "The Amazing Transparent Man",
+    "file": "subtitles/S06E23.The.Amazing.Transparent.Man.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -956,8 +1055,8 @@
   {
     "season": 6,
     "episode": 24,
-    "title": "SamsonVsTheVampireWomen",
-    "file": "subtitles/S06E24.SamsonVsTheVampireWomen.srt",
+    "title": "Samson Vs The Vampire Women",
+    "file": "subtitles/S06E24.Samson.Vs.The.Vampire.Women.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -965,8 +1064,8 @@
   {
     "season": 7,
     "episode": 1,
-    "title": "NightOfTheBloodBeast",
-    "file": "subtitles/S07E01.NightOfTheBloodBeast.srt",
+    "title": "Night Of The Blood Beast",
+    "file": "subtitles/S07E01.Night.Of.The.Blood.Beast.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -974,8 +1073,35 @@
   {
     "season": 7,
     "episode": 2,
-    "title": "TheBruteMan",
-    "file": "subtitles/S07E02.TheBruteMan.srt",
+    "title": "The Brute Man",
+    "file": "subtitles/S07E02.The.Brute.Man.srt",
+    "source": "",
+    "quality": "",
+    "notes": ""
+  },
+  {
+    "season": 7,
+    "episode": 3,
+    "title": "Deathstalker And The Warriors From Hell",
+    "file": "subtitles/S07E03.Deathstalker.And.The.Warriors.From.Hell.srt",
+    "source": "",
+    "quality": "",
+    "notes": ""
+  },
+  {
+    "season": 7,
+    "episode": 4,
+    "title": "The Incredible Melting Man",
+    "file": "subtitles/S07E04.The.Incredible.Melting.Man.srt",
+    "source": "",
+    "quality": "",
+    "notes": ""
+  },
+  {
+    "season": 7,
+    "episode": 5,
+    "title": "Escape 2000",
+    "file": "subtitles/S07E05.Escape.2000.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -992,8 +1118,8 @@
   {
     "season": 8,
     "episode": 1,
-    "title": "RevengeOfTheCreature",
-    "file": "subtitles/S08E01.RevengeOfTheCreature.srt",
+    "title": "Revenge Of The Creature",
+    "file": "subtitles/S08E01.Revenge.Of.The.Creature.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -1001,8 +1127,8 @@
   {
     "season": 8,
     "episode": 2,
-    "title": "TheLeechWoman",
-    "file": "subtitles/S08E02.TheLeechWoman.srt",
+    "title": "The Leech Woman",
+    "file": "subtitles/S08E02.The.Leech.Woman.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -1010,8 +1136,8 @@
   {
     "season": 8,
     "episode": 3,
-    "title": "TheMolePeople",
-    "file": "subtitles/S08E03.TheMolePeople.srt",
+    "title": "The Mole People",
+    "file": "subtitles/S08E03.The.Mole.People.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -1019,8 +1145,8 @@
   {
     "season": 8,
     "episode": 4,
-    "title": "TheDeadlyMantis",
-    "file": "subtitles/S08E04.TheDeadlyMantis.srt",
+    "title": "The Deadly Mantis",
+    "file": "subtitles/S08E04.The.Deadly.Mantis.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -1028,8 +1154,8 @@
   {
     "season": 8,
     "episode": 5,
-    "title": "TheThingThatCouldntDie",
-    "file": "subtitles/S08E05.TheThingThatCouldntDie.srt",
+    "title": "The Thing That Couldnt Die",
+    "file": "subtitles/S08E05.The.Thing.That.Couldnt.Die.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -1037,8 +1163,8 @@
   {
     "season": 8,
     "episode": 6,
-    "title": "TheUndead",
-    "file": "subtitles/S08E06.TheUndead.srt",
+    "title": "The Undead",
+    "file": "subtitles/S08E06.The.Undead.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -1055,8 +1181,8 @@
   {
     "season": 8,
     "episode": 8,
-    "title": "TheSheCreature",
-    "file": "subtitles/S08E08.TheSheCreature.srt",
+    "title": "The She Creature",
+    "file": "subtitles/S08E08.The.She.Creature.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -1073,8 +1199,8 @@
   {
     "season": 8,
     "episode": 10,
-    "title": "TheGiantSpiderInvasion",
-    "file": "subtitles/S08E10.TheGiantSpiderInvasion.srt",
+    "title": "The Giant Spider Invasion",
+    "file": "subtitles/S08E10.The.Giant.Spider.Invasion.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -1082,8 +1208,8 @@
   {
     "season": 8,
     "episode": 11,
-    "title": "PartsTheClonusHorror",
-    "file": "subtitles/S08E11.PartsTheClonusHorror.srt",
+    "title": "Parts The Clonus Horror",
+    "file": "subtitles/S08E11.Parts.The.Clonus.Horror.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -1091,8 +1217,8 @@
   {
     "season": 8,
     "episode": 12,
-    "title": "TheIncrediblyStrangeCreatures",
-    "file": "subtitles/S08E12.TheIncrediblyStrangeCreatures.srt",
+    "title": "The Incredibly Strange Creatures",
+    "file": "subtitles/S08E12.The.Incredibly.Strange.Creatures.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -1100,8 +1226,8 @@
   {
     "season": 8,
     "episode": 13,
-    "title": "JackFrost",
-    "file": "subtitles/S08E13.JackFrost.srt",
+    "title": "Jack Frost",
+    "file": "subtitles/S08E13.Jack.Frost.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -1109,8 +1235,17 @@
   {
     "season": 8,
     "episode": 16,
-    "title": "PrinceOfSpace",
-    "file": "subtitles/S08E16.PrinceOfSpace.srt",
+    "title": "Prince Of Space",
+    "file": "subtitles/S08E16.Prince.Of.Space.srt",
+    "source": "",
+    "quality": "",
+    "notes": ""
+  },
+  {
+    "season": 8,
+    "episode": 17,
+    "title": "The Horror Of Party Beach",
+    "file": "subtitles/S08E17.The.Horror.Of.Party.Beach.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -1118,8 +1253,17 @@
   {
     "season": 8,
     "episode": 18,
-    "title": "DevilDoll",
-    "file": "subtitles/S08E18.DevilDoll.srt",
+    "title": "Devil Doll",
+    "file": "subtitles/S08E18.Devil.Doll.srt",
+    "source": "",
+    "quality": "",
+    "notes": ""
+  },
+  {
+    "season": 8,
+    "episode": 19,
+    "title": "Invasion Of The Neptune Men",
+    "file": "subtitles/S08E19.Invasion.Of.The.Neptune.Men.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -1127,8 +1271,8 @@
   {
     "season": 8,
     "episode": 20,
-    "title": "SpaceMutiny",
-    "file": "subtitles/S08E20.SpaceMutiny.srt",
+    "title": "Space Mutiny",
+    "file": "subtitles/S08E20.Space.Mutiny.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -1136,8 +1280,8 @@
   {
     "season": 8,
     "episode": 21,
-    "title": "TimeChasers",
-    "file": "subtitles/S08E21.TimeChasers.srt",
+    "title": "Time Chasers",
+    "file": "subtitles/S08E21.Time.Chasers.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -1145,8 +1289,17 @@
   {
     "season": 8,
     "episode": 22,
-    "title": "OverdrawnAtTheMemoryBank",
-    "file": "subtitles/S08E22.OverdrawnAtTheMemoryBank.srt",
+    "title": "Overdrawn At The Memory Bank",
+    "file": "subtitles/S08E22.Overdrawn.At.The.Memory.Bank.srt",
+    "source": "",
+    "quality": "",
+    "notes": ""
+  },
+  {
+    "season": 9,
+    "episode": 1,
+    "title": "The Projected Man",
+    "file": "subtitles/S09E01.The.Projected.Man.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -1154,8 +1307,8 @@
   {
     "season": 9,
     "episode": 2,
-    "title": "ThePhantomPlanet",
-    "file": "subtitles/S09E02.ThePhantomPlanet.srt",
+    "title": "The Phantom Planet",
+    "file": "subtitles/S09E02.The.Phantom.Planet.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -1163,8 +1316,8 @@
   {
     "season": 9,
     "episode": 3,
-    "title": "ThePumaman",
-    "file": "subtitles/S09E03.ThePumaman.srt",
+    "title": "The Pumaman",
+    "file": "subtitles/S09E03.The.Pumaman.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -1199,15 +1352,6 @@
   {
     "season": 9,
     "episode": 7,
-    "title": "Hobgoblins (2)",
-    "file": "subtitles/S09E07.Hobgoblins.(2).srt",
-    "source": "",
-    "quality": "",
-    "notes": ""
-  },
-  {
-    "season": 9,
-    "episode": 7,
     "title": "Hobgoblins",
     "file": "subtitles/S09E07.Hobgoblins.srt",
     "source": "",
@@ -1217,8 +1361,8 @@
   {
     "season": 9,
     "episode": 8,
-    "title": "TheTouchOfSatan",
-    "file": "subtitles/S09E08.TheTouchOfSatan.srt",
+    "title": "The Touch Of Satan",
+    "file": "subtitles/S09E08.The.Touch.Of.Satan.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -1235,8 +1379,8 @@
   {
     "season": 9,
     "episode": 10,
-    "title": "TheFinalSacrifice",
-    "file": "subtitles/S09E10.TheFinalSacrifice.srt",
+    "title": "The Final Sacrifice",
+    "file": "subtitles/S09E10.The.Final.Sacrifice.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -1244,8 +1388,17 @@
   {
     "season": 9,
     "episode": 11,
-    "title": "DevilFish",
-    "file": "subtitles/S09E11.DevilFish.srt",
+    "title": "Devil Fish",
+    "file": "subtitles/S09E11.Devil.Fish.srt",
+    "source": "",
+    "quality": "",
+    "notes": ""
+  },
+  {
+    "season": 9,
+    "episode": 12,
+    "title": "The Screaming Skull",
+    "file": "subtitles/S09E12.The.Screaming.Skull.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -1271,8 +1424,8 @@
   {
     "season": 10,
     "episode": 2,
-    "title": "GirlInGoldBoots",
-    "file": "subtitles/S10E02.GirlInGoldBoots.srt",
+    "title": "Girl In Gold Boots",
+    "file": "subtitles/S10E02.Girl.In.Gold.Boots.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -1280,8 +1433,8 @@
   {
     "season": 10,
     "episode": 3,
-    "title": "MerlinsShopOfMysticalWonder",
-    "file": "subtitles/S10E03.MerlinsShopOfMysticalWonder.srt",
+    "title": "Merlins Shop Of Mystical Wonder",
+    "file": "subtitles/S10E03.Merlins.Shop.Of.Mystical.Wonder.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -1289,8 +1442,8 @@
   {
     "season": 10,
     "episode": 4,
-    "title": "FutureWar",
-    "file": "subtitles/S10E04.FutureWar.srt",
+    "title": "Future War",
+    "file": "subtitles/S10E04.Future.War.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -1298,8 +1451,8 @@
   {
     "season": 10,
     "episode": 5,
-    "title": "BloodWatersOfDrZ",
-    "file": "subtitles/S10E05.BloodWatersOfDrZ.srt",
+    "title": "Blood Waters Of Dr Z",
+    "file": "subtitles/S10E05.Blood.Waters.Of.Dr.Z.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -1307,8 +1460,17 @@
   {
     "season": 10,
     "episode": 6,
-    "title": "BoggyCreekIIAndTheLegendContinues",
-    "file": "subtitles/S10E06.BoggyCreekIIAndTheLegendContinues.srt",
+    "title": "Boggy Creek IIAnd The Legend Continues",
+    "file": "subtitles/S10E06.Boggy.Creek.IIAnd.The.Legend.Continues.srt",
+    "source": "",
+    "quality": "",
+    "notes": ""
+  },
+  {
+    "season": 10,
+    "episode": 7,
+    "title": "Track Of The Moon Beast",
+    "file": "subtitles/S10E07.Track.Of.The.Moon.Beast.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -1316,8 +1478,8 @@
   {
     "season": 10,
     "episode": 8,
-    "title": "FinalJustice",
-    "file": "subtitles/S10E08.FinalJustice.srt",
+    "title": "Final Justice",
+    "file": "subtitles/S10E08.Final.Justice.srt",
     "source": "",
     "quality": "",
     "notes": ""
@@ -1333,9 +1495,36 @@
   },
   {
     "season": 10,
+    "episode": 10,
+    "title": "It Lives By Night",
+    "file": "subtitles/S10E10.It.Lives.By.Night.srt",
+    "source": "",
+    "quality": "",
+    "notes": ""
+  },
+  {
+    "season": 10,
     "episode": 11,
-    "title": "HorrorsOfSpiderIsland",
-    "file": "subtitles/S10E11.HorrorsOfSpiderIsland.srt",
+    "title": "Horrors Of Spider Island",
+    "file": "subtitles/S10E11.Horrors.Of.Spider.Island.srt",
+    "source": "",
+    "quality": "",
+    "notes": ""
+  },
+  {
+    "season": 10,
+    "episode": 12,
+    "title": "Squirm",
+    "file": "subtitles/S10E12.Squirm.srt",
+    "source": "",
+    "quality": "",
+    "notes": ""
+  },
+  {
+    "season": 10,
+    "episode": 13,
+    "title": "Diabolik",
+    "file": "subtitles/S10E13.Diabolik.srt",
     "source": "",
     "quality": "",
     "notes": ""
