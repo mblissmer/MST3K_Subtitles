@@ -40,46 +40,30 @@ def parse_srt(path):
     i = 0
 
     while i < len(lines):
-
         line = lines[i].strip()
-
         # Subtitle number
         if line.isdigit():
             i += 1
             continue
-
         m = timestamp_re.match(line)
-
         if not m:
             i += 1
             continue
-
         start_time = m.group(1)
-
         i += 1
-
         dialogue = []
-
         while i < len(lines):
-
             line = lines[i].strip()
-
             if line == "":
                 break
-
             dialogue.append(line)
-
             i += 1
-
         text = " ".join(dialogue).strip()
-
         if text:
-
             entries.append({
                 "time": start_time,
                 "text": text
             })
-
         i += 1
 
     return entries
@@ -91,33 +75,22 @@ search_index = []
 print("Scanning subtitles...\n")
 
 subtitle_files = sorted(SUBTITLE_DIR.glob("*.srt"))
-
 for path in subtitle_files:
-
     m = filename_re.match(path.name)
-
     if not m:
         print(f"Skipping {path.name}")
         continue
-
     season = int(m["season"])
     episode = int(m["episode"])
     title = m["title"].replace(".", " ")
-
     rel = str(path.relative_to(ROOT)).replace("\\", "/")
-
     print(f"S{season:02}E{episode:02}  {title}")
-
     metadata.append({
         "season": season,
         "episode": episode,
         "title": title,
-        "file": rel,
-        "source": "",
-        "quality": "",
-        "notes": ""
+        "file": rel
     })
-
     for entry in parse_srt(path):
 
         search_index.append({
@@ -128,23 +101,18 @@ for path in subtitle_files:
             "time": entry["time"],
             "text": entry["text"]
         })
-
 print()
 
 print("Writing metadata.json...")
-
 with open(METADATA_FILE, "w", encoding="utf-8") as f:
     json.dump(metadata, f, indent=2, ensure_ascii=False)
 
 print("Writing search-index.json...")
-
 with open(SEARCH_FILE, "w", encoding="utf-8") as f:
     json.dump(search_index, f, indent=2, ensure_ascii=False)
 
 print("Creating subtitles.zip...")
-
 with zipfile.ZipFile(ZIP_FILE, "w", zipfile.ZIP_DEFLATED) as z:
-
     for path in subtitle_files:
         z.write(path, arcname=path.name)
 
