@@ -1,5 +1,5 @@
-# The Unofficial MST3K "Good Enough Subtitles" Project
+# The Unofficial MST3K "Good Enough" Subtitles Project
 
-This is a repository for subtitle files for all "classic" Mystery Science Theater 3000 episodes (Seasons 1-10) in SRT format.
+This is a repository for subtitle files for all classic Mystery Science Theater 3000 episodes (Seasons 1-10) in SRT format.
 
 Website link should be to the right -->
