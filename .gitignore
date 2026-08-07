@@ -1,5 +1,7 @@
 subtitles/
-metadata.json
-search-index.json
-subtitles.zip
 media/
+_subtitle_sources/
+subtitles.zip
+# json search files
+# metadata.json
+# search-index.json
