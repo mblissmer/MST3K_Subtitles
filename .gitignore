@@ -1,7 +1,8 @@
-subtitles/
-media/
 _subtitle_sources/
-subtitles.zip
-# json search files
-# metadata.json
-# search-index.json
+website/media/
+website/subtitles/
+website/metadata.json
+website/search-index.json
+website/subtitles.zip
+config.txt
+

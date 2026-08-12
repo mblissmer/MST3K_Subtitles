@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head><script src="/.nekoweb-api/static/site.js" defer></script>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>MST3K Subtitle Archive</title>
+		<!-- <link rel="stylesheet" href="style.css"> -->
+	</head>
+	<style>
+		body {
+		background-image: url('media/background3.jpg');
+		}
+
+		table, th, td {
+		border: 1px solid black;
+		border-collapse: collapse;
+		background-color: white;
+		}
+
+		.bg {
+		background-color: black;
+		color: white;
+		}
+
+		details {
+		border-radius: 4px;
+		padding: 0.5em 0.5em 0;
+		}
+
+		summary {
+		font-weight: bold;
+		margin: -0.5em -0.5em 0;
+		padding: 0.5em;
+		}
+
+		details[open] {
+		padding: 0.5em;
+		}
+
+		details[open] summary {
+		margin-bottom: 0.5em;
+		}
+	</style>
+	<body>
+		<center>
+			<table width="800" cellpadding="10" cellspacing="0" border="0">
+				<tr>
+					<td>
+						<table align="center" width="800" cellspacing="0" border="0">
+							<tr>
+								<td class="bg">
+									<img src="media/3servo.jpg">
+								</td>
+								<td class="bg">
+									<h1 align="center">
+										The Unofficial MST3K 
+										<br>&quot;Good Enough&quot; 
+										<br>Subtitles Project
+									</h1>
+								</td>
+								<td class="bg">
+									<img src="media/3crow.jpg">
+								</td>
+							</tr>
+						</table>
+
+						<p align="center">
+							This is a repository for subtitle files for all &quot;classic&quot; Mystery Science Theater 3000 episodes (Seasons 1-10) in SRT format.
+						</p>
+
+						<hr>
+
+						<h2>
+							<a href="subtitles.zip"> Download Complete Classic MST3K Subtitle Archive (ZIP) </a>
+						</h2>
+						
+						<details>
+							<summary>"How do I use these files?"</summary>
+							<p>
+								Download the zip file, unzip it, and place the subtitle files in the same folder as your video files.
+							</p>
+							<p>
+								They must have exactly the same filename as your video file (except for the file extensions of course). If your episode is named &quot;S01E01-TheCrawlingEye-LOL.mp4&quot; then the subtitle file must be named &quot;S01E01-TheCrawlingEye-LOL.srt&quot;
+							</p>
+							<p>
+								Also we are not responsible if your weird cut of the episode has commercials in it (that&#39;s neat, save that!) or other unexpected playback gaps.
+							</p>
+							<p>
+								Also also, there may be timing issues, where your version might be off from the subtitles by a couple seconds. That&#39;s up to you to figure out how to offset the timing for the subtitle. As long as it&#39;s consistently x seconds off, and isn&#39;t drifting futher and futher off as the episode goes on, that&#39;s outside the scope of this project.
+							</p>
+						  </details>
+
+						<hr>
+
+						<p>
+							Finding this useful? 
+							<b>
+								<a href="https://ko-fi.com/mattb0461">
+									Buy me a coffee!
+								</a>
+							</b>
+						</p>
+
+						<hr>
+
+						<h2>Search</h2>
+
+						<p>Use the search box below to find words or phrases within the MST3K subtitle files.</p>
+
+						<form>
+							<input type="text" id="searchBox" size="50" placeholder="Search subtitles..."> <input type="button" id="searchBtn" value="Search" onclick="searchSubtitles()">
+						</form>
+
+						<script>
+							var input = document.getElementById("searchBox");
+							input.addEventListener("keypress", function(event) {
+	  							if (event.key === "Enter") {
+	    							event.preventDefault();
+	    							document.getElementById("searchBtn").click();
+	  							}
+							});
+						</script>
+
+						<div id="results"></div>
+
+						<hr>
+					
+						<h2 id="subtitle-status">The Subtitles and Their Statuseseses</h1>
+						<h3 id="legend">Legend</h2>
+						<iframe 
+							width=250 
+							height=120
+							frameborder=0 
+							src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR-X3yAGIwkRUaNQO4pSX7lRwhKquTtpXwFPgsReNIaxhhrdHNr208Ep6UHwMne9Go309CCPrj1SbN5/pubhtml?
+								gid=409486750&amp;
+								single=true&amp;
+								widget=false&amp;
+								chrome=false&amp;
+								range=A1:B5&amp;
+								headers=false">
+						</iframe>
+						<iframe 
+							width=250 
+							height=120 
+							frameborder=0 
+							src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR-X3yAGIwkRUaNQO4pSX7lRwhKquTtpXwFPgsReNIaxhhrdHNr208Ep6UHwMne9Go309CCPrj1SbN5/pubhtml?
+								gid=409486750&amp;
+								single=true&amp;
+								widget=false&amp;
+								chrome=false&amp;
+								range=A7:B11&amp;
+								headers=false">
+						</iframe>
+
+						<h3 id="episodes">Episodes</h2>
+						<iframe 
+							width=700 
+							height=4200 
+							frameborder=0 
+							src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR-X3yAGIwkRUaNQO4pSX7lRwhKquTtpXwFPgsReNIaxhhrdHNr208Ep6UHwMne9Go309CCPrj1SbN5/pubhtml?
+								gid=0&amp;
+								single=true&amp;
+								widget=false&amp;
+								chrome=false&amp;
+								range=A1:F187&amp;
+								headers=false">
+						</iframe>
+						<hr>
+						<h2>FAQ</h2>
+						<h3 id="why-do-this-">Why do this?</h3>
+						<p>
+							Sometimes it&#39;s hard to tell what people are saying. Look, us MSTIEs aren&#39;t getting any younger, okay?!
+						</p>
+						<p>Also, subtitles for this show in particular are in a pretty rough shape.</p>
+						<ul>
+							<li>
+								Most have decent subtitles downloadable from the Gizmoplex (RIP).
+							</li>
+							<li>
+								Some episodes have solid subtitles on their DVD release.
+							</li>
+							<li>
+								A few stragglers have subtitles of nebulous origin from <i>(scary voice)</i> the internet.
+							</li>
+							<li>
+								Some of those internet downloads are made from some bad ripped-from-tv verison of the episode that includes a commercial for a thorough but gentle laxative.
+							</li>
+							<li>
+								Some don&#39;t have any at all, in any location, anywhere on the internet (that we could find).
+							</li>
+							
+						</ul>
+						<h3 id="why-good-enough-tm-instead-of-absolutely-perfect-isn-t-our-favorite-tv-show-worth-perfection-">
+							Why &quot;Good Enough (tm)&quot; instead of &quot;Absolutely Perfect?&quot; Isn&#39;t our favorite TV show worth PERFECTION??
+						</h3>
+						<p>Subtitling MST3K episodes offers a pretty unique challenge:</p>
+						<ul>
+							<li>Riffers frequently talk over movie dialog</li>
+							<li>Sometimes it&#39;s not clear who said what</li>
+							<li>Movies with bad audio tracks can have completely unintelligible lines</li>
+							<li>
+								Episodes are 90 minutes long. With 197 episodes, that&#39;s nearly 300 hours of dialog to get down.
+							</li>
+							<li>This is being done in our free time for no money and we&#39;re old and have kids.</li>
+						</ul>
+						<h3 id="isn-t-there-another-captions-project-already-">
+							Isn&#39;t there another captions project already?
+						</h3>
+						<p>
+							There is another effort to &quot;burn-in&quot; subtitles (captions), <a href="https://www.youtube.com/@MST3kCaptions/videos">located here.</a>
+						</p>
+						<p>
+							This is a really great project with really high ambitions: They have color-coded subtitles, coordinated with who is speaking, as well as animated subs during the host segment transitions. The captions are also &quot;burned in&quot; to each episode, meaning they&#39;re part of the video and always on screen. This requires uploading a full episode onto YouTube or another platform. Their target is 100% accuracy. It&#39;s <em>really</em> <strong>extremely</strong> impressive.
+						</p>
+						<p>
+							The downside that flows naturally from this level of ambition is that it&#39;s very labor-intensive and therefore a slow, painstaking process to finish each episode.
+						</p>
+						<h3 id="how-is-this-project-different-">How is this project different?</h3>
+						<p>
+							Here, we&#39;re going for a lower-effort, maximum-effect angle. We&#39;re not aiming for 100% accuracy, hence the title of the project.
+						</p>
+						<p>
+							If we can get all 197 classic episodes here and accurate to like 70%, that would be <strong>HUGE</strong>, and also... importantly... Good Enough (tm). After that, if we&#39;re so inclined, we can go back and make improvements!
+						</p>
+						<h3 id="why-srt-files-instead-of-a-format-with-more-features-">
+							Why SRT files instead of a format with more features?
+						</h3>
+						<p>
+							The downside of SRT subtitle files is that they have basically zero features. No colored text, no alternate fonts, no screen positioning, no animation... it&#39;s basically just a text file with a bunch of timestamps in it.
+						</p>
+						<p>
+							The upside, however, is near-universal compatibility with all video playback programs/apps. If it supports subtitles at all, it supports SRT. Which sounds.... Good Enough (tm)
+						</p>
+					</td>
+				</tr>
+			</table>
+		</center>
+
+		
+		<script src="https://cdn.jsdelivr.net/npm/fuse.js@7/dist/fuse.min.js">
+		</script>
+		<script src="app.js">
+		</script>
+	</body>
+</html>
