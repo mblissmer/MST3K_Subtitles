@@ -2,4 +2,4 @@
 
 This is a repository for subtitle files for all classic Mystery Science Theater 3000 episodes (Seasons 1-10) in SRT format.
 
-Website link should be to the right -->
+Website link: https://mst3ksubtitles.nekoweb.org/
